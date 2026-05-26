@@ -1,0 +1,758 @@
+# sent_id = 13_Rikicin_tekun_Pasha_1
+# text_en = Demonstrations took place in the north of Nigeria concerning the Gulf War
+# text_ortho = An yi zàngà-zangà à areːwacin Nàːjeːr̃iyàː gàme dà rìkicin Tèːkun Paːshà
+# text = an yi zàngà-zangà à areːwacin Nàːjeːr̃iyàː gàme dà rìkicin Tèːkun Paːshà
+1	a-	a	PRON	_	Person=4|PronType=PrsSubj	3	subj/m	_	Gloss=4|SpaceAfter=No|wordform=an
+2	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	3	mod/m	_	Gloss=Perf.Plur=|wordform=n
+3	yi	yi	VERB	_	_	0	root	_	Gloss=do
+4	zàngà-zangà	zàngà-zangà	NOUN	_	Gender=Fem	3	comp:pred	_	Gloss=demonstration.Fem
+5	à	à	ADP	_	_	3	mod	_	Gloss=at
+6	areːwacin	areːwacin	ADP	_	_	5	comp:obj	_	Gloss=north_of
+7	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	Number=Plur	6	comp:obj	_	Gloss=Nigeria
+8	gàme	gam-	VERB	_	ExtPos=ADV|VerbForm=Part	3	comp:obl	_	Gloss=gather.Part|Idiom=Yes
+9	dà	dà	ADP	_	_	8	comp:obl	_	Gloss=with|InIdiom=Yes
+10	rìkici	rìkiciː	NOUN	_	Gender=Masc	8	comp:obj	_	Gloss=crisis.Masc|SpaceAfter=No|wordform=rìkicin
+11	-n	na	PART	_	Case=Gen|PartType=Case	10	udep/m	_	Gloss=Gen.Masc/Plur
+12	Tèːk	tèːku	NOUN	_	Gender=Fem	11	comp:obj	_	Gloss=sea.Fem|SpaceAfter=No|wordform=Tèːkun
+13	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	12	mod/m	_	Gloss=Gen.Fem
+14	Paːshà	Paːshà	PROPN	_	_	13	comp:obj	_	Gloss=Paːshà
+
+# sent_id = 13_Rikicin_tekun_Pasha_2
+# text_en = In Nigeria, the Sultan of Sokoto, Alhaji Ibrahim Dasuki, appealed to his people to ignore some newspapers that are distributed in the country in order to incite the Muslim community to take some steps concerning the Gulf War.
+# text_ortho = À Nàːjeːr̃iyàː Sarkin Mùsùlmiː, Àlhajì Ìbraːhìm Dàsuːƙi, yaː yi kiràː gà jàma'àr̃sà dà sù yi bìr̃is dà wasu tàkàr̃duː dà yànzu akèː rarràbâːwaː à ƙasâr̃ dà nufìn zugà àl'ummàr̃ Mùsùlmiː sù ɗàuki wasu màtàːkai gàme dà rìkicîn nan na Tèːkun Paːshà.
+# text = à Nàːjeːr̃iyàː Sarki-n Mùsùlmiː, Àlhajì Ìbraːhìm Dàsuːƙi, yaː= yi kiràː gà jàma'à-r̃-sà dà sù= yi bìr̃is dà wasu tàkàr̃duː dà yànzu akèː= rarràbâːwaː à ƙasâr̃ dà nufì-n zugà àl'ummà-r̃ Mùsùlmiː sù= ɗàuki wasu màtàːkai gàme dà rìkicîn nan na Tèːku-n Paːshà.
+1	à	à	ADP	_	_	13	mod	_	Gloss=at|wordform=A
+2	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	1	comp:obj	_	Gloss=Nigeria
+3	Sarki	sarkiː	NOUN	_	Gender=Masc	13	subj	_	Gloss=leader.Masc|SpaceAfter=No|wordform=Sarkin
+4	-n	na	PART	_	Case=Gen|PartType=Case	3	mod/m	_	Gloss=Gen.Masc/Plur
+5	Mùsùlmiː	Mùsùlmiː	NOUN	_	Number=Plur	4	comp:obj	_	Gloss=Muslim.Plur|SpaceAfter=No
+6	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
+7	Àlhajì	Àlhajì	PROPN	_	_	3	conj:appos	_	Gloss=Àlhajì
+8	Ìbraːhìm	Ìbraːhìm	PROPN	_	_	7	flat@name	_	Gloss=Ìbraːhìm
+9	Dàsuːƙi	Dàsuːƙi	PROPN	_	_	8	flat@name	_	Gloss=Dàsuːƙi|SpaceAfter=No
+10	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
+11	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	13	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
+12	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	13	mod/m	_	Gloss=Perf.Sing=|wordform=aː
+13	yi	yi	VERB	_	_	0	root	_	Gloss=do
+14	kiràː	kiraː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	13	comp:pred	_	Gloss=call.Vnoun.Masc
+15	gà	gà	ADP	_	_	14	comp:obl	_	Gloss=to
+16	jàma'à	jàma'àː	NOUN	_	Gender=Fem	15	comp:obj	_	Gloss=people.Fem|Poss=Yes|SpaceAfter=No|wordform=jàma'àr̃|wordfrom=jàma'àr̃sà
+17	-r̃	na	PART	_	Case=Gen|PartType=Case	16	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No|wordform=-t
+18	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	17	comp:obj/m	_	Gloss=3Masc.Gen
+19	dà	dà	SCONJ	_	_	14	comp:obl	_	Gloss=COMP
+20	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	22	subj/m	_	Gloss=3.Plur-|SpaceAfter=No|wordform=sù
+21	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	22	mod/m	_	Gloss=Sub=
+22	yi	yi	VERB	_	_	19	comp:obj	_	Gloss=do
+23	bìr̃is	bìr̃is	IDEO	_	Gender=Fem	22	comp:pred	_	Gloss=ignore
+24	dà	dà	ADP	_	_	22	comp:obl	_	Gloss=with
+25	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	26	det	_	Gloss=some.Plur.Spec
+26	tàkàr̃duː	takàr̃dàː	NOUN	_	Number=Plur	24	comp:obj	_	Gloss=paper.Plur
+27	dà	dà	SCONJ	_	_	26	mod@relcl	_	Gloss=COMP
+28	yànzu	yànzu	ADV	_	_	30	mod	_	Gloss=now
+29	a-	a-	PRON	_	Person=4|PronType=Prs	30	subj/m	_	Gloss=4|SpaceAfter=No
+30	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	27	comp:obj	_	Gloss=Prog.Rel|Relative=Yes|wordform=akèː
+31	rarràbâːwaː	rarràb-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	30	comp:pred	_	Gloss=distribute.Vnoun.Fem
+32	à	à	ADP	_	_	31	mod	_	Gloss=at
+33	ƙasâr̃	ƙasaː	VERB	_	Definite=Def|Gender=Fem	32	comp:obj	_	Gloss=country.Fem.Def
+34	dà	dà	ADP	_	_	31	mod	_	Gloss=with
+35	nufì	nufìː	NOUN	_	Gender=Masc	34	comp:obj	_	Gloss=intention.Masc|SpaceAfter=No|wordform=nufìn
+36	-n	na	PART	_	Case=Gen|PartType=Case	35	udep/m	_	Gloss=Gen.Masc/Plur
+37	zugà	zug-	VERB	_	_	36	comp:obj	_	Gloss=incite
+38	àl'ummà	àl'ummàː	NOUN	_	Gender=Fem	43	subj	_	Gloss=community.Fem|SpaceAfter=No|wordform=àl'ummàr̃
+39	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	38	mod/m	_	Gloss=Gen.Fem
+40	Mùsùlmiː	mùsùlmiː	NOUN	_	Number=Plur	39	comp:obj	_	Gloss=Muslim.Plur
+41	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	43	subj/m	_	Gloss=3.Plur-|SpaceAfter=No|wordform=sù
+42	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	43	mod/m	_	Gloss=Sub=
+43	ɗàuki	ɗauk-	VERB	_	_	37	comp:obj	_	Gloss=take
+44	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	45	det	_	Gloss=some.Plur.Spec
+45	màtàːkai	mataːkiː	NOUN	_	Number=Plur	43	comp:obj	_	Gloss=step.Plur
+46	gàme	gam-	VERB	_	ExtPos=ADV|VerbForm=Part	43	comp:obl	_	Gloss=gather.Part|Idiom=Yes
+47	dà	dà	ADP	_	_	46	comp:obl	_	Gloss=with|InIdiom=Yes
+48	rìkicîn	rìkiciː	NOUN	_	Definite=Def|Gender=Masc	46	comp:obj	_	Gloss=crisis.Masc.Def
+49	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	48	det	_	Gloss=PreRef|PreRef=Yes
+50	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	48	mod	_	Gloss=Gen
+51	Tèːku	tèːku	PROPN	_	Gender=Fem	50	comp:obj	_	Compound=Yes|Gloss=sea.Fem|SpaceAfter=No|wordform=Tèːkun
+52	-n	na	PART	_	Case=Gen|PartType=Case	51	mod:appos/m	_	Gloss=Gen.Masc/Plur
+53	Paːshà	Paːshà	PROPN	_	_	52	comp:obj	_	Gloss=Iran|SpaceAfter=No
+54	.	.	PUNCT	_	_	13	punct	_	Gloss=PUNCT
+
+# sent_id = 13_Rikicin_tekun_Pasha_3
+# text_en = His Highness made this appeal after two demonstrations that took place in the north of the country, where many people were said to be supporting the President of Irak, i.e. 'Saddam Hussein'.
+# text_ortho = Mài Mar̃tabàː yaː yi wannàn kiràn neː baːyan zàngà-zangà gùdaː biyu dà akà yi à areːwacin ƙasâr̃, indà akà cêː mutàːneː dà daːmaː sunàː goːyon baːyan shùːgàban ƙasar̃ Ìr̃aːƙì, wàːtòː " Saddam Hussein" .
+# text = mài mar̃tabàː yaː yi wannàn kiràn neː baːyan zàngà-zangà gùdaː biyu dà akà yi à areːwacin ƙasâr̃, indà akà cêː mutàːneː dà daːmaː sunàː goːyon baːyan shùːgàban ƙasar̃ Ìr̃aːƙì, wàːtòː " Saddam Hussein" .
+1	mài	mài	PART	_	Number=Sing|PartType=Der	5	subj	_	Gloss=owner_of.Sing
+2	mar̃tabàː	mar̃tabàː	NOUN	_	Gender=Fem	1	compound	_	Gloss=highness.Fem
+3	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
+4	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	5	mod/m	_	Gloss=Perf.Sing=|wordform=aː
+5	yi	yi	VERB	_	_	0	root	_	Gloss=do
+6	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	7	det	_	Gloss=ProxS.Masc
+7	kiràn	kiraː	VERB	_	Definite=Def|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	5	comp:pred	_	Gloss=call.Vnoun.Masc.Def
+8	neː	neː	PART	_	PartType=Foc	7	discourse@foc	_	Gloss=Emph
+9	baːyan	baːyan	ADP	_	_	5	mod	_	Gloss=after
+10	zàngà-zangà	zàngà-zangà	NOUN	_	Definite=Def|Gender=Fem	9	comp:obj	_	Gloss=demonstration.Fem
+11	gùdaː	gùdaː	NOUN	_	Gender=Masc	10	mod:num	_	Gloss=unit.Masc
+12	biyu	biyu	NUM	_	_	11	mod:num	_	Gloss=two
+13	dà	dà	SCONJ	_	_	10	mod@relcl	_	Gloss=COMP|wordform=da
+14	a-	a	PRON	_	Person=4|PronType=PrsSubj	16	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
+15	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	16	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
+16	yi	yi	VERB	_	_	13	comp:obj	_	Gloss=do
+17	à	à	ADP	_	_	16	mod	_	Gloss=at
+18	areːwacin	areːwacin	ADP	_	_	17	comp:obj	_	Gloss=north_of
+19	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	18	comp:obj	_	Gloss=country.Fem.Def|SpaceAfter=No
+20	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
+21	indà	indà	PRON	_	PronType=Rel	18	mod@relcl	_	Gloss=where
+22	a-	a	PRON	_	Person=4|PronType=PrsSubj	24	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
+23	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	24	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
+24	cêː	cêː	VERB	_	_	21	comp:obj	_	Gloss=say
+25	mutàːneː	mùtûm	NOUN	_	Number=Plur	29	subj	_	Gloss=people.Plur
+26	dà	dà	ADP	_	_	25	mod	_	Gloss=with
+27	daːmaː	daːmaː	NOUN	_	Gender=Fem	26	comp:obj	_	Gloss=chance.Fem
+28	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	29	subj/m	_	Gloss=3Plur|SpaceAfter=No
+29	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	24	comp:obj	_	Gloss=Prog|wordform=sunaː
+30	goːyo	goːy-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	29	comp:pred	_	Gloss=support.Vnoun.Masc|SpaceAfter=No|wordform=goːyon
+31	-n	na	PART	_	Case=Gen|PartType=Case	30	udep/m	_	Gloss=Gen.Masc/Plur
+32	baːya	baːyaː	NOUN	_	Gender=Masc	31	comp:obj	_	Gloss=back.Masc|SpaceAfter=No|wordform=baːyan
+33	-n	na	PART	_	Case=Gen|PartType=Case	32	mod/m	_	Gloss=Gen.Masc/Plur
+34	shùːgàba	shùːgàbaː	NOUN	_	Gender=Masc	33	comp:obj	_	Gloss=leader.Masc|SpaceAfter=No|wordform=shùːgàban
+35	-n	na	PART	_	Case=Gen|PartType=Case	34	udep/m	_	Gloss=Gen.Masc/Plur
+36	ƙasa	ƙasaː	NOUN	_	Gender=Fem	35	comp:obj	_	Gloss=country.Fem|SpaceAfter=No|wordform=ƙasar̃
+37	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	36	mod/m	_	Gloss=Gen.Fem
+38	Ìr̃aːƙì	Ìr̃aːƙì	PROPN	_	_	37	comp:obj	_	Gloss=Irak|SpaceAfter=No
+39	,	,	PUNCT	_	_	42	punct	_	Gloss=PUNCT
+40	wàːtòː	wàːtòː	CCONJ	_	_	42	cc	_	Gloss=i.e.
+41	"	"	PUNCT	_	_	42	punct	_	Gloss=PUNCT
+42	Saddam	Saddam	PROPN	_	_	34	conj:dicto	_	Gloss=Saddam
+43	Hussein	Hussein	PROPN	_	_	42	flat@name	_	Gloss=Hussein|SpaceAfter=No
+44	"	"	PUNCT	_	_	42	punct	_	Gloss=PUNCT
+45	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
+
+# sent_id = 13_Rikicin_tekun_Pasha_4
+# text_en = To his knowledge, the Sultan of Sokoto did not reveal which papers he was talking about, but a few days ago, Nigerian newspapers published critical articles that showed hostility to America.
+# text_ortho = À sanâr̃wâr̃ taːsà dai, Sarkin Mùsùlmiː bài fitoː fiːliː yaː bayyànà tàkàr̃dûn dà yakèː màganàː à kâi ba, tòː àmmaː à 'yan kwàːnàkin nàn jàr̃ìːdun Nàːjeːr̃iyàː sun shaː bugà shar̃hìː dà kèː nuːnà ƙîn jinin Amìr̃kà.
+# text = à sanâr̃wâr̃ taːsà dai, Sarkin Mùsùlmiː bài= fitoː fiːliː yaː= bayyànà tàkàr̃dûn dà yakèː= màganàː à kâi ba, tòː àmmaː à 'yan kwàːnàkin nàn jàr̃ìːdu-n Nàːjeːr̃iyàː sun= shaː bugà shar̃hìː dà kèː= nuːnà ƙî-n jini-n Amìr̃kà.
+1	à	à	ADP	_	_	10	mod	_	Gloss=at|wordform=A
+2	sanâr̃wâr̃	sanâr̃waː	NOUN	_	Definite=Def|Gender=Fem	1	comp:obj	_	Gloss=announcement.Fem.Def
+3	taːsà	taːsà	PRON	_	Case=Gen|Gender=Fem|PronType=Prs	2	mod@poss	_	CaseAf=Gen|GenderAf=Masc|Gloss=Gen.Fem-3MascGen|MSeg=taː-sà|PersonAf=3|Poss=Yes|wordform=taː
+4	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway|SpaceAfter=No
+5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
+6	Sarkin	sarkiː	PROPN	_	Gender=Masc	10	subj	_	Gloss=leader.Masc.
+7	Mùsùlmiː	Mùsùlmiː	PROPN	_	Number=Plur	6	flat@name	_	Gloss=Muslim.Plur
+8	bà-	bà-	PART	_	Aspect=Perf|PartType=TAM|Polarity=Neg	10	mod/m	_	Gloss=Neg.Perf-|SpaceAfter=No
+9	ì=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	10	subj/m	_	Gloss=3Masc=|SpaceAfter=No|wordform=bài
+10	fitoː	fit-	VERB	_	_	0	root	_	Gloss=go_out
+11	fiːliː	fiːliː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=open_space.Masc
+12	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	14	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
+13	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	14	mod/m	_	Gloss=Perf.Sing=|wordform=aː
+14	bayyànà	bayyan-	VERB	_	_	10	mod	_	Gloss=explain
+15	tàkàr̃dûn	tàkàr̃gàː	NOUN	_	Definite=Def|Number=Plur	14	comp:obj	_	Gloss="paper.Plur.Def"
+16	dà	dà	SCONJ	_	_	15	mod@relcl	_	Gloss=COMP
+17	ya-	ya-	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	18	subj/m	_	Gloss=3Masc-|SpaceAfter=No
+18	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	16	comp:obj	_	Gloss=Prog.Rel|Relative=Yes|wordform=yakèː
+19	màganàː	màganàː	NOUN	_	Gender=Fem	18	comp:pred	_	Gloss=speech.Fem
+20	à	à	ADP	_	ExtPos=ADV	18	mod	_	Gloss=at|Idiom=Yes
+21	kâi	kâi	NOUN	_	Gender=Masc	20	comp:obj	_	Gloss=head.Masc|InIdiom=Yes
+22	ba	ba	PART	_	PartType=Neg|Polarity=Neg	10	mod	_	Gloss=Neg|SpaceAfter=No
+23	,	,	PUNCT	_	_	35	punct	_	Gloss=PUNCT
+24	tòː	tòː	INTJ	_	_	35	discourse	_	Gloss=well
+25	àmmaː	àmmaː	CCONJ	_	_	35	cc	_	Gloss=but
+26	à	à	ADP	_	ExtPos=ADP	35	mod	_	Gloss=at
+27	'yan	ɗan	ADJ	_	Number=Plur	28	mod	_	Gloss=little.Plur
+28	kwàːnàkin	kwaːnaː	NOUN	_	Definite=Def|Number=Plur	26	comp:obj	_	Gloss=day.Plur.Def
+29	nàn	nân	DET	_	Deixis=ProxS|PronType=Dem	28	det	_	Gloss=ProxS
+30	jàr̃ìːdu	jàr̃iːdàː	NOUN	_	Number=Plur	35	subj	_	Gloss=newspaper.Plur|SpaceAfter=No|wordform=jàr̃ìːdun
+31	-n	na	PART	_	Case=Gen|PartType=Case	30	mod/m	_	Gloss=Gen.Masc/Plur
+32	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	31	comp:obj	_	Gloss=Nigeria
+33	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	35	subj/m	_	Gloss=3Plur|SpaceAfter=No|wordform=sun
+34	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	35	mod/m	_	Gloss=Perf.Plur=|wordform=n
+35	shaː	shaː	VERB	_	_	10	parataxis@conj	_	Gloss=do_plenty
+36	bugà	bug-	VERB	_	_	35	comp:obj	_	Gloss=publish
+37	shar̃hìː	shar̃hìː	NOUN	_	Gender=Masc	36	comp:obj	_	Gloss=criticism.Masc
+38	dà	dà	SCONJ	_	_	37	mod@relcl	_	Gloss=COMP
+39	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	38	comp:obj	_	Gloss=Prog.Rel|Relative=Yes
+40	nuːnà	nuːn-	VERB	_	_	39	comp:pred	_	Gloss=show
+41	ƙî	ƙi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	40	comp:obj	_	Gloss=hate.Vnoun.Masc|SpaceAfter=No|wordform=ƙîn
+42	-n	na	PART	_	Case=Gen|PartType=Case	41	udep/m	_	Gloss=Gen.Masc/Plur
+43	jini	jiniː	NOUN	_	Gender=Masc	42	comp:obj	_	Gloss=blood.Masc|SpaceAfter=No|wordform=jinin
+44	-n	na	PART	_	Case=Gen|PartType=Case	43	udep/m	_	Gloss=Gen.Masc/Plur
+45	Amìr̃kà	Amìr̃kà	PROPN	_	_	44	comp:obj	_	Gloss=America|SpaceAfter=No
+46	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT
+
+# sent_id = 13_Rikicin_tekun_Pasha_5
+# text_en = Likewise, it is thought that now, in the north of Nigeria, newspapers are distributed condemning what the coalition countries are doing to Irak.
+# text_ortho = Hakà kuma anàː zàton cêːwaː à haːlin yànzu anàː rarràbà wasu tàkàr̃duː à areːwacin Nàːjeːr̃iyàː waɗàndà sukà sòːki àbîn dà ƙasàːshen ƙàwànceː sukèː wà Ìr̃aːƙì .
+# text = hakà kuma anàː zàton cêːwaː à haːlin yànzu anàː rarràbà wasu tàkàr̃duː à areːwacin Nàːjeːr̃iyàː waɗàndà sukà sòːki àbîn dà ƙasàːshen ƙàwànceː sukèː wà Ìr̃aːƙì .
+1	hakà	hakà	ADV	_	_	4	mod	_	Gloss=thus
+2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
+3	a-	a-	PRON	_	Person=4|PronType=Prs	4	subj/m	_	Gloss=4|SpaceAfter=No
+4	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	Gloss=Prog|wordform=and
+5	zàto	zat-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	4	comp:pred	_	Gloss=think.Vnoun.Masc|SpaceAfter=No|wordform=zàton
+6	-n	na	PART	_	Case=Gen|PartType=Case	5	udep/m	_	Gloss=Gen.Masc/Plur
+7	cêːwaː	cêːwaː	SCONJ	_	_	6	comp:obj	_	Gloss=COMP
+8	à	à	ADP	_	_	13	mod	_	Gloss=at
+9	haːli	haːliː	NOUN	_	Gender=Masc	8	comp:obj	_	Gloss=situation.Masc|SpaceAfter=No|wordform=haːlin
+10	-n	na	PART	_	Case=Gen|PartType=Case	9	mod/m	_	Gloss=Gen.Masc/Plur
+11	yànzu	yànzu	ADV	_	_	10	comp:obj	_	Gloss=now
+12	a-	a-	PRON	_	Person=4|PronType=Prs	13	subj/m	_	Gloss=4|SpaceAfter=No
+13	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	7	comp:obj	_	Gloss=Prog|wordform=and
+14	rarràbà	rarrab-	VERB	_	_	13	comp:pred	_	Gloss=distribute
+15	wasu	wasu	DET	_	Definite=Spec|Number=Plur	16	det	_	Gloss=some.Plur.Spec
+16	tàkàr̃duː	takàr̃daː	NOUN	_	Number=Plur	14	comp:obj	_	Gloss=paper.Plur
+17	à	à	ADP	_	_	14	mod	_	Gloss=at
+18	areːwacin	areːwacin	ADP	_	_	17	comp:obj	_	Gloss=north_of
+19	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	18	comp:obj	_	Gloss=Nigeria
+20	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	16	mod@relcl	_	Gloss=REL.Plur
+21	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	23	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
+22	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	23	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
+23	sòːki	soːk-	VERB	_	_	20	comp:obj	_	Gloss=concern
+24	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	23	comp:obj	_	Gloss=thing.Masc.Def
+25	dà	dà	SCONJ	_	_	24	mod@relcl	_	Gloss=COMP
+26	ƙasàːshe	ƙasaː	NOUN	_	Number=Plur	30	subj	_	Gloss=country|SpaceAfter=No|wordform=ƙasàːshen
+27	-n	na	PART	_	Case=Gen|PartType=Case	26	udep/m	_	Gloss=Gen.Masc/Plur
+28	ƙàwànceː	ƙàwànceː	NOUN	_	Gender=Masc	27	comp:obj	_	Gloss=coalition.Masc
+29	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	30	subj/m	_	Gloss=3Plur|SpaceAfter=No
+30	kè	nàː	AUX	_	Aspect=Prog|Copula=Yes	25	comp:obj	_	Gloss=bePred.Rel2|Relative=Yes|wordform=sukèː
+31	wà	mà	ADP	_	Case=Dat	30	comp:obl	_	Gloss=Dat
+32	Ìr̃aːƙì	Ìr̃aːƙì	PROPN	_	_	31	comp:obj	_	Gloss=Irak
+33	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
+
+# sent_id = 13_Rikicin_tekun_Pasha_6
+# text_en = A report published in a newspaper which is said to express the opinion of a big Muslim Congregation in the north of Nigeria, has called on all Muslims to rise and express their opinion concerning the Gulf War.
+# text_ortho = Wani jàwaːbìː dà akà bugàː à wata jàr̃iːdàː, wandà akà cêː yanàː bayyànà r̃a'àyin wata bàbbar̃ ƙungìyar̃ mùsùlmin areːwacin Nàːjeːr̃iyàː neː, yaː yi kiràː gà dukkàn mùsùlmiː dà sù taːshì tsàye sù bayyànà r̃a'àyinsù à gàme dà rìkicin Tèːkun Paːshà ɗîn.
+# text = wani jàwaːbìː dà akà bugàː à wata jàr̃iːdàː, wandà akà cêː yanàː bayyànà r̃a'àyin wata bàbbar̃ ƙungìyar̃ mùsùlmin areːwacin Nàːjeːr̃iyàː neː, yaː yi kiràː gà dukkàn mùsùlmiː dà sù taːshì tsàye sù bayyànà r̃a'àyinsù à gàme dà rìkicin Tèːkun Paːshà ɗîn.
+1	wani	wani	DET	_	Definite=Spec|Gender=Masc|Number=Plur|PronType=Ind	2	det	_	Gloss=some.Masc.Spec
+2	jàwaːbìː	jàwaːbìː	NOUN	_	Gender=Masc	32	subj	_	Gloss=article.Masc
+3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP|wordform=da
+4	a-	a	PRON	_	Person=4|PronType=PrsSubj	6	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=aka
+5	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	6	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
+6	bugàː	bug-	VERB	_	_	3	comp:obj	_	Gloss=print
+7	à	à	ADP	_	_	6	mod	_	Gloss=at
+8	wata	wata	DET	_	Definite=Spec|Gender=Fem	9	det	_	Gloss=some.Fem
+9	jàr̃iːdàː	jàr̃iːdàː	NOUN	_	Definite=Ind|Gender=Fem	7	comp:obj	_	Gloss=newspaper.Fem|SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
+11	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	2	mod@relcl	_	Gloss=REL.Masc
+12	a-	a	PRON	_	Person=4|PronType=PrsSubj	14	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
+13	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	14	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
+14	cêː	cêː	VERB	_	_	11	comp:obj	_	Gloss=say
+15	ya-	ya-	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	16	subj/m	_	Gloss=3Masc-|SpaceAfter=No
+16	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	14	comp:obj	_	Gloss=Prog|wordform=yanaː
+17	bayyànà	bayyan-	VERB	_	_	16	comp:aux	_	Gloss=explain
+18	r̃a'àyi	r̃a'àyiː	NOUN	_	Gender=Masc	17	comp:obj	_	Compound=Yes|Gloss=viewpoint.Masc.|SpaceAfter=No|wordform=r̃a'àyin
+19	-n	na	PART	_	Case=Gen|PartType=Case	18	udep/m	_	Gloss=Gen.Masc/Plur
+20	wata	wata	DET	_	Definite=Spec|Gender=Fem	22	det	_	Gloss=some.Fem
+21	bàbbar̃	bàbba	ADJ	_	Gender=Fem	22	mod	_	Gloss=big.Fem|wordform=haːbbar
+22	ƙungìya	ƙungìyaː	NOUN	_	Gender=Fem	19	comp:obj	_	Gloss=association.Fem|SpaceAfter=No|wordform=ƙungìyar̃
+23	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	22	mod/m	_	Gloss=Gen.Fem
+24	mùsùlmi	mùsùlmin	NOUN	_	Number=Plur	23	comp:obj	_	Gloss=muslims.Plur|SpaceAfter=No|wordform=mùsùlmin
+25	-n	na	PART	_	Case=Gen|PartType=Case	24	mod/m	_	Gloss=Gen.Masc/Plur
+26	areːwacin	areːwacin	ADP	_	_	25	comp:obj	_	Gloss=north_of
+27	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	26	comp:obj	_	Gloss=Nigeria|wordform=Nijeːiyar
+28	neː	neː	PART	_	PartType=Foc	16	discourse@foc	_	Gloss=Emph|SpaceAfter=No
+29	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
+30	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	32	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
+31	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	32	mod/m	_	Gloss=Perf.Sing=|wordform=aː
+32	yi	yi	VERB	_	_	0	root	_	Gloss=do
+33	kiràː	kiraː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	32	comp:pred	_	Gloss=call.Vnoun.Masc
+34	gà	gà	ADP	_	_	33	comp:obl	_	Gloss=on
+35	dukkàn	dukà	DET	_	PronType=Tot	36	det	_	Gloss=all
+36	mùsùlmiː	mùsùlmiː	NOUN	_	Number=Plur	34	comp:obj	_	Gloss=muslim.Plur
+37	dà	dà	SCONJ	_	_	33	comp:obl	_	Gloss=COMP
+38	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	40	subj/m	_	Gloss=3.Plur-|SpaceAfter=No|wordform=sù
+39	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	40	mod/m	_	Gloss=Sub=
+40	taːshì	taːs-	VERB	_	_	37	comp:obj	_	Gloss=get_up
+41	tsàye	tsay-	VERB	_	ExtPos=ADV|VerbForm=Part	40	mod	_	Gloss=stand.Part
+42	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	44	subj/m	_	Gloss=3.Plur-|SpaceAfter=No|wordform=sù
+43	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	44	mod/m	_	Gloss=Sub=
+44	bayyànà	bayyan-	VERB	_	_	40	parataxis@conj	_	Gloss=explain
+45	r̃a'àyi	r̃a'àyin	NOUN	_	Gender=Masc	44	comp:obj	_	Gloss=viewpoint.Masc|Poss=Yes|SpaceAfter=No|wordform=r̃a'àyinsù
+46	-n	na	PART	_	Case=Gen|PartType=Case	45	mod@poss	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
+47	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	46	comp:obj	_	Gloss=3Plur.Gen
+48	à	à	ADP	_	_	44	comp:obl	_	Gloss=at
+49	gàme	gam-	VERB	_	VerbForm=Part	48	comp:obj	_	Gloss=gather.Part|Idiom=Yes
+50	dà	dà	ADP	_	_	49	comp:obl	_	Gloss=with|InIdiom=Yes
+51	rìkici	rìkiciː	NOUN	_	Gender=Masc	49	comp:obj	_	Gloss=crisis.Masc|SpaceAfter=No|wordform=rìkicin
+52	-n	na	PART	_	Case=Gen|PartType=Case	51	udep/m	_	Gloss=Gen.Masc/Plur
+53	Tèːk	tèːku	NOUN	_	Gender=Fem	52	comp:obj	_	Gloss=sea.Fem|SpaceAfter=No|wordform=Tèːkun
+54	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	53	mod/m	_	Gloss=Gen.Fem
+55	Paːshà	Paːshà	PROPN	_	_	54	comp:obj	_	Gloss=Persia
+56	ɗîn	ɗîn	DET	_	Definite=Def|PronType=Dem	51	det	_	Gloss=Def|SpaceAfter=No
+57	.	.	PUNCT	_	_	32	punct	_	Gloss=PUNCT
+
+# sent_id = 13_Rikicin_tekun_Pasha_7
+# text_en = A spokesman for the Sultan of Sokoto has confirmed that in Nigeria, hostility to America is the opinion of a minority, and Muslim leaders are only tolerating them because of the freedom of expression that exists in the country.
+# text_ortho = Wani mài màganàː dà yaːwun Sarkin Mùsùlmiː yaː jaddàːdà cêːwaː nuːnà ƙîn jinin Amìr̃kà à Nàːjeːr̃iyàː r̃a'àyin wasu 'yan tsìràːruː nèː, kuma shùːgàbànnin mùsùlmiː sunàː hàƙuriː dà suː nèː kawài sabòːdà 'yancìn dà akèː dà shiː à ƙasâr̃ na fàɗar̃ r̃a'àyiː .
+# text = wani mài màganàː dà yaːwu-n sarki-n mùsùlmiː yaː=jaddàːdà cêːwaː nuːnà ƙî-n jini-n Amìr̃kà à Nàːjeːr̃iyàː r̃a'àyi-n wasu 'ya-n tsìràːruː nèː, kuma shùːgàbànni-n mùsùlmiː su-nàː hàƙuriː dà suː nèː kawài sabòːdà 'yancìn dà a kè dà shiː à ƙasâr̃ na fàɗa-r̃ r̃a'àyiː .
+1	wani	wani	PRON	_	Definite=Spec|Gender=Masc|Number=Plur|PronType=Ind	12	subj	_	Gloss=some.Masc.Spec
+2	mài	mài	PART	_	Number=Sing|PartType=Der	1	mod	_	Gloss=owner_of.Sing
+3	màganàː	màganàː	NOUN	_	Gender=Fem	2	compound	_	Gloss=speech.Fem
+4	dà	dà	ADP	_	_	3	comp:obl	_	Gloss=with|wordform=da
+5	yaːwu	yaːwuː	NOUN	_	Gender=Masc	4	comp:obj	_	Gloss=saliva.Masc|SpaceAfter=No|wordform=yaːwun
+6	-n	na	PART	_	Case=Gen|PartType=Case	5	mod/m	_	Gloss=Gen.Masc/Plur
+7	sarki	sarkiː	NOUN	_	Gender=Masc	6	comp:obj	_	Gloss=leader.Masc|SpaceAfter=No|wordform=sarkin
+8	-n	na	PART	_	Case=Gen|PartType=Case	7	mod/m	_	Gloss=Gen.Masc/Plur
+9	mùsùlmiː	mùsùlmiː	NOUN	_	Number=Plur	8	comp:obj	_	Gloss=muslim.Plur
+10	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	12	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
+11	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	12	mod/m	_	Gloss=Perf.Sing=|wordform=aː
+12	jaddàːdà	jaddaːd-	VERB	_	_	0	root	_	Gloss=confirm
+13	cêːwaː	cêːwaː	SCONJ	_	_	12	comp:obj	_	Gloss=COMP
+14	nuːnà	nuːn-	VERB	_	_	28	subj	_	Gloss=show
+15	ƙî	ƙi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	14	comp:obj	_	Gloss=hate.Vnoun.Masc|SpaceAfter=No|wordform=ƙîn
+16	-n	na	PART	_	Case=Gen|PartType=Case	15	udep/m	_	Gloss=Gen.Masc/Plur
+17	jini	jiniː	NOUN	_	Gender=Masc	16	comp:obj	_	Gloss=blood.Masc|SpaceAfter=No|wordform=jinin
+18	-n	na	PART	_	Case=Gen|PartType=Case	17	mod/m	_	Gloss=Gen.Masc/Plur
+19	Amìr̃kà	Amìr̃kà	PROPN	_	_	18	comp:obj	_	Gloss=America
+20	à	à	ADP	_	_	14	mod	_	Gloss=at
+21	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	20	comp:obj	_	Gloss=Nigeria
+22	r̃a'àyi	r̃a'àyiː	NOUN	_	Gender=Masc	28	comp:pred	_	Compound=Yes|Gloss=viewpoint.Masc.|SpaceAfter=No|wordform=r̃a'àyin
+23	-n	na	PART	_	Case=Gen|PartType=Case	22	udep/m	_	Gloss=Gen.Masc/Plur
+24	wasu	wasu	DET	_	Definite=Spec|Number=Plur	25	det	_	Gloss=some.Plur.Spec
+25	'ya	ɗaː	NOUN	_	Number=Plur	23	comp:obj	_	Compound=Yes|Gloss=child.Plur|SpaceAfter=No|wordform='yan
+26	-n	na	PART	_	Case=Gen|PartType=Case	25	udep/m	_	Gloss=Gen.Fem
+27	tsìràːruː	tsìràːruː	NOUN	_	Number=Plur	26	comp:obj	_	Gloss=minority.Plur
+28	nèː	neː	AUX	_	Copula=Yes	13	comp:obj	_	Gloss=Equ.Masc/Plur|SpaceAfter=No
+29	,	,	PUNCT	_	_	35	punct	_	Gloss=PUNCT
+30	kuma	kuma	CCONJ	_	_	35	cc	_	Gloss=also
+31	shùːgàbànni	shùːgàbaː	NOUN	_	Number=Plur	35	subj	_	Gloss=leader.Plur|SpaceAfter=No|wordform=shùːgàbànnin
+32	-n	na	PART	_	Case=Gen|PartType=Case	31	udep/m	_	Gloss=Gen.Masc/Plur
+33	mùsùlmiː	mùsùlmiː	NOUN	_	Number=Plur	32	comp:obj	_	Gloss=muslim.Plur
+34	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	35	subj/m	_	Gloss=3Plur|SpaceAfter=No
+35	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	28	conj:coord	_	Gloss=Prog|wordform=sunaː
+36	hàƙuriː	hàƙuriː	NOUN	_	Gender=Masc	35	comp:pred	_	Gloss=patience.Masc
+37	dà	dà	ADP	_	_	36	comp:obl	_	Gloss=with
+38	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	37	comp:obj	_	Gloss=3Plur.Nom
+39	nèː	neː	PART	_	PartType=Foc	36	discourse@foc	_	Gloss=Emph
+40	kawài	kawài	ADV	_	_	36	mod	_	Gloss=merely
+41	sabòːdà	sabòːdà	ADP	_	_	36	mod	_	Gloss=because_of
+42	'yancìn	'yancìː	NOUN	_	Definite=Def|Gender=Masc	41	comp:obj	_	Gloss=freedom.Masc.Def
+43	dà	dà	SCONJ	_	_	42	mod@relcl	_	Gloss=COMP
+44	a	a	PRON	_	Person=4|PronType=Prs	45	subj	_	Gloss=4
+45	kè	nàː	AUX	_	Copula=Yes	43	comp:obj	_	Gloss=bePred.Rel2|Relative=Variant
+46	dà	dà	ADP	_	_	45	comp:pred	_	Gloss=with
+47	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	46	comp:obj	_	Gloss=3Masc.Nom
+48	à	à	ADP	_	_	45	mod	_	Gloss=at
+49	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	48	comp:obj	_	Gloss=country.Fem.Def
+50	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	42	mod	_	Gloss=Gen
+51	fàɗa	faɗ-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	50	comp:obj	_	Gloss=tell.Vnoun.Fem|SpaceAfter=No|wordform=fàɗar̃
+52	-r̃	na	PART	_	Case=Gen|PartType=Case	51	udep/m	_	Gloss=Gen.Fem
+53	r̃a'àyiː	r̃a'àyiː	NOUN	_	Gender=Masc	52	comp:obj	_	Gloss=viewpoint.Masc
+54	.	.	PUNCT	_	_	12	punct	_	Gloss=PUNCT
+
+# sent_id = 13_Rikicin_tekun_Pasha_8
+# text_en = The spokesman said that Muslim leaders in Nigeria wanted to express their lack of support to the occupation that Irak did in Kuweit and then, their lack of support to the attack that the alliance countries did on Irak, which they hastened to do without allowing the sanctions that were inflicted on Irak to take effect.
+# text_ortho = Kàːkàːkîn ya kuma cêː shùːgàbànnin mùsùlmiː à Nàːjeːr̃iyàː sunàː sôː sù nuːnà rashìn goːyon baːyansù gà maːmàyêːwâr̃ dà Ìr̃aːƙì ta yi wà Kùwât , kaːnà kuma dà rashìn goːyon baːyan harìn dà ƙasàːshen ƙàwànceː kèː kai wà Ìr̃aːƙì , wandà akà yi hanzarin kâiwaː bàː tàːre dà barìn tàːkunkùmîn dà akà sâː wà Ìr̃aːƙì daːmar̃ yîn aikìː ba.
+# text = kàːkàːkîn ya kuma cêː shùːgàbànnin mùsùlmiː à Nàːjeːr̃iyàː sunàː sôː sù nuːnà rashìn goːyon baːyansù gà maːmàyêːwâr̃ dà Ìr̃aːƙì ta yi wà Kùwât . kaːnà kuma dà rashìn goːyon baːyan harìn dà ƙasàːshen ƙàwànceː kèː kai wà Ìr̃aːƙì , wandà akà yi hanzarin kâiwaː bàː tàːre dà barìn tàːkunkùmîn dà akà sâː wà Ìr̃aːƙì daːmar̃ yîn aikìː ba.
+1	kàːkàːkîn	kàːkàːkiː	NOUN	_	Definite=Def|Gender=Masc	5	subj	_	Gloss=spokesman.Masc.Def
+2-3	ya=	_	_	_	_	_	_	_	_
+2	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	5	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
+3	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
+4	kuma	kuma	PART	_	PartType=Top	5	discourse@top	_	Gloss=also
+5	cêː	cêː	VERB	_	_	0	root	_	Gloss=say
+6	shùːgàbànni	shùːgàbànniː	NOUN	_	Number=Plur	12	subj	_	Gloss=leader.Plur|SpaceAfter=No|wordform=shùːgàbànnin
+7	-n	na	PART	_	Case=Gen|PartType=Case	6	mod/m	_	Gloss=Gen.Masc/Plur
+8	mùsùlmiː	mùsùlmiː	NOUN	_	Number=Plur	7	comp:obj	_	Gloss=muslims.Plur
+9	à	à	ADP	_	_	8	mod	_	Gloss=at
+10	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	9	comp:obj	_	Gloss=Nigeria
+11	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	12	subj/m	_	Gloss=3Plur|SpaceAfter=No
+12	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	5	comp:obj	_	Gloss=Prog|wordform=sunàː
+13	sôː	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	12	comp:pred	_	Gloss=want.Vnoun.Masc
+14	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	16	subj/m	_	Gloss=3.Plur-|SpaceAfter=No|wordform=sù
+15	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	16	mod/m	_	Gloss=Sub=
+16	nuːnà	nuːn-	VERB	_	_	13	comp:obj	_	Gloss=show
+17	rashì	ras-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	16	comp:obj	_	Gloss=lack.Vnoun.Masc|SpaceAfter=No|wordform=rashìn
+18	-n	na	PART	_	Case=Gen|PartType=Case	17	udep/m	_	Gloss=Gen.Masc/Plur
+19	goːyo	goːy-	VERB	_	ExtPos=NOUN|Gender=Masc|Number=Plur|VerbForm=Vnoun	18	comp:obj	_	Gloss=support.Vnoun.Masc|SpaceAfter=No|wordform=goːyon
+20	-n	na	PART	_	Case=Gen|PartType=Case	19	udep/m	_	Gloss=Gen.Masc/Plur
+21	baːya	baːyaː	NOUN	_	Gender=Masc	20	comp:obj	_	Gloss=back.Masc|Poss=Yes|SpaceAfter=No|wordform=baːyansù
+22	-n	na	PART	_	Case=Gen|PartType=Case	21	mod@poss	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
+23	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	22	comp:obj	_	Gloss=3Plur.Gen
+24	gà	gà	ADP	_	_	19	comp:obl	_	Gloss=about
+25	maːmàyêːwâr̃	maːmay-	VERB	_	Definite=Def|ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	24	comp:obj	_	Gloss=occupy.Vnoun.Fem.Def
+26	dà	dà	SCONJ	_	_	25	mod@relcl	_	Gloss=COMP
+27	Ìr̃aːƙì	Ìr̃aːƙì	PROPN	_	_	30	subj	_	Gloss=Irak
+28-29	ta=	_	_	_	_	_	_	_	_
+28	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	30	subj/m	_	Gloss=3Fem-|Relative=Yes|SpaceAfter=No|wordform=ta
+29	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	30	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
+30	yi	yi	VERB	_	_	26	comp:obj	_	Gloss=do
+31	wà	mà	ADP	_	Case=Dat	30	comp:obl	_	Gloss=Dat
+32	Kùwât	Kùwât	PROPN	_	_	31	comp:obj	_	Gloss=Kuweit
+33	.	.	PUNCT	_	_	37	punct	_	Gloss=PUNCT
+34	kaːnà	kaːnà	ADV	_	_	37	mod	_	Gloss=then
+35	kuma	kuma	PART	_	PartType=Top	34	discourse@top	_	Gloss=also
+36	dà	dà	CCONJ	_	_	37	cc	_	Gloss=and
+37	rashì	ras-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	17	conj:coord	_	Gloss=lack.Vnoun.Masc|SpaceAfter=No|wordform=rashìn
+38	-n	na	PART	_	Case=Gen|PartType=Case	37	udep/m	_	Gloss=Gen.Masc/Plur
+39	goːyo	goːy-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	38	comp:obj	_	Gloss=support.Vnoun.Masc|SpaceAfter=No|wordform=goːyon
+40	-n	na	PART	_	Case=Gen|PartType=Case	39	udep/m	_	Gloss=Gen.Masc/Plur
+41	baːya	baːyaː	NOUN	_	Gender=Masc	40	comp:obj	_	Gloss=back.Masc|SpaceAfter=No|wordform=baːyan
+42	-n	na	PART	_	Case=Gen|PartType=Case	41	mod/m	_	Gloss=Gen.Masc/Plur
+43	harìn	harìː	NOUN	_	Definite=Def|Gender=Masc	42	comp:obj	_	Gloss=attack.Masc.Def
+44	dà	dà	SCONJ	_	_	43	mod@relcl	_	Gloss=COMP
+45	ƙasàːshe	ƙasaː	NOUN	_	Number=Plur	48	subj	_	Gloss=country|SpaceAfter=No|wordform=ƙasàːshen
+46	-n	na	PART	_	Case=Gen|PartType=Case	45	mod/m	_	Gloss=Gen.Masc/Plur
+47	ƙàwànceː	ƙàwànceː	NOUN	_	Gender=Masc	46	comp:obj	_	Gloss=coalition.Masc
+48	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	44	comp:obj	_	Gloss=Prog.Rel|Relative=Yes|SpaceAfter=No
+49	kai	kai	VERB	_	_	48	comp:pred	_	Gloss=reach/carry_to
+50	wà	mà	ADP	_	Case=Dat	49	comp:obl	_	Gloss=Dat
+51	Ìr̃aːƙì	Ìr̃aːƙì	PROPN	_	_	50	comp:obj	_	Gloss=Irak
+52	,	,	PUNCT	_	_	53	punct	_	Gloss=PUNCT
+53	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	43	mod@relcl	_	Gloss=REL.Masc
+54	a-	a	PRON	_	Person=4|PronType=PrsSubj	56	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=aka
+55	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	56	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
+56	yi	yi	VERB	_	_	53	comp:obj	_	Gloss=do
+57	hanzari	hanzariː	NOUN	_	Gender=Masc	56	comp:pred	_	Gloss=haste.Masc|SpaceAfter=No|wordform=hanzarin
+58	-n	na	PART	_	Case=Gen|PartType=Case	57	udep/m	_	Gloss=Gen.Masc/Plur
+59	kâiwaː	kai	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	58	comp:obj	_	Gloss=carry.Vnoun.Fem
+60	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	62	mod	_	Gloss=Neg
+61	tàːre	tàːre	ADV	_	_	62	mod	_	Gloss=together
+62	dà	dà	ADP	_	_	56	mod	_	Gloss=with|wordform=ɗà
+63	barì	barìː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	62	comp:obj	_	Compound=Yes|Gloss=leave.Vnoun.Masc.|SpaceAfter=No|wordform=barìn
+64	-n	na	PART	_	Case=Gen|PartType=Case	63	comp:obj@R/m	_	Gloss=Gen.Masc/Plur
+65	tàːkunkùmîn	tàːkunkùmiː	NOUN	_	Definite=Def|Gender=Masc	64	comp:obj@R	_	Gloss=sanctions.Masc.Def
+66	dà	dà	SCONJ	_	_	65	mod@relcl	_	Gloss=COMP|wordform=da
+67	a-	a	PRON	_	Person=4|PronType=PrsSubj	69	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=aka
+68	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	69	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
+69	sâː	sâː	VERB	_	_	66	comp:obj	_	Gloss=put
+70	wà	mà	ADP	_	Case=Dat	69	comp:obl	_	Gloss=Dat
+71	Ìr̃aːƙì	Ìr̃aːƙì	PROPN	_	_	70	comp:obj	_	Gloss=Irak
+72	daːma	daːmaː	NOUN	_	Gender=Fem	63	comp:obj@T	_	Gloss=opportunity.Fem|SpaceAfter=No|wordform=daːmar̃
+73	-r̃	na	PART	_	Case=Gen|PartType=Case	72	udep/m	_	Gloss=Gen.Fem
+74	yî	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	73	comp:obj	_	Compound=Yes|Gloss=do.Vnoun.Masc.|SpaceAfter=No|wordform=yîn
+75	-n	na	PART	_	Case=Gen|PartType=Case	74	udep/m	_	Gloss=Gen.Masc/Plur
+76	aikìː	aikìː	NOUN	_	Gender=Masc	75	comp:obj	_	Gloss=work.Masc
+77	ba	ba	PART	_	PartType=Neg|Polarity=Neg	62	mod	_	Gloss=Neg|SpaceAfter=No
+78	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
+
+# sent_id = 13_Rikicin_tekun_Pasha_9
+# text_en = The concerns that Muslim leaders are expressing followed some demonstrations that took place twice in the north of Nigeria.
+# text_ortho = Dàːmuwâr̃ dà shùgàbànnin mùsùlmiː kèː nuːnàːwaː taː biyoː baːyan zàngà-zangàr̃ dà akà yi nèː har̃ sàu biyu à areːwacin Nàːjeːr̃iyàr̃.
+# text = dàːmuwâr̃ dà shùgàbànnin mùsùlmiː kèː nuːnàːwaː taː biyoː baːyan zàngà-zangàr̃ dà akà yi nèː har̃ sàu biyu à areːwacin Nàːjeːr̃iyàr̃.
+1	dàːmuwâr̃	dàːmuwaː	NOUN	_	Definite=Def|Gender=Fem	10	subj	_	Gloss=worry.Fem.Def
+2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
+3	shùgàbànni	shùgàbàː	NOUN	_	Number=Plur	6	subj	_	Gloss=leader.Plur|SpaceAfter=No|wordform=shùgàbànnin
+4	-n	na	PART	_	Case=Gen|PartType=Case	3	udep/m	_	Gloss=Gen.Masc/Plur
+5	mùsùlmiː	mùsùlmiː	NOUN	_	Number=Plur	4	comp:obj	_	Gloss=muslim.Plur
+6	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	2	comp:obj	_	Gloss=Prog.Rel|Relative=Yes|SpaceAfter=No
+7	nuːnàːwaː	nuːn-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	6	comp:pred	_	Gloss=show.Vnoun.Fem
+8	t-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	10	subj/m	_	Gloss=3Fem|SpaceAfter=No|wordform=taː
+9	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	10	mod/m	_	Gloss=Perf.Sing=|wordform=aː
+10	biyoː	biyaː	VERB	_	_	0	root	_	Gloss=follow
+11	baːyan	baːyan	ADP	_	_	10	mod	_	Gloss=after
+12	zàngà-zangàr̃	zàngà-zangàr̃	NOUN	_	Definite=Def|Gender=Fem	11	comp:obj	_	Gloss=demonstration.Fem.Def
+13	dà	dà	SCONJ	_	_	12	mod@relcl	_	Gloss=COMP
+14	a-	a	PRON	_	Person=4|PronType=PrsSubj	16	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
+15	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	16	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
+16	yi	yi	VERB	_	_	13	comp:obj	_	Gloss=do
+17	nèː	neː	PART	_	PartType=Foc	16	discourse@foc	_	Gloss=Emph
+18	har̃	har̃	ADP	_	_	16	mod	_	Gloss=up_to
+19	sàu	sàu	NOUN	_	Gender=Masc	18	comp:obj	_	Gloss=time.Masc
+20	biyu	biyu	NUM	_	_	19	det	_	Gloss=two
+21	à	à	ADP	_	_	16	mod	_	Gloss=at
+22	areːwacin	areːwacin	ADP	_	_	21	comp:obj	_	Gloss=north
+23	Nàːjeːr̃iyàr̃	Nàːjeːr̃iyàr̃	PROPN	_	_	22	comp:obj	_	Gloss=Nigeria|SpaceAfter=No
+24	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT
+
+# sent_id = 13_Rikicin_tekun_Pasha_10-1
+# text_en = The first demonstration took place in Katsina where hundreds of youths demonstrated against President 'George Bush' and President Saddam Hussein.
+# text_ortho = An yi zàngà-zangàr̃ farkoː nèː à bir̃nin Kàtsinà indà ɗaruːruwàn matàːsaː sukà yi zàngà-zangàr̃ nuːnà rashìn goːyon baːyan Shùːgàbaː " George Bush " dà kuma Shùːgàbaː Saddam Hussein.
+# text = an yi zàngà-zangàr̃ farkoː nèː à bir̃nin Kàtsinà indà ɗaruːruwàn matàːsaː sukà yi zàngà-zangàr̃ nuːnà rashìn goːyon baːyan Shùːgàbaː " George Bush " dà kuma Shùːgàbaː Saddam Hussein.
+1	a-	a	PRON	_	Person=4|PronType=PrsSubj	3	subj/m	_	Gloss=4|SpaceAfter=No|wordform=an
+2	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	3	mod/m	_	Gloss=Perf.Plur=|wordform=n
+3	yi	yi	VERB	_	_	0	root	_	Gloss=do
+4	zàngà-zangà	zàngà-zangà	NOUN	_	Gender=Fem	3	comp:pred	_	Gloss=demonstration.Fem|SpaceAfter=No|wordform=zàngà-zangàr̃
+5	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	4	mod/m	_	Gloss=Gen.Fem
+6	farkoː	farkoː	NOUN	_	Gender=Masc	5	comp:obj	_	Gloss=beginning.Masc
+7	nèː	neː	PART	_	PartType=Foc	3	discourse@foc	_	Gloss=Emph
+8	à	à	ADP	_	_	3	mod	_	Gloss=at
+9	bir̃ni	bir̃niː	NOUN	_	Gender=Masc	8	comp:obj	_	Gloss=city.Masc|SpaceAfter=No|wordform=bir̃nin
+10	-n	na	PART	_	Case=Gen|PartType=Case	9	mod/m	_	Gloss=Gen.Masc/Plur
+11	Kàtsinà	Kàtsinà	PROPN	_	_	10	comp:obj	_	Gloss=Kàtsinà
+12	indà	indà	PRON	_	PronType=Rel	9	mod@relcl	_	Gloss=where
+13	ɗaruːruwà	ɗàriː	NOUN	_	Number=Plur	18	subj	_	Gloss=hundred.Plur|SpaceAfter=No|wordform=ɗaruːruwàn
+14	-n	na	PART	_	Case=Gen|PartType=Case	13	mod/m	_	Gloss=Gen.Masc/Plur
+15	matàːsaː	matàːshiː	NOUN	_	Number=Plur	14	comp:obj	_	Gloss=youth.Plur
+16	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	18	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
+17	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	18	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
+18	yi	yi	VERB	_	_	12	comp:obj	_	Gloss=do
+19	zàngà-zangà	zàngà-zangà	NOUN	_	Gender=Fem	18	comp:pred	_	Gloss=demonstration.Fem|SpaceAfter=No|wordform=zàngà-zangàr̃
+20	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	19	mod/m	_	Gloss=Gen.Fem
+21	nuːnà	nuːn-	VERB	_	_	20	comp:obj	_	Gloss=show
+22	rashì	ras-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	21	comp:obj	_	Gloss=lack.Vnoun.Masc|SpaceAfter=No|wordform=rashìn
+23	-n	na	PART	_	Case=Gen|PartType=Case	22	udep/m	_	Gloss=Gen.Masc/Plur
+24	goːyo	goːy-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	23	comp:obj	_	Gloss=support.Vnoun.Masc|SpaceAfter=No|wordform=goːyon
+25	-n	na	PART	_	Case=Gen|PartType=Case	24	udep/m	_	Gloss=Gen.Masc/Plur
+26	baːya	baːyan	NOUN	_	Gender=Masc	25	comp:obj	_	Gloss=back.Masc|SpaceAfter=No|wordform=baːyan
+27	-n	na	PART	_	Case=Gen|PartType=Case	26	udep/m	_	Gloss=Gen.Masc/Plur
+28	Shùːgàbaː	shùːgàbaː	NOUN	_	Gender=Masc	27	comp:obj	_	Gloss=president.Masc
+29	"	"	PUNCT	_	_	30	punct	_	Gloss=PUNCT
+30	George	George	PROPN	_	_	28	mod@appos	_	Gloss=George
+31	Bush	Bush	PROPN	_	_	30	flat@name	_	Gloss=Bush
+32	"	"	PUNCT	_	_	30	punct	_	Gloss=PUNCT
+33	dà	dà	CCONJ	_	_	35	cc	_	Gloss=and
+34	kuma	kuma	PART	_	PartType=Top	33	discourse@top	_	Gloss=also
+35	Shùːgàbaː	shùːgàbaː	PROPN	_	Gender=Masc	28	conj:coord	_	Gloss=president.Masc
+36	Saddam	Saddam	PROPN	_	_	35	mod@appos	_	Gloss=Saddam
+37	Hussein	Hussein	PROPN	_	_	36	flat@name	_	Gloss=Hussein|SpaceAfter=No
+38	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
+
+# sent_id = 13_Rikicin_tekun_Pasha_12
+# text_en = The second demonstration took place in Kano where anti-riot policemen went early in the morning to the Bayero University campus in Kano to prevent the students of the university from organising a peaceful demonstration against the attack that America and its allies carried on Irak.
+# text_ortho = An yi zàngà-zangà ta biyûn à Kanòː indà 'yan sàndan kashè tàr̃zòːmaː sukà yi sàmmakoː zuwàː hàr̃aːbàr̃ Jaːmi'àr̃ Bàyer̃ò ta Kanòː, don sù hanà ɗàːlìban jaːmi'àr̃ gudaːnar̃ dà zàngà-zangàr̃ lùmaːnàr̃ dà sukà shiryà yîː don nuːnà rashìn amìncêːwar̃sù dà harìn dà ƙasar̃ Amìr̃kà dà àːbòːkan ƙàwàncentà sukà kai wà ƙasar̃ Ìr̃aːƙì.
+# text = an=yi zàngà-zangà ta biyûn à Kanòː indà 'ya-n sànda-n kashè tàr̃zòːmaː sukà=yi sàmmakoː zuwàː hàr̃aːbà-r̃Jaːmi'à-r̃ Bàyer̃ò ta Kanòː, don sù=hanà ɗàːlìba-n jaːmi'àr̃ gudaːnar̃ dà zàngà-zangà-r̃ lùmaːnàr̃ dà sukà=shiryà yîː don nuːnà rashì-n amìncêːwa-r̃ dà harìn dà ƙasa-r̃ Amìr̃kà dà àːbòːka-n ƙàwànce-n-tà sukà=kai wà ƙasa-r̃ Ìr̃aːƙì.
+1	a-	a	PRON	_	Person=4|PronType=PrsSubj	3	subj/m	_	Gloss=4|SpaceAfter=No|wordform=an
+2	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	3	mod/m	_	Gloss=Perf.Plur=|wordform=n
+3	yi	yi	VERB	_	_	0	root	_	Gloss=do
+4	zàngà-zangà	zàngà-zangà	NOUN	_	Gender=Fem	3	comp:pred	_	Gloss=demonstration.Fem
+5	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	4	mod	_	Gloss=Gen.Fem
+6	biyûn	biyû	NUM	_	Definite=Def	5	comp:obj	_	Gloss=two.Def
+7	à	à	ADP	_	_	3	mod	_	Gloss=at
+8	Kanòː	Kanòː	PROPN	_	_	7	comp:obj	_	Gloss=Kanòː
+9	indà	indà	PRON	_	PronType=Rel	8	mod@relcl	_	Gloss=where
+10	'ya	ɗaː	NOUN	_	Number=Plur	18	subj	_	Compound=Yes|Gloss=child.Plur|SpaceAfter=No|wordform='yan
+11	-n	na	PART	_	Case=Gen|PartType=Case	10	udep/m	_	Gloss=Gen.Fem
+12	sànda	sàndaː	NOUN	_	Gender=Masc	11	comp:obj	_	Compound=Yes|Gloss=baton.Masc|SpaceAfter=No|wordform=sàndan
+13	-n	na	PART	_	Case=Gen|PartType=Case	10	mod/m	_	Gloss=Gen.Masc/Plur
+14	kashè	kas-	VERB	_	Gender=Masc	13	comp:obj	_	Gloss=kill
+15	tàr̃zòːmaː	tàr̃zòːmaː	NOUN	_	Gender=Fem	14	compound	_	Gloss=riot.Fem
+16	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	18	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
+17	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	18	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
+18	yi	yi	VERB	_	_	9	comp:obj	_	Gloss=do
+19	sàmmakoː	sàmmakoː	NOUN	_	Gender=Masc	18	comp:pred	_	Gloss=early_morning_start.Masc
+20	zuwàː	zuwàː	ADP	_	_	18	comp:obl	_	Gloss=towards
+21	hàr̃aːbà	hàr̃aːbàː	NOUN	_	Gender=Fem	20	comp:obj	_	Gloss=campus.Fem|SpaceAfter=No|wordform=hàr̃aːbàr̃
+22	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	21	mod/m	_	Gloss=Gen.Fem|SpaceAfter=No
+23	Jaːmi'à	jaːmi'àː	NOUN	_	Gender=Fem	22	comp:obj	_	Gloss=university.Fem|SpaceAfter=No|wordform=Jaːmi'àr̃
+24	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	23	mod@appos/m	_	Gloss=Gen.Fem
+25	Bàyer̃ò	Bàyer̃ò	PROPN	_	_	24	comp:obj	_	Gloss=Bàyer̃ò
+26	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	23	mod	_	Gloss=Gen.Fem
+27	Kanòː	Kanòː	PROPN	_	_	26	comp:obj	_	Gloss=Kano|SpaceAfter=No
+28	,	,	PUNCT	_	_	29	punct	_	Gloss=PUNCT
+29	don	don	SCONJ	_	_	18	mod	_	Gloss=in_order_to
+30	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	32	subj/m	_	Gloss=3.Plur-|SpaceAfter=No|wordform=sù
+31	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	32	mod/m	_	Gloss=Sub=
+32	hanà	han-	VERB	_	_	29	comp:obj	_	Gloss=prevent
+33	ɗàːlìba	ɗaːlìbiː	NOUN	_	Number=Plur	36	subj	_	Gloss=student.Plur|SpaceAfter=No|wordform=ɗàːlìban
+34	-n	na	PART	_	Case=Gen|PartType=Case	33	mod/m	_	Gloss=Gen.Masc/Plur
+35	jaːmi'àr̃	jaːmi'àː	NOUN	_	Definite=Def|Gender=Fem	34	comp:obj	_	Gloss=university.Fem.Def
+36	gudaːnar̃	gudaːn-	VERB	_	Voice=Cau	32	comp:obj	_	Gloss=carry_out.Cau
+37	dà	dà	ADP	_	_	36	comp:obl	_	Gloss=with
+38	zàngà-zangà	zàngà-zangàr̃	NOUN	_	Gender=Fem	37	comp:obj	_	Gloss=demonstration.Fem|SpaceAfter=No|wordform=zàngà-zangàr̃
+39	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	38	mod/m	_	Gloss=Gen.Fem
+40	lùmaːnàr̃	lùmaːnàː	NOUN	_	Definite=Def|Gender=Fem	39	comp:obj	_	Gloss=peace.Fem.Def
+41	dà	dà	SCONJ	_	_	38	mod@relcl	_	Gloss=COMP
+42	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	44	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
+43	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	44	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
+44	shiryà	shir-	VERB	_	_	41	comp:obj	_	Gloss=prepare
+45	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	44	comp:obj	_	Gloss=do.Vnoun.Masc
+46	don	don	SCONJ	_	_	45	mod	_	Gloss=in_order_to
+47	nuːnà	nuːn-	VERB	_	_	46	comp:obj	_	Gloss=show
+48	rashì	ras-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	47	comp:obj	_	Gloss=lack.Vnoun.Masc|SpaceAfter=No|wordform=rashìn
+49	-n	na	PART	_	Case=Gen|PartType=Case	48	udep/m	_	Gloss=Gen.Masc/Plur
+50	amìncêːwa	amint-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	49	comp:obj	_	Gloss=agree.Vnoun.Fem|SpaceAfter=No|wordform=amìncêːwar̃
+51	-r̃	na	PART	_	Case=Gen|PartType=Case	50	udep/m	_	Gloss=Gen.Fem
+52	dà	dà	ADP	_	_	51	comp:obj	_	Gloss=with|wordform=ɗà
+53	harìn	harìː	NOUN	_	Definite=Def|Gender=Masc	52	comp:obj	_	Gloss=attack.Masc.Def
+54	dà	dà	SCONJ	_	_	53	mod@relcl	_	Gloss=COMP
+55	ƙasa	ƙasaː	NOUN	_	Gender=Fem	66	subj	_	Gloss=country.Fem|SpaceAfter=No|wordform=ƙasar̃
+56	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	55	mod/m	_	Gloss=Gen.Fem
+57	Amìr̃kà	Amìr̃kà	PROPN	_	_	56	comp:obj	_	Gloss=America
+58	dà	dà	CCONJ	_	_	59	cc	_	Gloss=and
+59	àːbòːka	àːboːkiː	NOUN	_	Number=Plur	55	conj:coord	_	Gloss=friend.Plur|SpaceAfter=No|wordform=àːbòːkan
+60	-n	na	PART	_	Case=Gen|PartType=Case	59	mod/m	_	Gloss=Gen.Masc/Plur
+61	ƙàwànce	ƙàwàncen	NOUN	_	Gender=Masc	60	comp:obj	_	Gloss=coalition.Masc|Poss=Yes|SpaceAfter=No|wordform=ƙàwàncen|wordfrom=ƙàwàncentà
+62	-n	na	PART	_	Case=Gen|PartType=Case	61	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
+63	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	62	comp:obj/m	_	Gloss=3Fem.Gen
+64	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	66	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
+65	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	66	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
+66	kai	kai	VERB	_	_	54	comp:obj	_	Gloss=reach/carry_to
+67	wà	mà	ADP	_	Case=Dat	66	comp:obl	_	Gloss=Dat
+68	ƙasa	ƙasaː	NOUN	_	Gender=Fem	67	comp:obj	_	Gloss=country.Fem|SpaceAfter=No|wordform=ƙasar̃
+69	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	68	mod/m	_	Gloss=Gen.Fem
+70	Ìr̃aːƙì	Ìr̃aːƙì	PROPN	_	_	69	comp:obj	_	Gloss=Irak|SpaceAfter=No
+71	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
+
+# sent_id = 13_Rikicin_tekun_Pasha_13
+# text_en = Early in the morning, anti-riot policemen went to the university campus, they surrounded the place, then they closed all the doors with large padlocks.
+# text_ortho = Tun dà duku-duku nèː 'yan sàndan kashè tàr̃zòːmâr̃ sukà jeː hàr̃aːbàr̃ jaːmi'àr̃ sukà yi wà wurîn ƙawanyàː, sànnan kuma sukà kullèː duk ƙoːfoːfîn dà mânyan kwaːɗunàː.
+# text = tun dà duku-duku nèː 'ya-n sànda-n kashè tàr̃zòːmâr̃ sukà=jeː hàr̃aːbà-r̃jaːmi'àr̃ sukà=yi wà wurîn ƙawanyàː, sànnan kuma sukà=kullèː duk ƙoːfoːfîn dà mânyan kwaːɗunàː.
+1	tun	tun	ADP	_	_	13	mod	_	Gloss=since
+2	dà	dà	ADP	_	_	1	comp:obj	_	Gloss=with
+3	duku-duku	duku-dukkà	ADV	_	_	2	comp:obj	_	Gloss=early_morning
+4	nèː	neː	PART	_	PartType=Foc	3	discourse@foc	_	Gloss=Emph
+5	'ya	ɗaː	NOUN	_	Number=Plur	13	subj	_	Compound=Yes|Gloss=child.Plur|SpaceAfter=No|wordform='yan
+6	-n	na	PART	_	Case=Gen|PartType=Case	5	udep/m	_	Gloss=Gen.Fem
+7	sànda	sàndaː	NOUN	_	Gender=Masc	6	comp:obj	_	Compound=Yes|Gloss=baton.Masc|SpaceAfter=No|wordform=sàndan
+8	-n	na	PART	_	Case=Gen|PartType=Case	5	udep/m	_	Gloss=Gen.Masc/Plur
+9	kashè	kas-	VERB	_	Gender=Masc	8	comp:obj	_	Gloss=kill
+10	tàr̃zòːmâr̃	tàr̃zòːmaː	NOUN	_	Definite=Def|Gender=Fem	9	compound	_	Gloss=riot.Fem.Def
+11	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	13	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
+12	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	13	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
+13	jeː	jeː	VERB	_	_	0	root	_	Gloss=go
+14	hàr̃aːbà	hàr̃aːbàː	NOUN	_	Gender=Fem	13	comp:obj@G	_	Gloss=campus.Fem|SpaceAfter=No|wordform=hàr̃aːbàr̃
+15	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	14	mod/m	_	Gloss=Gen.Fem|SpaceAfter=No
+16	jaːmi'àr̃	jaːmi'àː	NOUN	_	Definite=Def|Gender=Fem	15	comp:obj	_	Gloss=university.Fem.Def
+17	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	19	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
+18	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	19	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
+19	yi	yi	VERB	_	_	13	parataxis@conj	_	Gloss=do
+20	wà	mà	ADP	_	Case=Dat	19	comp:obl	_	Gloss=Dat
+21	wurîn	wurîː	NOUN	_	Definite=Def|Gender=Masc	20	comp:obj	_	Gloss=place.Masc.Def
+22	ƙawanyàː	ƙawanyàː	NOUN	_	Gender=Fem	19	comp:pred	_	Gloss=circle.Fem|SpaceAfter=No
+23	,	,	PUNCT	_	_	28	punct	_	Gloss=PUNCT
+24	sànnan	sànnan	ADV	_	_	28	mod	_	Gloss=then
+25	kuma	kuma	PART	_	PartType=Top	24	discourse@top	_	Gloss=also
+26	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	28	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
+27	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	28	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
+28	kullèː	kull-	VERB	_	_	19	parataxis@conj	_	Gloss=lock
+29	duk	dukà	DET	_	PronType=Tot	30	det	_	Gloss=all
+30	ƙoːfoːfîn	ƙoːfàː	NOUN	_	Definite=Def|Number=Plur	28	comp:obj	_	Gloss=door.Plur.Def
+31	dà	dà	ADP	_	_	28	comp:obl	_	Gloss=with
+32	mânyan	bàbba	ADJ	_	Number=Plur	33	mod	_	Gloss=big.Plur
+33	kwaːɗunàː	kwàːɗoː	VERB	_	ExtPos=NOUN|Number=Plur|VerbForm=Vnoun	31	comp:obj	_	Gloss=padlock.Plur|SpaceAfter=No
+34	.	.	PUNCT	_	_	13	punct	_	Gloss=PUNCT
+
+# sent_id = 13_Rikicin_tekun_Pasha_14
+# text_en = Well, when the students understood that the police had isolated them, then they started to voice their anger by throwing stones at the police.
+# text_ortho = Tòː loːkàcîn dà ɗàːlìbân sukà fàhìmci cêːwaː 'yan sàndaː sun yi musù ƙoːfàr̃ ragoː, sai sukà faːrà huːcè haushinsù sukà rinƙà jiːfàn 'yan sàndân dà duwàːtsuː.
+# text = tòː loːkàcîn dà ɗàːlìbân sukà fàhìmci cêːwaː 'yan sàndaː sun yi musù ƙoːfàr̃ ragoː, sai sukà faːrà huːcè haushinsù sukà rinƙà jiːfàn 'yan sàndân dà duwàːtsuː.
+1	tòː	tòː	INTJ	_	_	23	discourse	_	Gloss=well
+2	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	23	mod	_	Gloss=time.Masc.Def
+3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP
+4	ɗàːlìbân	ɗaːlìbiː	NOUN	_	Definite=Def|Number=Plur	7	subj	_	Gloss=student.Plur.Def
+5	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	7	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
+6	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
+7	fàhìmci	fahimt-	VERB	_	_	3	comp:obj	_	Gloss=understand
+8	cêːwaː	cêːwaː	SCONJ	_	_	7	comp:obj	_	Gloss=COMP
+9	'ya	ɗaː	NOUN	_	Number=Plur	14	subj	_	Compound=Yes|Gloss=child.Plur|SpaceAfter=No|wordform='yan
+10	-n	na	PART	_	Case=Gen|PartType=Case	9	udep/m	_	Gloss=Gen.Fem
+11	sàndaː	sàndaː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=baton.Masc
+12	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	14	subj/m	_	Gloss=3Plur|SpaceAfter=No|wordform=sun
+13	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	14	mod/m	_	Gloss=Perf.Plur=|wordform=n
+14	yi	yi	VERB	_	_	8	comp:obj	_	Gloss=do
+15	musù	musù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	14	comp:obl	_	Gloss=3Plur.Dat
+16	ƙoːfà	ƙoːfàː	NOUN	_	Gender=Fem	14	comp:pred	_	Compound=Yes|Gloss=door.Fem|SpaceAfter=No|wordform=ƙoːfàr̃
+17	-r̃	na	PART	_	Case=Gen|PartType=Case	16	udep/m	_	Gloss=Gen.Fem
+18	ragoː	ragoː	NOUN	_	Gender=Masc	17	comp:obj	_	Gloss=lazy_person.Masc|SpaceAfter=No
+19	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
+20	sai	sai	ADV	_	_	23	mod	_	Gloss=then
+21	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	23	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
+22	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	23	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
+23	faːrà	faːr-	VERB	_	_	0	root	_	Gloss=begin
+24	huːcè	huːt-	VERB	_	_	23	comp:obj	_	Gloss=vent
+25	haushi	haushiː	NOUN	_	Gender=Masc	24	comp:obj	_	Gloss=anger.Masc|Poss=Yes|SpaceAfter=No|wordform=haushinsù
+26	-n	na	PART	_	Case=Gen|PartType=Case	25	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
+27	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	26	comp:obj	_	Gloss=3Plur.Gen
+28	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	30	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
+29	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	30	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
+30	rinƙà	rinƙ-	VERB	_	_	23	parataxis@conj	_	Gloss=keep_on
+31	jiːfà	jeːf-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	30	comp:obj	_	Compound=Yes|Gloss=throw.Vnoun.Masc.|SpaceAfter=No|wordform=jiːfàn
+32	-n	na	PART	_	Case=Gen|PartType=Case	31	comp:obj/m	_	Gloss=Gen.Masc/Plur
+33	'ya	ɗaː	NOUN	_	Number=Plur	32	comp:obj	_	Compound=Yes|Gloss=child.Plur|SpaceAfter=No|wordform='yan
+34	-n	na	PART	_	Case=Gen|PartType=Case	33	udep/m	_	Gloss=Gen.Fem
+35	sàndân	sàndaː	NOUN	_	Definite=Def|Gender=Masc	34	comp:obj	_	Gloss=baton.Masc.Def
+36	dà	dà	ADP	_	_	31	comp:obl	_	Gloss=with
+37	duwàːtsuː	duːtsìː	NOUN	_	Number=Plur	36	comp:obj	_	Gloss=stone.Plur|SpaceAfter=No
+38	.	.	PUNCT	_	_	23	punct	_	Gloss=PUNCT
+
+# sent_id = 13_Rikicin_tekun_Pasha_15a
+# text_en = Seeing this, the police retaliated with tear gas.
+# text_ortho = Ganin hakà neː kuma ya sâː suː 'yan sàndân sukà mai dà mar̃tàniː dà bàr̃kòːnon tsoːhuwaː,
+# text = gani-n hakà neː kuma ya= sâː suː 'ya-n sàndân su-kà mai dà mar̃tàniː dà bàr̃kòːno-n tsoːhuwaː,
+1	gani	ganiː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	0	root	_	Gloss=see.Vnoun.Masc|SpaceAfter=No|wordform=ganin
+2	-n	na	PART	_	Case=Gen|PartType=Case	1	udep/m	_	Gloss=Gen.Masc/Plur
+3	hakà	hakà	ADV	_	_	2	comp:obj	_	Gloss=thus
+4	neː	neː	PART	_	PartType=Foc	1	discourse@foc	_	Gloss=Emph
+5	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
+6-7	ya=	_	_	_	_	_	_	_	_
+6	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	8	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
+7	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	8	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
+8	sâː	sâː	VERB	_	_	1	comp:cleft	_	Gloss=cause
+9	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	15	subj	_	Gloss=3Plur.Nom
+10	'ya	ɗaː	NOUN	_	Number=Plur	9	conj:appos	_	Compound=Yes|Gloss=child.Plur|SpaceAfter=No|wordform='yan
+11	-n	na	PART	_	Case=Gen|PartType=Case	10	udep/m	_	Gloss=Gen.Fem
+12	sàndân	sàndaː	NOUN	_	Definite=Def|Gender=Masc	11	comp:obj	_	Gloss=baton.Masc.Def
+13	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	15	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà=
+14	kà	kà	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	15	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+15	mai	may-	VERB	_	_	8	comp:obj	_	Gloss=return
+16	dà	dà	ADP	_	_	15	comp:obl	_	Gloss=with
+17	mar̃tàniː	mar̃tàniː	NOUN	_	Definite=Ind|Gender=Masc	16	comp:obj	_	Gloss=retaliation.Masc
+18	dà	dà	CCONJ	_	_	15	comp:obl	_	Gloss=and
+19	bàr̃kòːno	bàr̃kòːnoː	NOUN	_	Gender=Masc	18	comp:obj	_	Compound=Yes|Gloss=pepper.Masc|SpaceAfter=No|wordform=bàr̃kòːnon
+20	-n	na	PART	_	Case=Gen|PartType=Case	19	udep/m	_	Gloss=Gen.Fem
+21	tsoːhuwaː	tsoːhoː	NOUN	_	Definite=Ind|Gender=Fem	20	comp:obj	_	Gloss=old_person.Fem|SpaceAfter=No
+22	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
+
+# sent_id = 13_Rikicin_tekun_Pasha_15b
+# text_en = Finally, the students retreated and went back to the university campus.
+# text_ortho = dàgà ƙàrsheː sai ɗàːlìbân sukà jaː dà baːya sukà koːmàː cikin hàr̃aːbàr̃ jaːmi'àr̃.
+# text = dàgà ƙàrsheː sai ɗàːlìbân sukà jaː dà baːya sukà koːmàː cikin hàr̃aːbàr̃ jaːmi'àr̃.
+1	dàgà	dàgà	ADP	_	_	7	mod	_	Gloss=from
+2	ƙàrsheː	ƙàrsheː	NOUN	_	Gender=Masc	1	comp:obj	_	Gloss=end.Masc
+3	sai	sai	ADV	_	_	7	mod	_	Gloss=then
+4	ɗàːlìbân	ɗaːlìbiː	NOUN	_	Definite=Def|Number=Plur	7	subj	_	Gloss=student.Plur.Def
+5	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	7	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
+6	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
+7	jaː	jaː	VERB	_	_	0	root	_	Gloss=pull
+8	dà	dà	ADP	_	_	7	comp:obl	_	Gloss=with
+9	baːya	baːya	ADV	_	_	8	comp:obj	_	Gloss=back
+10	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	12	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
+11	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	12	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
+12	koːmàː	koːm-	VERB	_	_	7	parataxis@conj	_	Gloss=go_back
+13	cikin	cikin	ADP	_	_	12	comp:obl	_	Gloss=inside
+14	hàr̃aːbà	hàr̃aːbàː	NOUN	_	Gender=Fem	13	comp:obj	_	Gloss=campus.Fem|SpaceAfter=No|wordform=hàr̃aːbàr̃
+15	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	14	mod/m	_	Gloss=Gen.Fem
+16	jaːmi'àr̃	jaːmi'àː	NOUN	_	Definite=Def|Gender=Fem	15	comp:obj	_	Gloss=university.Fem.def|SpaceAfter=No
+17	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
+
+# sent_id = 13_Rikicin_tekun_Pasha_16
+# text_en = There is no report of injuries in relation with the demonstrations that took place in Katsina and Kano, but the call that the Sultan of Sokoto made for people to keep calm shows indeed that there is a possibility that unrest could develop.
+# text_ortho = Baːbù wani r̃àhoːtòn raunukàː dà akà saːmùː sànàdiyyàr̃ zàngà-zangàr̃ dà akà yi duk à Kàtsinà dà kuma Kanòː, tòː àmmaː kiràn dà Sarkin Mùsùlmiː ya yi na à zaunàː laːfiyàː yaː nuːnàː kèːnan àkwai yìːwuwar̃ ɓarkèːwar̃ taːshìn hankàliː
+# text = baːbù wani r̃àhoːtòn raunukàː dà akà saːmùː sànàdiyyàr̃ zàngà-zangàr̃ dà akà yi duk à Kàtsinà dà kuma Kanòː, tòː àmmaː kiràn dà Sarkin Mùsùlmiː ya yi na à zaunàː laːfiyàː yaː nuːnàː kèːnan àkwai yìːwuwar̃ ɓarkèːwar̃ taːshìn hankàliː
+1	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is_not
+2	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	3	det	_	Gloss=some.Masc.Spec
+3	r̃àhoːtò	r̃àhoːtòː	NOUN	_	Gender=Masc|Number=Plur	1	subj	_	Gloss=report.Masc|SpaceAfter=No|wordform=r̃àhoːtòn
+4	-n	na	PART	_	Case=Gen|PartType=Case	3	mod/m	_	Gloss=Gen.Masc/Plur
+5	raunukàː	raunìː	NOUN	_	Number=Plur	4	comp:obj	_	Gloss=injury.Plur
+6	dà	dà	SCONJ	_	_	5	mod@relcl	_	Gloss=COMP
+7	a-	a	PRON	_	Person=4|PronType=PrsSubj	9	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
+8	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	9	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
+9	saːmùː	saːm-	VERB	_	_	6	comp:obj	_	Gloss=get
+10	sànàdiyyàr̃	sànàdiyyàr̃	ADP	_	_	9	mod	_	Gloss=concerning
+11	zàngà-zangàr̃	zàngà-zangàː	NOUN	_	Definite=Def|Gender=Fem	10	mod	_	Gloss=demonstration.Fem.Def
+12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
+13	a-	a	PRON	_	Person=4|PronType=PrsSubj	15	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=aka
+14	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	15	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
+15	yi	yi	VERB	_	_	12	comp:obj	_	Gloss=do
+16	duk	dukà	DET	_	PronType=Tot	15	mod	_	Gloss=all
+17	à	à	ADP	_	_	15	mod	_	Gloss=at
+18	Kàtsinà	Kàtsinà	PROPN	_	_	17	comp:obj	_	Gloss=Kàtsinà
+19	dà	dà	CCONJ	_	_	21	cc	_	Gloss=and
+20	kuma	kuma	PART	_	PartType=Top	19	discourse@top	_	Gloss=also
+21	Kanòː	Kanòː	PROPN	_	_	18	conj:coord	_	Gloss=Kanòː|SpaceAfter=No
+22	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
+23	tòː	tòː	INTJ	_	_	40	discourse	_	Gloss=well
+24	àmmaː	àmmaː	CCONJ	_	_	40	cc	_	Gloss=but
+25	kiràn	kiraː	VERB	_	Definite=Def|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	40	subj	_	Gloss=call.Vnoun.Masc.Def
+26	dà	dà	SCONJ	_	_	25	mod@relcl	_	Gloss=COMP|wordform=da
+27	Sarki	sarkiː	NOUN	_	Gender=Masc	32	subj	_	Gloss=leader.Masc|SpaceAfter=No|wordform=Sarkin
+28	-n	na	PART	_	Case=Gen|PartType=Case	27	udep/m	_	Gloss=Gen.Masc/Plur
+29	Mùsùlmiː	mùsùlmiː	PROPN	_	Number=Plur	28	comp:obj	_	Gloss=muslim.Plur
+30-31	ya=	_	_	_	_	_	_	_	_
+30	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	32	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
+31	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	32	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
+32	yi	yi	VERB	_	_	26	comp:obj	_	Gloss=do
+33	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	25	mod	_	Gloss=Gen
+34	a-	a	PRON	_	Person=4|PronType=PrsSubj	36	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
+35	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	36	mod/m	_	Gloss=Sub=
+36	zaunàː	zaun-	VERB	_	_	33	comp:obj	_	Gloss=sit
+37	laːfiyàː	laːfiyàː	NOUN	_	Definite=Ind|Gender=Fem	36	comp:obj	_	Gloss=health.Fem
+38	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	40	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
+39	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	40	mod/m	_	Gloss=Perf.Sing=|wordform=aː
+40	nuːnàː	nuːn-	VERB	_	_	1	conj:coord	_	Gloss=show
+41	kèːnan	neː	PART	_	PartType=Foc	40	discourse@foc	_	Gloss=Emph
+42	àkwai	àkwai	PART	_	PartType=Pred	40	comp:obj	_	Gloss=there_is
+43	yìːwuwa	yìːwuwaː	NOUN	_	Gender=Fem	42	subj	_	Gloss=possibility.Fem|SpaceAfter=No|wordform=yìːwuwar̃
+44	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	43	mod/m	_	Gloss=Gen.Fem
+45	ɓarkèːwa	ɓark-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	44	comp:obj	_	Gloss=break_out.Vnoun.Fem|SpaceAfter=No|wordform=ɓarkèːwar̃
+46	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	45	mod/m	_	Gloss=Gen.Fem
+47	taːshì	taːshìː	NOUN	_	Gender=Masc	46	comp:obj	_	Compound=Yes|Gloss=uprise.Masc|SpaceAfter=No|wordform=taːshìn
+48	-n	na	PART	_	Case=Gen|PartType=Case	47	udep/m	_	Gloss=Gen.Fem
+49	hankàliː	hankàliː	NOUN	_	Gender=Masc	48	comp:obj	_	Gloss=mind.Masc
+

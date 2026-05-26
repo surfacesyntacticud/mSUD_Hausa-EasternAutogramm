@@ -1,0 +1,686 @@
+# sent_id = 02_Yarima_Charles_1
+# text_en = Prince Charles payed a visit to West Africa
+# text = Yàr̃iːmà Charles yaː kai zìyaːr̃àː zuwàː Afìr̃kà ta Yâmma
+# text_ortho = Yàr̃iːmà Charles yaː kai zìyaːr̃àː zuwàː Afìr̃kà ta Yâmma
+1	Yàr̃iːmà	yàr̃iːmà	NOUN	_	Gender=Masc	5	subj	_	Gloss=prince.Masc
+2	Charles	Charles	PROPN	_	_	1	mod@appos	_	Gloss=Charles
+3	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
+4	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	5	mod/m	_	Gloss=Perf.Sing=|wordform=aː
+5	kai	kai	VERB	_	_	0	root	_	Gloss=reach/carry_to
+6	zìyaːr̃àː	zìyaːr̃àː	NOUN	_	Gender=Fem	5	comp:obj	_	Gloss=visit.Fem
+7	zuwàː	zuwàː	ADP	_	_	6	mod	_	Gloss=towards
+8	Afìr̃kà	Afìr̃kà	PROPN	_	_	7	comp:obj	_	Gloss=Africa
+9	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	8	mod	_	Gloss=Gen.Fem
+10	Yâmma	yâmma	ADV	_	_	9	comp:obj	_	Gloss=west
+
+# sent_id = 02_Yarima_Charles_2
+# text_en = For most Nigerians, the recent apparition of the boad named "Britannia" on the bay of Lagos, was the first sign that announced that members of the British royal family were visiting Nigeria.
+# text = gà mafìː yawanci-n ꞌyan Nàːjeːr̃iyàː, ɓullôːwa-r̃ jirgi-n ruwân nan mài suːnaː « Britannia » à gaːɓà-r̃ Tèːk-r̃ Ìkko kwaːna-n baːya, ita cèː àlaːmàː ta farkoː dà ta= nuːnà cêːwaː 'ya-n gida -n sàrautà-r̃ Bìrtaːniyà sunàː= zìyaːr̃à-r̃ Nàːjeːr̃iyàː.
+# text_ortho = Gà mafìː yawancin ꞌyan Nàːjeːr̃iyàː, ɓullôːwar jirgin ruwân nan mài suːnaː « Britannia » à gaːɓàr̃ tèːkun Ìkko kwaːnan baːya, ita cèː àlaːmàː ta farkoː dà ta nuːnà cêːwaː 'yan gidan sàrautàr̃ Bìrtaːniyàː sunàː zìyaːr̃àr̃ Nàːjeːr̃iyàː.
+1	gà	gà	ADP	_	_	31	mod	_	Gloss=to
+2	mafìː	mafìː	PART	_	PartType=Der	1	comp:obj	_	Gloss=exceeding_in
+3	yawanci	yawanciː	NOUN	_	Gender=Masc	2	compound	_	Gloss=majority.Masc|SpaceAfter=No|wordform=yawancin
+4	-n	na	PART	_	Case=Gen|PartType=Case	3	udep/m	_	Gloss=Gen.Masc/Plur
+5	ꞌya	ɗaː	NOUN	_	Number=Plur	4	comp:obj	_	Compound=Yes|Gloss=child.Plur.|SpaceAfter=No|wordform=ꞌyan
+6	-n	na	PART	_	Case=Gen|PartType=Case	5	udep/m	_	Gloss=Gen.Masc/Plur
+7	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	6	comp:obj	_	Gloss=Nigeria|SpaceAfter=No
+8	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
+9	ɓullôːwa	ɓull-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	31	subj	_	Gloss=appear.Vnoun.Fem|SpaceAfter=No|wordform=ɓullôːwar̃
+10	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	9	mod/m	_	Gloss=Gen.Fem
+11	jirgi	jirgiː	NOUN	_	Gender=Masc	10	comp:obj	_	Compound=Yes|Gloss=vehicle.Masc|SpaceAfter=No|wordform=jirgin
+12	-n	na	PART	_	Case=Gen|PartType=Case	11	udep/m	_	Gloss=Gen.Fem
+13	ruwân	ruwaː	NOUN	_	Definite=Def|Gender=Masc	12	comp:obj	_	Gloss=water.Masc.Def
+14	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	11	det	_	Gloss=PreRef|PreRef=Yes
+15	mài	mài	PART	_	Number=Sing|PartType=Der	11	mod	_	Gloss=owner_of.Sing
+16	suːnaː	suːnaː	NOUN	_	Gender=Masc	15	compound	_	Gloss=name.Masc
+17	«	«	PUNCT	_	_	18	punct	_	Gloss=PUNCT
+18	Britannia	Britannia	PROPN	_	_	16	mod	_	Gloss=Britannia
+19	»	»	PUNCT	_	_	18	punct	_	Gloss=PUNCT
+20	à	à	ADP	_	_	9	mod	_	Gloss=at
+21	gaːɓà	gaːɓàː	NOUN	_	Gender=Fem	20	comp:obj	_	Gloss=shore.Fem|SpaceAfter=No|wordform=gaːɓàr̃
+22	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	21	mod/m	_	Gloss=Gen.Fem
+23	Tèːk	tèːku	NOUN	_	Gender=Fem	22	comp:obj	_	Gloss=sea.Fem|SpaceAfter=No|wordform=Tèːkun
+24	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	23	mod/m	_	Gloss=Gen.Fem
+25	Ìkko	Ìkko	PROPN	_	_	24	comp:obj	_	Gloss=Lagos
+26	kwaːna	kwaːnaː	NOUN	_	Gender=Masc	9	mod	_	Compound=Yes|Gloss=day.Masc|SpaceAfter=No|wordform=kwaːnan
+27	-n	na	PART	_	Case=Gen|PartType=Case	26	udep/m	_	Gloss=Gen.Fem
+28	baːya	baːya	ADV	_	_	27	comp:obj	_	Gloss=back|SpaceAfter=No
+29	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
+30	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	31	comp:pred	_	Gloss=3Fem.Nom
+31	cèː	neː	AUX	_	Copula=Yes|Gender=Fem	0	root	_	Gloss=Equ.Fem
+32	àlaːmàː	àlaːmàː	NOUN	_	Gender=Fem	31	dislocated@comp	_	Gloss=sign.Fem
+33	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	32	mod	_	Gloss=Gen.Fem
+34	farkoː	farkoː	NOUN	_	Gender=Masc	33	comp:obj	_	Gloss=beginning.Masc
+35	dà	dà	SCONJ	_	_	32	mod@relcl	_	Gloss=COMP
+36-37	ta=	_	_	_	_	_	_	_	_
+36	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	38	subj/m	_	Gloss=3Fem-|Relative=Yes|SpaceAfter=No|wordform=ta
+37	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	38	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
+38	nuːnà	nuːn-	VERB	_	_	35	comp:obj	_	Gloss=show
+39	cêːwaː	cêːwaː	SCONJ	_	_	38	comp:obj	_	Gloss=COMP
+40	'ya	ɗaː	NOUN	_	Number=Plur	48	subj	_	Compound=Yes|Gloss=child.Plur|SpaceAfter=No|wordform='yan
+41	-n	na	PART	_	Case=Gen|PartType=Case	40	udep/m	_	Gloss=Gen.Fem
+42	gida	gidaː	NOUN	_	Gender=Masc	41	comp:obj	_	Gloss=house.Masc
+43	-n	na	NOUN	_	Gender=Masc	40	udep/m	_	Gloss=house.Masc
+44	sàrautà	sàrautàː	NOUN	_	Gender=Fem	43	comp:obj	_	Gloss=royalty.Fem|SpaceAfter=No|wordform=sàrautàr̃
+45	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	44	mod/m	_	Gloss=Gen.Fem
+46	Bìrtaːniyà	Bìrtaːniyà	PROPN	_	_	45	comp:obj	_	Gloss=Great-Britain
+47	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	48	subj/m	_	Gloss=3Plur|SpaceAfter=No
+48	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	39	comp:obj	_	Gloss=Prog|wordform=sunàː
+49	zìyaːr̃à	ziyaːr̃-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	48	comp:pred	_	Gloss=visit.Vnoun.Fem|SpaceAfter=No|wordform=zìyaːr̃àr̃
+50	-r̃	na	PART	_	Case=Gen|PartType=Case	49	udep/m	_	Gloss=Gen.Fem
+51	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	50	comp:obj	_	Gloss=Nigeria|SpaceAfter=No
+52	.	.	PUNCT	_	_	31	punct	_	Gloss=PUNCT
+
+# sent_id = 02_Yarima_Charles_3
+# text = yâːraː ƙanaːnàː dà kèː= kân gadoːjiː na bir̃ni-n Ìkko su- nàː tàllà-n tarkò-n ɓeːr̃aː, dà kamfàːyeː, dà agoːgunàn " Rolex" na jàbu à tsàːkaːnin cùnkoːso-n moːtoːci, duk sun= daːkatar̃ dà tàllàce-tàllàce-n-sù dòːmin sù= yi kallo-n hàdàː-hadâr̃ dà ta- kèː àukuwaː à bàːki-n tèːkûn.
+# text_en = The children that are on the bridges of Lagos selling mouse traps, underpants and fake "Rolex" watches in the traffic jams, they all stopped peddling to watch the confusion that was taking place on the sea side.
+# text_ortho = Yâːraː ƙanaːnàː dà kèː kân gadoːjiː na bir̃nin Ìkko sunàː tàllàn tarkòn ɓeːr̃aː, da kamfàːyeː, dà agoːgunàn ‘Rolex’ na jàbu à tsàːkaːnin cùnkoːson moːtoːci, duk sun daːkatar̃ dà tàllàce-tàllàcensù dòːmin sù yi kallon hàdàː-hadâr̃ da takèː àukuwaː à bàːkin tèːkûn.
+1	yâːraː	yaːròː	NOUN	_	Number=Plur	38	dislocated@subj	_	Gloss=child.Plur
+2	ƙanaːnàː	ƙàramiː	ADJ	_	Number=Plur	1	mod	_	Gloss=small.Plur
+3	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
+4	kèː	nàː	AUX	_	Copula=Yes	3	comp:obj	_	Gloss=bePred.Rel|Relative=Yes
+5	kân	kân	ADP	_	_	4	comp:pred	_	Gloss=on
+6	gadoːjiː	gadàː	NOUN	_	Number=Plur	5	comp:obj	_	Gloss=bridge.Plur
+7	na	na	PART	_	Case=Gen|Number=Plur|PartType=Case	6	mod	_	Gloss=Gen
+8	bir̃ni	bir̃niː	NOUN	_	Gender=Masc	7	comp:obj	_	Gloss=city.Masc|SpaceAfter=No|wordform=bir̃nin
+9	-n	na	PART	_	Case=Gen|PartType=Case	8	mod/m	_	Gloss=Gen.Masc/Plur
+10	Ìkko	Ìkko	PROPN	_	_	9	comp:obj	_	Gloss=Lagos
+11	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	12	subj/m	_	Gloss=3Plur|SpaceAfter=No
+12	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	1	mod@relcl	_	Gloss=Prog|wordform=sunàː
+13	tàllà	tàllà	NOUN	_	Gender=Masc	12	comp:pred	_	Gloss=hawking.Masc|SpaceAfter=No|wordform=tàllàn
+14	-n	na	PART	_	Case=Gen|PartType=Case	12	mod/m	_	Gloss=Gen.Masc/Plur
+15	tarkò	tarkòː	NOUN	_	Gender=Masc	14	comp:obj	_	Gloss=trap.Masc|SpaceAfter=No|wordform=tarkòn
+16	-n	na	PART	_	Case=Gen|PartType=Case	15	mod/m	_	Gloss=Gen.Masc/Plur
+17	ɓeːr̃aː	ɓeːr̃aː	NOUN	_	Gender=Masc	16	comp:obj	_	Gloss=rat.Masc|SpaceAfter=No
+18	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
+19	dà	da	CCONJ	_	_	20	cc	_	Gloss=and|wordform=da
+20	kamfàːyeː	kamfai	NOUN	_	Number=Plur	15	conj:coord	_	Gloss=underpants|SpaceAfter=No
+21	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
+22	dà	dà	CCONJ	_	_	23	cc	_	Gloss=and
+23	agoːgunàn	àgoːgo	NOUN	_	Definite=Def|Number=Plur	20	conj:coord	_	Gloss=watch.Plur.Def
+24	"	"	PUNCT	_	_	25	punct	_	Gloss=PUNCT|wordform=‘
+25	Rolex	Rolex	PROPN	_	_	23	mod@appos	_	Gloss=Rolex|SpaceAfter=No
+26	"	"	PUNCT	_	_	25	punct	_	Gloss=PUNCT|wordform=’
+27	na	na	PART	_	Case=Gen|PartType=Case	23	mod	_	Gloss=Gen
+28	jàbu	jàbu	NOUN	_	Gender=Masc	27	comp:obj	_	Gloss=counterfeit.Masc
+29	à	à	ADP	_	_	12	mod	_	Gloss=at
+30	tsàːkaːnin	tsàːkaːnin	ADP	_	_	29	comp:obj	_	Gloss=middle
+31	cùnkoːso	cùnkoːsoː	NOUN	_	Gender=Masc	30	comp:obj	_	Gloss=congestion.Masc|SpaceAfter=No|wordform=cùnkoːson
+32	-n	na	PART	_	Case=Gen|PartType=Case	31	mod/m	_	Gloss=Gen.Masc/Plur
+33	moːtoːci	moːtàː	NOUN	_	Number=Plur	32	comp:obj	_	Gloss=car.Plur|SpaceAfter=No
+34	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
+35	duk	dukà	PRON	_	PronType=Tot	38	subj	_	Gloss=all
+36	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	38	subj/m	_	Gloss=3Plur|SpaceAfter=No|wordform=sun
+37	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	38	mod/m	_	Gloss=Perf.Plur=|wordform=n
+38	daːkatar̃	daːkat-	VERB	_	Voice=Cau	0	root	_	Gloss=stop.Cau
+39	dà	dà	ADP	_	_	38	comp:obl	_	Gloss=with
+40	tàllàce-tàllàce	tàllà	NOUN	_	Number=Plur	39	comp:obj	_	Gloss=hawking.Plur|Poss=Yes|SpaceAfter=No|wordform=tàllàce-tàllàcensù
+41	-n	na	PART	_	Case=Gen|PartType=Case	40	mod@poss	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
+42	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	41	comp:obj	_	Gloss=3Plur.Gen
+43	dòːmin	dòːmin	SCONJ	_	_	38	mod	_	Gloss=in_order_to
+44	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	46	subj/m	_	Gloss=3.Plur-|SpaceAfter=No|wordform=sù
+45	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	46	mod/m	_	Gloss=Sub=
+46	yi	yi	VERB	_	_	43	comp:obj	_	Gloss=do
+47	kallo	kalloː	NOUN	_	Gender=Masc	46	comp:pred	_	Gloss=watching.Masc|SpaceAfter=No|wordform=kallon
+48	-n	na	PART	_	Case=Gen|PartType=Case	47	udep/m	_	Gloss=Gen.Masc/Plur
+49	hàdàː-hadâr̃	hàdàː-hadaː	NOUN	_	Definite=Def|Gender=Fem	48	comp:obj	_	Gloss=confusion.Fem.Def
+50	dà	dà	SCONJ	_	_	49	mod@relcl	_	Gloss=COMP
+51	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	52	subj/m	_	Gloss=3Fem-|SpaceAfter=No
+52	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	50	comp:obj	_	Gloss=Prog.Rel|Relative=Yes|wordform=takèː
+53	àukuwaː	auk-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	52	comp:pred	_	Gloss=take_place.Vnoun.Fem
+54	à	à	ADP	_	_	52	mod	_	Gloss=at
+55	bàːki	bàːkiː	NOUN	_	Gender=Masc	54	comp:obj	_	Compound=Yes|Gloss=shore.Masc|SpaceAfter=No|wordform=bàːkin
+56	-n	na	PART	_	Case=Gen|PartType=Case	55	udep/m	_	Gloss=Gen.Fem
+57	tèːkûn	tèːku	NOUN	_	Definite=Def|Gender=Masc	56	comp:obj	_	Gloss=sea.Masc.Def|SpaceAfter=No
+58	.	.	PUNCT	_	_	38	punct	_	Gloss=PUNCT
+
+# sent_id = 02_Yarima_Charles_4
+# text_en = Traditionally, the guests of Nigerian Government stay at the old Lagos government house, which used to be the house of the governor at the time of the British rule.
+# text = bìsàː àlꞌaːdàː bàːƙi-n Gwamnat-r̃ Nàːjeːr̃iyàː su-kàn= sàuka nèː à tsoːhon gida-n gwamnatì dà kèː Ìkko, wandà à dâː shiː nèː gida-n gwamnà à loːkàci-n mulkì-n màllakà-r̃ Bìrtaːniyà.
+# text_ortho = Bìsàː àlꞌaːdàː bàːƙin Gwamnatin Nàːjeːr̃iyàː sukàn sàuka nèː à tsoːhon gidan Gwamnatì dà kèː l̀kko, wandà à dâː shiː nèː gidan Gwamnà à loːkàcin mulkìn màllakàr̃ Bìrtaːniyàː.
+1	bìsàː	bìsàː	ADP	_	_	10	mod	_	Gloss=according_to
+2	àlꞌaːdàː	àlꞌaːdàː	NOUN	_	Gender=Fem	1	comp:obj	_	Gloss=custom.Fem
+3	bàːƙi	bàːƙoː	NOUN	_	Number=Plur	10	subj	_	Gloss=guest.Plur|SpaceAfter=No|wordform=bàːƙin
+4	-n	na	PART	_	Case=Gen|PartType=Case	3	mod/m	_	Gloss=Gen.Masc/Plur
+5	Gwamnat	gwamnatì	NOUN	_	Gender=Fem	4	comp:obj	_	Gloss=government.Fem|SpaceAfter=No|wordform=Gwamnatìn
+6	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	5	mod/m	_	Gloss=Gen.Fem
+7	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	Number=Plur	6	comp:obj	_	Gloss=Nigeria
+8	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	10	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukàn
+9	kàn=	kàn=	PART	_	Aspect=Hab|PartType=TAM	10	mod/m	_	Gloss=Hab=
+10	sàuka	sauk-	VERB	_	_	0	root	_	Gloss=get_down
+11	nèː	neː	PART	_	PartType=Foc	10	discourse@foc	_	Gloss=Emph
+12	à	à	ADP	_	_	10	comp:obl	_	Gloss=at
+13	tsoːhon	tsoːhoː	ADJ	_	Gender=Masc	14	mod	_	Gloss=old.Masc
+14	gida	gidaː	NOUN	_	Gender=Masc	12	comp:obj	_	Gloss=house.Masc|SpaceAfter=No|wordform=gidan
+15	-n	na	PART	_	Case=Gen|PartType=Case	14	mod/m	_	Gloss=Gen.Masc/Plur
+16	gwamnatì	gwamnatì	NOUN	_	Gender=Fem	15	comp:obj	_	Gloss=government.Fem
+17	dà	dà	SCONJ	_	_	14	mod@relcl	_	Gloss=COMP
+18	kèː	nàː	AUX	_	Copula=Yes	17	comp:obj	_	Gloss=bePred.Rel|Relative=Yes
+19	Ìkko	Ìkko	PROPN	_	_	18	comp:pred	_	Gloss=Lagos|SpaceAfter=No
+20	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
+21	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	14	mod@relcl	_	Gloss=REL.Masc
+22	à	à	ADP	_	_	25	mod	_	Gloss=at
+23	dâː	dâː	ADV	_	_	22	comp:obj	_	Gloss=formerly
+24	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	25	comp:pred	_	Gloss=3Masc.Nom
+25	nèː	neː	AUX	_	Copula=Yes	21	comp:obj	_	Gloss=Equ.Masc/Plur
+26	gida	gidaː	NOUN	_	Gender=Masc	25	dislocated@comp	_	Gloss=house.Masc|SpaceAfter=No|wordform=gidan
+27	-n	na	PART	_	Case=Gen|PartType=Case	26	mod/m	_	Gloss=Gen.Masc/Plur
+28	gwamnà	gwamnà	NOUN	_	Gender=Masc	27	comp:obj	_	Gloss=governor.Masc
+29	à	à	ADP	_	_	25	mod	_	Gloss=at
+30	loːkàci	loːkàciː	NOUN	_	Gender=Masc	29	comp:obj	_	Gloss=time.Masc|SpaceAfter=No|wordform=loːkàcin
+31	-n	na	PART	_	Case=Gen|PartType=Case	30	mod/m	_	Gloss=Gen.Masc/Plur
+32	mulkì	mulkìː	NOUN	_	Gender=Masc	31	comp:obj	_	Gloss=rule.Masc|SpaceAfter=No|wordform=mulkìn
+33	-n	na	PART	_	Case=Gen|PartType=Case	32	udep/m	_	Gloss=Gen.Masc/Plur
+34	màllakà	màllakàː	NOUN	_	Gender=Fem	33	comp:obj	_	Gloss=rule.Fem|SpaceAfter=No|wordform=màllakàr̃
+35	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	34	mod/m	_	Gloss=Gen.Fem
+36	Bìrtaːniyà	Bìrtaːniyà	PROPN	_	_	35	comp:obj	_	Gloss=Great-Britain|SpaceAfter=No
+37	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT
+
+# sent_id = 02_Yarima_Charles_5
+# text_en = The house is right by the sea, and up till now it is interesting and nice-looking despite the modern improvements that were doen when Nigeria was full of petrol money.
+# text = gidân nàːgab dà bàːki-n tèːku kuma har̃ yànzu ya nàː dà ba-n shàꞌawàː dà haskàkâːwaː duk dà gyàːre-gyàːre-n zaːmàniː dà akà=yi masà loːkàcîn dà Nàːjeːr̃iyàː ta-kèː cìke dà ar̃zìki-n mâ-n feːtùr̃.
+# text_ortho = Gidân nàː gab dà bàːkin tèːku kuma har̃ yànzu yanàː dà ban shàꞌawàː da haskàkâːwaː duk dà gyàːre-gyàːren zaːmàniː dà akà yi masà loːkàcîn dà Nàːjeːr̃iyàː takèː cìke dà ar̃zìkin mân feːtùr̃.
+1	gidân	gidaː	NOUN	_	Definite=Def|Gender=Masc	2	subj	_	Gloss=house.Masc.Def
+2	nàː	nàː	AUX	_	Copula=Yes	0	root	_	Gloss=be.Pred|SpaceAfter=No
+3	gab	gab	IDEO	_	ExtPos=ADP	2	comp:pred	_	Gloss=close|Idiom=Yes
+4	dà	dà	ADP	_	_	3	comp:obj	_	Gloss=with|InIdiom=Yes
+5	bàːki	bàːkiː	NOUN	_	Gender=Masc	4	comp:obj	_	Compound=Yes|Gloss=shore.Masc|SpaceAfter=No|wordform=bàːkin
+6	-n	na	PART	_	Case=Gen|PartType=Case	5	udep/m	_	Gloss=Gen.Fem
+7	tèːku	tèːku	NOUN	_	Gender=Fem	6	comp:obj	_	Gloss=sea.Fem
+8	kuma	kuma	CCONJ	_	_	12	cc	_	Gloss=also
+9	har̃	har̃	ADP	_	_	12	mod	_	Gloss=up_to
+10	yànzu	yànzu	ADV	_	_	9	comp:obj	_	Gloss=now
+11	ya	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	12	subj/m	_	Gloss=3Masc
+12	nàː	nàː	AUX	_	Copula=Yes	2	conj:coord	_	Gloss=be.Pred|wordform=yanàː
+13	dà	dà	ADP	_	_	12	comp:pred	_	Gloss=with
+14	ba	baː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	13	comp:obj	_	Compound=Yes|Gloss=give|SpaceAfter=No|wordform=ban
+15	-n	na	PART	_	Case=Gen|PartType=Case	14	udep/m	_	Gloss=Gen.Masc/Plur
+16	shàꞌawàː	shàꞌawàː	NOUN	_	Gender=Fem	15	comp:obj	_	Gloss=interest.Fem
+17	dà	da	CCONJ	_	_	18	cc	_	Gloss=and|wordform=da
+18	haskàkâːwaː	haskàk-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	16	conj:coord	_	Gloss=brighten_up.Vnoun.Fem
+19	duk	dukà	ADV	_	ExtPos=ADP|PronType=Tot	12	mod	_	Gloss=all|Idiom=Yes
+20	dà	dà	ADP	_	_	19	compound	_	Gloss=with|InIdiom=Yes
+21	gyàːre-gyàːre	gyaːraː	NOUN	_	Number=Plur	19	comp:obj	_	Gloss=repair.Plur|SpaceAfter=No|wordform=gyàːre-gyàːren
+22	-n	na	PART	_	Case=Gen|PartType=Case	21	mod/m	_	Gloss=Gen.Masc/Plur
+23	zaːmàniː	zaːmàniː	NOUN	_	Gender=Masc	22	comp:obj	_	Gloss=modern_time.Masc
+24	dà	dà	SCONJ	_	_	21	mod@relcl	_	Gloss=COMP
+25	a-	a	PRON	_	Person=4|PronType=PrsSubj	27	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
+26	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	27	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
+27	yi	yi	VERB	_	_	24	comp:obj	_	Gloss=do
+28	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	27	comp:obl	_	Gloss=3Masc.Dat
+29	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	27	mod	_	Gloss=time.Masc.Def
+30	dà	dà	SCONJ	_	_	29	comp:obl	_	Gloss=COMP
+31	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	33	subj	_	Gloss=Nigeria
+32	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	33	subj/m	_	Gloss=3Fem-|SpaceAfter=No
+33	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	30	comp:obj	_	Gloss=Prog.Rel|Relative=Yes|wordform=takèː
+34	cìke	cik-	VERB	_	_	33	comp:pred	_	Gloss=fill.Stat
+35	dà	dà	CCONJ	_	_	34	comp:obl	_	Gloss=and
+36	ar̃zìki	ar̃zìkiː	NOUN	_	Gender=Masc	35	comp:obj	_	Gloss=wealth.Masc|SpaceAfter=No|wordform=ar̃zìkin
+37	-n	na	PART	_	Case=Gen|PartType=Case	36	mod/m	_	Gloss=Gen.Masc/Plur
+38	mâ	mâi	NOUN	_	Gender=Masc	37	comp:obj	_	Gloss=oil.Masc|SpaceAfter=No|wordform=mân
+39	-n	na	PART	_	Case=Gen|PartType=Case	38	udep/m	_	Gloss=Gen.Masc/Plur
+40	feːtùr̃	feːtùr̃	NOUN	_	Gender=Masc	39	comp:obj	_	Gloss=petrol.Masc|SpaceAfter=No
+41	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
+
+# sent_id = 02_Yarima_Charles_6
+# text_en = Well but not all the equipments that are in the house are working as they should be.
+# text = tòː àmmaː bàː dukkàn abuːbuwàn jîn daːɗin ràːyuwaː dà kèː cikin gidân kèː aikìː kàmar̃ yaddà ya kàmaːtà ba.
+# text_ortho = Tòː àmmaː bàː dukkàn abuːbuwàn jîn daːɗin ràːyuwaː dà kèː cikin gidân kèː aikìː kàmar̃ yaddà ya kàmaːtà ba.
+1	tòː	tòː	INTJ	_	_	5	discourse	_	Gloss=well
+2	àmmaː	àmmaː	CCONJ	_	_	5	discourse	_	Gloss=but
+3	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	5	mod	_	Gloss=Neg
+4	dukkàn	dukà	DET	_	PronType=Tot	5	mod	_	Gloss=all
+5	abuːbuwà	àbù	NOUN	_	Number=Plur	0	root	_	Gloss=thing.Plur|SpaceAfter=No|wordform=abuːbuwàn
+6	-n	na	PART	_	Case=Gen|PartType=Case	5	mod/m	_	Gloss=Gen.Masc/Plur
+7	jî	ji	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:obj	_	Gloss=hear.Vnoun.Masc|SpaceAfter=No|wordform=jîn
+8	-n	na	PART	_	Case=Gen|PartType=Case	7	udep/m	_	Gloss=Gen.Masc/Plur
+9	daːɗi	daːɗiː	NOUN	_	Gender=Masc	8	comp:obj	_	Gloss=pleasure.Masc|SpaceAfter=No|wordform=daːɗin
+10	-n	na	PART	_	Case=Gen|PartType=Case	9	udep/m	_	Gloss=Gen.Masc/Plur
+11	ràːyuwaː	ràːyuwaː	NOUN	_	Gender=Fem	10	comp:obj	_	Gloss=life.Fem
+12	dà	dà	SCONJ	_	_	5	mod@relcl	_	Gloss=COMP
+13	kèː	nàː	AUX	_	Copula=Yes	12	comp:obj	_	Gloss=bePred.Rel|Relative=Yes
+14	cikin	cikin	ADP	_	_	13	comp:pred	_	Gloss=inside
+15	gidân	gidaː	NOUN	_	Definite=Def|Gender=Masc	14	comp:obj	_	Gloss=house.Masc.Def
+16	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	5	comp:cleft	_	Gloss=Prog.Rel|Relative=Yes
+17	aikìː	aikìː	NOUN	_	Gender=Masc	16	comp:pred	_	Gloss=work.Masc
+18	kàmar̃	kàmar̃	ADP	_	_	17	mod	_	Gloss=like
+19	yaddà	yaddà	ADV	_	PronType=Rel	18	comp:obj	_	Gloss=how
+20-21	ya=	_	_	_	_	_	_	_	_
+20	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	22	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
+21	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	22	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
+22	kàmaːtà	kamaːt-	VERB	_	_	19	mod@relcl	_	Gloss=be_appropriate
+23	ba	ba	PART	_	PartType=Neg|Polarity=Neg	5	mod	_	Gloss=Neg|SpaceAfter=No
+24	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
+
+# sent_id = 02_Yarima_Charles_7
+# text_en = For example, when Prime Minister "Magaret Thatcher" paid a visit two years ago, they had to bring her hot water in a bucket.
+# text = mìsaːlìː, loːkàcîn dà Fir̃aːyìm Ministàː " Margaret Thatcher" ta kai zìyaːr̃àː shèːkàruː biyu dà sukà wucèː, à boːkitì neː akà riƙà ɗeːboː matà ruwan zaːfiː.
+# text_ortho = Mìsaːlìː, loːkâcîn dà Fir̃aːyìm Ministàː ‘Margaret Thatcher’ ta kai zìyaːr̃àː shèːkàruː biyu da sukà wucèː, à boːkitì neː akà riƙà ɗeːboː matà ruwan zaːfiː.
+1	mìsaːlìː	mìsaːlìː	NOUN	_	Gender=Masc	22	mod	_	Gloss=example.Masc|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
+3	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	22	mod	_	Gloss=time.Masc.Def
+4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=COMP
+5	Fir̃aːyìm	Fir̃aːyìm	PROPN	_	_	13	subj	_	Gloss=Prime
+6	Ministàː	Ministàː	PROPN	_	_	5	flat@name	_	Gloss=Minister
+7	"	"	PUNCT	_	_	8	punct	_	Gloss=PUNCT|wordform=‘
+8	Margaret	Margaret	PROPN	_	_	5	mod@appos	_	Gloss=Margaret
+9	Thatcher	Thatcher	PROPN	_	_	8	flat@name	_	Gloss=Thatcher|SpaceAfter=No
+10	"	"	PUNCT	_	_	8	punct	_	Gloss=PUNCT|wordform=’
+11-12	ta=	_	_	_	_	_	_	_	_
+11	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	13	subj/m	_	Gloss=3Fem-|Relative=Yes|SpaceAfter=No|wordform=ta
+12	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	13	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
+13	kai	kai	VERB	_	_	4	comp:obj	_	Gloss=reach/carry_to
+14	zìyaːr̃àː	zìyaːr̃àː	NOUN	_	Gender=Fem	13	comp:obj	_	Gloss=visit.Fem
+15	shèːkàruː	shèːkaràː	NOUN	_	Number=Plur	14	mod	_	Gloss=year.Plur
+16	biyu	biyu	NUM	_	_	15	mod:num	_	Gloss=two
+17	dà	da	SCONJ	_	_	15	mod@relcl	_	Gloss=COMP|wordform=da
+18	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	20	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
+19	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	20	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
+20	wucèː	wut-	VERB	_	_	17	comp:obj	_	Gloss=pass|SpaceAfter=No
+21	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
+22	à	à	ADP	_	_	0	root	_	Gloss=at
+23	boːkitì	boːkitì	NOUN	_	Gender=Fem	22	comp:obj	_	Gloss=bucket.Fem
+24	neː	neː	PART	_	PartType=Foc	22	discourse@foc	_	Gloss=Emph
+25	a-	a	PRON	_	Person=4|PronType=PrsSubj	27	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
+26	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	27	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
+27	riƙà	riƙ-	VERB	_	_	22	comp:cleft	_	Gloss=keep_doing
+28	ɗeːboː	ɗeːb-	VERB	_	_	27	comp:obj	_	Gloss=fetch
+29	matà	matà	PRON	_	Case=Dat|Gender=Fem|Person=3|PronType=Prs	28	comp:obl	_	Gloss=3Fem.Dat
+30	ruwa	ruwaː	NOUN	_	Gender=Masc	28	comp:obj	_	Gloss=water.Masc|SpaceAfter=No|wordform=ruwan
+31	-n	na	PART	_	Case=Gen|PartType=Case	30	udep/m	_	Gloss=Gen.Masc/Plur
+32	zaːfiː	zaːfiː	NOUN	_	Gender=Masc	31	comp:obj	_	Gloss=heat.Masc|SpaceAfter=No
+33	.	.	PUNCT	_	_	22	punct	_	Gloss=PUNCT
+
+# sent_id = 02_Yarima_Charles_8
+# text_en = The use of that boat, that is to say the "Britannia", was for Prince Charles and the Princess to have a place that they are used to, where they will return the receptions they will get from Nigeria.
+# text = àmfàːni-n jirgi-n ruwân nan wàːtòː " Britannia" shiː nèː don Yàr̃iːmà Charles dà Gimbìyaː sù= sàːmu wani wurîn dà sukà= saːbàː dà shiː, indà zaːsù= iyà raːmà irì-n kar̃imcìn dà ꞌya-n Nàːjeːr̃iyàː sukà= yi musù.
+# text_ortho = Àmfàːnin jirgin ruwân nan wàːtòː ‘Britannia’ shiː nèː don Yàr̃iːmà Charles dà Gimbìyaː sù sàːmu wani wurîn dà sukà saːbàː dà shiː, indà zaː sù iyà raːmà irin kar̃imcìn dà ꞌyan Nàːjeːr̃iyàː sukà yi musù.
+1	àmfàːni	àmfàːniː	NOUN	_	Gender=Masc	12	subj	_	Gloss=use.Masc|SpaceAfter=No|wordform=àmfàːnin
+2	-n	na	PART	_	Case=Gen|PartType=Case	1	mod/m	_	Gloss=Gen.Masc/Plur
+3	jirgi	jirgiː	NOUN	_	Gender=Masc	2	comp:obj	_	Compound=Yes|Gloss=vehicle.Masc|SpaceAfter=No|wordform=jirgin
+4	-n	na	PART	_	Case=Gen|PartType=Case	3	udep/m	_	Gloss=Gen.Fem
+5	ruwân	ruwaː	NOUN	_	Definite=Def|Gender=Masc	4	comp:obj	_	Gloss=water.Masc.Def
+6	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	3	det	_	Gloss=PreRef|PreRef=Yes
+7	wàːtòː	wàːtòː	CCONJ	_	_	9	cc	_	Gloss=i.e.
+8	"	"	PUNCT	_	_	9	punct	_	Gloss=PUNCT|wordform=‘
+9	Britannia	Britannia	PROPN	_	_	3	conj:dicto	_	Gloss=Britannia|SpaceAfter=No
+10	"	"	PUNCT	_	_	9	punct	_	Gloss=PUNCT|wordform=’
+11	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	12	comp:pred	_	Gloss=3Masc.Nom
+12	nèː	neː	AUX	_	Copula=Yes	0	root	_	Gloss=Equ.Masc/Plur
+13	don	don	SCONJ	_	_	12	dislocated@comp	_	Gloss=in_order_to
+14	Yàr̃iːmà	yàr̃iːmà	NOUN	_	Gender=Masc	20	subj	_	Gloss=prince.Masc
+15	Charles	Charles	PROPN	_	_	14	mod@appos	_	Gloss=Charles
+16	dà	dà	CCONJ	_	_	17	cc	_	Gloss=and
+17	Gimbìyaː	gimbìyaː	NOUN	_	Gender=Fem	15	conj:coord	_	Gloss=princess.Fem
+18	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	20	subj/m	_	Gloss=3.Plur-|SpaceAfter=No|wordform=sù
+19	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	20	mod/m	_	Gloss=Sub=
+20	sàːmu	saːm-	VERB	_	_	13	comp:obj	_	Gloss=get
+21	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	22	det	_	Gloss=some.Masc.Spec
+22	wurîn	wuriː	NOUN	_	Definite=Def|Gender=Masc	20	comp:obj	_	Gloss=place.Masc.Def
+23	dà	dà	SCONJ	_	_	22	mod@relcl	_	Gloss=COMP
+24	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	26	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
+25	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	26	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
+26	saːbàː	saːb-	VERB	_	_	23	comp:obj	_	Gloss=be_familiar
+27	dà	dà	ADP	_	_	26	comp:obl	_	Gloss=with
+28	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	27	comp:obj	_	Gloss=3Masc.Nom|SpaceAfter=No
+29	,	,	PUNCT	_	_	30	punct	_	Gloss=PUNCT
+30	indà	indà	PRON	_	PronType=Rel	22	mod@relcl	_	Gloss=where
+31	zaː-	zâː-	PART	_	PartType=TAM|Tense=Fut	33	mod/m	_	Gloss=Fut-|SpaceAfter=No
+32	sù=	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj|Tense=Fut	33	subj/m	_	Gloss=3Plur=|wordform=sù
+33	iyà	iy-	VERB	_	_	30	comp:obj	_	Gloss=be_able_to
+34	raːmà	raːm-	VERB	_	_	33	comp:obj	_	Gloss=return
+35	irì	irìː	NOUN	_	Gender=Masc	34	comp:obj	_	Gloss=type_of.Masc|SpaceAfter=No|wordform=irìn
+36	-n	na	PART	_	Case=Gen|PartType=Case	35	udep/m	_	Gloss=Gen.Masc/Plur
+37	kar̃imcìn	kar̃imcìː	NOUN	_	Definite=Def|Gender=Masc	36	comp:obj	_	Gloss=generosity.Masc.Def
+38	dà	dà	SCONJ	_	_	35	mod@relcl	_	Gloss=COMP
+39	ꞌya	ɗaː	NOUN	_	Number=Plur	44	subj	_	Compound=Yes|Gloss=child.Plur|SpaceAfter=No|wordform=ꞌyan
+40	-n	na	PART	_	Case=Gen|PartType=Case	39	udep/m	_	Gloss=Gen.Fem
+41	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	40	comp:obj	_	Gloss=Nigeria
+42	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	44	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
+43	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	44	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
+44	yi	yi	VERB	_	_	38	comp:obj	_	Gloss=do
+45	musù	musù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	44	comp:obl	_	Gloss=3Plur.Dat|SpaceAfter=No
+46	.	.	PUNCT	_	_	12	punct	_	Gloss=PUNCT
+
+# sent_id = 02_Yarima_Charles_9
+# text_en = And yesterday, the Governor of Anambra State and his wife welcomed the Price and Pricess at the Enugu airport.
+# text = jiyà kuma Gwamnàn Jihàr̃ Ànambar̃à dà uwar̃gidansàsukà tàrbi Yàr̃iːmà dà Gimbìyaː à fiːlin jirgin samàn na Inugù.
+# text_ortho = Jiyà kuma Gwamnàn Jihàr̃ Ànambar̃à da uwar̃gidansà sukà tàrbi Yàr̃iːmà da Gimbìyaː à fiːlin jirgin samàn na Inugù.
+1	jiyà	jiyà	ADV	_	_	14	mod	_	Gloss=yesterday
+2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
+3	Gwamnà	gwamnàn	PROPN	_	Gender=Masc	14	subj	_	Gloss=governor.Masc|SpaceAfter=No|wordform=Gwamnàn
+4	-n	na	PART	_	Case=Gen|PartType=Case	3	mod/m	_	Gloss=Gen.Masc/Plur
+5	Jihà	jihàː	NOUN	_	Gender=Fem	4	comp:obj	_	Gloss=state.Fem|SpaceAfter=No|wordform=Jihàr̃
+6	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	5	mod/m	_	Gloss=Gen.Fem
+7	Ànambar̃à	Ànambar̃à	PROPN	_	_	6	comp:obj	_	Gloss=Anambra
+8	dà	da	CCONJ	_	_	9	cc	_	Gloss=and|wordform=da
+9	uwar̃gida	uwar̃gidaː	NOUN	_	Gender=Fem	3	conj:coord	_	Gloss=wife.Fem|Poss=Yes|SpaceAfter=No|wordform=uwar̃gidansà|wordfrom=uwar̃gidansà
+10	-n	na	PART	_	Case=Gen|PartType=Case	9	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
+11	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	10	comp:obj/m	_	Gloss=3Masc.Gen
+12	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	14	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
+13	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	14	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
+14	tàrbi	tarb-	VERB	_	_	0	root	_	Gloss=go_meet
+15	Yàr̃iːmà	yàr̃iːmà	NOUN	_	Gender=Masc	14	comp:obj	_	Gloss=prince.Masc
+16	dà	da	CCONJ	_	_	17	cc	_	Gloss=and|wordform=da
+17	Gimbìyaː	gimbìyaː	NOUN	_	Gender=Fem	15	conj:coord	_	Gloss=princess.Fem
+18	à	à	ADP	_	_	14	comp:obl	_	Gloss=at
+19	fiːli	fiːliː	NOUN	_	Gender=Masc	18	comp:obj	_	Gloss=field.Masc|SpaceAfter=No|wordform=fiːlin
+20	-n	na	PART	_	Case=Gen|PartType=Case	19	udep/m	_	Gloss=Gen.Masc/Plur
+21	jirgi	jirgiː	NOUN	_	Gender=Masc	20	comp:obj	_	Compound=Yes|Gloss=vehicle.Masc|SpaceAfter=No|wordform=jirgin
+22	-n	na	PART	_	Case=Gen|PartType=Case	21	udep/m	_	Gloss=Gen.Fem
+23	samàn	samàː	NOUN	_	Definite=Def	22	comp:obj	_	Gloss=sky.Def
+24	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	19	mod	_	Gloss=Gen
+25	Inugù	Inugù	PROPN	_	_	24	comp:obj	_	Gloss=Enugu|SpaceAfter=No
+26	.	.	PUNCT	_	_	14	punct	_	Gloss=PUNCT
+
+# sent_id = 02_Yarima_Charles_10
+# text_en = After a girl offered a welcome bouquet to the Pricess, the honourable guests moved on to the Governor's house where they had lunch.
+# text = baːyan wata yaːrinyàː taː miːƙàː wà Yàr̃iːmà fùrànnin mar̃àːba sai mânyan bàːƙiː sukà zar̃cèː zuwàː gidan Gwamnàn indà sukà ci àbincin raːna.
+# text_ortho = Baːyan wata yaːrinyàː taː miːƙàː wà Yàr̃iːmà fùrànnin mar̃àːba sai mânyan bàːƙiː sukà zar̃cèː zuwà̠ː gidan Gwamnàn indà sukà ci àbincin raːna.
+1	baːyan	baːyan	SCONJ	_	_	17	mod	_	Gloss=after
+2	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	3	det	_	Gloss=some.Fem.Spec
+3	yaːrinyàː	yaːrinyàː	NOUN	_	Gender=Fem	6	subj	_	Gloss=girl.Fem
+4	t-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=3Fem|SpaceAfter=No|wordform=taː
+5	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	6	mod/m	_	Gloss=Perf.Sing=|wordform=aː
+6	miːƙàː	miːƙ-	VERB	_	_	1	comp:obj	_	Gloss=proffer
+7	wà	mà	ADP	_	Case=Dat	6	comp:obl	_	Gloss=Dat
+8	Yàr̃iːmà	yàr̃iːmà	NOUN	_	Gender=Masc	7	comp:obj	_	Gloss=prince.Masc
+9	fùrànni	fùreː	NOUN	_	Number=Plur	6	comp:obj	_	Gloss=flower.Plur|SpaceAfter=No|wordform=fùrànnin
+10	-n	na	PART	_	Case=Gen|PartType=Case	9	mod/m	_	Gloss=Gen.Masc/Plur
+11	mar̃àːba	mar̃àːba	NOUN	_	Gender=Fem	10	comp:obj	_	Gloss=welcome.Fem
+12	sai	sai	ADV	_	_	17	mod	_	Gloss=then
+13	mânyan	bàbbaː	ADJ	_	Number=Plur	14	mod	_	Gloss=big.Plur
+14	bàːƙiː	bàːƙoː	NOUN	_	Number=Plur	17	subj	_	Gloss=guest.Plur
+15	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	17	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
+16	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	17	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
+17	zar̃cèː	zar̃t-	VERB	_	_	0	root	_	Gloss=move_on
+18	zuwàː	zuwàː	ADP	_	_	17	comp:obl	_	Gloss=towards
+19	gida	gidaː	NOUN	_	Gender=Masc	18	mod	_	Gloss=house.Masc|SpaceAfter=No|wordform=gidan
+20	-n	na	PART	_	Case=Gen|PartType=Case	19	mod/m	_	Gloss=Gen.Masc/Plur
+21	Gwamnàn	gwamnàː	PROPN	_	Gender=Masc	20	comp:obj	_	Gloss=governor.Masc
+22	indà	indà	PRON	_	PronType=Rel	19	mod@relcl	_	Gloss=where
+23	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	25	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
+24	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	25	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
+25	ci	ci	VERB	_	_	22	comp:obj	_	Gloss=eat
+26	àbinci	àbinciː	NOUN	_	Gender=Masc	25	comp:obj	_	Gloss=food.Masc|SpaceAfter=No|wordform=àbincin
+27	-n	na	PART	_	Case=Gen|PartType=Case	26	udep/m	_	Gloss=Gen.Masc/Plur
+28	raːna	raːna	ADV	_	_	27	comp:obj	_	Gloss=day|SpaceAfter=No
+29	.	.	PUNCT	_	_	17	punct	_	Gloss=PUNCT
+
+# sent_id = 02_Yarima_Charles_11a
+# text_en = They had all sorts of foods, that set your mouth watering :
+# text = tòː an dai ci àbinci irìː-irìː, màːsu sâː bàːkiː miyau -
+# text_ortho = Tòː an dai ci àbinci irìː-irìː, màsu sâː bàːkiː miyau -
+1	tòː	tòː	INTJ	_	_	5	discourse	_	Gloss=well
+2	a-	a	PRON	_	Person=4|PronType=PrsSubj	5	subj/m	_	Gloss=4|SpaceAfter=No|wordform=an
+3	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	5	mod/m	_	Gloss=Perf.Plur=|wordform=n
+4	dai	dai	PART	_	PartType=Top	5	discourse@top	_	Gloss=anyway
+5	ci	ci	VERB	_	_	0	root	_	Gloss=eat
+6	àbinci	àbinci	NOUN	_	Gender=Masc	5	comp:obj	_	Gloss=food.Masc
+7	irìː-irìː	irìː-irìː	ADJ	_	Gender=Masc	6	mod	_	Gloss=various|SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
+9	màːsu	mài	PART	_	Number=Plur|PartType=Der	6	mod	_	Gloss=owner/doer_of.Plur
+10	sâː	sâː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	9	compound	_	Gloss=put
+11	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	10	comp:obj@R	_	Gloss=mouth.Masc
+12	miyau	miyau	NOUN	_	Gender=Masc	10	comp:obj@T	_	Gloss=saliva.Masc
+13	-	-	PUNCT	_	_	5	punct	_	Gloss=PUNCT|SpaceAfter=No
+
+# sent_id = 02_Yarima_Charles_11b
+# text_en = there was rice, beans, salad and other nice things.
+# text = àkwai shìnkaːfaː, dà waːkeː, dà sàlâk, dà sauran kaːyan marmariː.
+# text_ortho = àkwai shìnkaːfaː, da waːkeː, dà sàlâk, da sauran kaːyan marmariː.
+1	àkwai	àkwai	PART	_	PartType=Pred	0	root	_	Gloss=there_is
+2	shìnkaːfaː	shìnkaːfaː	NOUN	_	Gender=Fem	1	subj	_	Gloss=rice.Fem|SpaceAfter=No
+3	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
+4	dà	dà	CCONJ	_	_	5	cc	_	Gloss=and
+5	waːkeː	waːkeː	NOUN	_	Gender=Masc	2	conj:coord	_	Gloss=beans.Masc|SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
+7	dà	dà	CCONJ	_	_	8	cc	_	Gloss=and
+8	sàlâk	sàlâk	NOUN	_	Gender=Masc	5	conj:coord	_	Gloss=salad.Masc|SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
+10	dà	dà	CCONJ	_	_	11	cc	_	Gloss=and
+11	saura	sauraː	NOUN	_	Gender=Masc	8	conj:coord	_	Gloss=rest.Masc|SpaceAfter=No|wordform=sauran
+12	-n	na	PART	_	Case=Gen|PartType=Case	11	udep/m	_	Gloss=Gen.Masc/Plur
+13	kaːya	kaːyaː	NOUN	_	Gender=Masc	12	comp:obj	_	Compound=Yes|Gloss=stuff.Masc|SpaceAfter=No|wordform=kaːyan
+14	-n	na	PART	_	Case=Gen|PartType=Case	13	udep/m	_	Gloss=Gen.Fem
+15	marmariː	marmariː	NOUN	_	Gender=Masc	14	comp:obj	_	Gloss=desire.Masc|SpaceAfter=No
+16	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
+
+# sent_id = 02_Yarima_Charles_12
+# text_en = Nothing was more delicious than a huge mudfish that they ate.
+# text = baːbù àbîn dà ya= fi ba-n shàꞌawàː kàmar̃ wata shirgeːgìyar̃ tar̃waɗaː dà akà= ci.
+# text_ortho = Baːbù àbîn dà ya fi ban shàꞌawàː kàmar̃ wata shirgeːgìyar̃ tar̃waɗaː dà akà ci.
+1	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
+2	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	1	subj	_	Gloss=thing.Masc.Def
+3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP
+4-5	ya=	_	_	_	_	_	_	_	_
+4	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
+5	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	6	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
+6	fi	fi	VERB	_	_	3	comp:obj	_	Gloss=exceed
+7	ba	baː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:obj	_	Compound=Yes|Gloss=give|SpaceAfter=No|wordform=ban
+8	-n	na	PART	_	Case=Gen|PartType=Case	7	udep/m	_	Gloss=Gen.Masc/Plur
+9	shàꞌawàː	shàꞌawàː	NOUN	_	Gender=Fem	8	comp:obj	_	Gloss=liking.Fem
+10	kàmar̃	kàmar̃	ADP	_	_	6	mod	_	Gloss=like
+11	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	13	det	_	Gloss=some.Fem.Spec
+12	shirgeːgìyar̃	shirgeːgèː	ADJ	_	Gender=Fem	13	mod	_	Gloss=huge.Fem
+13	tar̃waɗaː	tar̃waɗaː	NOUN	_	Gender=Fem	10	comp:obj	_	Gloss=mudfish.Fem
+14	dà	dà	SCONJ	_	_	13	mod@relcl	_	Gloss=COMP
+15	a-	a	PRON	_	Person=4|PronType=PrsSubj	17	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
+16	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	17	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
+17	ci	ci	VERB	_	_	14	comp:obj	_	Gloss=eat|SpaceAfter=No
+18	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
+
+# sent_id = 02_Yarima_Charles_13
+# text_en = Well, the following day Prince Charles and the Princess his wife left for Cameroon.
+# text = tòː kàshèːgàriː sai Yàr̃iːmà dà uwar̃gidansàGimbìyaː sukà taːshì zuwàː ƙasar̃ Kàmàr̃u.
+# text_ortho = To kàshèːgàriː sai Yàr̃iːmà dà uwar̃gidansà Gimbìyaː sukà taːshì zuwàː kasar ƙasar Kàmàr̃u.
+1	tòː	tòː	INTJ	_	_	12	discourse	_	Gloss=well
+2	kàshèːgàriː	kàshèːgàriː	ADV	_	_	12	mod	_	Gloss=following_day
+3	sai	sai	ADV	_	_	12	mod	_	Gloss=then
+4	Yàr̃iːmà	yàr̃iːmà	NOUN	_	Gender=Masc	12	subj	_	Gloss=prince.Masc
+5	dà	dà	CCONJ	_	_	6	cc	_	Gloss=and
+6	uwar̃gida	uwar̃gidaː	NOUN	_	Gender=Fem	4	conj:coord	_	Gloss=wife.Fem|Poss=Yes|SpaceAfter=No|wordform=uwar̃gidansà|wordfrom=uwar̃gidansà
+7	-n	na	PART	_	Case=Gen|PartType=Case	6	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
+8	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	7	comp:obj/m	_	Gloss=3Masc.Gen
+9	Gimbìyaː	gimbìyaː	NOUN	_	Gender=Fem	6	conj:appos	_	Gloss=princess.Fem
+10	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	12	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
+11	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	12	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
+12	taːshì	taːs-	VERB	_	_	0	root	_	Gloss=set_off
+13	zuwàː	zuwàː	ADP	_	_	12	comp:obl	_	Gloss=towards
+14	ƙasa	ƙasaː	NOUN	_	Gender=Fem	13	comp:obj	_	Gloss=country.Fem|SpaceAfter=No|wordform=ƙasar̃
+15	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	14	mod/m	_	Gloss=Gen.Fem
+16	Kàmàr̃u	Kàmàr̃u	PROPN	_	_	15	comp:obj	_	Gloss=Cameroon|SpaceAfter=No
+17	.	.	PUNCT	_	_	12	punct	_	Gloss=PUNCT
+
+# sent_id = 02_Yarima_Charles_14
+# text_en = Theren the Price visited the Wild life reserve Korup, which is probably the largest reserve, and contains the most diverse things in the world.
+# text = à can kuma Yàr̃iːmà yaː zìyàr̃ci gandun daːjìː na Korup, wandà kuma wataƙiːlà shiː nèː gandun daːjìn dà ya fi koːwànneː girmaː, sànnan kuma ya fi koːwànneː yawàn itaːtuwàː irìː-irìː à duk faːɗin duːniyàː.
+# text_ortho = À can kuma Yàr̃iːmà yaː zìyàr̃ci gandun daːjìː na Korup, wandà kuma wataƙiːlà shiː nèː gandun daːjìn dà ya fi koːwànneː girmaː, sànnan kuma ya fi koːwànneː yawàn itaːtuwàː irìː-irìː à duk faːɗin dūniyàː.
+1	à	à	ADP	_	_	7	mod	_	Gloss=at
+2	can	can	ADV	_	Deixis=Remt|PronType=Dem	1	comp:obj	_	Gloss=Remt
+3	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
+4	Yàr̃iːmà	yàr̃iːmà	NOUN	_	Gender=Masc	7	subj	_	Gloss=prince.Masc
+5	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	7	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
+6	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	7	mod/m	_	Gloss=Perf.Sing=|wordform=aː
+7	zìyàr̃ci	ziyar̃t-	VERB	_	_	0	root	_	Gloss=visit
+8	gandu	ganduː	NOUN	_	Gender=Masc	7	comp:obj	_	Compound=Yes|Gloss=ranch.Masc|SpaceAfter=No|wordform=gandun
+9	-n	na	PART	_	Case=Gen|PartType=Case	8	udep/m	_	Gloss=Gen.Fem
+10	daːjìː	daːjìː	NOUN	_	Gender=Masc	9	comp:obj	_	Gloss=bush.Masc
+11	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	8	mod	_	Gloss=Gen
+12	Korup	Korup	PROPN	_	_	11	comp:obj	_	Gloss=Korup|SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
+14	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	8	mod@relcl	_	Gloss=REL.Masc
+15	kuma	kuma	PART	_	PartType=Top	14	discourse@top	_	Gloss=also
+16	wataƙiːlà	wataƙiːlà	ADV	_	_	18	mod	_	Gloss=maybe
+17	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	18	comp:pred	_	Gloss=3Masc.Nom
+18	nèː	neː	AUX	_	Copula=Yes	14	comp:obj	_	Gloss=Equ.Masc/Plur
+19	gandu	ganduː	NOUN	_	Gender=Masc	18	dislocated@comp	_	Gloss=ranch.Masc|SpaceAfter=No|wordform=gandun
+20	-n	na	PART	_	Case=Gen|PartType=Case	19	mod/m	_	Gloss=Gen.Masc/Plur
+21	daːjìn	daːjìː	NOUN	_	Definite=Def|Gender=Masc	20	comp:obj	_	Gloss=bush.Masc.Def
+22	dà	dà	SCONJ	_	_	19	mod@relcl	_	Gloss=COMP
+23-24	ya=	_	_	_	_	_	_	_	_
+23	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	25	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
+24	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	25	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
+25	fi	fi	VERB	_	_	22	comp:obj	_	Gloss=exceed
+26	koːwànneː	koːwànneː	PRON	_	Gender=Masc|PronType=Ind	25	comp:obj	_	Gloss=each_one.Masc
+27	girmaː	girmaː	NOUN	_	Gender=Masc	25	mod	_	Gloss=size.Masc|SpaceAfter=No
+28	,	,	PUNCT	_	_	33	punct	_	Gloss=PUNCT
+29	sànnan	sànnan	ADV	_	_	33	mod	_	Gloss=then
+30	kuma	kuma	PART	_	PartType=Top	29	discourse@top	_	Gloss=also
+31-32	ya=	_	_	_	_	_	_	_	_
+31	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	33	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
+32	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	33	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
+33	fi	fi	VERB	_	_	25	conj:coord	_	Gloss=exceed
+34	koːwànneː	koːwànneː	PRON	_	Gender=Masc|PronType=Ind	33	comp:obj	_	Gloss=each_one.Masc
+35	yawà	yawàn	ADJ	_	Gender=Masc	33	mod	_	Gloss=quantity.Masc|SpaceAfter=No|wordform=yawàn
+36	-n	na	PART	_	Case=Gen|PartType=Case	35	mod/m	_	Gloss=Gen.Masc/Plur
+37	itaːtuwàː	itàːceː	NOUN	_	Number=Plur	36	comp:obj	_	Gloss=tree.Plur
+38	irìː-irìː	irìː-irìː	ADJ	_	Gender=Masc	37	mod	_	Gloss=various
+39	à	à	ADP	_	_	33	mod	_	Gloss=at
+40	duk	dukà	DET	_	PronType=Tot	41	det	_	Gloss=all
+41	faːɗi	faːɗiː	NOUN	_	Gender=Masc	39	comp:obj	_	Gloss=area.Masc|SpaceAfter=No|wordform=faːɗin
+42	-n	na	PART	_	Case=Gen|PartType=Case	41	udep/m	_	Gloss=Gen.Masc/Plur
+43	duːniyàː	duːniyàː	NOUN	_	Gender=Fem	42	comp:obj	_	Gloss=world.Fem|SpaceAfter=No
+44	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
+
+# sent_id = 02_Yarima_Charles_15
+# text_en = He arrived in the reserve by a sort of bridge that hangs from above.
+# text = yaː=ìsa daːjìn neː ta wata irì-n gadàː waddà kèː reːtòː dàgà samà.
+# text_ortho = Yaː ìsa daːjìn neː ta wata irìn gadàː waddà kèː rētòː dàgà samà.
+1	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
+2	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Sing=|wordform=aː
+3	ìsa	is-	VERB	_	_	0	root	_	Gloss=arrive
+4	daːjìn	daːjìː	NOUN	_	Definite=Def|Gender=Masc	3	comp:obj@G	_	Gloss=bush.Masc.Def
+5	neː	neː	PART	_	PartType=Foc	4	discourse@foc	_	Gloss=Emph
+6	ta	ta	ADP	_	_	3	comp:obl	_	Gloss=via
+7	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	8	det	_	Gloss=some.Fem.Spec
+8	irì	irìː	NOUN	_	Gender=Masc	6	comp:obj	_	Gloss=type_of.Masc|SpaceAfter=No|wordform=irìn
+9	-n	na	PART	_	Case=Gen|PartType=Case	8	udep/m	_	Gloss=Gen.Masc/Plur
+10	gadàː	gadàː	NOUN	_	Gender=Fem	9	comp:obj	_	Gloss=bridge.Fem
+11	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	8	mod@relcl	_	Gloss=REL.Fem
+12	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	11	comp:obj	_	Gloss=Prog.Rel|Relative=Yes
+13	reːtòː	rētòː	NOUN	_	Gender=Masc	12	comp:pred	_	Gloss=hanging.Masc
+14	dàgà	dàgà	ADP	_	_	13	comp:obl	_	Gloss=from
+15	samà	samà	ADV	_	_	14	comp:obj	_	Gloss=above|SpaceAfter=No
+16	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
+
+# sent_id = 02_Yarima_Charles_16-7
+# text_en = Twenty-five percent of all the species of monkeys that exist in Africa will be found in the reserve of Korup, as well as snakes, small antelopes and even elephants.
+# text = kashìː àshìr̃in dà bìyar̃ cikin ɗàriː na duk yawà-n jinsunàn birân dà a kè dà suː à Afìr̃kà zaː'à=iskèː -su à gandu-n daːjì-n Korup; hakà maː màcìːzai, dà ƙanaːnàn gàdaː, kâi har̃ maː dà giːwàːyē.
+# text_ortho = Kashìː àshìr̃in dà bìyar̃ cikin ɗàriː na duk yawàn jinsunàn birân dà akè dà suː à Afìr̃kà zaː à iskèː su à gandun daːjìn Korup; hakà maː màcìːzai, dà ƙanaːnàn gàdaː, kâi har̃ maː dà giːwàːyē.
+1	kashìː	kashìː	NOUN	_	Gender=Masc	22	dislocated@subj	_	Gloss=portion.Masc
+2	àshìr̃in	àshìr̃in	NUM	_	_	1	mod:num	_	Gloss=twenty
+3	dà	dà	CCONJ	_	_	4	cc	_	Gloss=and
+4	bìyar̃	bìyar̃	NUM	_	_	2	conj:coord	_	Gloss=five
+5	cikin	cikin	ADP	_	_	1	mod	_	Gloss=inside
+6	ɗàriː	ɗàriː	NUM	_	Gender=Fem	5	comp:obj	_	Gloss=hundred
+7	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	1	mod	_	Gloss=Gen
+8	duk	dukà	DET	_	PronType=Tot	9	det	_	Gloss=all
+9	yawà	yawàn	ADJ	_	Gender=Masc	7	mod	_	Gloss=quantity.Masc|SpaceAfter=No|wordform=yawàn
+10	-n	na	PART	_	Case=Gen|PartType=Case	9	mod/m	_	Gloss=Gen.Masc/Plur
+11	jinsunàn	jinsìː	NOUN	_	Definite=Def|Number=Plur	10	comp:obj	_	Gloss=species.Plur.Def
+12	birân	birìː	NOUN	_	Definite=Def|Number=Plur	11	mod	_	Gloss=monkey.Plur.Def
+13	dà	dà	SCONJ	_	_	12	mod@relcl	_	Gloss=COMP
+14	a	a	PRON	_	Person=4|PronType=Prs	15	subj	_	Gloss=4
+15	kè	nàː	AUX	_	Copula=Yes	13	comp:obj	_	Gloss=bePred.Rel2|Relative=Variant
+16	dà	dà	ADP	_	_	15	comp:pred	_	Gloss=with
+17	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	16	comp:obj	_	Gloss=3Plur.Nom
+18	à	à	ADP	_	_	16	mod	_	Gloss=at
+19	Afìr̃kà	Afìr̃kà	PROPN	_	_	18	comp:obj	_	Gloss=Africa
+20	zaː-	zâː-	PART	_	PartType=TAM|Tense=Fut	22	mod/m	_	Gloss=Fut-|SpaceAfter=No
+21	'à=	a	PRON	_	Person=4|PronType=PrsSubj|Tense=Fut	22	subj/m	_	Gloss=4=|wordform=zaː'à
+22	iskèː	isk-	VERB	_	_	0	root	_	Gloss=find
+23	-su	-su	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	22	comp:obj/m	_	Gloss=-3Plur.Acc|wordform=su
+24	à	à	ADP	_	_	22	comp:obl	_	Gloss=at
+25	gandu	ganduː	NOUN	_	Gender=Masc	24	comp:obj	_	Gloss=ranch.Masc|SpaceAfter=No|wordform=gandun
+26	-n	na	PART	_	Case=Gen|PartType=Case	25	mod/m	_	Gloss=Gen.Masc/Plur
+27	daːjì	daːjìː	NOUN	_	Gender=Masc	26	comp:obj	_	Gloss=bush.Masc|SpaceAfter=No|wordform=daːjìn
+28	-n	na	PART	_	Case=Gen|PartType=Case	27	udep/m	_	Gloss=Gen.Masc/Plur
+29	Korup	Korup	PROPN	_	_	28	comp:obj	_	Gloss=Korup|SpaceAfter=No
+30	;	;	PUNCT	_	_	33	punct	_	Gloss=PUNCT
+31	hakà	hakà	ADV	_	_	33	mod	_	Gloss=thus
+32	maː	maː	PART	_	PartType=Top	31	discourse@top	_	Gloss=even
+33	màcìːzai	macìjiː	NOUN	_	Number=Plur	22	dislocated@comp	_	Gloss=snake.Plur|SpaceAfter=No
+34	,	,	PUNCT	_	_	37	punct	_	Gloss=PUNCT
+35	dà	dà	CCONJ	_	_	37	cc	_	Gloss=and
+36	ƙanaːnàn	ƙàramiː	ADJ	_	Number=Plur	37	mod	_	Gloss=small.Plur
+37	gàdaː	gàdaː	NOUN	_	Number=Plur	33	conj:coord	_	Gloss=duiker.Plur|SpaceAfter=No
+38	,	,	PUNCT	_	_	43	punct	_	Gloss=PUNCT
+39	kâi	kâi	INTJ	_	_	43	discourse	_	Gloss=well
+40	har̃	har̃	ADP	_	_	42	mod	_	Gloss=up_to
+41	maː	maː	PART	_	PartType=Top	40	discourse@top	_	Gloss=even
+42	dà	dà	CCONJ	_	_	43	cc	_	Gloss=and
+43	giːwàːyē	giːwaː	NOUN	_	Number=Plur	37	conj:coord	_	Gloss=elephant.Plur|SpaceAfter=No
+44	.	.	PUNCT	_	_	22	punct	_	Gloss=PUNCT
+
+# sent_id = 02_Yarima_Charles_18
+# text_en = But then alas! the Prince did not see even one of these creatures, because of the eagerness that the Cameroonian authorities showed concerning the introduction of weapons in the reserve to perserve his safety.
+# text = sai dai kuma kash! – Yàr̃iːmà bài= ga koː dàː gùdaː dàgà cikin waɗànnân hàlìttuː ba, sabòːdà zùmuːɗìn dà jàːmìꞌa-n gwamnat-r̃ Kàmàr̃u sukà= nuːnàː wajen aikàːwaː dà rùndunaː ɗàuke dà màkàːmai zuwàː daːjìn don kaːrè laːfiyà-r̃-sà .
+# text_ortho = Sai dai kuma kash! – Yàr̃iːmà bài ga koː dàː gùdaː dàgà cikin waɗànnân hàlìttuː ba, sabòːdà zùmūɗìn dà jàːmìꞌan gwamnatìn Kàmàr̃u sukà nuːnàː wajen aikàːwaː dà rùndunaː ɗàuke dà màkàːmai zuwàː daːjìn don kaːrè laːfiyàr̃sà.
+1	sai	sai	SCONJ	_	_	10	discourse	_	Gloss=except_that
+2	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
+3	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
+4	kash	kash	INTJ	_	_	10	discourse	_	Gloss=alas|SpaceAfter=No
+5	!	!	PUNCT	_	_	4	punct	_	Gloss=PUNCT
+6	–	–	PUNCT	_	_	4	punct	_	Gloss=PUNCT
+7	Yàr̃iːmà	yàr̃iːmà	NOUN	_	Gender=Masc	10	subj	_	Gloss=prince.Masc
+8	bà-	bà-	PART	_	Aspect=Perf|PartType=TAM|Polarity=Neg	10	mod/m	_	Gloss=Neg.Perf-|SpaceAfter=No
+9	ì=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	10	subj/m	_	Gloss=3Masc=|SpaceAfter=No|wordform=bài
+10	ga	ganiː	VERB	_	_	0	root	_	Gloss=see
+11	koː	koː	ADP	_	ExtPos=ADV	13	mod	_	Gloss=even|Idiom=Yes
+12	dàː	dàː	SCONJ	_	_	11	unk	_	Gloss=Counterfact|InIdiom=Yes
+13	gùdaː	gùdaː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=unit/one.Masc
+14	dàgà	dàgà	ADP	_	ExtPos=ADP	13	mod	_	Gloss=from|Idiom=Yes
+15	cikin	cikin	ADP	_	_	14	comp:obj	_	Gloss=inside|InIdiom=Yes
+16	waɗànnân	nân	DET	_	Deixis=ProxS|Number=Plur|PronType=Dem	17	det	_	Gloss=ProxS.Plur
+17	hàlìttuː	hàlittàː	NOUN	_	Number=Plur	15	comp:obj	_	Gloss=creature.Plur
+18	ba	ba	PART	_	PartType=Neg|Polarity=Neg	10	mod	_	Gloss=Neg|SpaceAfter=No
+19	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
+20	sabòːdà	sabòːdà	ADP	_	_	10	mod	_	Gloss=because_of
+21	zùmuːɗìn	zùmuːɗìː	NOUN	_	Definite=Def|Gender=Masc	20	comp:obj	_	Gloss=eagerness.Masc.Def
+22	dà	dà	SCONJ	_	_	21	mod@relcl	_	Gloss=COMP
+23	jàːmìꞌa	jàːmì'iː	NOUN	_	Number=Plur	30	subj	_	Gloss=official.Plur|SpaceAfter=No|wordform=jàːmìꞌan
+24	-n	na	PART	_	Case=Gen|PartType=Case	23	udep/m	_	Gloss=Gen.Masc/Plur
+25	gwamnat	gwamnatì	NOUN	_	Gender=Fem	24	comp:obj	_	Gloss=government.Fem|SpaceAfter=No|wordform=gwamnatìn
+26	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	25	mod/m	_	Gloss=Gen.Fem
+27	Kàmàr̃u	Kàmàr̃u	PROPN	_	_	26	comp:obj	_	Gloss=Cameroon
+28	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	30	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
+29	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	30	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
+30	nuːnàː	nuːn-	VERB	_	_	22	comp:obj	_	Gloss=show
+31	wajen	wajen	ADP	_	_	30	comp:obl	_	Gloss=about
+32	aikàːwaː	aik-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	31	comp:obj	_	Gloss=send.Vnoun.Fem
+33	dà	dà	ADP	_	_	32	comp:obl	_	Gloss=with
+34	rùndunaː	rùndunaː	NOUN	_	Gender=Fem	33	comp:obj	_	Gloss=detachment.Fem
+35	ɗàuke	ɗauk-	VERB	_	ExtPos=ADV|VerbForm=Part	34	mod	_	Gloss=take.Part
+36	dà	dà	CCONJ	_	_	35	comp:obl	_	Gloss=and
+37	màkàːmai	makaːmiː	NOUN	_	Number=Plur	36	comp:obj	_	Gloss=weapon.Plur
+38	zuwàː	zuwàː	ADP	_	_	32	comp:obl	_	Gloss=towards
+39	daːjìn	daːjìː	NOUN	_	Definite=Def|Gender=Masc	38	comp:obj	_	Gloss=bush.Masc.Def
+40	don	don	SCONJ	_	_	32	mod	_	Gloss=in_order_to
+41	kaːrè	kar-	VERB	_	_	40	comp:obj	_	Gloss=protect
+42	laːfiyà	laːfiyàː	NOUN	_	Gender=Fem	41	comp:obj	_	Gloss=security.Fem|Poss=Yes|SpaceAfter=No|wordform=laːfiyàr̃|wordfrom=laːfiyàr̃sà
+43	-r̃	na	PART	_	Case=Gen|PartType=Case	42	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No|wordform=-t
+44	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	43	comp:obj/m	_	Gloss=3Masc.Gen
+45	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT
+
+# sent_id = 02_Yarima_Charles_19
+# text_en = Later indeed, the Prince showed sign of displeasure.
+# text = dàgà bìsaːniː dai Yàr̃iːmàn yaː= fitoː cikin alꞌamur̃àn rashìn jîn daːɗiː.
+# text_ortho = Dàgà bìsaːniː dai Yàr̃iːmàn yaː fitoː cikin alꞌamur̃àn rashìn jîn daːɗiː.
+1	dàgà	dàgà	ADP	_	_	7	mod	_	Gloss=from
+2	bìsaːniː	bìsaːniː	ADV	_	_	1	comp:obj	_	Gloss=later
+3	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
+4	Yàr̃iːmàn	yàr̃iːmà	PROPN	_	Definite=Def|Gender=Masc	7	subj	_	Gloss=prince.Masc.Def
+5	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	7	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
+6	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	7	mod/m	_	Gloss=Perf.Sing=|wordform=aː
+7	fitoː	fit-	VERB	_	_	0	root	_	Gloss=come_out
+8	cikin	cikin	ADP	_	_	7	comp:obl	_	Gloss=inside
+9	alꞌamur̃à	àlꞌamàr̃iː	NOUN	_	Number=Plur	8	comp:obj	_	Gloss=sign.Plur|SpaceAfter=No|wordform=alꞌamur̃àn
+10	-n	na	PART	_	Case=Gen|PartType=Case	9	mod/m	_	Gloss=Gen.Masc/Plur
+11	rashì	ras-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	10	comp:obj	_	Gloss=lack.Vnoun.Masc|SpaceAfter=No|wordform=rashìn
+12	-n	na	PART	_	Case=Gen|PartType=Case	11	udep/m	_	Gloss=Gen.Masc/Plur
+13	jî	ji	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	12	comp:obj	_	Gloss=feel.Vnoun.Masc|SpaceAfter=No|wordform=jîn
+14	-n	na	PART	_	Case=Gen|PartType=Case	13	udep/m	_	Gloss=Gen.Masc/Plur
+15	daːɗiː	daːɗiː	NOUN	_	Gender=Masc	14	comp:obj	_	Gloss=pleasure.Masc|SpaceAfter=No
+16	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
+
