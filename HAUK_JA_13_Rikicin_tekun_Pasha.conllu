@@ -206,19 +206,20 @@
 23	sòːki	soːk-	VERB	_	_	20	comp:obj	_	Gloss=concern
 24	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	23	comp:obj	_	Gloss=thing.Masc.Def
 25	dà	dà	SCONJ	_	_	24	mod@relcl	_	Gloss=COMP
-26	ƙasàːshe	ƙasaː	NOUN	_	Number=Plur	30	subj	_	Gloss=country|SpaceAfter=No|wordform=ƙasàːshen
+26	ƙasàːshe	ƙasaː	NOUN	_	Number=Plur	31	subj	_	Gloss=country|SpaceAfter=No|wordform=ƙasàːshen
 27	-n	na	PART	_	Case=Gen|PartType=Case	26	udep/m	_	Gloss=Gen.Masc/Plur
 28	ƙàwànceː	ƙàwànceː	NOUN	_	Gender=Masc	27	comp:obj	_	Gloss=coalition.Masc
-29	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	30	subj/m	_	Gloss=3Plur|SpaceAfter=No
-30	kè	nàː	AUX	_	Aspect=Prog|Copula=Yes	25	comp:obj	_	Gloss=bePred.Rel2|Relative=Yes|wordform=sukèː
-31	wà	mà	ADP	_	Case=Dat	30	comp:obl	_	Gloss=Dat
-32	Ìr̃aːƙì	Ìr̃aːƙì	PROPN	_	_	31	comp:obj	_	Gloss=Irak
-33	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
+29	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	31	subj/m	_	Gloss=3Plur|SpaceAfter=No
+30	kè	nàː	AUX	_	Aspect=Prog|Copula=Yes	31	mod/m	_	Gloss=bePred.Rel2|Relative=Yes|wordform=sukèː
+31	Ø	ti	VERB	_	_	25	comp:obj	_	Gloss=do
+32	wà	mà	ADP	_	Case=Dat	31	comp:obl	_	Gloss=Dat
+33	Ìr̃aːƙì	Ìr̃aːƙì	PROPN	_	_	32	comp:obj	_	Gloss=Irak
+34	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 13_Rikicin_tekun_Pasha_6
 # text_en = A report published in a newspaper which is said to express the opinion of a big Muslim Congregation in the north of Nigeria, has called on all Muslims to rise and express their opinion concerning the Gulf War.
 # text_ortho = Wani jàwaːbìː dà akà bugàː à wata jàr̃iːdàː, wandà akà cêː yanàː bayyànà r̃a'àyin wata bàbbar̃ ƙungìyar̃ mùsùlmin areːwacin Nàːjeːr̃iyàː neː, yaː yi kiràː gà dukkàn mùsùlmiː dà sù taːshì tsàye sù bayyànà r̃a'àyinsù à gàme dà rìkicin Tèːkun Paːshà ɗîn.
-# text = wani jàwaːbìː dà akà bugàː à wata jàr̃iːdàː, wandà akà cêː yanàː bayyànà r̃a'àyin wata bàbbar̃ ƙungìyar̃ mùsùlmin areːwacin Nàːjeːr̃iyàː neː, yaː yi kiràː gà dukkàn mùsùlmiː dà sù taːshì tsàye sù bayyànà r̃a'àyinsù à gàme dà rìkicin Tèːkun Paːshà ɗîn.
+# text = wani jàwaːbìː dà a-kà= bugàː à wata jàr̃iːdàː, wandà a-kà= cêː ya-nàː bayyànà r̃a'àyi-n wata bàbbar̃ ƙungìya-r̃ mùsùlmi-n areːwacin Nàːjeːr̃iyàː neː, y-aː= yi kiràː gà dukkàn mùsùlmiː dà su-_̀= taːshì tsàye su-_̀= bayyànà r̃a'àyi-n-sù à gàme dà rìkici-n Tèːk-r̃ Paːshà ɗîn.
 1	wani	wani	DET	_	Definite=Spec|Gender=Masc|Number=Plur|PronType=Ind	2	det	_	Gloss=some.Masc.Spec
 2	jàwaːbìː	jàwaːbìː	NOUN	_	Gender=Masc	32	subj	_	Gloss=article.Masc
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP|wordform=da
@@ -267,7 +268,7 @@
 46	-n	na	PART	_	Case=Gen|PartType=Case	45	mod@poss	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 47	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	46	comp:obj	_	Gloss=3Plur.Gen
 48	à	à	ADP	_	_	44	comp:obl	_	Gloss=at
-49	gàme	gam-	VERB	_	VerbForm=Part	48	comp:obj	_	Gloss=gather.Part|Idiom=Yes
+49	gàme	gam-	VERB	_	ExtPos=ADP|VerbForm=Part	48	comp:obj	_	Gloss=gather.Part|Idiom=Yes
 50	dà	dà	ADP	_	_	49	comp:obl	_	Gloss=with|InIdiom=Yes
 51	rìkici	rìkiciː	NOUN	_	Gender=Masc	49	comp:obj	_	Gloss=crisis.Masc|SpaceAfter=No|wordform=rìkicin
 52	-n	na	PART	_	Case=Gen|PartType=Case	51	udep/m	_	Gloss=Gen.Masc/Plur

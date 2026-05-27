@@ -304,7 +304,7 @@
 39	ƙafà	ƙafàː	NOUN	_	Gender=Fem	38	comp:obj	_	Gloss=leg.Fem|SpaceAfter=No|wordform=ƙafàr̃
 40	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	39	mod/m	_	Gloss=Gen.Fem
 41	àngùlu	àngùlu	NOUN	_	Gender=Fem	40	comp:obj	_	Gloss=vulture.Fem
-42	à	à	ADP	_	_	38	comp:obj	_	Gloss=at
+42	à	à	ADP	_	_	39	comp:obl	_	Gloss=at
 43	shirì	shiry-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	42	comp:obj	_	Gloss=prepare.Vnoun.Masc|SpaceAfter=No|wordform=shirìn
 44	-n	na	PART	_	Case=Gen|PartType=Case	43	udep/m	_	Gloss=Gen.Masc/Plur
 45	miːƙà	miːƙ-	VERB	_	_	44	comp:obj	_	Gloss=hand_over

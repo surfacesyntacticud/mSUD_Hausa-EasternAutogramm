@@ -350,7 +350,7 @@
 20	kawar̃	kai	VERB	_	_	16	comp:obj	_	Gloss=take_away
 21	dà	dà	ADP	_	_	20	comp:obl	_	Gloss=with
 22	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	21	comp:obj	_	Gloss=3Plur.Nom
-23	tun	tun	ADP	_	_	16	comp:obj	_	Gloss=since
+23	tun	tun	ADP	_	_	20	mod	_	Gloss=since
 24	shèːkàruː	shèːkaràː	NOUN	_	Number=Plur	23	comp:obj	_	Gloss=year.Plur
 25	goːmà	goːmà	NUM	_	_	24	mod:num	_	Gloss=ten
 26	shâː	shâː	NUM	_	_	25	flat@num	_	Gloss=plus
@@ -600,7 +600,7 @@
 28	saura	sauraː	NOUN	_	Gender=Masc	24	conj:coord	_	Gloss=rest.Masc|SpaceAfter=No|wordform=sauran
 29	-n	na	PART	_	Case=Gen|PartType=Case	28	udep/m	_	Gloss=Gen.Masc/Plur
 30	cuːtuttukàː	cùːtaː	NOUN	_	Number=Plur	29	comp:obj	_	Gloss=illness.Plur|SpaceAfter=No
-31	.	.	PUNCT	_	_	6	_	_	Gloss=PUNCT
+31	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
 # sent_id = 17_Gidan_yarin_Kirikiri_12
 # text = r̃àhoːtòn KNJH yaː dai ci gàba dà cêːwaː yawàn àbincîn dà akèː bâi wà tsàːràrrûn samsam bài ìsa ba ta koːwànè haːliː, àbincîn kuma bâː shi dà daːɗiː.

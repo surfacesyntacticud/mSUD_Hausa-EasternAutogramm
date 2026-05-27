@@ -250,7 +250,7 @@
 # sent_id = 09_Salman_Rushdie_9b
 # text_en = Because of this, on the groud floor, two people started manifesting their opposition to the publication of this book in English.
 # text_ortho = sabòːdà hakà à hawaː na ɗaya sai wasu mutàneː suː biyu sukà shìga yîn zàngà-zangà ta ƙîn jinin à bugà wannàn littaːfìn dà harshèn Tuːr̃anciː.
-# text = sabòːdà hakà à hawaː na ɗaya sai wasu mutàneː suː biyu sukà= shìga yî-n zàngà-zangà ta ƙî-n jini-n à= bugà wannàn littaːfìn dà harshè-n Tuːr̃anciː.
+# text = sabòːdà hakà à hawaː na ɗaya sai wasu mutàneː suː biyu su-kà= shìga yî-n zàngà-zangà ta ƙî-n jini-n a-_̀= bugà wannàn littaːfìn dà harshè-n Tuːr̃anciː.
 1	sabòːdà	sabòːdà	ADP	_	_	14	mod	_	Gloss=because_of
 2	hakà	hakà	ADV	_	_	1	comp:obj	_	Gloss=thus
 3	à	à	ADP	_	_	14	mod	_	Gloss=at
@@ -270,7 +270,7 @@
 17	zàngà-zangà	zàngà-zangà	NOUN	_	Gender=Fem	16	comp:obj	_	Gloss=demonstration.Fem
 18	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	17	mod	_	Gloss=Gen.Fem
 19	ƙî	ƙi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	18	comp:obj	_	Compound=Yes|Gloss=hate.Vnoun.Masc|Idiom=Yes|SpaceAfter=No|wordform=ƙîn
-20	-n	na	PART	_	Case=Gen|PartType=Case	19	udep/m	_	Gloss=Gen.Masc/Plur
+20	-n	na	PART	_	Case=Gen|PartType=Case	19	udep/m	_	Gloss=Gen.Masc/Plur|InIdiom=Yes
 21	jini	jiniː	NOUN	_	Gender=Masc	20	comp:obj	_	Compound=Yes|Gloss=blood.Masc.|InIdiom=Yes|SpaceAfter=No|wordform=jinin
 22	-n	na	PART	_	Case=Gen|PartType=Case	19	udep/m	_	Gloss=Gen.Masc/Plur
 23	a-	a	PRON	_	Person=4|PronType=PrsSubj	25	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
@@ -699,7 +699,7 @@
 # sent_id = 09_Salman_Rushdie_21
 # text_en = They went on the street manifesting their condemnation of that book that was going to be published in Japanese.
 # text_ortho = Sun fitoː kân tiːtunàː sunàː zàngà-zangà ta ƙîn jinin wannàn littaːfìː dà akèː sôn bugàːwaː à harshèn Japananciː ɗîn.
-# text = sun fitoː kân tiːtunàː sunàː zàngà-zangà ta ƙîn jinin wannàn littaːfìː dà akèː sôn bugàːwaː à harshèn Japananciː ɗîn.
+# text = su-n= fitoː kân tiːtunàː su-nàː zàngà-zangà ta ƙî-n jini-n wannàn littaːfìː dà a-kèː sô-n bugàːwaː à harshè-n Japananciː ɗîn.
 1	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	3	subj/m	_	Gloss=3Plur|SpaceAfter=No|wordform=sun
 2	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	3	mod/m	_	Gloss=Perf.Plur=|wordform=n
 3	fitoː	fit-	VERB	_	_	0	root	_	Gloss=come_out
@@ -709,10 +709,10 @@
 7	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	3	parataxis@conj	_	Gloss=Prog|wordform=sunàː
 8	zàngà-zangà	zàngà-zangà	NOUN	_	Gender=Fem	7	comp:pred	_	Gloss=demonstration.Fem
 9	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	8	mod	_	Gloss=Gen.Fem
-10	ƙî	ƙi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	9	comp:obj	_	Gloss=hate.Vnoun.Masc|Idiom=Yes|SpaceAfter=No|wordform=ƙîn
-11	-n	na	PART	_	Case=Gen|PartType=Case	10	udep/m	_	Gloss=Gen.Masc/Plur
+10	ƙî	ƙi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	9	comp:obj	_	Compound=Yes|Gloss=hate.Vnoun.Masc|Idiom=Yes|SpaceAfter=No|wordform=ƙîn
+11	-n	na	PART	_	Case=Gen|PartType=Case	10	udep/m	_	Gloss=Gen.Masc/Plur|InIdiom=Yes
 12	jini	jiniː	NOUN	_	Gender=Masc	11	comp:obj	_	Compound=Yes|Gloss=blood.Masc|InIdiom=Yes|SpaceAfter=No|wordform=jinin
-13	-n	na	PART	_	Case=Gen|PartType=Case	12	udep/m	_	Gloss=Gen.Masc/Plur
+13	-n	na	PART	_	Case=Gen|PartType=Case	10	udep/m	_	Gloss=Gen.Masc/Plur
 14	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	13	comp:obj	_	Gloss=ProxS.Masc
 15	littaːfìː	littaːfìː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=book.Masc
 16	dà	dà	SCONJ	_	_	15	mod@relcl	_	Gloss=COMP

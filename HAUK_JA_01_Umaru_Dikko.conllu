@@ -785,7 +785,7 @@
 4	bàːr̃a	bàːr̃a	ADV	_	_	3	comp:obj	_	Gloss=last_year
 5	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	4	det	_	Gloss=Def
 6	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	7	det	_	Gloss=some.Masc.Spec
-7	lauyàː	lauyàː	NOUN	_	Gender=Masc	19	comp:obj	_	Gloss=lawyer.Masc
+7	lauyàː	lauyàː	NOUN	_	Gender=Masc	19	subj	_	Gloss=lawyer.Masc
 8	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	7	mod	_	Gloss=Gen
 9	maꞌaikata	maꞌaikataː	NOUN	_	Gender=Fem	8	comp:obj	_	Gloss=ministry.Fem|SpaceAfter=No|wordform=maꞌaikatar̃
 10	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	9	mod/m	_	Gloss=Gen.Fem
