@@ -180,7 +180,7 @@
 # sent_id = 13_Rikicin_tekun_Pasha_5
 # text_en = Likewise, it is thought that now, in the north of Nigeria, newspapers are distributed condemning what the coalition countries are doing to Irak.
 # text_ortho = Hakà kuma anàː zàton cêːwaː à haːlin yànzu anàː rarràbà wasu tàkàr̃duː à areːwacin Nàːjeːr̃iyàː waɗàndà sukà sòːki àbîn dà ƙasàːshen ƙàwànceː sukèː wà Ìr̃aːƙì .
-# text = hakà kuma anàː zàton cêːwaː à haːlin yànzu anàː rarràbà wasu tàkàr̃duː à areːwacin Nàːjeːr̃iyàː waɗàndà sukà sòːki àbîn dà ƙasàːshen ƙàwànceː sukèː wà Ìr̃aːƙì .
+# text = hakà kuma a-nàː zàto-n cêːwaː à haːli-n yànzu a-nàː rarràbà wasu tàkàr̃duː à areːwacin Nàːjeːr̃iyàː waɗàndà su-kà= sòːki àbîn dà ƙasàːshe-n ƙàwànceː su-kèː Ø wà Ìr̃aːƙì .
 1	hakà	hakà	ADV	_	_	4	mod	_	Gloss=thus
 2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 3	a-	a-	PRON	_	Person=4|PronType=Prs	4	subj/m	_	Gloss=4|SpaceAfter=No
@@ -206,12 +206,12 @@
 23	sòːki	soːk-	VERB	_	_	20	comp:obj	_	Gloss=concern
 24	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	23	comp:obj	_	Gloss=thing.Masc.Def
 25	dà	dà	SCONJ	_	_	24	mod@relcl	_	Gloss=COMP
-26	ƙasàːshe	ƙasaː	NOUN	_	Number=Plur	31	subj	_	Gloss=country|SpaceAfter=No|wordform=ƙasàːshen
+26	ƙasàːshe	ƙasaː	NOUN	_	Number=Plur	30	subj	_	Gloss=country|SpaceAfter=No|wordform=ƙasàːshen
 27	-n	na	PART	_	Case=Gen|PartType=Case	26	udep/m	_	Gloss=Gen.Masc/Plur
 28	ƙàwànceː	ƙàwànceː	NOUN	_	Gender=Masc	27	comp:obj	_	Gloss=coalition.Masc
-29	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	31	subj/m	_	Gloss=3Plur|SpaceAfter=No
-30	kè	nàː	AUX	_	Aspect=Prog|Copula=Yes	31	mod/m	_	Gloss=bePred.Rel2|Relative=Yes|wordform=sukèː
-31	Ø	ti	VERB	_	_	25	comp:obj	_	Gloss=do
+29	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	30	subj/m	_	Gloss=3Plur-|SpaceAfter=No
+30	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	25	comp:obj	_	Gloss=be.Rel|Relative=Yes|wordform=sukèː
+31	Ø	yi	VERB	_	_	30	comp:pred	_	Gloss=do
 32	wà	mà	ADP	_	Case=Dat	31	comp:obl	_	Gloss=Dat
 33	Ìr̃aːƙì	Ìr̃aːƙì	PROPN	_	_	32	comp:obj	_	Gloss=Irak
 34	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT

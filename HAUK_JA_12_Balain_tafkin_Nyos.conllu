@@ -466,7 +466,7 @@
 14	ɓulɓulôːwaː	ɓulɓul-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	13	comp:obj	_	Gloss=gush.Vnoun.Fem
 15	cikin	cikin	ADP	_	_	13	comp:obl	_	Gloss=inside
 16	tafkìn	tafkìː	NOUN	_	Definite=Def|Gender=Masc	15	comp:obj	_	Gloss=lake.Masc.Def
-17	dà	dà	ADP	_	ExtPos=SCONJ	13	mod@relcl	_	Gloss=COMP|Idiom=Yes
+17	dà	dà	ADP	_	ExtPos=SCONJ	13	mod	_	Gloss=COMP|Idiom=Yes
 18	zaːrar̃	zaːrar̃	ADP	_	_	17	comp:obj	_	Gloss=hardly|InIdiom=Yes
 19	a-	a	PRON	_	Person=4|PronType=PrsSubj	21	subj/m	_	Gloss=4|SpaceAfter=No|wordform=an
 20	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	21	mod/m	_	Gloss=Perf.Plur=|wordform=n
