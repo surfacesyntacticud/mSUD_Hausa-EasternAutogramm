@@ -45,7 +45,7 @@
 # sent_id = 05_Gurfanarwa_da_lauya_3
 # text_en = They are going on with their preperations for handing over power to civilians, and they are boasing about the things they did to protect civil rights.
 # text_ortho = Tanàː cîː gàba dà shirìn baːyar̃ dà mulkìː gà farar̃-hùːlaː, kuma tanàː tàːƙamaː dà irìn abuːbuwàn dà ta yi danganèː dà kaːrè haƙƙìn ꞌyan ƙasâr̃.
-# text = tanàː= cîː gàba dà shirì-n baːyar̃ dà mulkìː gà farar̃-hùːlaː, kuma tanàː= tàːƙamaː dà irì -n abuːbuwàn dà ta= yi danganèː dà kaːrè haƙƙì-n ꞌya-n ƙasâr̃.
+# text = ta-nàː cîː gàba dà shirì-n baːyar̃ dà mulkìː gà farar̃-hùːlaː, kuma ta-nàː tàːƙamaː dà irì -n abuːbuwàn dà ta= yi danganèː dà kaːrè haƙƙì-n ꞌya-n ƙasâr̃.
 1	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	2	subj/m	_	Gloss=3Fem-|SpaceAfter=No
 2	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	Gloss=Prog|wordform=tanàː
 3	cîː	ci	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	2	comp:pred	_	Gloss=proceed.Vnoun.Masc
@@ -64,14 +64,14 @@
 16	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	2	conj:coord	_	Gloss=Prog|wordform=tanàː
 17	tàːƙamaː	tàːƙamaː	NOUN	_	Gender=Fem	16	comp:pred	_	Gloss=boasting.Fem
 18	dà	dà	ADP	_	_	17	comp:obl	_	Gloss=with
-19	irì	irìː	NOUN	_	Gender=Masc	18	comp:obj	_	Gloss=type.Masc
+19	irì	irìː	NOUN	_	Gender=Masc	18	comp:obj	_	Gloss=type.Masc|RelAnt=Yes
 20	-n	na	PART	_	Case=Gen|PartType=Case	19	mod/m	_	Gloss=Gen.Masc/Plur
-21	abuːbuwàn	àbù	NOUN	_	Definite=Def|Number=Plur	20	comp:obj	_	Gloss=thing.Plur.Def
-22	dà	dà	SCONJ	_	_	21	mod@relcl	_	Gloss=COMP
+21	abuːbuwàn	àbù	NOUN	_	Definite=Def|Number=Plur	20	comp:obj	_	Gloss=thing.Plur.Def|RelAnt=Yes
+22	dà	dà	SCONJ	_	_	19	mod@relcl	_	Gloss=CompRel|Relz=Word
 23-24	ta=	_	_	_	_	_	_	_	_
 23	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	25	subj/m	_	Gloss=3Fem-|Relative=Yes|SpaceAfter=No|wordform=ta
 24	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	25	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-25	yi	yi	VERB	_	_	22	comp:obj	_	Gloss=do
+25	yi	yi	VERB	_	_	22	comp:obj	_	ClauseType=Rel|Gloss=do|RelRole=pred
 26	danganèː	danganèː	NOUN	_	ExtPos=SCONJ|Gender=Masc	25	comp:obl	_	Gloss=relation.Masc|Idiom=Yes
 27	dà	dà	ADP	_	_	26	compound	_	Gloss=with|InIdiom=Yes
 28	kaːrè	kaːr-	VERB	_	_	26	comp:obj	_	Gloss=protect
@@ -197,13 +197,13 @@
 13	tòː	tòː	INTJ	_	_	14	discourse	_	Gloss=well
 14	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
 15	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	16	det	_	Gloss=some.Fem.Spec
-16	koːtù	koːtù	NOUN	_	Gender=Fem	14	subj	_	Gloss=court.Fem
+16	koːtù	koːtù	NOUN	_	Gender=Fem	14	subj	_	Gloss=court.Fem|RelAnt=Yes
 17	à	à	ADP	_	_	14	comp:pred	_	Gloss=at
 18	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	17	comp:obj	_	Gloss=Nigeria
-19	dà	dà	SCONJ	_	_	16	mod@relcl	_	Gloss=COMP
+19	dà	dà	SCONJ	_	_	16	mod@relcl	_	Gloss=CompRel|Relz=Word
 20	zaː-	zâː-	PART	_	PartType=TAM|Tense=Fut	22	mod/m	_	Gloss=Fut-|SpaceAfter=No
 21	tà=	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj|Tense=Fut	22	subj/m	_	Gloss=3Fem=|wordform=zaːtà
-22	sâː	sâː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	19	comp:obj	_	Gloss=put
+22	sâː	sâː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	19	comp:obj	_	ClauseType=Rel|Gloss=put|RelRole=subj
 23	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	22	comp:obj	_	Gloss=mouth.Masc|SpaceAfter=No
 24	.	.	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 
@@ -469,7 +469,7 @@
 # sent_id = 05_Gurfanarwa_da_lauya_17
 # text_en = It made the top headlines in nineteen sixty-nine when he defended a labourer who was accused because a government official had raped his wife.
 # text_ortho = Yaː fitoː à kaːnun làːbàːr̃ai nèː à shèːkaràr̃ alìf dà ɗàːriː tar̃à dà sìttin dà tar̃à loːkàcîn dà ya kaːrè wani leːbùr̃à dà akèː yîn zàrgin cêːwa wani jaːmìꞌin gwamnatì yaː yi wà màːtar̃sà fyàːɗeː.
-# text = y-aː fitoː à kaːnun làːbàːr̃ai nèː à shèːkarà-r̃ alìf dà ɗàːriː tar̃à dà sìttin dà tar̃à loːkàcîn dà ya=kaːrè wani leːbùr̃à dà a-kèː yî-n zàrgi-n cêːwa wani jaːmìꞌi-n gwamnatì y-aː yi wà màːta-r̃-sà fyàːɗeː.
+# text = y-aː= fitoː à kaːnun làːbàːr̃ai nèː à shèːkarà-r̃ alìf dà ɗàːriː tar̃à dà sìttin dà tar̃à loːkàcîn dà ya= kaːrè wani leːbùr̃à dà a-kèː yî-n zàrgi-n cêːwa wani jaːmìꞌi-n gwamnatì y-aː= yi wà màːta-r̃-sà fyàːɗeː.
 1	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=Yaː
 2	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Sing=|wordform=aː
 3	fitoː	fit-	VERB	_	_	0	root	_	Gloss=come_out
@@ -488,12 +488,12 @@
 16	sìttin	sìttin	NUM	_	_	13	conj:coord	_	Gloss=sixty
 17	dà	dà	CCONJ	_	_	18	cc	_	Gloss=and
 18	tar̃à	tar̃à	NUM	_	_	16	conj:coord	_	Gloss=nine
-19	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	3	mod	_	Gloss=time.Masc.Def
-20	dà	dà	SCONJ	_	_	19	mod@relcl	_	Gloss=COMP
+19	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	3	mod	_	Gloss=time.Masc.Def|RelAnt=Yes
+20	dà	dà	SCONJ	_	_	19	mod@relcl	_	Gloss=CompRel|Relz=Word
 21-22	ya=	_	_	_	_	_	_	_	_
 21	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	23	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
 22	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	23	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-23	kaːrè	kaːr-	VERB	_	_	20	comp:obj	_	Gloss=protect
+23	kaːrè	kaːr-	VERB	_	_	20	comp:obj	_	ClauseType=Rel|Gloss=protect|RelRole=mod
 24	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	25	det	_	Gloss=some.Masc.Spec
 25	leːbùr̃à	leːbùr̃à	NOUN	_	Gender=Masc	23	comp:obj	_	Gloss=worker.Masc
 26	dà	dà	SCONJ	_	_	25	mod@relcl	_	Gloss=COMP
@@ -587,16 +587,16 @@
 # sent_id = 05_Gurfanarwa_da_lauya_21
 # text_en = His most important case is the one about trying to ensure that two agents of the national Nigerian security be imprisoned for the murder of Dele Giwa, i.e. the journalist who lost his life because of a bomb that he received in a letter in nineteen eighty-six.
 # text_ortho = Zuwànsà koːtùn dà ya fi koːwànneː muhimmancìː shiː nèː neːman yà ga an ɗaurè wasu jàːmìꞌan tsàron ƙasar̃ Nàːjeːr̃iyàː biyu waɗàndà akà zàrgaː dà lâifin kashè Dele Giwa, wàːtòː ɗan jàr̃iːdàr̃ nan dà ya rasà rânsà dàliːlìn wani bâm dà akà aikoː masà ta cikin wàsiːƙàː tun shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà shidà.
-# text = zuwà-n-sà koːtùn dà ya= fi koːwànneː muhimmancìː shiː nèː neːman yà= ga an= ɗaurè wasu jàːmìꞌa-n tsàro-n ƙasa-r̃ Nàːjeːr̃iyàː biyu waɗàndà akà= zàrgaː dà lâifi-n kashè Dele Giwa, wàːtòː ɗa-n jàr̃iːdàr̃ nan dà ya= rasà râ-n-sà dàliːlìn wani bâm dà akà= aikoː masà ta cikin wàsiːƙàː tun shèːkarà-r̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà shidà.
-1	zuwà	zoː	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	12	subj	_	Gloss=go.Vnoun.Masc|Poss=Yes|SpaceAfter=No|wordform=Zuwànsà|wordfrom=zuwànsà
+# text = zuwà-n-sà koːtùn dà ya= fi koːwànneː muhimmancìː shiː nèː neːma-n ya-_̀= ga a-n= ɗaurè wasu jàːmìꞌa-n tsàro-n ƙasa-r̃ Nàːjeːr̃iyàː biyu waɗàndà a-kà= zàrgaː dà lâifi-n kashè Dele Giwa, wàːtòː ɗa-n jàr̃iːdàr̃ nan dà ya= rasà râ-n-sà dàliːlìn wani bâm dà a-kà= aikoː masà ta cikin wàsiːƙàː tun shèːkarà-r̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà shidà.
+1	zuwà	zoː	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	12	subj	_	Gloss=go.Vnoun.Masc|Poss=Yes|RelAnt=Yes|SpaceAfter=No|wordform=Zuwànsà|wordfrom=zuwànsà
 2	-n	na	PART	_	Case=Gen|PartType=Case	1	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 3	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	2	comp:obj/m	_	Gloss=3Masc.Gen
 4	koːtùn	koːtù	NOUN	_	Definite=Def|Gender=Fem	1	comp:obj@G	_	Gloss=court.Fem.Def
-5	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
+5	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=CompRel|Relz=Word
 6-7	ya=	_	_	_	_	_	_	_	_
 6	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	8	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
 7	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	8	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-8	fi	fi	VERB	_	_	5	comp:obj	_	Gloss=exceed
+8	fi	fi	VERB	_	_	5	comp:obj	_	ClauseType=Rel|Gloss=exceed|RelRole=subj
 9	koːwànneː	koːwànneː	PRON	_	Gender=Masc|PronType=Int	8	comp:obj	_	Gloss=each_one.Masc
 10	muhimmancìː	muhimmancìː	NOUN	_	Gender=Masc	8	mod	_	Gloss=importance.Masc
 11	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	12	comp:pred	_	Gloss=3Masc.Nom
@@ -630,25 +630,25 @@
 39	Giwa	Giwa	PROPN	_	_	38	flat@name	_	Gloss=Giwa|SpaceAfter=No
 40	,	,	PUNCT	_	_	42	punct	_	Gloss=PUNCT
 41	wàːtòː	wàːtòː	CCONJ	_	_	42	cc	_	Gloss=i.e.
-42	ɗa	ɗaː	NOUN	_	Gender=Masc	38	conj:dicto	_	Compound=Yes|Gloss=child.Masc|SpaceAfter=No|wordform=ɗan
+42	ɗa	ɗaː	NOUN	_	Gender=Masc	38	conj:dicto	_	Compound=Yes|Gloss=child.Masc|RelAnt=Yes|SpaceAfter=No|wordform=ɗan
 43	-n	na	PART	_	Case=Gen|PartType=Case	42	udep/m	_	Gloss=Gen.Fem
 44	jàr̃iːdàr̃	jàr̃iːdàː	NOUN	_	Definite=Def|Gender=Fem	43	comp:obj	_	Gloss=newspaper.Fem.Def
 45	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	42	det	_	Gloss=PreRef|PreRef=Yes
-46	dà	dà	SCONJ	_	_	42	mod@relcl	_	Gloss=COMP
+46	dà	dà	SCONJ	_	_	42	mod@relcl	_	Gloss=CompRel|Relz=Word
 47-48	ya=	_	_	_	_	_	_	_	_
 47	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	49	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
 48	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	49	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-49	rasà	ras-	VERB	_	_	46	comp:obj	_	Gloss=lose
+49	rasà	ras-	VERB	_	_	46	comp:obj	_	ClauseType=Rel|Gloss=lose|RelRole=subj
 50	râ	râi	NOUN	_	Gender=Masc	49	comp:obj	_	Gloss=life.Masc|Poss=Yes|SpaceAfter=No|wordform=rânsà|wordfrom=rânsà
 51	-n	na	PART	_	Case=Gen|PartType=Case	50	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 52	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	51	comp:obj/m	_	Gloss=3Masc.Gen
 53	dàliːlìn	dàliːlìn	ADP	_	_	49	mod	_	Gloss=because_of
 54	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	55	det	_	Gloss=some.Masc.Spec
-55	bâm	bâm	NOUN	_	Gender=Masc	53	comp:obj	_	Gloss=bomb.Masc
-56	dà	dà	SCONJ	_	_	55	mod@relcl	_	Gloss=COMP
+55	bâm	bâm	NOUN	_	Gender=Masc	53	comp:obj	_	Gloss=bomb.Masc|RelAnt=Yes
+56	dà	dà	SCONJ	_	_	55	mod@relcl	_	Gloss=CompRel|Relz=Word
 57	a-	a	PRON	_	Person=4|PronType=PrsSubj	59	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 58	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	59	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-59	aikoː	aik-	VERB	_	_	56	comp:obj	_	Gloss=send
+59	aikoː	aik-	VERB	_	_	56	comp:obj	_	ClauseType=Rel|Gloss=send|RelRole=obj
 60	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	59	comp:obl	_	Gloss=3Masc.Dat
 61	ta	ta	ADP	_	_	59	mod	_	Gloss=via
 62	cikin	cikin	ADP	_	_	61	comp:obj	_	Gloss=inside

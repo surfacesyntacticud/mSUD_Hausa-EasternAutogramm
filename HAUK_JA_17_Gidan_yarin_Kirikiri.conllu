@@ -9,12 +9,12 @@
 5	Ƙìr̃iƙìr̃i	Ƙìr̃iƙìr̃i	PROPN	_	_	4	comp:obj	_	Gloss=Kirikiri
 
 # sent_id = 17_Gidan_yarin_Kirikiri_2
-# text = wani r̃àhoːtòn dà Ƙungìya-r̃ Neːmàː wà Jàma'àː Haƙƙì-n-sù ta Nàːjeːr̃iyàː (= ƘNJH) ta= bugàː yaː= cêː gida-n kûr̃kukù-n Ƙìr̃iƙìr̃i mài tsauràːra-n màtàːka-n tsàr̃oː, wandà kuma kèː= can bir̃ni-n Ìkko, ya- nàː cìke màːƙil dà 'ya-n fursùnà fìye dà yawàn waɗàndà ya= kàmaːtà sù= kasànceː à cikin-sà .
+# text = wani r̃àhoːtòn dà Ƙungìya-r̃ Neːmàː wà Jàma'àː Haƙƙì-n-sù ta Nàːjeːr̃iyàː (=ƘNJH) ta= bugàː y-aː= cêː gida-n kûr̃kukù-n Ƙìr̃iƙìr̃i mài tsauràːra-n màtàːka-n tsàr̃oː, wandà kuma kèː can bir̃ni-n Ìkko, ya-nàː cìke màːƙil dà 'ya-n fursùnà fìye dà yawàn waɗàndà ya= kàmaːtà su-_̀= kasànceː à cikin-sà .
 # text_en = The Nigerian Civil Rights Association (ƘNJH) has published a report saying that the Kirikiri maximum security prison which is in Lagos, is full of prisoners, more that the number who should be there.
 # text_ortho = Wani r̃àhoːtòn dà Ƙungìyar̃ Neːmàː wà Jàma'àː Haƙƙìnsù ta Nàːjeːr̃iyàː (= ƘNJH) ta bugàː yaː cêː gidan kûr̃kukùn Ƙìr̃iƙìr̃i mài tsauràːran màtàːkan tsàr̃oː, wandà kuma kèː can bir̃nin Ìkko, yanàː cìke màːƙil dà 'yan fursùnà fìye dà yawàn waɗàndà ya kàmaːtà sù kasànceː à cikinsà .
 1	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	2	det	_	Gloss=some.Masc.Spec
-2	r̃àhoːtòn	r̃àhoːtòː	NOUN	_	Definite=Def|Gender=Masc	22	subj	_	Gloss=report.Masc.Def
-3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP|wordform=da
+2	r̃àhoːtòn	r̃àhoːtòː	NOUN	_	Definite=Def|Gender=Masc	22	subj	_	Gloss=report.Masc.Def|RelAnt=Yes
+3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=CompRel|Relz=Word|wordform=da
 4	Ƙungìya	ƙungìyaː	NOUN	_	Gender=Fem	19	subj	_	Gloss=organisation.Fem|SpaceAfter=No|wordform=Ƙungìyar̃
 5	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	4	mod/m	_	Gloss=Gen.Fem
 6	Neːmàː	neːm-	VERB	_	_	5	comp:obj	_	Gloss=look_for
@@ -31,7 +31,7 @@
 17-18	ta=	_	_	_	_	_	_	_	_
 17	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	19	subj/m	_	Gloss=3Fem-|Relative=Yes|SpaceAfter=No|wordform=ta
 18	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	19	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-19	bugàː	bug-	VERB	_	_	3	comp:obj	_	Gloss=print
+19	bugàː	bug-	VERB	_	_	3	comp:obj	_	ClauseType=Rel|Gloss=print|RelRole=obj
 20	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	22	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
 21	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	22	mod/m	_	Gloss=Perf.Sing=|wordform=aː
 22	cêː	cêː	VERB	_	_	0	root	_	Gloss=say
@@ -189,8 +189,8 @@
 45	koː	koː	CCONJ	_	_	46	cc	_	Gloss=or
 46	huɗu	huɗu	NUM	_	_	44	conj:coord	_	Gloss=four|SpaceAfter=No
 47	,	,	PUNCT	_	_	48	punct	_	Gloss=PUNCT
-48	yàːyîn	yàːyiː	PRON	_	PronType=Rel	36	mod	_	Gloss=when
-49	dà	dà	SCONJ	_	_	48	mod@relcl	_	Gloss=COMP
+48	yàːyîn	yàːyiː	PRON	_	PronType=Rel	36	mod	_	Gloss=when|RelAnt=Yes
+49	dà	dà	SCONJ	_	_	48	mod@relcl	_	Gloss=CompRel|Relz=Word
 50	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	51	det	_	Gloss=some.Plur.Spec
 51	'ya	ɗaː	NOUN	_	Number=Plur	60	subj	_	Compound=Yes|Gloss=child.Plur|SpaceAfter=No|wordform='yan
 52	-n	na	PART	_	Case=Gen|PartType=Case	51	udep/m	_	Gloss=Gen.Fem
@@ -201,7 +201,7 @@
 57	kawài	kawài	ADV	_	_	60	mod	_	Gloss=merely
 58	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	60	subj/m	_	Gloss=3.Plur-|SpaceAfter=No|wordform=sù
 59	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	60	mod/m	_	Gloss=Sub=
-60	tsayàː	tsay-	VERB	_	_	49	comp:obj	_	Gloss=stand
+60	tsayàː	tsay-	VERB	_	_	49	comp:obj	_	ClauseType=Rel|Gloss=stand|RelRole=mod
 61	dà	dà	ADP	_	_	60	mod	_	Gloss=with|wordform=da
 62	ƙafà	ƙafàː	NOUN	_	Gender=Fem	61	comp:obj	_	Gloss=leg.Fem|Poss=Yes|SpaceAfter=No|wordform=ƙafàr̃sù
 63	-r̃	na	PART	_	Case=Gen|PartType=Case	62	mod@poss	_	Gloss=Gen.Fem|SpaceAfter=No|wordform=-t
@@ -351,14 +351,14 @@
 21	dà	dà	ADP	_	_	20	comp:obl	_	Gloss=with
 22	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	21	comp:obj	_	Gloss=3Plur.Nom
 23	tun	tun	ADP	_	_	20	mod	_	Gloss=since
-24	shèːkàruː	shèːkaràː	NOUN	_	Number=Plur	23	comp:obj	_	Gloss=year.Plur
+24	shèːkàruː	shèːkaràː	NOUN	_	Number=Plur	23	comp:obj	_	Gloss=year.Plur|RelAnt=Yes
 25	goːmà	goːmà	NUM	_	_	24	mod:num	_	Gloss=ten
 26	shâː	shâː	NUM	_	_	25	flat@num	_	Gloss=plus
 27	bìyar̃	bìyar̃	NUM	_	_	26	flat@num	_	Gloss=five
-28	dà	dà	SCONJ	_	_	24	mod@relcl	_	Gloss=COMP|wordform=ɗà
+28	dà	dà	SCONJ	_	_	24	mod@relcl	_	Gloss=CompRel|Relz=Word|wordform=ɗà
 29	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	31	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 30	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	31	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-31	shigèː	shig-	VERB	_	_	28	comp:obj	_	Gloss=enter|SpaceAfter=No
+31	shigèː	shig-	VERB	_	_	28	comp:obj	_	ClauseType=Rel|Gloss=enter|RelRole=subj|SpaceAfter=No
 32	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 17_Gidan_yarin_Kirikiri_8
@@ -644,7 +644,7 @@
 # sent_id = 17_Gidan_yarin_Kirikiri_13
 # text_en = The reason is that the money that the government was attributing for the purchase of food for the prisoners was really insufficient, and some people working in the prison were helping themselves to the food that was bought for the prisoners.
 # text_ortho = Dàliːlìn hakà kuma shiː nèː kuɗàːɗên dà gwamnatìn kèː waːrèːwaː dòːmin sayàː wà ɗàuràrrûn àbinci sun yi ƙaranciː ƙwar̃ai, kuma wasu ma'àikàtan gidan yaːrìn sunàː tàimakon kânsù dà àbincîn dà akà sàyaː don bâi wà ɗàuràrrûn.
-# text = dàliːlìn hakà kuma shiː nèː kuɗàːɗên dà gwamnatìn kèː waːrèːwaː dòːmin sayàː wà ɗàuràrrûn àbinci sun yi ƙaranciː ƙwar̃ai, kuma wasu ma'àikàtan gidan yaːrìn sunàː tàimakon kânsù dà àbincîn dà akà sàyaː don bâi wà ɗàuràrrûn.
+# text = dàliːlì-n hakà kuma shiː nèː kuɗàːɗên dà gwamnatìn kèː waːrèːwaː dòːmin sayàː wà ɗàuràrrûn àbinci su-n= yi ƙaranciː ƙwar̃ai, kuma wasu ma'àikàta-n gida-n yaːrìn su-nàː tàimako-n kânsù dà àbincîn dà a-kà= sàyaː don bâi wà ɗàuràrrûn.
 1	dàliːlì	dàliːlìː	PROPN	_	Gender=Masc	6	subj	_	Gloss=reason.Masc|SpaceAfter=No|wordform=dàliːlìn
 2	-n	na	PART	_	Case=Gen|PartType=Case	1	mod/m	_	Gloss=Gen.Masc/Plur
 3	hakà	hakà	ADV	_	_	2	comp:obj	_	Gloss=thus
@@ -653,8 +653,8 @@
 6	nèː	neː	AUX	_	Copula=Yes	0	root	_	Gloss=Equ.Masc/Plur
 7	kuɗàːɗên	kuɗiː	NOUN	_	Definite=Def|Number=Plur	19	subj	_	Gloss=money.Plur.Def
 8	dà	dà	SCONJ	_	_	7	mod@relcl	_	Gloss=COMP
-9	gwamnatìn	gwamnatì	NOUN	_	Definite=Def|Gender=Fem	8	comp:obj	_	Gloss=government.Fem.Def|wordform=gwamnatin
-10	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	9	mod	_	Gloss=Prog.Rel|Relative=Yes
+9	gwamnatìn	gwamnatì	NOUN	_	Definite=Def|Gender=Fem	10	subj	_	Gloss=government.Fem.Def|wordform=gwamnatin
+10	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	8	conj:obj	_	Gloss=Prog.Rel|Relative=Yes
 11	waːrèːwaː	waːr-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	10	comp:pred	_	Gloss=set_aside.Vnoun.fem
 12	dòːmin	dòːmin	SCONJ	_	_	11	mod	_	Gloss=in_order_to
 13	sayàː	say-	VERB	_	_	12	comp:obj	_	Gloss=buy
@@ -680,11 +680,11 @@
 33	-n	na	PART	_	Case=Gen|PartType=Case	32	udep/m	_	Gloss=Gen.Masc/Plur
 34	kânsù	kânsu	PRON	_	Number=Plur|Person=3|PronType=Prs|Reflex=Yes	33	comp:obj	_	Gloss=3Plur.Reflex
 35	dà	dà	ADP	_	_	32	comp:obl	_	Gloss=with
-36	àbincîn	àbinciː	NOUN	_	Definite=Def|Gender=Masc	35	comp:obj	_	Gloss=food.Masc.Def
-37	dà	dà	SCONJ	_	_	36	mod@relcl	_	Gloss=COMP
+36	àbincîn	àbinciː	NOUN	_	Definite=Def|Gender=Masc	35	comp:obj	_	Gloss=food.Masc.Def|RelAnt=Yes
+37	dà	dà	SCONJ	_	_	36	mod@relcl	_	Gloss=CompRel|Relz=Word
 38	a-	a	PRON	_	Person=4|PronType=PrsSubj	40	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 39	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	40	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-40	sàyaː	say-	VERB	_	_	37	comp:obj	_	Gloss=buy
+40	sàyaː	say-	VERB	_	_	37	comp:obj	_	ClauseType=Rel|Gloss=buy|RelRole=obj
 41	don	don	SCONJ	_	_	32	mod	_	Gloss=in_order_to
 42	bâi	baː	VERB	_	_	41	comp:obj	_	Gloss=give
 43	wà	mà	ADP	_	Case=Dat	42	comp:obl	_	Gloss=Dat
@@ -703,14 +703,14 @@
 6	suːnàːye	suːnaː	NOUN	_	Number=Plur	5	comp:obj	_	Compound=Yes|Gloss=name.Plur|SpaceAfter=No|wordform=suːnàːyen
 7	-n	na	PART	_	Case=Gen|PartType=Case	6	udep/m	_	Gloss=Gen.Masc/Plur
 8	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	9	det	_	Gloss=some.Plur.Spec
-9	mutàːneː	mùtûm	NOUN	_	Number=Plur	7	comp:obj	_	Gloss=people.Plur
+9	mutàːneː	mùtûm	NOUN	_	Number=Plur	7	comp:obj	_	Gloss=people.Plur|RelAnt=Yes
 10	àr̃bà'in	àr̃bà'in	NUM	_	_	9	mod:num	_	Gloss=forty
 11	dà	dà	CCONJ	_	_	12	cc	_	Gloss=and
 12	tar̃à	tar̃à	NUM	_	_	10	conj:coord	_	Gloss=nine
-13	dà	dà	SCONJ	_	_	9	mod@relcl	_	Gloss=COMP
+13	dà	dà	SCONJ	_	_	9	mod@relcl	_	Gloss=CompRel|Relz=Word
 14	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	16	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 15	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	16	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-16	mutù	mutù	VERB	_	_	13	comp:obj	_	Gloss=die
+16	mutù	mutù	VERB	_	_	13	comp:obj	_	ClauseType=Rel|Gloss=die|RelRole=subj
 17	à	à	ADP	_	_	16	mod	_	Gloss=at
 18	kûr̃kukùn	kûr̃kukùː	NOUN	_	Definite=Def|Gender=Masc	17	comp:obj	_	Gloss=prison.Masc.Def
 19	à	à	ADP	_	_	16	mod	_	Gloss=at
@@ -813,7 +813,7 @@
 # sent_id = 17_Gidan_yarin_Kirikiri_17
 # text_en = It stated that the situation that prevails in the Kirikiri prison produces degenerate people, and it is not surprising to see how people that are released leave with the tendency to feel hate and want to take revenge.
 # text_ortho = Ta cèː haːlîn dà akè ciki à kûr̃kukùn Ƙìr̃iƙìr̃i nàː haifar̃ dà shàːgìɗàɗɗun mutàːneː, kuma bàː àbin màːmaːkìː ba nèː ganin yaddà mutànên dà akà sakoː nàː fitôːwaː dà wani haːliː na nuːnà ƙìyayyàː dà kuma sôn ɗaukàr̃ fansaː.
-# text = ta=cèː haːlîn dà a kèciki à kûr̃kukù-n Ƙìr̃iƙìr̃i nàːhaifar̃ dà shàːgìɗàɗɗun mutàːneː, kuma bàː àbi-n màːmaːkìː ba nèː gani-n yaddà mutànên dà a-kà= sakoː nàːfitôːwaː dà wani haːliː na nuːnà ƙìyayyàː dà kuma sô-n ɗaukà-r̃ fansaː.
+# text = ta= cèː haːlîn dà a kèciki à kûr̃kukù-n Ƙìr̃iƙìr̃i nàːhaifar̃ dà shàːgìɗàɗɗun mutàːneː, kuma bàː àbi-n màːmaːkìː ba nèː gani-n yaddà mutànên dà a-kà= sakoː nàːfitôːwaː dà wani haːliː na nuːnà ƙìyayyàː dà kuma sô-n ɗaukà-r̃ fansaː.
 1-2	ta=	_	_	_	_	_	_	_	_
 1	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	3	subj/m	_	Gloss=3Fem-|Relative=Yes|SpaceAfter=No|wordform=ta
 2	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=UNDERSCORE
@@ -843,11 +843,11 @@
 26	gani	ganiː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	25	dislocated@subj	_	Gloss=seen.Vnoun.Masc|SpaceAfter=No|wordform=ganin
 27	-n	na	PART	_	Case=Gen|PartType=Case	26	udep/m	_	Gloss=Gen.Masc/Plur
 28	yaddà	yaddà	ADV	_	PronType=Rel	27	comp:obj	_	Gloss=how
-29	mutànên	mùtûm	NOUN	_	Definite=Def|Number=Plur	34	subj	_	Gloss=people.Plur.Def
-30	dà	dà	SCONJ	_	_	29	mod@relcl	_	Gloss=COMP
+29	mutànên	mùtûm	NOUN	_	Definite=Def|Number=Plur	34	subj	_	Gloss=people.Plur.Def|RelAnt=Yes
+30	dà	dà	SCONJ	_	_	29	mod@relcl	_	Gloss=CompRel|Relz=Word
 31	a-	a	PRON	_	Person=4|PronType=PrsSubj	33	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 32	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	33	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-33	sakoː	sak-	VERB	_	_	30	comp:obj	_	Gloss=release
+33	sakoː	sak-	VERB	_	_	30	comp:obj	_	ClauseType=Rel|Gloss=release|RelRole=obj
 34	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	28	mod@relcl	_	Gloss=Prog|SpaceAfter=No
 35	fitôːwaː	fit-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	34	comp:pred	_	Gloss=come_out
 36	dà	dà	ADP	_	_	35	comp:obl	_	Gloss=with

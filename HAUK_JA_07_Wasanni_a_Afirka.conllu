@@ -259,12 +259,12 @@
 # text_ortho = Tô, àbîn dà ya kaːwoː rùːɗaːnîn shiː nèː shùːgàban Hùkuːmàr̃ Dambe ta Nàːjeːr̃iyàː, 'Chief Ralph Ogunbufunmi', shiː nèː ya baː dà sanâr̃waː cêːwaː Lasisi bàː zâi jeː wàːsân ba, har̃ ya cèː sun tattàunà hakàn dà Ministàn Wàːsànniː na Nàːjeːr̃iyàː.
 1	tôː	tòː	INTJ	_	_	10	discourse	_	Gloss=well|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-3	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	10	subj	_	Gloss=thing.Masc.Def
-4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=COMP
+3	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	10	subj	_	Gloss=thing.Masc.Def|RelAnt=Yes
+4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=CompRel|Relz=Word
 5-6	ya=	_	_	_	_	_	_	_	_
 5	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	7	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
 6	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-7	kaːwoː	kai	VERB	_	_	4	comp:obj	_	Gloss=carry/take_to
+7	kaːwoː	kai	VERB	_	_	4	comp:obj	_	ClauseType=Rel|Gloss=carry/take_to|RelRole=subj
 8	rùːɗaːnîn	rùːɗaːniː	NOUN	_	Definite=Def|Gender=Masc|Number=Plur	7	comp:obj	_	Gloss=problem.Masc.Def
 9	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	10	comp:pred	_	Gloss=3Masc.Nom
 10	nèː	neː	AUX	_	Copula=Yes	0	root	_	Gloss=Equ.Masc/Plur
@@ -559,7 +559,7 @@
 
 # sent_id = 07_Wasanni_a_Afirka_13
 # text_en = Well now here are some of the results of the football games of the African Cup.
-# text = tòː yànzu kuma gàː wasu dàgà sàːkàmakon wàːsànnîn dà akà yi na gàːsar̃ ƙwallon ƙafàː don cîn koːfìn ƙasàːshen Afır̃kà.
+# text = tòː yànzu kuma gàː wasu dàgà sàːkàmako-n wàːsànnîn dà a-kà= yi na gàːsa-r̃ ƙwallo-n ƙafàː don cî-n koːfì-n ƙasàːshe-n Afır̃kà.
 # text_ortho = Tòː yànzu kuma gàː wasu dàgà sàːkàmakon wàːsànnîn dà akà yi na gàːsar̃ ƙwallon ƙafàː don cîn Koːfìn Ƙasàːshen Afır̃kà.
 1	tòː	tòː	INTJ	_	_	4	discourse	_	Gloss=well
 2	yànzu	yànzu	ADV	_	_	4	mod	_	Gloss=now
@@ -569,11 +569,11 @@
 6	dàgà	dàgà	ADP	_	_	5	mod	_	Gloss=from
 7	sàːkàmako	sàːkàmakoː	NOUN	_	Gender=Masc	6	comp:obj	_	Gloss=result.Masc|SpaceAfter=No|wordform=sàːkàmakon
 8	-n	na	PART	_	Case=Gen|PartType=Case	7	mod/m	_	Gloss=Gen.Masc/Plur
-9	wàːsànnîn	wàːsaː	NOUN	_	Definite=Def|Number=Plur	8	comp:obj	_	Gloss=game.Plur.Def
-10	dà	dà	SCONJ	_	_	9	mod@relcl	_	Gloss=COMP
+9	wàːsànnîn	wàːsaː	NOUN	_	Definite=Def|Number=Plur	8	comp:obj	_	Gloss=game.Plur.Def|RelAnt=Yes
+10	dà	dà	SCONJ	_	_	9	mod@relcl	_	Gloss=CompRel|Relz=Word
 11	a-	a	PRON	_	Person=4|PronType=PrsSubj	13	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 12	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	13	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-13	yi	yi	VERB	_	_	10	comp:obj	_	Gloss=do
+13	yi	yi	VERB	_	_	10	comp:obj	_	ClauseType=Rel|Gloss=do|RelRole=pred
 14	na	na	PART	_	Case=Gen|PartType=Case	7	mod	_	Gloss=Gen
 15	gàːsa	gàːsaː	NOUN	_	Gender=Fem	14	comp:obj	_	Gloss=competion.Fem|SpaceAfter=No|wordform=gàːsar̃
 16	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	15	mod/m	_	Gloss=Gen.Fem

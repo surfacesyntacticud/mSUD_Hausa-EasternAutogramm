@@ -88,7 +88,7 @@
 # sent_id = 15_Yajin_aiki_4
 # text_en = Most shops have stopped working and stores were closed while transports too have stopped working, and children have not gone to school.
 # text_ortho = An tsai dà yawancin har̃koːkin cìnikiː an kuma rufèː shaːgunàː, yàːyîn dà har̃koːkin sufùr̃iː maː sukà tsayàː cik, kuma yâːraː maː bàsù jeː màkàr̃àntunsù ba.
-# text = an tsai dà yawancin har̃koːkin cìnikiː an kuma rufèː shaːgunàː, yàːyîn dà har̃koːkin sufùr̃iː maː sukà tsayàː cik, kuma yâːraː maː bàsù jeː màkàr̃àntunsù ba.
+# text = a-n= tsai dà yawanci-n har̃koːki-n cìnikiː a-n= kuma rufèː shaːgunàː, yàːyîn dà har̃koːki-n sufùr̃iː maː su-kà= tsayàː cik, kuma yâːraː maː bà-sù=jeː màkàr̃àntu-n-sù ba.
 1	a-	a	PRON	_	Person=4|PronType=PrsSubj	3	subj/m	_	Gloss=4|SpaceAfter=No|wordform=an
 2	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	3	mod/m	_	Gloss=Perf.Plur=|wordform=n
 3	tsai	tsay-	VERB	_	Voice=Cau	0	root	_	Gloss=stop.Cau
@@ -104,15 +104,15 @@
 13	rufèː	ruf-	VERB	_	_	3	parataxis@conj	_	Gloss=close
 14	shaːgunàː	shaːgunàː	NOUN	_	Number=Plur	13	comp:obj	_	Gloss=shop.Plur|SpaceAfter=No
 15	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
-16	yàːyîn	yàːyiː	ADV	_	PronType=Rel	13	mod	_	Gloss=when
-17	dà	dà	SCONJ	_	_	16	mod@relcl	_	Gloss=COMP
+16	yàːyîn	yàːyiː	ADV	_	PronType=Rel	13	mod	_	Gloss=when|RelAnt=Yes
+17	dà	dà	SCONJ	_	_	16	mod@relcl	_	Gloss=CompRel|Relz=Word
 18	har̃koːki	har̃kàː	NOUN	_	Number=Plur	24	subj	_	Gloss=business.Plur|SpaceAfter=No|wordform=har̃koːkin
 19	-n	na	PART	_	Case=Gen|PartType=Case	18	mod/m	_	Gloss=Gen.Masc/Plur
 20	sufùr̃iː	sufùr̃iː	NOUN	_	Gender=Masc	19	comp:obj	_	Gloss=transport.Masc
 21	maː	maː	PART	_	PartType=Top	18	discourse@top	_	Gloss=even
 22	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	24	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 23	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	24	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-24	tsayàː	tsay-	VERB	_	_	17	comp:obj	_	Gloss=stop
+24	tsayàː	tsay-	VERB	_	_	17	comp:obj	_	ClauseType=Rel|Gloss=stop|RelRole=mod
 25	cik	cik	IDEO	_	_	24	comp:obj	_	Gloss=still|SpaceAfter=No
 26	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT
 27	kuma	kuma	CCONJ	_	_	32	cc	_	Gloss=also
@@ -292,7 +292,7 @@
 # sent_id = 15_Yajin_aiki_8
 # text_en = Likewise, they want the leaders of the country to give full explanation on the clashes and bloodshed that took place between students and the police in Niamey last february.
 # text_ortho = Hakà kuma sunàː sôn mahùkùntan ƙasâr̃ sù baːyar̃ dà cìkakken bàyaːnìː à kân aràngamàː dà zub dà jiniː dà akà yi tsàkaːnin ɗàːlìbai dà kuma 'yan sàndaː à bir̃nin Yàmài à watàn Fàbàr̃air̃ùn dà ya shigèː.
-# text = hakà kuma sunàː sôn mahùkùntan ƙasâr̃ sù baːyar̃ dà cìkakken bàyaːnìː à kân aràngamàː dà zub dà jiniː dà akà yi tsàkaːnin ɗàːlìbai dà kuma 'yan sàndaː à bir̃nin Yàmài à watàn Fàbàr̃air̃ùn dà ya shigèː.
+# text = hakà kuma su-nàː sô-n mahùkùnta-n ƙasâr̃ su-_̀= baːyar̃ dà cìkakken bàyaːnìː à kân aràngamàː dà zub dà jiniː dà a-kà= yi tsàkaːnin ɗàːlìbai dà kuma 'ya-n sàndaː à bir̃ni-n Yàmài à watà-n Fàbàr̃air̃ùn dà ya= shigèː.
 1	hakà	hakà	ADV	_	_	4	mod	_	Gloss=thus
 2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 3	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	4	subj/m	_	Gloss=3Plur|SpaceAfter=No
@@ -312,13 +312,13 @@
 17	kân	kân	ADP	_	_	16	comp:obj	_	Gloss=top
 18	aràngamàː	aràngamàː	NOUN	_	Gender=Fem	17	comp:obj	_	Gloss=conflict.Fem
 19	dà	dà	CCONJ	_	_	20	cc	_	Gloss=and|wordform=da
-20	zub	zub-	VERB	_	Voice=Cau	18	conj:coord	_	Gloss=pour.Cau
+20	zub	zub-	VERB	_	Voice=Cau	18	conj:coord	_	Gloss=pour.Cau|RelAnt=Yes
 21	dà	dà	ADP	_	_	20	comp:obl	_	Gloss=with
 22	jiniː	jiniː	NOUN	_	Gender=Masc	21	comp:obj	_	Gloss=blood.Masc
-23	dà	dà	SCONJ	_	_	20	mod@relcl	_	Gloss=COMP
+23	dà	dà	SCONJ	_	_	20	mod@relcl	_	Gloss=CompRel|Relz=Word
 24	a-	a	PRON	_	Person=4|PronType=PrsSubj	26	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 25	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	26	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-26	yi	yi	VERB	_	_	23	comp:obj	_	Gloss=do
+26	yi	yi	VERB	_	_	23	comp:obj	_	ClauseType=Rel|Gloss=do|RelRole=pred
 27	tsàkaːnin	tsàkaːnin	ADP	_	Number=Plur	26	comp:obl	_	Gloss=between
 28	ɗàːlìbai	ɗaːlìbiː	NOUN	_	Number=Plur	27	comp:obj	_	Gloss=student.Plur
 29	dà	dà	CCONJ	_	_	31	cc	_	Gloss=and|wordform=da
@@ -331,14 +331,14 @@
 36	-n	na	PART	_	Case=Gen|PartType=Case	35	mod/m	_	Gloss=Gen.Masc/Plur
 37	Yàmài	Yàmài	PROPN	_	_	36	comp:obj	_	Gloss=Niamey
 38	à	à	ADP	_	_	26	mod	_	Gloss=at
-39	watà	watàː	NOUN	_	Gender=Masc	38	comp:obj	_	Gloss=month.Masc|SpaceAfter=No|wordform=watàn
+39	watà	watàː	NOUN	_	Gender=Masc	38	comp:obj	_	Gloss=month.Masc|RelAnt=Yes|SpaceAfter=No|wordform=watàn
 40	-n	na	PART	_	Case=Gen|PartType=Case	39	udep/m	_	Gloss=Gen.Masc/Plur
 41	Fàbàr̃air̃ùn	Fàbàr̃air̃ù	NOUN	_	Definite=Def|Gender=Masc	40	comp:obj	_	Gloss=february.Masc.Def
-42	dà	dà	SCONJ	_	_	39	mod@relcl	_	Gloss=COMP
+42	dà	dà	SCONJ	_	_	39	mod@relcl	_	Gloss=CompRel|Relz=Word
 43-44	ya=	_	_	_	_	_	_	_	_
 43	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	45	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
 44	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	45	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-45	shigèː	shig-	VERB	_	_	42	comp:obj	_	Gloss=enter|SpaceAfter=No
+45	shigèː	shig-	VERB	_	_	42	comp:obj	_	ClauseType=Rel|Gloss=enter|RelRole=subj|SpaceAfter=No
 46	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_9
@@ -444,15 +444,15 @@
 7	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	8	mod/m	_	Gloss=Perf.Sing=|wordform=aː
 8	biyoː	bi	VERB	_	_	0	root	_	Gloss=follow
 9	baːyan	baːyan	ADP	_	_	8	mod	_	Gloss=after
-10	sanâr̃wâr̃	sanâr̃waː	NOUN	_	Definite=Def|Gender=Fem	9	comp:obj	_	Gloss=declaration.Fem.Def
-11	dà	dà	SCONJ	_	_	10	mod@relcl	_	Gloss=COMP
+10	sanâr̃wâr̃	sanâr̃waː	NOUN	_	Definite=Def|Gender=Fem	9	comp:obj	_	Gloss=declaration.Fem.Def|RelAnt=Yes
+11	dà	dà	SCONJ	_	_	10	mod@relcl	_	Gloss=CompRel|Relz=Word
 12	gwamnat	gwamnatì	NOUN	_	Gender=Fem	17	subj	_	Gloss=government.Fem|SpaceAfter=No|wordform=gwamnatìn
 13	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	12	mod/m	_	Gloss=Gen.Fem
 14	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	13	comp:obj	_	Gloss=country.Fem.Def
 15-16	ta=	_	_	_	_	_	_	_	_
 15	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	17	subj/m	_	Gloss=3Fem-|Relative=Yes|SpaceAfter=No|wordform=ta=
 16	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	17	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=UNDERSCORE
-17	baːyar̃	baː	VERB	_	Voice=Cau	11	comp:obj	_	Gloss=give.Cau|wordform=bayar
+17	baːyar̃	baː	VERB	_	Voice=Cau	11	comp:obj	_	ClauseType=Rel|Gloss=give.Cau|RelRole=obj|wordform=bayar
 18	nèː	neː	PART	_	PartType=Foc	17	discourse@foc	_	Gloss=Emph
 19	à	à	ADP	_	_	17	mod	_	Gloss=at
 20	watà	watàː	NOUN	_	Gender=Masc	19	comp:obj	_	Compound=Yes|Gloss=month.Masc|SpaceAfter=No|wordform=watàn
@@ -518,25 +518,25 @@
 25	'à=	a	PRON	_	Person=4|PronType=PrsSubj|Tense=Fut	26	subj/m	_	Gloss=4=|wordform=zaːà
 26	kafà	kaf-	VERB	_	_	23	comp:obj	_	Gloss=set_up
 27	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	28	det	_	Gloss=some.Masc.Spec
-28	kwàmìtîn	kwàmìtîː	NOUN	_	Definite=Def|Gender=Masc	26	comp:obj	_	Gloss=committee.Masc.Def
-29	dà	dà	SCONJ	_	_	28	mod@relcl	_	Gloss=COMP
+28	kwàmìtîn	kwàmìtîː	NOUN	_	Definite=Def|Gender=Masc	26	comp:obj	_	Gloss=committee.Masc.Def|RelAnt=Yes
+29	dà	dà	SCONJ	_	_	28	mod@relcl	_	Gloss=CompRel|Relz=Word
 30	zâ-	zâː-	PART	_	PartType=TAM|Tense=Fut	32	mod/m	_	Gloss=Fut-|SpaceAfter=No
 31	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj|Tense=Fut	32	subj/m	_	Gloss=3Masc=|wordform=zâi
-32	tsaːrà	tsaːr-	VERB	_	_	29	comp:obj	_	Gloss=arrange
+32	tsaːrà	tsaːr-	VERB	_	_	29	comp:obj	_	ClauseType=Rel|Gloss=arrange|RelRole=subj
 33	irì	irìː	NOUN	_	Gender=Masc	32	comp:obj	_	Gloss=type_of.Masc|SpaceAfter=No|wordform=irìn
 34	-n	na	PART	_	Case=Gen|PartType=Case	33	udep/m	_	Gloss=Gen.Masc/Plur
-35	sàuye-sàuyên	sauyìː	NOUN	_	Definite=Def|Number=Plur	34	comp:obj	_	Gloss=change.Plur.Def
-36	dà	dà	SCONJ	_	_	35	mod@relcl	_	Gloss=COMP
+35	sàuye-sàuyên	sauyìː	NOUN	_	Definite=Def|Number=Plur	34	comp:obj	_	Gloss=change.Plur.Def|RelAnt=Yes
+36	dà	dà	SCONJ	_	_	35	mod@relcl	_	Gloss=CompRel|Relz=Word
 37	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	39	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 38	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	39	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-39	zama	zama	VERB	_	_	36	comp:obj	_	Gloss=become
+39	zama	zama	VERB	_	_	36	comp:obj	_	ClauseType=Rel|Gloss=become|RelRole=subj
 40	doːlè	doːlè	ADV	_	_	39	comp:pred	_	Gloss=necessary|SpaceAfter=No
 41	.	.	PUNCT	_	_	23	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_13
 # text_en = But then, up till now, nothing has been heard concerning the installation of this committee.
 # text_ortho = Sai dai kuma har̃ yànzu, baːbù wani abîn dà akà saːkè jîː danganèː dà kafà wannàn kwàmìtîn.
-# text = sai dai kuma har̃ yànzu, baːbù wani abîn dà akà saːkè jîː danganèː dà kafà wannàn kwàmìtîn.
+# text = sai dai kuma har̃ yànzu, baːbù wani abîn dà a-kà= saːkè jîː danganèː dà kafà wannàn kwàmìtîn.
 1	sai	sai	SCONJ	_	_	7	mod	_	Gloss=except_that
 2	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
 3	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
@@ -545,12 +545,12 @@
 6	,	,	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 7	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
 8	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	9	det	_	Gloss=some.Masc.Spec
-9	abîn	àbù	NOUN	_	Definite=Def|Gender=Fem	7	subj	_	Gloss=thing.Fem.Def
-10	dà	dà	SCONJ	_	_	9	mod@relcl	_	Gloss=COMP
+9	abîn	àbù	NOUN	_	Definite=Def|Gender=Fem	7	subj	_	Gloss=thing.Fem.Def|RelAnt=Yes
+10	dà	dà	SCONJ	_	_	9	mod@relcl	_	Gloss=CompRel|Relz=Word
 11	a-	a	PRON	_	Person=4|PronType=PrsSubj	13	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 12	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	13	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-13	saːkè	saːk-	VERB	_	_	10	comp:obj	_	Gloss=repeat
-14	jîː	ji	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	13	comp:obj	_	Gloss=hear.Vnoun.Masc
+13	saːkè	saːk-	VERB	_	_	10	comp:obj	_	ClauseType=Rel|Gloss=repeat
+14	jîː	ji	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	13	comp:obj	_	Gloss=hear.Vnoun.Masc|RelRole=obj
 15	danganèː	danganèː	NOUN	_	ExtPos=SCONJ|Gender=Masc	14	comp:obl	_	Gloss=relation.Masc|Idiom=Yes
 16	dà	dà	ADP	_	_	15	compound	_	Gloss=with|InIdiom=Yes
 17	kafà	kaf-	VERB	_	_	15	comp:obj	_	Gloss=set_up
@@ -583,12 +583,12 @@
 19	dà	dà	ADP	_	_	18	comp:obl	_	Gloss=with
 20	sàuye-sàuyên	sauyìː	NOUN	_	Definite=Def|Number=Plur	19	comp:obj	_	Gloss=change.Plur.Def
 21	dà	dà	ADP	_	_	18	mod	_	Gloss=with
-22	saurîn	sauriː	NOUN	_	Definite=Def|Gender=Masc	21	comp:obj	_	Gloss=speed.Masc.Def
-23	dà	dà	SCONJ	_	_	22	mod@relcl	_	Gloss=COMP
+22	saurîn	sauriː	NOUN	_	Definite=Def|Gender=Masc	21	comp:obj	_	Gloss=speed.Masc.Def|RelAnt=Yes
+23	dà	dà	SCONJ	_	_	22	mod@relcl	_	Gloss=CompRel|Relz=Word
 24-25	ya=	_	_	_	_	_	_	_	_
 24	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	26	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
 25	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	26	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-26	kàmaːtà	kamaːt-	VERB	_	_	23	comp:obj	_	Gloss=be_appropriate|SpaceAfter=No
+26	kàmaːtà	kamaːt-	VERB	_	_	23	comp:obj	_	ClauseType=Rel|Gloss=be_appropriate|RelRole=subj|SpaceAfter=No
 27	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_15
@@ -821,14 +821,14 @@
 # text = à kuma raːna-r̃ Àsabàr̃ dà ta= wucèː, 'ya-n tàːsîn ƙasâr̃ suː maː sun= ƙi yî-n aikìː.
 1	à	à	ADP	_	_	19	mod	_	Gloss=at
 2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
-3	raːna	raːnaː	NOUN	_	Gender=Fem	1	comp:obj	_	Compound=Yes|Gloss=day.Fem|SpaceAfter=No|wordform=raːnar̃
+3	raːna	raːnaː	NOUN	_	Gender=Fem	1	comp:obj	_	Compound=Yes|Gloss=day.Fem|RelAnt=Yes|SpaceAfter=No|wordform=raːnar̃
 4	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	3	mod/m	_	Gloss=Gen.Fem
 5	Àsabàr̃	àsabàː	NOUN	_	Definite=Def|Gender=Fem	4	comp:obj	_	Gloss=saturday.Fem.Def
-6	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=COMP|wordform=da
+6	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=CompRel|Relz=Word|wordform=da
 7-8	ta=	_	_	_	_	_	_	_	_
 7	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	9	subj/m	_	Gloss=3Fem-|Relative=Yes|SpaceAfter=No|wordform=ta
 8	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	9	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-9	wucèː	wut-	VERB	_	_	6	comp:obj	_	Gloss=pass|SpaceAfter=No
+9	wucèː	wut-	VERB	_	_	6	comp:obj	_	ClauseType=Rel|Gloss=pass|RelRole=subj|SpaceAfter=No
 10	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 11	'ya	ɗaː	NOUN	_	Number=Plur	19	subj	_	Compound=Yes|Gloss=child.Plur|SpaceAfter=No|wordform='yan
 12	-n	na	PART	_	Case=Gen|PartType=Case	11	udep/m	_	Gloss=Gen.Fem
@@ -885,7 +885,7 @@
 # sent_id = 15_Yajin_aiki_22
 # text_en = Well, President Saibou's government must certainly do something concerning these demonstrations of opposition to the policy that it has recently been implementing.
 # text_ortho = Tòː lalleː dai kàm gwamnatìn shùːgàbaː Saibou tà yi wani àbù dòːmin shaːwoː kân wannàn zàngà-zangàr̃ ta nuːnà rashìn amìncêwaː dà mulkìn dà bài daɗèː yanàː kâi ba .
-# text = tòː lalleː dai kàm gwamnat-r̃ shùːgàbaː Saibou tà= yi wani àbù dòːmin shaːwoː kân wannàn zàngà-zangàr̃ ta= nuːnà rashì-n amìncêwaː dà mulkìn dà bài= daɗèː ya- nàː kâi ba .
+# text = tòː lalleː dai kàm gwamnat-r̃ shùːgàbaː Saibou ta-_̀= yi wani àbù dòːmin shaːwoː kân wannàn zàngà-zangàr̃ ta= nuːnà rashì-n amìncêwaː dà mulkìn dà bà-ì=daɗèː ya-nàː kâi ba .
 1	tòː	tòː	INTJ	_	_	21	discourse	_	Gloss=well
 2	lalleː	lalleː	ADV	_	_	21	mod	_	Gloss=certainly
 3	dai	dai	PART	_	PartType=Top	2	discourse@top	_	Gloss=anyway
@@ -912,14 +912,14 @@
 23	-n	na	PART	_	Case=Gen|PartType=Case	22	udep/m	_	Gloss=Gen.Masc/Plur
 24	amìncêwaː	amint-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	23	comp:obj	_	Gloss=agree.Vnoun.Fem
 25	dà	dà	CCONJ	_	_	24	comp:obl	_	Gloss=and
-26	mulkìn	mulkìː	NOUN	_	Definite=Def	25	comp:obj	_	Gloss=government
-27	dà	dà	SCONJ	_	_	26	mod@relcl	_	Gloss=COMP
+26	mulkìn	mulkìː	NOUN	_	Definite=Def	25	comp:obj	_	Gloss=government|RelAnt=Yes
+27	dà	dà	SCONJ	_	_	26	mod@relcl	_	Gloss=CompRel|Relz=Word
 28	bà-	bà-	PART	_	Aspect=Perf|PartType=TAM|Polarity=Neg	30	mod/m	_	Gloss=Neg.Perf-|SpaceAfter=No
 29	ì=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	30	subj/m	_	Gloss=3Masc=|SpaceAfter=No|wordform=bài
-30	daɗèː	daɗ-	VERB	_	_	27	comp:obj	_	Gloss=last
+30	daɗèː	daɗ-	VERB	_	_	27	comp:obj	_	ClauseType=Rel|Gloss=last
 31	ya-	ya-	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	32	subj/m	_	Gloss=3Masc-|SpaceAfter=No
 32	nàː	nàː	AUX	_	Copula=Yes	30	mod	_	Gloss=be.Pred|wordform=yanàː
-33	kâi	kâi	NOUN	_	Gender=Masc	32	comp:pred	_	Gloss=top.Masc
+33	kâi	kâi	NOUN	_	Gender=Masc	32	comp:pred	_	Gloss=top.Masc|RelRole=obj
 34	ba	ba	PART	_	PartType=Neg|Polarity=Neg	30	mod	_	Gloss=Neg
 35	.	.	PUNCT	_	_	21	punct	_	Gloss=PUNCT
 

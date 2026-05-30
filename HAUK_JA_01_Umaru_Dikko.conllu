@@ -25,7 +25,7 @@
 
 # sent_id = 01_Umaru_Dikko_3
 # text_en = The former minister of transport of Nigeria has escaped the country after the coup that the soldiers did in December 1983 when the civilian government of President Shehu Shagari was overturned.
-# text = tsoːhon ministàn sufùr̃in na Nàjeːr̃iyàː yaː tseːrèː neː dàgà ƙasâr̃ baːyan juːyìn mulkìn dà soːjà sukà yi à watan disambàː na shèːkararàr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà ukù, indà akà hamɓarar̃ dà gwamnatìn farar̃-hùːlaː ta Shùːgàbaː Sheːhù Shàːgàːri.
+# text = tsoːhon ministà-n sufùr̃i-n na Nàjeːr̃iyàː y-aː= tseːrèː neː dàgà ƙasâr̃ baːyan juːyì-n mulkìn dà soːjà su-kà= yi à wata-n disambàː na shèːkararà-r̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà ukù, indà a-kà= hamɓarar̃ dà gwamnat-r̃ farar̃-hùːlaː ta Shùːgàbaː Sheːhù Shàːgàːri.
 # text_ortho = Tsoːhon Ministàn Sufùr̃in na Nàjeːr̃iyàː yaː tseːrèː neː dàgà ƙasâr̃ baːyan juːyìn mulkìn dà soːjà sukà yi à watan Disambàː na shèːkararàr̃ alìf da ɗàriː tar̃à đà tàmàːnin dà ukù, indà akà hamɓarar̃ dà gwamnatìn farar̃-hùːlaː ta Shùːgàbaː Sheːhù Shàːgàːri.
 1	tsoːhon	tsoːhoː	ADJ	_	Gender=Masc	2	mod	_	Gloss=old.Masc
 2	ministà	ministàː	NOUN	_	Gender=Masc	10	subj	_	Gloss=minister.Masc|SpaceAfter=No|wordform=ministàn
@@ -41,14 +41,14 @@
 12	dàgà	dàgà	ADP	_	_	10	comp:obl	_	Gloss=from
 13	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	12	comp:obj	_	Gloss=country.Fem.Def
 14	baːyan	baːyan	ADP	_	_	10	mod	_	Gloss=after
-15	juːyì	juːy-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	14	comp:obj	_	Gloss=change.Vnoun.Masc|SpaceAfter=No|wordform=juːyìn
+15	juːyì	juːy-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	14	comp:obj	_	Gloss=change.Vnoun.Masc|RelAnt=Yes|SpaceAfter=No|wordform=juːyìn
 16	-n	na	PART	_	Case=Gen|PartType=Case	15	udep/m	_	Gloss=Gen.Masc/Plur
 17	mulkìn	mulkìː	NOUN	_	Definite=Def|Gender=Masc	16	comp:obj	_	Gloss=rule.Masc.Def
-18	dà	dà	SCONJ	_	_	15	mod@relcl	_	Gloss=COMP
+18	dà	dà	SCONJ	_	_	15	mod@relcl	_	Gloss=CompRel|Relz=Word
 19	soːjà	soːjà	NOUN	_	Number=Plur	22	subj	_	Gloss=soldiers.Plur
 20	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	22	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 21	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	22	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-22	yi	yi	VERB	_	_	18	comp:obj	_	Gloss=do
+22	yi	yi	VERB	_	_	18	comp:obj	_	ClauseType=Rel|Gloss=do|RelRole=pred
 23	à	à	ADP	_	_	22	comp:obl	_	Gloss=at
 24	wata	wataː	NOUN	_	Gender=Masc	23	comp:obj	_	Gloss=month.Masc|SpaceAfter=No|wordform=watan
 25	-n	na	PART	_	Case=Gen|PartType=Case	24	udep/m	_	Gloss=Gen.Masc/Plur
@@ -420,7 +420,7 @@
 
 # sent_id = 01_Umaru_Dikko_13a
 # text_en = A the time of the trial, the judge said Umaru Dikko was described as " a huge thief whom nobody had ever seen the like in the world."
-# text = à loːkàcin shàr̃iꞌàr̃, mài shàr̃iꞌàː yaː cêː an bayyànà Ùːmar̃ù Dikkò dà cêːwaː: “ wani ƙàːsur̃gumin ɓàraːwòː neː dà bà'à taɓà yîn irìnsà ba à duːniyàː. ".
+# text = à loːkàci-n shàr̃iꞌàr̃, mài shàr̃iꞌàː y-aː= cêː a-n= bayyànà Ùːmar̃ù Dikkò dà cêːwaː: “ wani ƙàːsur̃gumin ɓàraːwòː neː dà bà-'à=taɓà yî-n irì-n-sà ba à duːniyàː. ".
 # text_ortho = À loːkàcin shàr̃iꞌàr̃, Mài Shàr̃iꞌàː yaː cêː an bayyànà Ùːmar̃ù Dikkò dà cêwaː: “Wani ƙàːsur̃gumin ɓàraːwòː neː dà bà à taɓà yîn irìnsà ba à duːniyàː.” Sai à watàn Jànair̃u na shekaràr̃ alif dà ɗàriː tar̃à dà tàmàːnin dà bìyar̃ nèː Gwamnatìn Nàjeːr̃iyàː ta bùkàːci Bìr̃taːniyà tà miːƙàː matà shiː don à gur̃faːnar̃ dà shiː à gàban shàr̃iꞌàː kân lâifin cîn hancìː dà kàrɓar̃ r̃ashawaː ta fâm miliyàn bàr̃kàtài.
 1	à	à	ADP	_	_	10	mod	_	Gloss=at
 2	loːkàci	loːkàciː	NOUN	_	Gender=Masc	1	comp:obj	_	Gloss=time.Masc|SpaceAfter=No|wordform=loːkàcin
@@ -443,17 +443,17 @@
 19	“	“	PUNCT	_	_	23	punct	_	Gloss=PUNCT
 20	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	22	det	_	Gloss=some.Masc.Spec
 21	ƙàːsur̃gumin	ƙàːsur̃gumiː	ADJ	_	Gender=Masc	22	mod	_	Gloss=huge.Masc
-22	ɓàraːwòː	ɓàraːwòː	NOUN	_	Gender=Masc	23	comp:pred	_	Gloss=thief.Masc
+22	ɓàraːwòː	ɓàraːwòː	NOUN	_	Gender=Masc	23	comp:pred	_	Gloss=thief.Masc|RelAnt=Yes
 23	neː	neː	AUX	_	Copula=Yes	17	comp:obj	_	Gloss=Equ.Masc/Plur
-24	dà	dà	SCONJ	_	_	22	mod@relcl	_	Gloss=COMP
+24	dà	dà	SCONJ	_	_	22	mod@relcl	_	Gloss=CompRel|Relz=Word
 25	bà-	bà-	PART	_	Aspect=Perf|PartType=TAM|Polarity=Neg	27	mod/m	_	Gloss=Neg.Perf-|SpaceAfter=No
 26	'à=	a	PRON	_	Person=4|PronType=PrsSubj	27	subj/m	_	Gloss=4=|SpaceAfter=No|wordform=bà'à
-27	taɓà	taɓ-	VERB	_	_	24	comp:obj	_	Gloss=have_already
+27	taɓà	taɓ-	VERB	_	_	24	comp:obj	_	ClauseType=Rel|Gloss=have_already
 28	yî	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	27	comp:obj	_	Compound=Yes|Gloss=do.Vnoun.Masc.|SpaceAfter=No|wordform=yîn
 29	-n	na	PART	_	Case=Gen|PartType=Case	28	udep/m	_	Gloss=Gen.Masc/Plur
 30	irì	irìː	NOUN	_	Gender=Masc	29	comp:obj	_	Gloss=kind.Masc|Poss=Yes|SpaceAfter=No|wordform=irìnsà|wordfrom=irìnsà
 31	-n	na	PART	_	Case=Gen|PartType=Case	30	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
-32	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	31	comp:obj/m	_	Gloss=3Masc.Gen
+32	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	31	comp:obj/m	_	Gloss=3Masc.Gen|RelPos=Yes
 33	ba	ba	PART	_	PartType=Neg|Polarity=Neg	27	mod	_	Gloss=Neg
 34	à	à	ADP	_	_	27	mod	_	Gloss=at
 35	duːniyàː	duːniyàː	NOUN	_	Gender=Fem	34	comp:obj	_	Gloss=world.Fem|SpaceAfter=No
@@ -630,16 +630,16 @@
 
 # sent_id = 01_Umaru_Dikko_16
 # text_en = At the time when he requested to be given asylum here in Great-Britain, Umaru Dikko declared "if I go back to Nigeria, people will gather to watch when they bring soldiers to shoot me."
-# text = à wàncan loːkàcîn dà ya kai ƙaːrar̃ neːman à baː shì mafakaː à nân Bìr̃tàniyà, Ùːmar̃ù Dikkò cêːwaː ya yi, " in dàː zân koːmàː Nàjeːr̃iyàː, jàmaꞌàː zaː'à taːràː sù yi kallon loːkàcîn dà zaː'à sâː soːjà sù bindìgeː ni. ".
+# text = à wàncan loːkàcîn dà ya= kai ƙaːra-r̃ neːma-n a-_̀= baː -shì mafakaː à nân Bìr̃tàniyà, Ùːmar̃ù Dikkò cêːwaː ya= yi, " in dàː zâ-n= koːmàː Nàjeːr̃iyàː, jàmaꞌàː zaː-'à= taːràː su-_̀= yi kallo-n loːkàcîn dà zaː-'à= sâː soːjà su-_̀= bindìgeː -ni. ".
 # text_ortho = À wàncan loːkàcîn dà ya kai ƙaːrar̃ neːman à baː shì mafakaː à nân Bìr̃tàniyà, Ùːmar̃ù Dikkò cêwaː ya yi, ‘In dàː zân koːmàː Nàjeːr̃iyàː, jàmaꞌàː zaː à taːràː sù yi kallon loːkàcîn dà zaː à sâː soːjà sù bindìgeː ni.’
 1	à	à	ADP	_	_	23	mod	_	Gloss=at
 2	wàncan	can	DET	_	Deixis=Remt|Gender=Masc|PronType=Dem	3	det	_	Gloss=Remt.Masc
-3	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	1	comp:obj	_	Gloss=time.Masc.Def
-4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=COMP
+3	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	1	comp:obj	_	Gloss=time.Masc.Def|RelAnt=Yes
+4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=CompRel|Relz=Word
 5-6	ya=	_	_	_	_	_	_	_	_
 5	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	7	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
 6	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-7	kai	kai	VERB	_	_	4	comp:obj	_	Gloss=reach/carry_to
+7	kai	kai	VERB	_	_	4	comp:obj	_	ClauseType=Rel|Gloss=reach/carry_to|RelRole=mod
 8	ƙaːra	ƙaːraː	NOUN	_	Gender=Fem	7	comp:obj	_	Gloss=complaint.Fem|SpaceAfter=No|wordform=ƙaːrar̃
 9	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	8	mod/m	_	Gloss=Gen.Fem
 10	neːma	neːm-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	9	comp:obj	_	Compound=Yes|Gloss=look_for.Vnoun.Masc.|SpaceAfter=No|wordform=neːman
@@ -678,11 +678,11 @@
 42	yi	yi	VERB	_	_	39	mod	_	Gloss=do
 43	kallo	kalloː	NOUN	_	Gender=Masc	42	comp:pred	_	Gloss=watching.Masc|SpaceAfter=No|wordform=kallon
 44	-n	na	PART	_	Case=Gen|PartType=Case	43	udep/m	_	Gloss=Gen.Masc/Plur
-45	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	44	comp:obj	_	Gloss=time.Masc.Def
-46	dà	dà	SCONJ	_	_	45	mod@relcl	_	Gloss=COMP
+45	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	44	comp:obj	_	Gloss=time.Masc.Def|RelAnt=Yes
+46	dà	dà	SCONJ	_	_	45	mod@relcl	_	Gloss=CompRel|Relz=Word
 47	zaː-	zâː-	PART	_	PartType=TAM|Tense=Fut	49	mod/m	_	Gloss=Fut-|SpaceAfter=No
 48	'à=	a	PRON	_	Person=4|PronType=PrsSubj|Tense=Fut	49	subj/m	_	Gloss=4=|wordform=zaː'à
-49	sâː	sâː	VERB	_	_	46	comp:obj	_	Gloss=cause
+49	sâː	sâː	VERB	_	_	46	comp:obj	_	ClauseType=Rel|Gloss=cause|RelRole=subj
 50	soːjà	soːjà	NOUN	_	Number=Plur	53	subj	_	Gloss=soldiers.Plur
 51	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	53	subj/m	_	Gloss=3.Plur-|SpaceAfter=No|wordform=sù
 52	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	53	mod/m	_	Gloss=Sub=

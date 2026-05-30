@@ -50,7 +50,7 @@
 
 # sent_id = 06_Wayoyin_Tarho_3
 # text_en = Sometimes, you get upset because of the type of problem that you face before you can make a phone call to African countries, especially countries like Zaïre and Sudan.
-# text = wani loːkàciː àbîn yanàː= dà ba-n haushiː, sabòːdà irì-n wàhalàr̃ dà akàn= saːmùː kàːfìn à= bugà wayàː zuwàː ƙasàːshe-n Afìr̃kà, mùsammàn maː ƙasàːsheː kàmar̃ Zàyâr̃ dà Sudân.
+# text = wani loːkàciː àbîn ya nàː dà ba-n haushiː, sabòːdà irì-n wàhalàr̃ dà a-kàn= saːmùː kàːfìn a-_̀= bugà wayàː zuwàː ƙasàːshe-n Afìr̃kà, mùsammàn maː ƙasàːsheː kàmar̃ Zàyâr̃ dà Sudân.
 # text_ortho = Wani loːkàciː àbîn yanàː dà ban haushiː, sabòːdà irìn wàhalàr̃ dà akàn saːmùː kàːfìn à bugà wayàː zuwàː ƙasàːshen Afìr̃kà, mùsammàn maː ƙasàːsheː kàmar̃ Zàyâr dà Sudân.
 1	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	2	det	_	Gloss=some.Masc.Spec
 2	loːkàciː	loːkàciː	NOUN	_	Gender=Masc	5	mod	_	Gloss=time.Masc
@@ -65,11 +65,11 @@
 11	sabòːdà	sabòːdà	ADP	_	_	5	discourse	_	Gloss=because_of
 12	irì	irìː	NOUN	_	Gender=Masc	11	comp:obj	_	Gloss=type_of.Masc|SpaceAfter=No|wordform=irìn
 13	-n	na	PART	_	Case=Gen|PartType=Case	12	mod/m	_	Gloss=Gen.Masc/Plur
-14	wàhalàr̃	wàhalàː	NOUN	_	Definite=Def|Gender=Fem	13	comp:obj	_	Gloss=trouble.Fem.Def
-15	dà	dà	SCONJ	_	_	14	mod@relcl	_	Gloss=COMP
+14	wàhalàr̃	wàhalàː	NOUN	_	Definite=Def|Gender=Fem	13	comp:obj	_	Gloss=trouble.Fem.Def|RelAnt=Yes
+15	dà	dà	SCONJ	_	_	14	mod@relcl	_	Gloss=CompRel|Relz=Word
 16	a-	a	PRON	_	Person=4|PronType=PrsSubj	18	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akàn
 17	kàn=	kàn=	PART	_	Aspect=Hab|PartType=TAM	18	mod/m	_	Gloss=Hab=
-18	saːmùː	saːm-	VERB	_	_	15	comp:obj	_	Gloss=get
+18	saːmùː	saːm-	VERB	_	_	15	comp:obj	_	ClauseType=Rel|Gloss=get|RelRole=obj
 19	kàːfìn	kàːfin	SCONJ	_	_	18	mod	_	Gloss=before
 20	a-	a	PRON	_	Person=4|PronType=PrsSubj	22	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
 21	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	22	mod/m	_	Gloss=Sub=
@@ -143,12 +143,12 @@
 # text = kàmar̃ shèːkaràː bìyar̃ dà sukà wucèː, ìdan kanàː sôn kà bugà wayàː zuwàː Bùr̃kiːnà Faːsò dàgà " Vancouver ", can cikin ƙasar̃ Kyanadà, àbîn bà zâi yìwu ba -
 # text_ortho = Kàmar̃ shèːkaràː bìyar̃ dà sukà wucèː, ìdan kanàː sôn kà bugà wayàː zuwàː Bùr̃kiːnà Faːsò dàgà 'Vancouver', can cikin ƙasar̃ Kyanadà, àbîn bà zâi yìwu ba -
 1	kàmar̃	kàmar̃	ADP	_	_	36	mod	_	Gloss=like
-2	shèːkaràː	shèːkaràː	NOUN	_	Gender=Fem	1	comp:obj	_	Gloss=year.Fem
+2	shèːkaràː	shèːkaràː	NOUN	_	Gender=Fem	1	comp:obj	_	Gloss=year.Fem|RelAnt=Yes
 3	bìyar̃	bìyar̃	NUM	_	_	2	mod:num	_	Gloss=five
-4	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP
+4	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=CompRel|Relz=Word
 5	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	7	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 6	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-7	wucèː	wut-	VERB	_	_	4	comp:obj	_	Gloss=pass|SpaceAfter=No
+7	wucèː	wut-	VERB	_	_	4	comp:obj	_	ClauseType=Rel|Gloss=pass|RelRole=subj|SpaceAfter=No
 8	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 9	ìdan	ìdan	SCONJ	_	_	36	mod	_	Gloss=if
 10	ka	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	11	subj/m	_	Gloss=2Masc
@@ -354,7 +354,7 @@
 
 # sent_id = 06_Wayoyin_Tarho_13
 # text_en = It is necessary for each country to agree on the lines that are needed, on the money that will be paid for each telephone call.
-# text = doːlè neː koːwàcè ƙasaː tà amìnceː dà laːyukàn dà akèː bùkaːtàː, dà kuma kuɗîn dà zaː'à biyaː à kân koːwànè sàːƙon wayàr̃ tàr̃hôː.
+# text = doːlè neː koːwàcè ƙasaː ta-_̀= amìnceː dà laːyukàn dà a-kèː bùkaːtàː, dà kuma kuɗîn dà zaː-'à= biyaː à kân koːwànè sàːƙo-n wayà-r̃ tàr̃hôː.
 # text_ortho = Doːlè neː koːwàcè kasaː tà amìnceː dà laːyukàn dà akèː bùkaːtàː, dà kuma kuɗîn dà zaː à biyaː à kân koːwànè sàːƙon wayàr̃ tàrhôː.
 1	doːlè	doːlè	ADV	_	_	0	root	_	Gloss=necessary
 2	neː	neː	PART	_	PartType=Foc	1	discourse@foc	_	Gloss=Emph
@@ -372,11 +372,11 @@
 14	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 15	dà	dà	CCONJ	_	_	17	cc	_	Gloss=and
 16	kuma	kuma	PART	_	PartType=Top	15	discourse@top	_	Gloss=also
-17	kuɗîn	kuɗiː	NOUN	_	Definite=Def|Gender=Masc	9	conj:coord	_	Gloss=money.Masc.Def
-18	dà	dà	SCONJ	_	_	17	mod@relcl	_	Gloss=COMP
+17	kuɗîn	kuɗiː	NOUN	_	Definite=Def|Gender=Masc	9	conj:coord	_	Gloss=money.Masc.Def|RelAnt=Yes
+18	dà	dà	SCONJ	_	_	17	mod@relcl	_	Gloss=CompRel|Relz=Word
 19	zaː-	zâː-	PART	_	PartType=TAM|Tense=Fut	21	mod/m	_	Gloss=Fut-|SpaceAfter=No
 20	'à=	a	PRON	_	Person=4|PronType=PrsSubj|Tense=Fut	21	subj/m	_	Gloss=4=|wordform=à
-21	biyaː	biyaː	VERB	_	_	18	comp:obj	_	Gloss=pay
+21	biyaː	biyaː	VERB	_	_	18	comp:obj	_	ClauseType=Rel|Gloss=pay|RelRole=obj
 22	à	à	ADP	_	ExtPos=ADP	21	comp:obl	_	Gloss=at
 23	kân	kân	ADP	_	_	22	comp:obj	_	Gloss=top
 24	koːwànè	koːwànè	DET	_	Gender=Masc	25	det	_	Gloss=each.Masc
@@ -502,7 +502,7 @@
 
 # sent_id = 06_Wayoyin_Tarho_18
 # text_en = This started because of the time that African countries spent under European domination, but now African countries have started to develop their mutualcooperation.
-# text = wannàn yanàː= fàːruwaː nèː sabòːdà zaman mulkìn màllakàr̃ dà ƙasàːshen Afir̃kà sukà= yi à ƙàr̃ƙashin ƙasàːshen Tuːr̃ai, àmmaː yànzu ƙasàːshen Afir̃kà sun= soːmà ƙaːrà dàngàntakàː tsàkaːnin-sù .
+# text = wannàn ya nàː fàːruwaː nèː sabòːdà zama-n mulkì-n màllakàr̃ dà ƙasàːshe-n Afir̃kà su-kà= yi à ƙàr̃ƙashin ƙasàːshe-n Tuːr̃ai, àmmaː yànzu ƙasàːshe-n Afir̃kà su-n= soːmà ƙaːrà dàngàntakàː tsàkaːnin-sù .
 # text_ortho = Wannàn yanàː fàːruwaː nèː sabòːdà zaman mulkìn màllakàr̃ dà ƙasàːshen Afir̃kà sukà yi à ƙàr̃ƙashin ƙasàːshen Tuːr̃ai, àmmaː yànzu ƙasàːshen Afir̃kà sun soːmà ƙaːrà dàngàntakàː tsàkaːninsù.
 1	wannàn	nân	PRON	_	Deixis=ProxS|Number=Sing|PronType=Dem	3	subj	_	Gloss=ProxS.Sing
 2	ya	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	Gloss=3Masc
@@ -510,18 +510,18 @@
 4	fàːruwaː	fàːru	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	3	comp:aux	_	Gloss=happen
 5	nèː	neː	PART	_	PartType=Foc	4	discourse@foc	_	Gloss=Emph
 6	sabòːdà	sabòːdà	ADP	_	_	4	mod	_	Gloss=because_of
-7	zama	zama	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:obj	_	Gloss=stay.Vnoun.Masc|SpaceAfter=No|wordform=zaman
+7	zama	zama	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:obj	_	Gloss=stay.Vnoun.Masc|RelAnt=Yes|SpaceAfter=No|wordform=zaman
 8	-n	na	PART	_	Case=Gen|PartType=Case	7	mod/m	_	Gloss=Gen.Masc/Plur
 9	mulkì	mulkìː	NOUN	_	Gender=Masc	8	comp:obj	_	Gloss=rule.Masc|SpaceAfter=No|wordform=mulkìn
 10	-n	na	PART	_	Case=Gen|PartType=Case	9	mod/m	_	Gloss=Gen.Masc/Plur
 11	màllakàr̃	màllakàː	NOUN	_	Definite=Def|Gender=Fem	10	comp:obj	_	Gloss=possession.Fem.Def
-12	dà	dà	SCONJ	_	_	7	mod@relcl	_	Gloss=COMP
+12	dà	dà	SCONJ	_	_	7	mod@relcl	_	Gloss=CompRel|Relz=Word
 13	ƙasàːshe	ƙasaː	NOUN	_	Number=Plur	18	subj	_	Gloss=country.Plur|SpaceAfter=No|wordform=ƙasàːshen
 14	-n	na	PART	_	Case=Gen|PartType=Case	13	mod/m	_	Gloss=Gen.Masc/Plur
 15	Afir̃kà	Afir̃kà	PROPN	_	_	14	comp:obj	_	Gloss=Africa
 16	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	18	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 17	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	18	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-18	yi	yi	VERB	_	_	12	comp:obj	_	Gloss=do
+18	yi	yi	VERB	_	_	12	comp:obj	_	ClauseType=Rel|Gloss=do|RelRole=pred
 19	à	à	ADP	_	ExtPos=ADP	18	comp:obl	_	Gloss=at|Idiom=Yes
 20	ƙàr̃ƙashin	ƙàr̃ƙashin	ADP	_	_	19	comp:obj	_	Gloss=under|InIdiom=Yes
 21	ƙasàːshe	ƙasaː	NOUN	_	Number=Plur	20	comp:obj	_	Gloss=country.Plur|SpaceAfter=No|wordform=ƙasàːshen

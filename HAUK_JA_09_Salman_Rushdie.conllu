@@ -20,7 +20,7 @@
 # sent_id = 09_Salman_Rushdie_2-3
 # text_en = A few days ago, in Iran, they confirmed the death sentence pronounced against Salman Rushdie, that is to say, the author of the book "The Satanic Verses".
 # text_ortho = Kwàːnàkin baːya à ƙasar̃ Ir̃àn an saːkè jaddàdà hukuncìn kisàn dà akà yankèː kân Salman Rushdie, wàːtòː mar̃ùbùːcin littaːfìn nan na "Aːyoːyin Shaiɗân".
-# text = kwàːnàkin baːya à ƙasar̃ Ir̃àn an saːkè jaddàdà hukuncìn kisàn dà akà yankèː kân Salman Rushdie, wàːtòː mar̃ùbùːcin littaːfìn nan na "Aːyoːyin Shaiɗân".
+# text = kwàːnàki-n baːya à ƙasa-r̃ Ir̃àn a-n= saːkè jaddàdà hukuncì-n kisàn dà a-kà= yankèː kân Salman Rushdie, wàːtòː mar̃ùbùːci-n littaːfìn nan na "Aːyoːyin Shaiɗân".
 1	kwàːnàki	kwaːnaː	NOUN	_	Number=Plur	10	mod	_	Gloss=day.Plur|SpaceAfter=No|wordform=kwàːnàkin
 2	-n	na	PART	_	Case=Gen|PartType=Case	1	mod/m	_	Gloss=Gen.Masc/Plur
 3	baːya	baːya	ADV	_	_	2	comp:obj	_	Gloss=back
@@ -32,13 +32,13 @@
 9	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	10	mod/m	_	Gloss=Perf.Plur=|wordform=n
 10	saːkè	saːk-	VERB	_	_	0	root	_	Gloss=repeat
 11	jaddàdà	jaddad-	VERB	_	_	10	comp:obj	_	Gloss=confirm
-12	hukuncì	hukuncìː	NOUN	_	Gender=Masc	11	comp:obj	_	Gloss=sentence.Masc|SpaceAfter=No|wordform=hukuncìn
+12	hukuncì	hukuncìː	NOUN	_	Gender=Masc	11	comp:obj	_	Gloss=sentence.Masc|RelAnt=Yes|SpaceAfter=No|wordform=hukuncìn
 13	-n	na	PART	_	Case=Gen|PartType=Case	12	mod/m	_	Gloss=Gen.Masc/Plur
 14	kisàn	kisàː	NOUN	_	Definite=Def|Gender=Masc	13	comp:obj	_	Gloss=murder.Masc.Def
-15	dà	dà	SCONJ	_	_	12	mod@relcl	_	Gloss=COMP
+15	dà	dà	SCONJ	_	_	12	mod@relcl	_	Gloss=CompRel|Relz=Word
 16	a-	a	PRON	_	Person=4|PronType=PrsSubj	18	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 17	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	18	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-18	yankèː	yank-	VERB	_	_	15	comp:obj	_	Gloss=cut
+18	yankèː	yank-	VERB	_	_	15	comp:obj	_	ClauseType=Rel|Gloss=cut|RelRole=obj
 19	kân	kân	ADP	_	_	18	comp:obl	_	Gloss=about
 20	Salman	Salman	PROPN	_	_	19	comp:obj	_	Gloss=Salman
 21	Rushdie	Rushdie	PROPN	_	_	20	flat@name	_	Gloss=Rushdie|SpaceAfter=No
@@ -74,14 +74,14 @@
 # sent_id = 09_Salman_Rushdie_5
 # text_en = But, because of the dispute that took place in 'Tokyo' concerning this book that was translated into Japanese, it appears that it will not be possible to print in tomorrow.
 # text_ortho = Àmmaː sabòːdà rìkicîn dà akà yi à bir̃nin " Tokyo " à kân wannàn littaːfìn dà akà fassàraː dà harshèn Japananciː, dà àlaːmàː bà zaː'à sàːmi daːmar̃ à bugàː shi gòːbe ɗîn ba.
-# text = àmmaː sabòːdà rìkicîn dà akà yi à bir̃nin " Tokyo " à kân wannàn littaːfìn dà akà fassàraː dà harshèn Japananciː, dà àlaːmàː bà zaː'à sàːmi daːmar̃ à bugàː shi gòːbe ɗîn ba.
+# text = àmmaː sabòːdà rìkicîn dà a-kà= yi à bir̃ni-n " Tokyo " à kân wannàn littaːfìn dà a-kà= fassàraː dà harshè-n Japananciː, dà àlaːmàː bà zaː-'à= sàːmi daːma-r̃ a-_̀= bugàː -shi gòːbe ɗîn ba.
 1	àmmaː	àmmaː	CCONJ	_	_	27	discourse	_	Gloss=but
 2	sabòːdà	sabòːdà	ADP	_	_	27	mod	_	Gloss=because_of
-3	rìkicîn	rìkiciː	NOUN	_	Definite=Def|Gender=Masc	2	comp:obj	_	Gloss=dispute.Masc.Def
-4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=COMP
+3	rìkicîn	rìkiciː	NOUN	_	Definite=Def|Gender=Masc	2	comp:obj	_	Gloss=dispute.Masc.Def|RelAnt=Yes
+4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=CompRel|Relz=Word
 5	a-	a	PRON	_	Person=4|PronType=PrsSubj	7	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 6	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-7	yi	yi	VERB	_	_	4	comp:obj	_	Gloss=do
+7	yi	yi	VERB	_	_	4	comp:obj	_	ClauseType=Rel|Gloss=do|RelRole=pred
 8	à	à	ADP	_	_	7	comp:obl	_	Gloss=at
 9	bir̃ni	bir̃niː	NOUN	_	Gender=Masc	8	comp:obj	_	Compound=Yes|Gloss=city.Masc|SpaceAfter=No|wordform=bir̃nin
 10	-n	na	PART	_	Case=Gen|PartType=Case	9	mod@appos/m	_	Gloss=Gen.Masc/Plur
@@ -91,11 +91,11 @@
 14	à	à	ADP	_	_	7	comp:obl	_	Gloss=at
 15	kân	kân	ADP	_	_	14	comp:obj	_	Gloss=top
 16	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	17	det	_	Gloss=ProxS.Masc
-17	littaːfìn	littaːfìː	NOUN	_	Definite=Def|Gender=Masc	15	comp:obj	_	Gloss=book.Masc.Def
-18	dà	dà	SCONJ	_	_	17	mod@relcl	_	Gloss=COMP
+17	littaːfìn	littaːfìː	NOUN	_	Definite=Def|Gender=Masc	15	comp:obj	_	Gloss=book.Masc.Def|RelAnt=Yes
+18	dà	dà	SCONJ	_	_	17	mod@relcl	_	Gloss=CompRel|Relz=Word
 19	a-	a	PRON	_	Person=4|PronType=PrsSubj	21	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 20	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	21	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-21	fassàraː	fassar-	VERB	_	_	18	comp:obj	_	Gloss=translate
+21	fassàraː	fassar-	VERB	_	_	18	comp:obj	_	ClauseType=Rel|Gloss=translate|RelRole=obj
 22	dà	dà	ADP	_	_	21	comp:obl	_	Gloss=with
 23	harshè	harshèː	NOUN	_	Gender=Masc	22	comp:obj	_	Compound=Yes|Gloss=tongue.Masc|SpaceAfter=No|wordform=harshèn
 24	-n	na	PART	_	Case=Gen|PartType=Case	23	udep/m	_	Gloss=Gen.Fem
@@ -122,12 +122,12 @@
 # text_en = What happened is that just now, in daylight, the man who wanted to translate Salman Rushdie's book from English to Japanese, an Italian called 'Gianni Palma' called a press conference in the foreign journalists' club.
 # text_ortho = Àbîn dà ya fàːru shiː nèː ɗàːzu dà raːna shiː mùtumìn dà yakèː sôn à fassàr̃à littaːfìn nan na Salman Rushdie dàgà harshèn Tuːr̃anciː zuwàː Japananciː, wandà akèː kiràː " Gianni Palma " ɗan ƙasar̃ Ìtaːliyà, yaː kiraːwoː tàːron manèːmaː làːbàːr̃ai à kùlâb ɗîn nan na 'Yan Jàr̃ìːduː na Ƙasàːshen Wàje.
 # text = àbîn dà ya= fàːru shiː nèː ɗàːzu dà raːna shiː mùtumìn dà ya- kèː sô-n à= fassàr̃à littaːfìn nan na Salman Rushdie dàgà harshè-n Tuːr̃anciː zuwàː Japananciː, wandà akèː= kiràː " Gianni Palma " ɗa-n ƙasa-r̃ Ìtaːliyà, yaː= kiraːwoː tàːro-n manèːmaː làːbàːr̃ai à kùlâb ɗîn nan na 'Ya-n Jàr̃ìːduː na Ƙasàːshe-n Wàje.
-1	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	7	subj	_	Gloss=thing.Masc.Def
-2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
+1	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	7	subj	_	Gloss=thing.Masc.Def|RelAnt=Yes
+2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=CompRel|Relz=Word
 3-4	ya=	_	_	_	_	_	_	_	_
 3	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	5	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
 4	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-5	fàːru	faːr-	VERB	_	_	2	comp:obj	_	Gloss=begin
+5	fàːru	faːr-	VERB	_	_	2	comp:obj	_	ClauseType=Rel|Gloss=begin|RelRole=subj
 6	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	7	comp:pred	_	Gloss=3Masc.Nom
 7	nèː	neː	AUX	_	Copula=Yes	0	root	_	Gloss=Equ.Masc/Plur
 8	ɗàːzu	ɗàːzu	ADV	_	_	49	mod	_	Gloss=just_now
@@ -355,12 +355,12 @@
 1	tòː	tòː	INTJ	_	_	12	discourse	_	Gloss=well
 2	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	12	dislocated@subj	_	Gloss=3Masc.Nom
 3	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	4	det	_	Gloss=ProxS.Masc
-4	mùtumìn	mùtûm	NOUN	_	Definite=Def|Gender=Masc	2	conj:appos	_	Gloss=person.Masc.Def
-5	dà	dà	SCONJ	_	_	4	mod@relcl	_	Gloss=COMP
+4	mùtumìn	mùtûm	NOUN	_	Definite=Def|Gender=Masc	2	conj:appos	_	Gloss=person.Masc.Def|RelAnt=Yes
+5	dà	dà	SCONJ	_	_	4	mod@relcl	_	Gloss=CompRel|Relz=Word
 6-7	ya=	_	_	_	_	_	_	_	_
 6	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	8	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
 7	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	8	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-8	kai	kai	VERB	_	_	5	comp:obj	_	Gloss=reach/carry_to
+8	kai	kai	VERB	_	_	5	comp:obj	_	ClauseType=Rel|Gloss=reach/carry_to|RelRole=subj
 9	harìː	harìː	NOUN	_	Gender=Masc	8	comp:obj	_	Gloss=attack.Masc
 10	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	12	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
 11	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	12	mod/m	_	Gloss=Perf.Sing=|wordform=aː
@@ -435,7 +435,7 @@
 # sent_id = 09_Salman_Rushdie_15
 # text_en = Well over there, on the twentieth floor, they were doing this press conference that him, Gianni Palma, had called.
 # text_ortho = Tòː à can hawaː na àshìr̃in nèː akèː yîn wannàn tàːroː na manèːmaː làːbàːr̃ai dà shiː Gianni Palma ya kiraːwoː.
-# text = tòː à can hawaː na àshìr̃in nèː akèː yîn wannàn tàːroː na manèːmaː làːbàːr̃ai dà shiː Gianni Palma ya kiraːwoː.
+# text = tòː à can hawaː na àshìr̃in nèː a-kèː yî-n wannàn tàːroː na manèːmaː làːbàːr̃ai dà shiː Gianni Palma ya= kiraːwoː.
 1	tòː	tòː	INTJ	_	_	4	discourse	_	Gloss=well
 2	à	à	ADP	_	_	4	mod	_	Gloss=at
 3	can	can	ADV	_	Deixis=Remt|PronType=Dem	2	comp:obj	_	Gloss=Remt
@@ -448,18 +448,18 @@
 10	yî	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	9	comp:pred	_	Compound=Yes|Gloss=do.Vnoun.Masc.|SpaceAfter=No|wordform=yîn
 11	-n	na	PART	_	Case=Gen|PartType=Case	10	udep/m	_	Gloss=Gen.Masc/Plur
 12	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	13	det	_	Gloss=ProxS.Masc
-13	tàːroː	tàːroː	NOUN	_	Gender=Masc	11	comp:obj	_	Gloss=meeting.Masc
+13	tàːroː	tàːroː	NOUN	_	Gender=Masc	11	comp:obj	_	Gloss=meeting.Masc|RelAnt=Yes
 14	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	13	mod	_	Gloss=Gen
 15	manèːmaː	manèːmiː	NOUN	_	Number=Plur	14	comp:obj	_	Gloss=seeker.Plur
 16	làːbàːr̃ai	làːbaːr̃ìː	NOUN	_	Number=Plur	15	comp:obj	_	Gloss=news.Plur
-17	dà	dà	SCONJ	_	_	13	mod@relcl	_	Gloss=COMP
+17	dà	dà	SCONJ	_	_	13	mod@relcl	_	Gloss=CompRel|Relz=Word
 18	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	23	subj	_	Gloss=3Masc.Nom
 19	Gianni	Gianni	PROPN	_	_	18	conj:appos	_	Gloss=Gianni
 20	Palma	Palma	PROPN	_	_	19	flat@name	_	Gloss=Palma
 21-22	ya=	_	_	_	_	_	_	_	_
 21	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	23	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
 22	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	23	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-23	kiraːwoː	kiraː	VERB	_	_	17	comp:obj	_	Gloss=call|SpaceAfter=No
+23	kiraːwoː	kiraː	VERB	_	_	17	comp:obj	_	ClauseType=Rel|Gloss=call|RelRole=obj|SpaceAfter=No
 24	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 09_Salman_Rushdie_16
@@ -661,12 +661,12 @@
 24	à	à	ADP	_	_	49	mod	_	Gloss=at
 25	raːna	raːnaː	NOUN	_	Gender=Fem	24	comp:obj	_	Gloss=day.Fem|SpaceAfter=No|wordform=raːnar̃
 26	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	25	mod/m	_	Gloss=Gen.Fem
-27	Lahàdì	Lahàdì	NOUN	_	_	26	comp:obj	_	Gloss=Lahàdì
-28	dà	dà	SCONJ	_	_	27	mod@relcl	_	Gloss=COMP
+27	Lahàdì	Lahàdì	NOUN	_	_	26	comp:obj	_	Gloss=Lahàdì|RelAnt=Yes
+28	dà	dà	SCONJ	_	_	27	mod@relcl	_	Gloss=CompRel|Relz=Word
 29-30	ta=	_	_	_	_	_	_	_	_
 29	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	31	subj/m	_	Gloss=3Fem-|Relative=Yes|SpaceAfter=No|wordform=ta
 30	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	31	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-31	wucèː	wut-	VERB	_	_	28	comp:obj	_	Gloss=pass
+31	wucèː	wut-	VERB	_	_	28	comp:obj	_	ClauseType=Rel|Gloss=pass|RelRole=subj
 32	maː	maː	PART	_	PartType=Top	28	discourse@top	_	Gloss=even|SpaceAfter=No
 33	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
 34	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	35	det	_	Gloss=some.Plur.Spec

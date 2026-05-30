@@ -39,7 +39,7 @@
 # sent_id = 10_Daurin_Siyasa_3
 # text_en = It is progressing with its preparations to hand over power to civilians, and it is boasting of what it has done concerning the defence of civil rights.
 # text_ortho = Tanàː cîː gàba dà shirìn baːyar̃ dà mulkìː gà farar̃-hùːlaː, kuma tanàː àlfahàr̃iː dà irìn abuːbuwàn dà ta yi danganèː dà kaːrè haƙƙìn bìl-Adamà .
-# text = ka nàː cîː gàba dà shirì-n baːyar̃ dà mulkìː gà farar̃-hùːlaː, kuma ta- nàː àlfahàr̃iː dà irì-n abuːbuwàn dà ta= yi danganèː dà kaːrè haƙƙì-n bìl-Adamà .
+# text = ka nàː cîː gàba dà shirì-n baːyar̃ dà mulkìː gà farar̃-hùːlaː, kuma ta-nàː àlfahàr̃iː dà irì-n abuːbuwàn dà ta= yi danganèː dà kaːrè haƙƙì-n bìl-Adamà .
 1	ka	ka	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	2	subj/m	_	Gloss=2Masc
 2	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	Gloss=Prog|wordform=tanàː
 3	cîː	ci	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	2	comp:pred	_	Gloss=proceed.Vnoun.Masc
@@ -58,14 +58,14 @@
 16	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	2	conj:coord	_	Gloss=Prog|wordform=tanaː
 17	àlfahàr̃iː	àlfahàr̃iː	NOUN	_	Gender=Masc	16	comp:pred	_	Gloss=pride.Masc
 18	dà	dà	ADP	_	_	17	comp:obl	_	Gloss=with
-19	irì	irìː	NOUN	_	Gender=Masc	18	comp:obj	_	Gloss=type_of.Masc|SpaceAfter=No|wordform=irìn
+19	irì	irìː	NOUN	_	Gender=Masc	18	comp:obj	_	Gloss=type_of.Masc|RelAnt=Yes|SpaceAfter=No|wordform=irìn
 20	-n	na	PART	_	Case=Gen|PartType=Case	19	mod/m	_	Gloss=Gen.Masc/Plur
 21	abuːbuwàn	àbù	NOUN	_	Definite=Def|Number=Plur	20	comp:obj	_	Gloss=thing.Plur.Def
-22	dà	dà	SCONJ	_	_	19	mod@relcl	_	Gloss=COMP
+22	dà	dà	SCONJ	_	_	19	mod@relcl	_	Gloss=CompRel|Relz=Word
 23-24	ta=	_	_	_	_	_	_	_	_
 23	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	25	subj/m	_	Gloss=3Fem-|Relative=Yes|SpaceAfter=No|wordform=ta
 24	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	25	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-25	yi	yi	VERB	_	_	22	comp:obj	_	Gloss=do
+25	yi	yi	VERB	_	_	22	comp:obj	_	ClauseType=Rel|Gloss=do|RelRole=pred
 26	danganèː	danganèː	NOUN	_	ExtPos=SCONJ|Gender=Masc	25	comp:obl	_	Gloss=relation.Masc|Idiom=Yes
 27	dà	dà	ADP	_	_	26	compound	_	Gloss=with|InIdiom=Yes
 28	kaːrè	kar-	VERB	_	_	26	comp:obj	_	Gloss=protect
@@ -77,7 +77,7 @@
 # sent_id = 10_Daurin_Siyasa_4
 # text_en = But here it is continuing to use a law that was edicted within days of the installation of the military regime in the country.
 # text_ortho = àmmaː gàː shi taː ci gàba dà aikìː dà wata dòːkaː dà akà kafàː cikin kwàːnàkin farkoː na kaːmà mulkìn soːjà à ƙasâr̃.
-# text = Àmmaː gàː shi taː ci gàba dà aikìː dà wata dòːkaː dà akà kafàː cikin kwàːnàkin farkoː na kaːmà mulkìn soːjà à ƙasâr̃.
+# text = àmmaː gàː shi t-aː= ci gàba dà aikìː dà wata dòːkaː dà a-kà= kafàː cikin kwàːnàki-n farkoː na kaːmà mulkì-n soːjà à ƙasâr̃.
 1	àmmaː	àmmaː	CCONJ	_	_	6	discourse	_	Gloss=but
 2	gàː	gàː	PART	_	PartType=Pred	6	discourse	_	Gloss=here_is
 3	shi	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	2	subj	_	Gloss=3Masc.Acc
@@ -89,11 +89,11 @@
 9	aikìː	aikìː	NOUN	_	Gender=Masc	8	comp:obj	_	Gloss=work.Masc
 10	dà	dà	CCONJ	_	_	9	comp:obl	_	Gloss=and
 11	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	12	det	_	Gloss=some.Fem.Spec
-12	dòːkaː	dòːkaː	NOUN	_	Gender=Fem	10	comp:obj	_	Gloss=law.Fem
-13	dà	dà	SCONJ	_	_	12	mod@relcl	_	Gloss=COMP
+12	dòːkaː	dòːkaː	NOUN	_	Gender=Fem	10	comp:obj	_	Gloss=law.Fem|RelAnt=Yes
+13	dà	dà	SCONJ	_	_	12	mod@relcl	_	Gloss=CompRel|Relz=Word
 14	a-	a	PRON	_	Person=4|PronType=PrsSubj	16	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=aka
 15	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	16	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-16	kafàː	kaf-	VERB	_	_	13	comp:obj	_	Gloss=set_up
+16	kafàː	kaf-	VERB	_	_	13	comp:obj	_	ClauseType=Rel|Gloss=set_up|RelRole=obj
 17	cikin	cikin	ADP	_	_	16	comp:obl	_	Gloss=inside
 18	kwàːnàki	kwaːnaː	NOUN	_	Number=Plur	17	comp:obj	_	Gloss=day.Plur|SpaceAfter=No|wordform=kwàːnàkin
 19	-n	na	PART	_	Case=Gen|PartType=Case	18	mod/m	_	Gloss=Gen.Masc/Plur
@@ -203,13 +203,13 @@
 13	tòː	tòː	INTJ	_	_	14	discourse	_	Gloss=well
 14	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
 15	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	16	det	_	Gloss=some.Fem.Spec
-16	koːtù	koːtù	NOUN	_	Gender=Fem	14	subj	_	Gloss=court.Fem
+16	koːtù	koːtù	NOUN	_	Gender=Fem	14	subj	_	Gloss=court.Fem|RelAnt=Yes
 17	à	à	ADP	_	_	16	mod	_	Gloss=at
 18	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	17	comp:obj	_	Gloss=Nigeria
-19	dà	dà	SCONJ	_	_	16	mod@relcl	_	Gloss=COMP
+19	dà	dà	SCONJ	_	_	16	mod@relcl	_	Gloss=CompRel|Relz=Word
 20	zaː-	zâː-	PART	_	PartType=TAM|Tense=Fut	22	mod/m	_	Gloss=Fut-|SpaceAfter=No
 21	tà=	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj|Tense=Fut	22	subj/m	_	Gloss=3Fem=|wordform=zaːtà
-22	iyà	iy-	VERB	_	_	19	comp:obj	_	Gloss=be_able_to
+22	iyà	iy-	VERB	_	_	19	comp:obj	_	ClauseType=Rel|Gloss=be_able_to|RelRole=subj
 23	sâː	sâː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	22	comp:obj	_	Gloss=put
 24	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	23	comp:obj	_	Gloss=mouth.Masc
 25	.	.	PUNCT	_	_	14	punct	_	Gloss=PUNCT
@@ -247,11 +247,11 @@
 27	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	26	mod	_	Gloss=Gen.Fem
 28	Biyu	biyu	PROPN	_	_	27	comp:obj	_	Gloss=two
 29	ta	ta	ADP	_	_	23	comp:obl	_	Gloss=via
-30	hanyàr̃	hanyàː	NOUN	_	Definite=Def|Gender=Fem	29	comp:obj	_	Gloss=way.Fem.Def
-31	dà	dà	SCONJ	_	_	30	mod@relcl	_	Gloss=COMP
+30	hanyàr̃	hanyàː	NOUN	_	Definite=Def|Gender=Fem	29	comp:obj	_	Gloss=way.Fem.Def|RelAnt=Yes
+31	dà	dà	SCONJ	_	_	30	mod@relcl	_	Gloss=CompRel|Relz=Word
 32	bà-	bà-	PART	_	Aspect=Perf|PartType=TAM|Polarity=Neg	34	mod/m	_	Gloss=Neg.Perf-|SpaceAfter=No
 33	tà=	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	34	subj/m	_	Gloss=3Fem=|SpaceAfter=No|wordform=bàtà
-34	daːcèː	daːt-	VERB	_	_	31	comp:obj	_	Gloss=be_appropriate
+34	daːcèː	daːt-	VERB	_	_	31	comp:obj	_	ClauseType=Rel|Gloss=be_appropriate|RelRole=subj
 35	ba	ba	PART	_	PartType=Neg|Polarity=Neg	34	mod	_	Gloss=Neg
 36	-	-	PUNCT	_	_	39	punct	_	Gloss=PUNCT|SpaceAfter=No
 37	wàːtòː	wàːtòː	CCONJ	_	_	39	cc	_	Gloss=i.e.
@@ -411,11 +411,11 @@
 # text_ortho = Shiː mùtumìn dà akà ɗaurèː yaː cêː yanàː sàːne dà mutàːneː ɗàriː dà tàlàːtin dà bìyar̃ dà akè tsàre dà suː à bir̃nin Ìkko kawai;
 # text = shiː mùtumìn dà a-kà= ɗaurèː y-aː= cêː ya-nàː sàːne dà mutàːneː ɗàriː dà tàlàːtin dà bìyar̃ dà a kè tsàre dà suː à bir̃ni-n Ìkko kawai;
 1	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	9	dislocated@subj	_	Gloss=3Masc.Nom
-2	mùtumìn	mùtûm	NOUN	_	Definite=Def|Gender=Masc	1	conj:appos	_	Gloss=person.Masc.Def
-3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP|wordform=da
+2	mùtumìn	mùtûm	NOUN	_	Definite=Def|Gender=Masc	1	conj:appos	_	Gloss=person.Masc.Def|RelAnt=Yes
+3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=CompRel|Relz=Word|wordform=da
 4	a-	a	PRON	_	Person=4|PronType=PrsSubj	6	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 5	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	6	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-6	ɗaurèː	ɗaur-	VERB	_	_	3	comp:obj	_	Gloss=tie
+6	ɗaurèː	ɗaur-	VERB	_	_	3	comp:obj	_	ClauseType=Rel|Gloss=tie|RelRole=obj
 7	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	9	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
 8	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	9	mod/m	_	Gloss=Perf.Sing=|wordform=aː
 9	cêː	cêː	VERB	_	_	0	root	_	Gloss=say
@@ -458,12 +458,12 @@
 10	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	11	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
 11	ɗaurèː	ɗaur-	VERB	_	_	8	mod@relcl	_	Gloss=tie
 12	cikin	cikin	ADP	_	_	11	mod	_	Gloss=inside
-13	shèːkàruː	shèːkaràː	NOUN	_	Number=Plur	12	comp:obj	_	Gloss=year.Plur
+13	shèːkàruː	shèːkaràː	NOUN	_	Number=Plur	12	comp:obj	_	Gloss=year.Plur|RelAnt=Yes
 14	ukùn	ukùn	NUM	_	Definite=Def	13	mod:num	_	Gloss=three.Def
-15	dà	dà	SCONJ	_	_	13	mod@relcl	_	Gloss=COMP
+15	dà	dà	SCONJ	_	_	13	mod@relcl	_	Gloss=CompRel|Relz=Word
 16	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	18	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 17	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	18	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-18	shigèː	shig-	VERB	_	_	15	comp:obj	_	Gloss=enter
+18	shigèː	shig-	VERB	_	_	15	comp:obj	_	ClauseType=Rel|Gloss=enter|RelRole=subj
 19	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	21	subj/m	_	Gloss=3Plur|SpaceAfter=No|wordform=sun
 20	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	21	mod/m	_	Gloss=Perf.Plur=|wordform=n
 21	wucè	wut-	VERB	_	_	7	comp:obj	_	Gloss=pass

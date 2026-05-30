@@ -121,13 +121,13 @@
 6	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
 7	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	9	det	_	Gloss=some.Fem.Spec
 8	bàbbar̃	bàbba	ADJ	_	Gender=Fem	9	mod	_	Gloss=big.Fem
-9	màtsalàː	màtsalàː	NOUN	_	Gender=Fem	10	comp:pred	_	Gloss=problem.Fem
+9	màtsalàː	màtsalàː	NOUN	_	Gender=Fem	10	comp:pred	_	Gloss=problem.Fem|RelAnt=Yes
 10	ceː	neː	AUX	_	Copula=Yes|Gender=Fem	0	root	_	Gloss=Equ.Fem
-11	dà	dà	SCONJ	_	_	9	mod@relcl	_	Gloss=COMP
+11	dà	dà	SCONJ	_	_	9	mod@relcl	_	Gloss=CompRel|Relz=Word
 12-13	ta=	_	_	_	_	_	_	_	_
 12	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	14	subj/m	_	Gloss=3Fem-|Relative=Yes|SpaceAfter=No|wordform=ta
 13	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	14	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-14	àddàbi	addab-	VERB	_	_	11	comp:obj	_	Gloss=worry
+14	àddàbi	addab-	VERB	_	_	11	comp:obj	_	ClauseType=Rel|Gloss=worry|RelRole=subj
 15	ƙasa	ƙasaː	NOUN	_	Gender=Fem	14	comp:obj	_	Gloss=country.Fem|SpaceAfter=No|wordform=ƙasar̃
 16	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	15	mod/m	_	Gloss=Gen.Fem
 17	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	16	comp:obj	_	Gloss=Nigeria|SpaceAfter=No
@@ -164,7 +164,7 @@
 # sent_id = 14_Miyagun_kwayoyi_5
 # text_en = Hùkuːmàr̃ à yâu taː cêː ita ƙungìyar̃ 'yan sùmoːgàː ɗîn dà ta kaːmàː, anàː jîn cêːwaː tanàː dà ƙwàƙƙwaːran tuːshèː à Nàːjeːr̃iyàː, dà Bìr̃taːniyà, dà kuma Amìr̃kà.
 # text_ortho = Hùkuːmàr̃ à yâu taː cêː ita ƙungìyar̃ 'yan sùmoːgàː ɗîn dà ta kaːmàː, anàː jîn cêːwaː tanàː dà ƙwàƙƙwaːran tuːshèː à Nàːjeːr̃iyàː, dà Bìr̃taːniyà, dà kuma Amìr̃kà.
-# text = hùkuːmàr̃ à yâu taː= cêː ita ƙungìya-r̃ 'ya-n sùmoːgàː ɗîn dà ta= kaːmàː, anàː= jî-n cêːwaː ta- nàː dà ƙwàƙƙwaːran tuːshèː à Nàːjeːr̃iyàː, dà Bìr̃taːniyà, dà kuma Amìr̃kà.
+# text = hùkuːmàr̃ à yâu t-aː= cêː ita ƙungìya-r̃ 'ya-n sùmoːgàː ɗîn dà ta= kaːmàː, a-nàː jî-n cêːwaː ta-nàː dà ƙwàƙƙwaːran tuːshèː à Nàːjeːr̃iyàː, dà Bìr̃taːniyà, dà kuma Amìr̃kà.
 1	hùkuːmàr̃	hùkuːmàː	NOUN	_	Definite=Def|Gender=Fem	6	subj	_	Gloss=agency.Fem.Def|wordform=Hùkuːmàr
 2	à	à	ADP	_	_	6	mod	_	Gloss=at
 3	yâu	yâu	ADV	_	_	2	comp:obj	_	Gloss=today
@@ -172,17 +172,17 @@
 5	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	6	mod/m	_	Gloss=Perf.Sing=|wordform=aː
 6	cêː	cêː	VERB	_	_	0	root	_	Gloss=say|wordform=cê
 7	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	20	dislocated@top	_	Gloss=3Fem.Nom
-8	ƙungìya	ƙungìyaː	NOUN	_	Gender=Fem	7	conj:appos	_	Gloss=association.Fem|SpaceAfter=No|wordform=ƙungìyar̃
+8	ƙungìya	ƙungìyaː	NOUN	_	Gender=Fem	7	conj:appos	_	Gloss=association.Fem|RelAnt=Yes|SpaceAfter=No|wordform=ƙungìyar̃
 9	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	8	mod/m	_	Gloss=Gen.Fem
 10	'ya	ɗaː	NOUN	_	Number=Plur	9	comp:obj	_	Compound=Yes|Gloss=child.Plur|SpaceAfter=No|wordform='yan
 11	-n	na	PART	_	Case=Gen|PartType=Case	10	udep/m	_	Gloss=Gen.Fem
 12	sùmoːgàː	sùmoːgàː	NOUN	_	Gender=Fem	11	comp:obj	_	Gloss=smuggling.Fem
 13	ɗîn	ɗîn	DET	_	Definite=Def	8	det	_	Gloss=Def
-14	dà	dà	SCONJ	_	_	8	mod@relcl	_	Gloss=COMP
+14	dà	dà	SCONJ	_	_	8	mod@relcl	_	Gloss=CompRel|Relz=Word
 15-16	ta=	_	_	_	_	_	_	_	_
 15	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	17	subj/m	_	Gloss=3Fem-|Relative=Yes|SpaceAfter=No|wordform=ta
 16	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	17	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-17	kaːmàː	kaːm-	VERB	_	_	14	comp:obj	_	Gloss=catch|SpaceAfter=No
+17	kaːmàː	kaːm-	VERB	_	_	14	comp:obj	_	ClauseType=Rel|Gloss=catch|RelRole=obj|SpaceAfter=No
 18	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 19	a-	a-	PRON	_	Person=4|PronType=Prs	20	subj/m	_	Gloss=4|SpaceAfter=No
 20	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	6	comp:obj	_	Gloss=Prog|wordform=anàː
@@ -289,7 +289,7 @@
 # sent_id = 14_Miyagun_kwayoyi_8
 # text_en = According to the agency, they succeeded in catching these men thanks to the undercover investigation that was done secretly and lead to the efforts that the agency employees concentrated on the Lagos airport.
 # text_ortho = Kàmar̃ yaddà Hùkuːmàr̃ ta cèː, an sàːmu nasar̃àr̃ kaːmà mutàːnên neː sabòːdà binciken àsiːr̃iː dà akà yi ta yîː bâː jîː bâː ganiː, wàndà har̃ ya yi sànàdiyyàr̃ ƙòːƙarîn dà ma'àikàtan Hùkuːmàr̃ sukà yi à fiːlin jirgin samàn Ìkko.
-# text = kàmar̃ yaddà Hùkuːmàr̃ ta= cèː, an= sàːmu nasar̃à-r̃ kaːmà mutàːnên neː sabòːdà bincike-n àsiːr̃iː dà akà= yi ta yîː bâː jîː bâː ganiː, wàndà har̃ ya= yi sànàdiyyà-r̃ ƙòːƙarîn dà ma'àikàta-n Hùkuːmàr̃ sukà= yi à fiːli-n jirgi-n samà -n Ìkko.
+# text = kàmar̃ yaddà Hùkuːmàr̃ ta= cèː, a-n= sàːmu nasar̃à-r̃ kaːmà mutàːnên neː sabòːdà bincike-n àsiːr̃iː dà a-kà= yi ta yîː bâː jîː bâː ganiː, wàndà har̃ ya= yi sànàdiyyà-r̃ ƙòːƙarîn dà ma'àikàta-n Hùkuːmàr̃ su-kà= yi à fiːli-n jirgi-n samà -n Ìkko.
 1	kàmar̃	kàmar̃	ADP	_	_	10	mod	_	Gloss=like|wordform=Kàmar
 2	yaddà	yaddà	ADV	_	PronType=Rel	1	comp:obj	_	Gloss=how
 3	Hùkuːmàr̃	hùkuːmàː	NOUN	_	Definite=Def|Gender=Fem	6	subj	_	Gloss=agency.Fem.Def
@@ -307,15 +307,15 @@
 14	mutàːnên	mùtûm	NOUN	_	Definite=Def|Number=Plur	13	comp:obj	_	Gloss=people.Plur.Def
 15	neː	neː	PART	_	PartType=Foc	13	discourse@foc	_	Gloss=Emph
 16	sabòːdà	sabòːdà	ADP	_	_	10	mod	_	Gloss=because_of
-17	bincike	bincikeː	NOUN	_	Gender=Masc	16	comp:obj	_	Gloss=investigation.Masc|SpaceAfter=No|wordform=binciken
+17	bincike	bincikeː	NOUN	_	Gender=Masc	16	comp:obj	_	Gloss=investigation.Masc|RelAnt=Yes|SpaceAfter=No|wordform=binciken
 18	-n	na	PART	_	Case=Gen|PartType=Case	17	mod/m	_	Gloss=Gen.Masc/Plur
 19	àsiːr̃iː	àsiːr̃iː	NOUN	_	Gender=Masc	18	comp:obj	_	Gloss=secret.Masc
-20	dà	dà	SCONJ	_	_	17	mod@relcl	_	Gloss=COMP
+20	dà	dà	SCONJ	_	_	17	mod@relcl	_	Gloss=CompRel|Relz=Word
 21	a-	a	PRON	_	Person=4|PronType=PrsSubj	23	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 22	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	23	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-23	yi	yi	VERB	_	_	20	comp:obj	_	Gloss=do
+23	yi	yi	VERB	_	_	20	comp:obj	_	ClauseType=Rel|Gloss=do
 24	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	25	mod	_	Gloss=Iter
-25	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	23	comp:pred	_	Gloss=do.Vnoun.Masc
+25	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	23	comp:pred	_	Gloss=do.Vnoun.Masc|RelRole=pred
 26	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	25	mod	_	Gloss=there_is.Neg
 27	jîː	ji	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	26	subj	_	Gloss=hear.Vnoun.Masc
 28	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	26	conj:coord	_	Gloss=there_is.Neg
@@ -329,14 +329,14 @@
 35	yi	yi	VERB	_	_	31	comp:obj	_	Gloss=do
 36	sànàdiyyà	sànàdiyyàː	NOUN	_	Gender=Fem	35	comp:pred	_	Gloss=cause.Fem|SpaceAfter=No|wordform=sànàdiyyàr̃
 37	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	36	mod/m	_	Gloss=Gen.Fem
-38	ƙòːƙarîn	ƙòːƙariː	NOUN	_	Definite=Def|Gender=Masc	37	comp:obj	_	Gloss=effort.Masc.Def
-39	dà	dà	SCONJ	_	_	38	mod@relcl	_	Gloss=COMP
+38	ƙòːƙarîn	ƙòːƙariː	NOUN	_	Definite=Def|Gender=Masc	37	comp:obj	_	Gloss=effort.Masc.Def|RelAnt=Yes
+39	dà	dà	SCONJ	_	_	38	mod@relcl	_	Gloss=CompRel|Relz=Word
 40	ma'àikàta	ma'àikàciː	NOUN	_	Number=Plur	45	subj	_	Gloss=worker.Plur|SpaceAfter=No|wordform=ma'àikàtan
 41	-n	na	PART	_	Case=Gen|PartType=Case	40	udep/m	_	Gloss=Gen.Masc/Plur
 42	Hùkuːmàr̃	hùkuːmàː	NOUN	_	Definite=Def|Gender=Fem	41	comp:obj	_	Gloss=agency.Fem.Def
 43	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	45	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 44	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	45	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-45	yi	yi	VERB	_	_	39	comp:obj	_	Gloss=do
+45	yi	yi	VERB	_	_	39	comp:obj	_	ClauseType=Rel|Gloss=do|RelRole=subj
 46	à	à	ADP	_	_	45	mod	_	Gloss=at
 47	fiːli	fiːliː	NOUN	_	Gender=Masc	46	comp:obj	_	Compound=Yes|Gloss=field.Masc|SpaceAfter=No|wordform=fiːlin
 48	-n	na	PART	_	Case=Gen|PartType=Case	47	udep/m	_	Gloss=Gen.Fem
@@ -350,18 +350,18 @@
 # sent_id = 14_Miyagun_kwayoyi_9
 # text_en = After the arrest of the four people who, as was explained, are top chiefs of this gang, the agency caught the one accused of carrying the drugs, and who was said to have swallowed the cocaine tied up in condoms - i.e. what you use to prevent pregnancy.
 # text_ortho = Baːya dà tsarè mutàːneː huɗûn dà akà bayyànaː mânyaː nèː sòːsai à cikin wannàn ƙungìyaː, Hùkuːmàr̃ taː kuma tsarè wandà akèː zàrgiː dà ɗaukàr̃ ƙwaːyoːyîn, wàndà kuma akà cêː ya haɗìyeː hoːdàr̃ kòːkên ɗîn, wàddà takèː à nànnàɗe cikin r̃oːbàː - wàːtòː àbîn nan dà akèː àmfàːniː dà shiː don hanà haifùwaː.
-# text = baːya dà tsarè mutàːneː huɗûn dà akà= bayyànaː mânyaː nèː sòːsai à cikin wannàn ƙungìyaː, Hùkuːmàr̃ taː= kuma tsarè wandà akèː= zàrgiː dà ɗaukà-r̃ ƙwaːyoːyîn, wàndà kuma akà= cêː ya= haɗìyeː hoːdà-r̃ kòːkên ɗîn, wàddà ta- kè à nànnàɗe cikin r̃oːbàː - wàːtòː àbîn nan dà akèː= àmfàːniː dà shiː don hanà haifùwaː.
+# text = baːya dà tsarè mutàːneː huɗûn dà a-kà= bayyànaː mânyaː nèː sòːsai à cikin wannàn ƙungìyaː, Hùkuːmàr̃ t-aː= kuma tsarè wandà a-kèː zàrgiː dà ɗaukà-r̃ ƙwaːyoːyîn, wàndà kuma a-kà= cêː ya= haɗìyeː hoːdà-r̃ kòːkên ɗîn, wàddà ta-kè à nànnàɗe cikin r̃oːbàː -wàːtòː àbîn nan dà a-kèː àmfàːniː dà shiː don hanà haifùwaː.
 1	baːya	baːya	ADV	_	ExtPos=SCONJ	22	mod	_	Gloss=back|Idiom=Yes
 2	dà	dà	ADP	_	_	1	unk	_	Gloss=with|InIdiom=Yes
 3	tsarè	tsar-	VERB	_	_	1	comp:obj	_	Gloss=imprison
-4	mutàːneː	mùtûm	NOUN	_	Number=Plur	3	comp:obj	_	Gloss=people.Plur
+4	mutàːneː	mùtûm	NOUN	_	Number=Plur	3	comp:obj	_	Gloss=people.Plur|RelAnt=Yes
 5	huɗûn	huɗu	NUM	_	Definite=Def	4	mod:num	_	Gloss=four.Def
-6	dà	dà	SCONJ	_	_	4	mod@relcl	_	Gloss=COMP
+6	dà	dà	SCONJ	_	_	4	mod@relcl	_	Gloss=CompRel|Relz=Word
 7	a-	a	PRON	_	Person=4|PronType=PrsSubj	9	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 8	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	9	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-9	bayyànaː	bayyan-	VERB	_	_	6	comp:obj	_	Gloss=explain
+9	bayyànaː	bayyan-	VERB	_	_	6	comp:obj	_	ClauseType=Rel|Gloss=explain
 10	mânyaː	bàbba	ADJ	_	Number=Plur	11	comp:pred	_	Gloss=big.Plur
-11	nèː	neː	AUX	_	Copula=Yes	9	comp:obj	_	Gloss=Equ.Masc/Plur
+11	nèː	neː	AUX	_	Copula=Yes	9	comp:obj	_	Gloss=Equ.Masc/Plur|RelRole=subj
 12	sòːsai	sòːsai	ADV	_	_	11	mod	_	Gloss=really
 13	à	à	ADP	_	_	10	mod	_	Gloss=at
 14	cikin	cikin	ADP	_	_	13	comp:obj	_	Gloss=inside
@@ -513,16 +513,16 @@
 # sent_id = 14_Miyagun_kwayoyi_12b
 # text_en = On this occasion, the man who was caught, had swallowed the cocaine with the help of gombo sause, which he used to swallow more easily, and which is much eaten in Nigeria.
 # text_ortho = À wannàn karòn shiː mùtumìn dà akà kaːmàː yaː haɗìyeː kòːkên neː tàːre dà yîn àmfàːniː dà miyàr̃ kuɓèːwaː, wàccè ya yi àmfàːniː dà ita dòːmin saːmùn sauƙin hadìyêːwâr̃, wàddà kuma dâː maː anàː cîntà sòːsai à Nàːjeːr̃iyàː.
-# text = à wannàn karòn shiː mùtumìn dà akà= kaːmàː yaː= haɗìyeː kòːkên neː tàːre dà yîn àmfàːniː dà miyàr̃ kuɓèːwaː, wàccè ya= yi àmfàːniː dà ita dòːmin saːmùn sauƙin hadìyêːwâr̃, wàddà kuma dâː maː anàː= cîː-n-tà sòːsai à Nàːjeːr̃iyàː.
+# text = à wannàn karòn shiː mùtumìn dà a-kà= kaːmàː y-aː= haɗìyeː kòːkên neː tàːre dà yî-n àmfàːniː dà miyà-r̃ kuɓèːwaː, wàccè ya= yi àmfàːniː dà ita dòːmin saːmù-n sauƙi-n hadìyêːwâr̃, wàddà kuma dâː maː a-nàː cî-n-tà sòːsai à Nàːjeːr̃iyàː.
 1	à	à	ADP	_	_	12	mod	_	Gloss=at|wordform=A
 2	wannàn	nân	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	3	det	_	Gloss=ProxS.Sing
 3	karòn	karòː	NOUN	_	Definite=Def|Gender=Masc	1	comp:obj	_	Gloss=occation.Masc.Def
 4	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	12	dislocated@subj	_	Gloss=3Masc.Nom
-5	mùtumìn	mùtûm	NOUN	_	Definite=Def|Gender=Masc	4	conj:appos	_	Gloss=person.Masc.Def
-6	dà	dà	SCONJ	_	_	5	mod@relcl	_	Gloss=COMP
+5	mùtumìn	mùtûm	NOUN	_	Definite=Def|Gender=Masc	4	conj:appos	_	Gloss=person.Masc.Def|RelAnt=Yes
+6	dà	dà	SCONJ	_	_	5	mod@relcl	_	Gloss=CompRel|Relz=Word
 7	a-	a	PRON	_	Person=4|PronType=PrsSubj	9	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 8	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	9	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-9	kaːmàː	kaːm-	VERB	_	_	6	comp:obj	_	Gloss=catch
+9	kaːmàː	kaːm-	VERB	_	_	6	comp:obj	_	ClauseType=Rel|Gloss=catch|RelRole=obj
 10	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	12	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
 11	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	12	mod/m	_	Gloss=Perf.Sing=|wordform=aː
 12	haɗìyeː	haɗiy-	VERB	_	_	0	root	_	Gloss=swallow
@@ -570,7 +570,7 @@
 # sent_id = 14_Miyagun_kwayoyi_13
 # text_en = The Agency declared that this recent capture has increased the number of gangs of drug dealers that have been dismantled to five, since when the agency was created at the beginning of last year.
 # text_ortho = Hùkuːmàr̃ ta cèː wannàn kaːmà mutàːnên na baːya-baːyan nàn, yaː ƙaːrà yawàn ƙungiyoːyîn dà kèː fataucìn miyàːgun ƙwaːyoːyiː wàɗàndà akà tar̃wàtsaː har̃ yà zuwàː bìyar̃, tun loːkàcîn dà akà kafà Hùkuːmàr̃ à farkon bàːra.
-# text = hùkuːmàr̃ ta cèː wannàn kaːmà mutàːnên na baːya-baːyan nàn, yaː ƙaːrà yawàn ƙungiyoːyîn dà kèː fataucìn miyàːgun ƙwaːyoːyiː wàɗàndà akà tar̃wàtsaː har̃ yà zuwàː bìyar̃, tun loːkàcîn dà akà kafà Hùkuːmàr̃ à farkon bàːra.
+# text = hùkuːmàr̃ ta= cèː wannàn kaːmà mutàːnên na baːya-baːyan nàn, y-aː= ƙaːrà yawà-n ƙungiyoːyîn dà kèː fataucì-n miyàːgun ƙwaːyoːyiː wàɗàndà a-kà= tar̃wàtsaː har̃ yà zuwàː bìyar̃, tun loːkàcîn dà a-kà= kafà Hùkuːmàr̃ à farko-n bàːra.
 1	hùkuːmàr̃	hùkuːmàː	NOUN	_	Definite=Def|Gender=Fem	4	subj	_	Gloss=agency.Fem.Def
 2-3	ta=	_	_	_	_	_	_	_	_
 2	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Fem-|Relative=Yes|SpaceAfter=No|wordform=ta
@@ -605,11 +605,11 @@
 31	bìyar̃	bìyar̃	NUM	_	_	30	comp:obj	_	Gloss=five|SpaceAfter=No
 32	,	,	PUNCT	_	_	33	punct	_	Gloss=PUNCT
 33	tun	tun	ADP	_	_	27	mod	_	Gloss=since
-34	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	33	comp:obj	_	Gloss=time.Masc.Def
-35	dà	dà	SCONJ	_	_	34	mod@relcl	_	Gloss=COMP
+34	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	33	comp:obj	_	Gloss=time.Masc.Def|RelAnt=Yes
+35	dà	dà	SCONJ	_	_	34	mod@relcl	_	Gloss=CompRel|Relz=Word
 36	a-	a	PRON	_	Person=4|PronType=PrsSubj	38	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 37	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	38	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-38	kafà	kaf-	VERB	_	_	35	comp:obj	_	Gloss=set_up
+38	kafà	kaf-	VERB	_	_	35	comp:obj	_	ClauseType=Rel|Gloss=set_up|RelRole=mod
 39	Hùkuːmàr̃	hùkuːmàː	NOUN	_	Definite=Def|Gender=Fem	38	comp:obj	_	Gloss=agency.Fem.Def
 40	à	à	ADP	_	_	38	comp:obl	_	Gloss=at
 41	farko	farkoː	NOUN	_	Gender=Masc	40	comp:obj	_	Gloss=beginning.Masc|SpaceAfter=No|wordform=farkon
@@ -816,7 +816,7 @@
 # sent_id = 14_Miyagun_kwayoyi_19_20
 # text_en = Well then Mr Oyakhilome said that without any doubt, he had some intimate relation with the womand, i.e. Jennifer Madike, and some pictures that she had taken with him at a party, they too, proved it.
 # text_ortho = Tòː sai dai Mr Oyakhilome yaː cêː baːbù shakkàː yanàː dà dàngàntakàr̃ ƙut dà ƙut dà ita màːtâr̃, wàːtòː Jennifer Madike, kuma wasu hoːtunàː dà ta ɗaukàː tàːre dà shiː à wani bìkiː, suː maː bâː shakkàː sun tabbatar̃ dà hakà.
-# text = tòː sai dai Mr Oyakhilome yaː= cêː baːbù shakkàː ya- nàː dà dàngàntakàr̃ ƙut dà ƙut dà ita màːtâr̃, wàːtòː Jennifer Madike, kuma wasu hoːtunàː dà ta= ɗaukàː tàːre dà shiː à wani bìkiː, suː maː bâː shakkàː sun= tabbatar̃ dà hakà.
+# text = tòː sai dai Mr Oyakhilome y-aː= cêː baːbù shakkàː ya-nàː dà dàngàntakàr̃ ƙut dà ƙut dà ita màːtâr̃, wàːtòː Jennifer Madike, kuma wasu hoːtunàː dà ta= ɗaukàː tàːre dà shiː à wani bìkiː, suː maː bâː shakkàː su-n= tabbatar̃ dà hakà.
 1	tòː	tòː	INTJ	_	_	8	discourse	_	Gloss=well
 2	sai	sai	SCONJ	_	_	8	discourse	_	Gloss=except_that
 3	dai	dai	PART	_	PartType=Top	2	discourse@top	_	Gloss=anyway
@@ -844,12 +844,12 @@
 25	,	,	PUNCT	_	_	46	punct	_	Gloss=PUNCT
 26	kuma	kuma	CCONJ	_	_	46	cc	_	Gloss=also
 27	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	28	det	_	Gloss=some.Plur.Spec
-28	hoːtunàː	hòːtoː	NOUN	_	Number=Plur	46	dislocated@subj	_	Gloss=picture.Plur
-29	dà	dà	SCONJ	_	_	28	mod@relcl	_	Gloss=COMP
+28	hoːtunàː	hòːtoː	NOUN	_	Number=Plur	46	dislocated@subj	_	Gloss=picture.Plur|RelAnt=Yes
+29	dà	dà	SCONJ	_	_	28	mod@relcl	_	Gloss=CompRel|Relz=Word
 30-31	ta=	_	_	_	_	_	_	_	_
 30	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	32	subj/m	_	Gloss=3Fem-|Relative=Yes|SpaceAfter=No|wordform=ta
 31	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	32	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-32	ɗaukàː	ɗauk-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	29	comp:obj	_	Gloss=take
+32	ɗaukàː	ɗauk-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	29	comp:obj	_	ClauseType=Rel|Gloss=take|RelRole=obj
 33	tàːre	tàːre	ADV	_	_	34	mod	_	Gloss=together
 34	dà	dà	ADP	_	_	32	comp:obl	_	Gloss=with
 35	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	34	comp:obj	_	Gloss=3Masc.Nom
@@ -871,7 +871,7 @@
 # sent_id = 14_Miyagun_kwayoyi_21
 # text_en = It is said too that photocopies are distributed of a love letter that he wrote to her in Lagos.
 # text_ortho = An kuma cêː har̃ anàː rarràbà hoːtunàn wasu wàsìːƙuː na sòːyayyàː dà ya r̃ubùːtaː matà à bir̃nin Ìkko.
-# text = an kuma cêː har̃ anàː rarràbà hoːtunàn wasu wàsìːƙuː na sòːyayyàː dà ya r̃ubùːtaː matà à bir̃nin Ìkko.
+# text = a-n= kuma cêː har̃ a-nàː rarràbà hoːtunà-n wasu wàsìːƙu-n na sòːyayyàː dà ya= r̃ubùːtaː matà à bir̃ni-n Ìkko.
 1	a-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4|SpaceAfter=No|wordform=an
 2	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Plur=|wordform=n
 3	kuma	kuma	PART	_	PartType=Top	4	discourse@top	_	Gloss=also
@@ -883,15 +883,15 @@
 9	hoːtunà	hòːtoː	NOUN	_	Number=Plur	8	comp:obj	_	Compound=Yes|Gloss=photocopy.Plur|SpaceAfter=No|wordform=hoːtunàn
 10	-n	na	PART	_	Case=Gen|PartType=Case	9	udep/m	_	Gloss=Gen.Masc/Plur
 11	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	12	det	_	Gloss=some.Plur.Spec
-12	wàsìːƙu	wàsiːƙàː	NOUN	_	Number=Plur	10	comp:obj	_	Gloss=letter.Plur|SpaceAfter=No|wordform=wàsìːƙuː
+12	wàsìːƙu	wàsiːƙàː	NOUN	_	Number=Plur	10	comp:obj	_	Gloss=letter.Plur|RelAnt=Yes|SpaceAfter=No|wordform=wàsìːƙuː
 13	-n	na	PART	_	Case=Gen|PartType=Case	12	mod/m	_	Gloss=Gen.Masc/Plur
 14	na	na	PART	_	Case=Gen|PartType=Case	13	comp:obj	_	Gloss=Gen
 15	sòːyayyàː	sòːyayyàː	NOUN	_	Gender=Fem	14	comp:obj	_	Gloss=love.Fem
-16	dà	dà	SCONJ	_	_	12	mod@relcl	_	Gloss=COMP
+16	dà	dà	SCONJ	_	_	12	mod@relcl	_	Gloss=CompRel|Relz=Word
 17-18	ya=	_	_	_	_	_	_	_	_
 17	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	19	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
 18	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	19	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-19	r̃ubùːtaː	r̃ubuːt-	VERB	_	_	16	comp:obj	_	Gloss=write
+19	r̃ubùːtaː	r̃ubuːt-	VERB	_	_	16	comp:obj	_	ClauseType=Rel|Gloss=write|RelRole=obj
 20	matà	matà	PRON	_	Case=Dat|Gender=Fem|Person=3|PronType=Prs	19	comp:obl	_	Gloss=3Fem.Dat
 21	à	à	ADP	_	_	19	mod	_	Gloss=at
 22	bir̃ni	bir̃niː	NOUN	_	Gender=Masc	21	comp:obj	_	Gloss=city.Masc|SpaceAfter=No|wordform=bir̃nin
@@ -985,11 +985,11 @@
 19	yi	yi	VERB	_	_	16	mod@relcl	_	Gloss=do
 20	tir̃	tir̃	IDEO	_	_	19	comp:pred	_	Gloss=reject
 21	dà	dà	ADP	_	_	19	comp:obl	_	Gloss=with
-22	shàːgùɓeː	shàːgùɓeː	NOUN	_	Gender=Masc	21	comp:obj	_	Gloss=innuendo.Masc
-23	dà	dà	SCONJ	_	_	22	mod@relcl	_	Gloss=COMP
+22	shàːgùɓeː	shàːgùɓeː	NOUN	_	Gender=Masc	21	comp:obj	_	Gloss=innuendo.Masc|RelAnt=Yes
+23	dà	dà	SCONJ	_	_	22	mod@relcl	_	Gloss=CompRel|Relz=Word
 24	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	26	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 25	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	26	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-26	shàːfi	shaːf-	VERB	_	_	23	comp:obj	_	Gloss=concern
+26	shàːfi	shaːf-	VERB	_	_	23	comp:obj	_	ClauseType=Rel|Gloss=concern|RelRole=subj
 27	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	28	det	_	Gloss=some.Fem.Spec
 28	dàngàntakàː	dàngànta	NOUN	_	Gender=Fem	26	comp:obj	_	Gloss=relationship.Fem
 29	tsàkaːnin	tsàkaːnin	ADP	_	_	28	mod	_	Gloss=between

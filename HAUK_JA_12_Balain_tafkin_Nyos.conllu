@@ -82,12 +82,12 @@
 # text_en = What happened is that, just like that, the lake released about sixth thousand tons of carbon dioxide, so that it sent two hundred thousand tons of water to cause a flood.
 # text_ortho = Àbîn dà ya fàːru shiː nèː hakà kawài tafkìn ya bur̃tsoː dà wajen tân dubuː shidà na iskàr̃ ta carbon dioxide , har̃ ya jaːwoː ruwaː tân dubuː mèːtan ya yi àmbaːliyàː.
 # text = àbîn dà ya=fàːru shiː nèː hakà kawài tafkìn ya=bur̃tsoː dà wajen tân dubuː shidà na iskàr̃ ta carbon dioxide , har̃ ya=jaːwoː ruwaː tâ-n dubuː mèːtan ya=yi àmbaːliyàː.
-1	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	7	subj	_	Gloss=thing.Masc.Def|wordform=Abin
-2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
+1	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	7	subj	_	Gloss=thing.Masc.Def|RelAnt=Yes|wordform=Abin
+2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=CompRel|Relz=Word
 3-4	ya=	_	_	_	_	_	_	_	_
 3	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	5	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
 4	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-5	fàːru	faːr-	VERB	_	_	2	comp:obj	_	Gloss=begin
+5	fàːru	faːr-	VERB	_	_	2	comp:obj	_	ClauseType=Rel|Gloss=begin|RelRole=subj
 6	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	7	comp:pred	_	Gloss=3Masc.Nom
 7	nèː	neː	AUX	_	Copula=Yes	0	root	_	Gloss=Equ.Masc/Plur
 8	hakà	hakà	ADV	_	_	13	mod	_	Gloss=thus
@@ -270,22 +270,22 @@
 10	shakkàː	shakkàː	NOUN	_	Gender=Fem	8	comp:obj	_	Gloss=doubt.Fem
 11	à	à	ADP	_	_	10	mod	_	Gloss=at
 12	kân	kân	ADP	_	_	11	comp:obj	_	Gloss=top
-13	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	12	comp:obj	_	Gloss=thing.Masc.Def
-14	dà	dà	SCONJ	_	_	13	mod@relcl	_	Gloss=COMP
+13	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	12	comp:obj	_	Gloss=thing.Masc.Def|RelAnt=Yes
+14	dà	dà	SCONJ	_	_	13	mod@relcl	_	Gloss=CompRel|Relz=Word
 15	bìncìkên	bìncìkeː	NOUN	_	Definite=Def|Gender=Masc	19	subj	_	Gloss=investigation.Masc.Def
 16	naːsù	naːsù	PRON	_	Case=Gen|Gender=Masc|PronType=Prs	15	mod@poss	_	CaseAf=Gen|Gloss=Gen.Masc-3PlurGen|MSeg=naː-sù|NumberAf=Plur|PersonAf=3|Poss=Yes|wordform=naː
 17-18	ya=	_	_	_	_	_	_	_	_
 17	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	19	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
 18	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	19	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-19	gaːnoː	gaːn-	VERB	_	_	14	comp:obj	_	Gloss=discover|SpaceAfter=No
+19	gaːnoː	gaːn-	VERB	_	_	14	comp:obj	_	ClauseType=Rel|Gloss=discover|RelRole=obj|SpaceAfter=No
 20	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
 21	cêːwar̃	cêːwaː	SCONJ	_	_	19	comp:obj	_	Gloss=COMP
-22	iskàr̃	iskàː	NOUN	_	Definite=Def|Gender=Fem	31	subj	_	Gloss=gas.Fem.Def
-23	dà	dà	SCONJ	_	_	22	mod@relcl	_	Gloss=COMP
+22	iskàr̃	iskàː	NOUN	_	Definite=Def|Gender=Fem	31	subj	_	Gloss=gas.Fem.Def|RelAnt=Yes
+23	dà	dà	SCONJ	_	_	22	mod@relcl	_	Gloss=CompRel|Relz=Word
 24-25	ta=	_	_	_	_	_	_	_	_
 24	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	26	subj/m	_	Gloss=3Fem-|Relative=Yes|SpaceAfter=No|wordform=ta
 25	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	26	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-26	yiwoː	yi	VERB	_	_	23	comp:obj	_	Gloss=do
+26	yiwoː	yi	VERB	_	_	23	comp:obj	_	ClauseType=Rel|Gloss=do|RelRole=subj
 27	bùr̃tsîn	bùr̃tsiː	NOUN	_	Definite=Def|Gender=Masc	26	comp:obj	_	Gloss=expulsion.Masc.Def
 28	wai	wai	PART	_	Evident=Nfh|PartType=Evident	31	discourse	_	Gloss=reportedly
 29	carbon	carbon	X	_	Foreign=Yes	31	comp:pred	_	Gloss=carbon|Lang=en
@@ -515,7 +515,7 @@
 # sent_id = 12_Bala'in_tafkin_Nyos_13b
 # text_en = Because of this, the experts in chemistry recommended that the quantity of water removed from the lake should not exceed the quantity of rain that enters it.
 # text_ortho = Don hakà masànaː kìːmiyyàː sukà kaːwoː shaːwar̃àr̃ cêːwaː bài kàmaːtà yawàn ruwân dà zaː'à kwaːshèː dàgà tafkìn yà wucè yawàn ruwan samàn dà kèː shìgaː cikinsà ba.
-# text = don hakà masànaː kìːmiyyàː sukà kaːwoː shaːwar̃àr̃ cêːwaː bài kàmaːtà yawàn ruwân dà zaː'à kwaːshèː dàgà tafkìn yà wucè yawàn ruwan samàn dà kèː shìgaː cikinsàba.
+# text = don hakà masànaː kìːmiyyàː su-kà= kaːwoː shaːwar̃à-r̃ cêːwaː bà-ì=kàmaːtà yawà-n ruwân dà zaː-'à= kwaːshèː dàgà tafkìn ya-_̀= wucè yawà-n ruwa-n samàn dà kèː shìgaː cikin-sà ba.
 1	don	don	SCONJ	_	_	7	discourse	_	Gloss=because
 2	hakà	hakà	ADV	_	_	1	comp:obj	_	Gloss=thus
 3	masànaː	masàniː	VERB	_	ExtPos=NOUN|Number=Plur|VerbForm=Vnoun	7	subj	_	Gloss=expert.Plur
@@ -531,11 +531,11 @@
 13	kàmaːtà	kamaːt-	VERB	_	_	10	comp:obj	_	Gloss=be_appropriate
 14	yawà	yawàː	NOUN	_	Gender=Masc	25	subj	_	Gloss=quantity.Masc|SpaceAfter=No|wordform=yawàn
 15	-n	na	PART	_	Case=Gen|PartType=Case	14	mod/m	_	Gloss=Gen.Masc/Plur
-16	ruwân	ruwaː	NOUN	_	Definite=Def|Gender=Masc	15	comp:obj	_	Gloss=water.Masc.Def
-17	dà	dà	SCONJ	_	_	16	mod@relcl	_	Gloss=COMP
+16	ruwân	ruwaː	NOUN	_	Definite=Def|Gender=Masc	15	comp:obj	_	Gloss=water.Masc.Def|RelAnt=Yes
+17	dà	dà	SCONJ	_	_	16	mod@relcl	_	Gloss=CompRel|Relz=Word
 18	zaː-	zâː-	PART	_	PartType=TAM|Tense=Fut	20	mod/m	_	Gloss=Fut-|SpaceAfter=No
 19	'à=	a	PRON	_	Person=4|PronType=PrsSubj|Tense=Fut	20	subj/m	_	Gloss=4=|wordform=zaː'à
-20	kwaːshèː	kwaːs-	VERB	_	_	17	comp:obj	_	Gloss=remove
+20	kwaːshèː	kwaːs-	VERB	_	_	17	comp:obj	_	ClauseType=Rel|Gloss=remove|RelRole=obj
 21	dàgà	dàgà	ADP	_	_	20	comp:obl	_	Gloss=from
 22	tafkìn	tafkìː	NOUN	_	Definite=Def|Gender=Masc	21	comp:obj	_	Gloss=lake.Masc.Def|wordform=tar̃kin
 23	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	25	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yà
@@ -592,11 +592,11 @@
 32	gâs	gâs	NOUN	_	Gender=Masc	31	comp:obj	_	Gloss=gas.Masc
 33	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	32	det	_	Gloss=Def|SpaceAfter=No
 34	,	,	PUNCT	_	_	35	punct	_	Gloss=PUNCT
-35	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	31	parataxis:parenth	_	Gloss=thing.Masc.Def
-36	dà	dà	SCONJ	_	_	35	mod@relcl	_	Gloss=COMP
+35	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	31	parataxis:parenth	_	Gloss=thing.Masc.Def|RelAnt=Yes
+36	dà	dà	SCONJ	_	_	35	mod@relcl	_	Gloss=CompRel|Relz=Word
 37	zâ-	zâː-	PART	_	PartType=TAM|Tense=Fut	39	mod/m	_	Gloss=Fut-|SpaceAfter=No
 38	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj|Tense=Fut	39	subj/m	_	Gloss=3Masc=|wordform=zâi
-39	zamoː	zama	VERB	_	_	36	comp:obj	_	Gloss=become
+39	zamoː	zama	VERB	_	_	36	comp:obj	_	ClauseType=Rel|Gloss=become|RelRole=subj
 40	àbù	àbù	NOUN	_	Gender=Masc	39	comp:obj	_	Gloss=thing.Masc
 41	mài	mài	PART	_	Number=Sing|PartType=Der	40	mod	_	Gloss=owner_of.Sing
 42	haɗàr̃iː	haɗàr̃iː	NOUN	_	Gender=Masc	41	compound	_	Gloss=danger.Masc
@@ -626,14 +626,14 @@
 # text = bàbban dai rìgàːkafìn dà mazàunaː yankìn zaː-sù= iyà yîː shiː nèː su-_̀= taːshì su-_̀= koːmàː neːsà ƙwar̃ai dàgà indà tafkìn ya-kè.
 1	bàbban	bàbba	ADJ	_	Gender=Masc	3	mod	_	Gloss=big.Masc
 2	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
-3	rìgàːkafìn	rìgàːkafìː	NOUN	_	Definite=Def|Gender=Masc	12	subj	_	Gloss=precaution.Masc.Def
-4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=COMP
+3	rìgàːkafìn	rìgàːkafìː	NOUN	_	Definite=Def|Gender=Masc	12	subj	_	Gloss=precaution.Masc.Def|RelAnt=Yes
+4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=CompRel|Relz=Word
 5	mazàunaː	mazàuniː	NOUN	_	Number=Plur	9	subj	_	Gloss=inhabitant.Plur
 6	yankìn	yankìː	DET	_	Definite=Def|Gender=Masc	5	comp:obj@L	_	Gloss=area.Masc.Def
 7	zaː-	zâː-	PART	_	PartType=TAM|Tense=Fut	9	mod/m	_	Gloss=Fut-|SpaceAfter=No
 8	sù=	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj|Tense=Fut	9	subj/m	_	Gloss=3Plur=|wordform=zaːsù
-9	iyà	iy-	VERB	_	_	4	comp:obj	_	Gloss=be_able_to
-10	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	9	comp:obj	_	Gloss=do
+9	iyà	iy-	VERB	_	_	4	comp:obj	_	ClauseType=Rel|Gloss=be_able_to
+10	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	9	comp:obj	_	Gloss=do|RelRole=obj
 11	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	12	comp:pred	_	Gloss=3Masc.Nom
 12	nèː	neː	AUX	_	Copula=Yes	0	root	_	Gloss=Equ.Masc/Plur
 13	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	15	subj/m	_	Gloss=3.Plur-|SpaceAfter=No|wordform=sù

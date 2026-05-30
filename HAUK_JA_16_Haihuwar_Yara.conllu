@@ -64,14 +64,14 @@
 # sent_id = 16_Aihuwar_Yara_3
 # text_en = During a meeting held by doctors in Abuja, i.e. the new Nigerian headquarters, they all agreed that there is a serious need to reduce this type of danger which women are facing for no reason when giving birth.
 # text_ortho = À loːkàcîn dà likitoːciː sukà yi wani tàːroː à Àbuːjaː, wàːtòː saːbuwar̃ hêdkwatàr̃ Nàːjeːr̃iyàː, dukànsù sun yàr̃da cêːwaː àkwai matuƙar̃ bùkaːtàr̃ ragè irìn haɗur̃àn nan bâː gair̃à baːbù dàliːlìː dà maːtaː kèː fùskantàː wajen haihùwaː.
-# text = à loːkàcîn dà likitoːciː sukà= yi wani tàːroː à Àbuːjaː, wàːtòː saːbuwar̃ hêdkwatà-r̃ Nàːjeːr̃iyàː, dukà-n-sù sun= yàr̃da cêːwaː àkwai matuƙar̃ bùkaːtà-r̃ ragè irì-n haɗur̃àn nan bâː gair̃à baːbù dàliːlìː dà maːtaː kèː= fùskantàː wajen haihùwaː.
+# text = à loːkàcîn dà likitoːciː su-kà= yi wani tàːroː à Àbuːjaː, wàːtòː saːbuwar̃ hêdkwatà-r̃ Nàːjeːr̃iyàː, dukà-n-sù su-n= yàr̃da cêːwaː àkwai matuƙar̃ bùkaːtà-r̃ ragè irì-n haɗur̃àn nan bâː gair̃à baːbù dàliːlìː dà maːtaː kèːfùskantàː wajen haihùwaː.
 1	à	à	ADP	_	_	24	mod	_	Gloss=at
-2	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	1	comp:obj	_	Gloss=time.Masc.Def
-3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP
+2	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	1	comp:obj	_	Gloss=time.Masc.Def|RelAnt=Yes
+3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=CompRel|Relz=Word
 4	likitoːciː	likitoːciː	NOUN	_	Number=Plur	7	subj	_	Gloss=doctor.Plur
 5	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	7	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 6	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-7	yi	yi	VERB	_	_	3	comp:obj	_	Gloss=do
+7	yi	yi	VERB	_	_	3	comp:obj	_	ClauseType=Rel|Gloss=do|RelRole=mod
 8	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	9	det	_	Gloss=some.Masc.Spec
 9	tàːroː	tàːroː	NOUN	_	Gender=Masc	7	comp:pred	_	Gloss=meeting.Masc
 10	à	à	ADP	_	_	7	mod	_	Gloss=at
@@ -346,7 +346,7 @@
 # sent_id = 16_Aihuwar_Yara_9
 # text_en = Up till now, some women die because of lack of car to take them to the hospital when the labour pains start, or because at that time, their husband is not there, or even if he is there, he did not give the permission to take the woman to the hospital.
 # text_ortho = Har̃ ìlaː yâu wasu maːtân sunàː mutuwàː neː sabòːdà rashìn moːtàr̃ dà zaːtà kai sù asìbitì loːkàcîn dà naːƙudàː ta kaːmàː su, koː kuma à loːkàcîn màigida baːyàː nan, koː kuma koː dàː yanàː nan bài baː dà izìniː à kai màːtâr̃ asìbitì ba.
-# text = har̃ ìlaː yâu wasu maːtân su-nàː mutuwàː neː sabòːdà rashì-n moːtàr̃ dà zaː-tà= kai -sù asìbitì loːkàcîn dà naːƙudàː ta= kaːmàː -su, koː kuma à loːkàcîn màigida baːyàː nan, koː kuma koː dàː ya-nàː nan bà-ì=baː dà izìniː a-_̀= kai màːtâr̃ asìbitì ba.
+# text = har̃ ìlaː yâu wasu maːtân su-nàː mutuwàː neː sabòːdà rashì-n moːtàr̃ dà zaː-tà= kai -sù asìbitì loːkàcîn dà naːƙudàː ta= kaːmàː -su, koː kuma à loːkàcîn màigida baː-yàː= nan, koː kuma koː dàː ya-nàː nan bà-ì=baː dà izìniː a-_̀= kai màːtâr̃ asìbitì ba.
 1	har̃	har̃	ADP	_	ExtPos=ADV	7	mod	_	Gloss=up_to|Idiom=Yes
 2	ìlaː	ìlaː	X	_	Foreign=Yes	1	unk	_	Gloss=X|InIdiom=Yes|Lang=ar
 3	yâu	yâu	ADV	_	_	2	unk	_	Gloss=today|InIdiom=Yes
@@ -359,20 +359,20 @@
 10	sabòːdà	sabòːdà	ADP	_	_	8	mod	_	Gloss=because_of
 11	rashì	ras-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	10	comp:obj	_	Gloss=lack.Vnoun.Masc|SpaceAfter=No|wordform=rashìn
 12	-n	na	PART	_	Case=Gen|PartType=Case	11	udep/m	_	Gloss=Gen.Masc/Plur
-13	moːtàr̃	moːtàr̃	NOUN	_	Definite=Def|Gender=Fem	12	comp:obj	_	Gloss=car.Fem.Def
-14	dà	dà	SCONJ	_	_	13	mod@relcl	_	Gloss=COMP
+13	moːtàr̃	moːtàr̃	NOUN	_	Definite=Def|Gender=Fem	12	comp:obj	_	Gloss=car.Fem.Def|RelAnt=Yes
+14	dà	dà	SCONJ	_	_	13	mod@relcl	_	Gloss=CompRel|Relz=Word
 15	zaː-	zâː-	PART	_	PartType=TAM|Tense=Fut	17	mod/m	_	Gloss=Fut-|SpaceAfter=No
 16	tà=	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj|Tense=Fut	17	subj/m	_	Gloss=3Fem=|wordform=zaːtà
-17	kai	kai	VERB	_	_	14	comp:obj	_	Gloss=reach/carry_to
+17	kai	kai	VERB	_	_	14	comp:obj	_	ClauseType=Rel|Gloss=reach/carry_to|RelRole=subj
 18	-sù	-su	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	17	comp:obj@T	_	Gloss=-3Plur.Acc
 19	asìbitì	asìbitì	NOUN	_	Gender=Masc	17	comp:obj@G	_	Gloss=hospital.Masc|wordform=asibiti
-20	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	17	mod	_	Gloss=time.Masc.Def
-21	dà	dà	SCONJ	_	_	20	mod@relcl	_	Gloss=COMP
+20	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	17	mod	_	Gloss=time.Masc.Def|RelAnt=Yes
+21	dà	dà	SCONJ	_	_	20	mod@relcl	_	Gloss=CompRel|Relz=Word
 22	naːƙudàː	naːƙudàː	NOUN	_	Gender=Fem	25	subj	_	Gloss=labour_pains.Fem
 23-24	ta=	_	_	_	_	_	_	_	_
 23	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	25	subj/m	_	Gloss=3Fem-|Relative=Yes|SpaceAfter=No|wordform=ta
 24	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	25	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-25	kaːmàː	kaːm-	VERB	_	_	21	comp:obj	_	Gloss=catch
+25	kaːmàː	kaːm-	VERB	_	_	21	comp:obj	_	ClauseType=Rel|Gloss=catch|RelRole=mod
 26	-su	-su	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	25	comp:obj/m	_	Gloss=-3Plur.Acc|SpaceAfter=No|wordform=su
 27	,	,	PUNCT	_	_	35	punct	_	Gloss=PUNCT
 28	koː	koː	CCONJ	_	_	35	cc	_	Gloss=or
@@ -407,7 +407,7 @@
 # sent_id = 16_Aihuwar_Yara_10
 # text_en = Some women too die when trying to abort.
 # text_ortho = Wasu maːtân kuma sunàː mutuwàː neː à yàːyîn dà sukà yi ƙòːƙarin zubar̃ dà cikìː.
-# text = wasu maːtân kuma sunàː mutuwàː neː à yàːyîn dà sukà yi ƙòːƙarin zubar̃ dà cikìː.
+# text = wasu maːtân kuma su-nàː mutuwàː neː à yàːyîn dà su-kà= yi ƙòːƙari-n zubar̃ dà cikìː.
 1	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	2	det	_	Gloss=some.Plur.Spec
 2	maːtân	màːtaː	NOUN	_	Definite=Def|Number=Plur	5	subj	_	Gloss=woman.Plur.Def
 3	kuma	kuma	PART	_	PartType=Top	2	discourse@top	_	Gloss=also
@@ -416,11 +416,11 @@
 6	mutuwàː	mutù	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	5	comp:pred	_	Gloss=die.Vnoun.Fem
 7	neː	neː	PART	_	PartType=Foc	6	discourse@foc	_	Gloss=Emph
 8	à	à	ADP	_	_	6	mod	_	Gloss=at
-9	yàːyîn	yàːyiː	ADV	_	PronType=Rel	8	comp:obj	_	Gloss=when
-10	dà	dà	SCONJ	_	_	9	mod@relcl	_	Gloss=COMP
+9	yàːyîn	yàːyiː	ADV	_	PronType=Rel	8	comp:obj	_	Gloss=when|RelAnt=Yes
+10	dà	dà	SCONJ	_	_	9	mod@relcl	_	Gloss=CompRel|Relz=Word
 11	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	13	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 12	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	13	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-13	yi	yi	VERB	_	_	10	comp:obj	_	Gloss=do
+13	yi	yi	VERB	_	_	10	comp:obj	_	ClauseType=Rel|Gloss=do|RelRole=mod
 14	ƙòːƙari	ƙòːƙariː	NOUN	_	Gender=Masc	13	comp:pred	_	Gloss=effort.Masc|SpaceAfter=No|wordform=ƙòːƙarin
 15	-n	na	PART	_	Case=Gen|PartType=Case	14	udep/m	_	Gloss=Gen.Masc/Plur
 16	zubar̃	zub-	VERB	_	Voice=Cau	15	comp:obj	_	Gloss=throw.Cau
@@ -437,14 +437,14 @@
 3	cikìː	cikìː	NOUN	_	Gender=Masc	2	comp:obj	_	Gloss=pregnancy.Masc
 4	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
 5	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	6	det	_	Gloss=some.Masc.Spec
-6	àbù	àbù	NOUN	_	Gender=Masc	7	comp:pred	_	Gloss=thing.Masc
+6	àbù	àbù	NOUN	_	Gender=Masc	7	comp:pred	_	Gloss=thing.Masc|RelAnt=Yes
 7	neː	neː	AUX	_	Copula=Yes	0	root	_	Gloss=Equ.Masc/Plur
-8	dà	dà	SCONJ	_	_	6	mod@relcl	_	Gloss=COMP
+8	dà	dà	SCONJ	_	_	6	mod@relcl	_	Gloss=CompRel|Relz=Word
 9	dòːkaː	dòːkaː	NOUN	_	Gender=Fem	12	subj	_	Gloss=law.Fem
 10-11	ta=	_	_	_	_	_	_	_	_
 10	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	12	subj/m	_	Gloss=3Fem-|Relative=Yes|SpaceAfter=No|wordform=ta=
 11	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	12	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=UNDERSCORE
-12	har̃àmtaː	har̃amt-	VERB	_	_	8	comp:obj	_	Gloss=forbid
+12	har̃àmtaː	har̃amt-	VERB	_	_	8	comp:obj	_	ClauseType=Rel|Gloss=forbid|RelRole=obj
 13	à	à	ADP	_	_	12	mod	_	Gloss=at
 14	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	13	comp:obj	_	Gloss=Nigeria|SpaceAfter=No
 15	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
@@ -558,17 +558,17 @@
 # sent_id = 16_Aihuwar_Yara_14
 # text_en = The thing that is most worrying at the time of this meeting concerning birth health and security, is the fact that young women get married early.
 # text_ortho = Wani mùhimmìn àbù dà akà fi dàːmuwaː dà shiː à loːkàcin wannàn tàːroː na ganin cêːwaː maːtaː sun sàːmi haifùwaː laːfiyàː, shiː nèː yi wà yâːraː maːtaː aureː dà saurī.
-# text = wani mùhimmìn àbù dà akà fi dàːmuwaː dà shiː à loːkàcin wannàn tàːroː na ganin cêːwaː maːtaː sun sàːmi haifùwaː laːfiyàː, shiː nèː yi wà yâːraː maːtaː aureː dà saurī.
+# text = wani mùhimmìn àbù dà a-kà= fi dàːmuwaː dà shiː à loːkàci-n wannàn tàːroː na gani-n cêːwaː maːtaː su-n= sàːmi haifùwaː laːfiyàː, shiː nèː yi wà yâːraː maːtaː aureː dà saurī.
 1	wani	wani	DET	_	Definite=Spec|Gender=Masc|Number=Plur|PronType=Ind	3	det	_	Gloss=some.Masc.Spec
 2	mùhimmìn	mùhimmìː	ADJ	_	Gender=Masc	3	mod	_	Gloss=important.Masc
-3	àbù	àbù	NOUN	_	Gender=Masc	28	subj	_	Gloss=thing.Masc
-4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=COMP
+3	àbù	àbù	NOUN	_	Gender=Masc	28	subj	_	Gloss=thing.Masc|RelAnt=Yes
+4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=CompRel|Relz=Word
 5	a-	a	PRON	_	Person=4|PronType=PrsSubj	7	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 6	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-7	fi	fi	VERB	_	_	4	comp:obj	_	Gloss=exceed
+7	fi	fi	VERB	_	_	4	comp:obj	_	ClauseType=Rel|Gloss=exceed
 8	dàːmuwaː	daːm-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	7	comp:obj	_	Gloss=worry.Vnoun.Fem
 9	dà	dà	ADP	_	_	8	comp:obl	_	Gloss=with
-10	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	9	comp:obj	_	Gloss=3Masc.Nom
+10	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	9	comp:obj	_	Gloss=3Masc.Nom|RelPos=Yes
 11	à	à	ADP	_	_	8	mod	_	Gloss=at
 12	loːkàci	loːkàciː	NOUN	_	Gender=Masc	11	comp:obj	_	Compound=Yes|Gloss=time.Masc.|SpaceAfter=No|wordform=loːkàcin
 13	-n	na	PART	_	Case=Gen|PartType=Case	12	mod/m	_	Gloss=Gen.Masc/Plur
@@ -632,23 +632,23 @@
 # sent_id = 16_Aihuwar_Yara_16
 # text_en = Some doctors said that time has come for Nigeria to create a committee that will make sure that twins are born safely, and that will stress the importance of voting a law that will prevent underage marriage.
 # text_ortho = Wasu likitoːciː kuma sun cêː loːkàciː yaː yi à Nàːjeːr̃iyàː dà zaː'à kafà wani kwàmìtî wandà zâi tabbatar̃ dà màːsu juːnaː biyu sun sàuka laːfiyàː, wandà kuma zâi ƙaːrà muhimmancìn kafà wata dòːkaː dà zaːtà hanà yi wà maːtaː ƙanaːnàː aureː.
-# text = wasu likitoːciː kuma sun cêː loːkàciː yaː yi à Nàːjeːr̃iyàː dà zaː'à kafà wani kwàmìtî wandà zâi tabbatar̃ dà màːsu juːnaː biyu sun sàuka laːfiyàː, wandà kuma zâi ƙaːrà muhimmancìn kafà wata dòːkaː dà zaːtà hanà yi wà maːtaː ƙanaːnàː aureː.
+# text = wasu likitoːciː kuma su-n= cêː loːkàciː y-aː= yi à Nàːjeːr̃iyàː dà zaː-'à= kafà wani kwàmìtî wandà zâ-i= tabbatar̃ dà màːsu juːnaː biyu su-n= sàuka laːfiyàː, wandà kuma zâ-i= ƙaːrà muhimmancì-n kafà wata dòːkaː dà zaː-tà= hanà yi wà maːtaː ƙanaːnàː aureː.
 1	wasu	wasu	DET	_	Definite=Spec|Number=Plur	2	det	_	Gloss=some.Plur
 2	likitoːciː	likità	NOUN	_	Number=Plur	6	subj	_	Gloss=doctor.Plur
 3	kuma	kuma	PART	_	PartType=Top	2	discourse@top	_	Gloss=also
 4	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=3Plur|SpaceAfter=No|wordform=sun
 5	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	6	mod/m	_	Gloss=Perf.Plur=|wordform=n
 6	cêː	cêː	VERB	_	_	0	root	_	Gloss=say|wordform=cê
-7	loːkàciː	loːkàciː	NOUN	_	Gender=Masc	10	subj	_	Gloss=time.Masc
+7	loːkàciː	loːkàciː	NOUN	_	Gender=Masc	10	subj	_	Gloss=time.Masc|RelAnt=Yes
 8	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	10	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
 9	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	10	mod/m	_	Gloss=Perf.Sing=|wordform=aː
 10	yi	yi	VERB	_	_	6	comp:obj	_	Gloss=do
 11	à	à	ADP	_	_	10	mod	_	Gloss=at
 12	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	11	comp:obj	_	Gloss=Nigeria
-13	dà	dà	SCONJ	_	_	7	mod@relcl	_	Gloss=COMP
+13	dà	dà	SCONJ	_	_	7	mod@relcl	_	Gloss=CompRel|Relz=Word
 14	zaː-	zâː-	PART	_	PartType=TAM|Tense=Fut	16	mod/m	_	Gloss=Fut-|SpaceAfter=No
 15	'à=	a	PRON	_	Person=4|PronType=PrsSubj|Tense=Fut	16	subj/m	_	Gloss=4=|wordform=zaː'à
-16	kafà	kaf-	VERB	_	_	13	comp:obj	_	Gloss=set_up
+16	kafà	kaf-	VERB	_	_	13	comp:obj	_	ClauseType=Rel|Gloss=set_up|RelRole=mod
 17	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	18	det	_	Gloss=some.Masc.Spec
 18	kwàmìtî	kwàmìtî	NOUN	_	Gender=Masc	16	comp:obj	_	Gloss=committee.Masc
 19	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	18	mod@relcl	_	Gloss=REL.Masc
@@ -673,15 +673,15 @@
 38	-n	na	PART	_	Case=Gen|PartType=Case	37	udep/m	_	Gloss=Gen.Masc/Plur
 39	kafà	kaf-	VERB	_	_	38	comp:obj	_	Gloss=set_up
 40	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	41	det	_	Gloss=some.Fem.Spec
-41	dòːkaː	dòːkaː	NOUN	_	Gender=Fem	39	comp:obj	_	Gloss=law.Fem
-42	dà	dà	SCONJ	_	_	41	mod@relcl	_	Gloss=COMP
+41	dòːkaː	dòːkaː	NOUN	_	Gender=Fem	39	comp:obj	_	Gloss=law.Fem|RelAnt=Yes
+42	dà	dà	SCONJ	_	_	41	mod@relcl	_	Gloss=CompRel|Relz=Word
 43	zaː-	zâː-	PART	_	PartType=TAM|Tense=Fut	45	mod/m	_	Gloss=Fut-|SpaceAfter=No
 44	tà=	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj|Tense=Fut	45	subj/m	_	Gloss=3Fem=|wordform=zaːtà
-45	hanà	han-	VERB	_	_	42	comp:obj	_	Gloss=prevent
+45	hanà	han-	VERB	_	_	42	comp:obj	_	ClauseType=Rel|Gloss=prevent|RelRole=subj
 46	yi	yi	VERB	_	_	45	comp:obj	_	Gloss=do
 47	wà	mà	ADP	_	Case=Dat	46	comp:obl	_	Gloss=Dat
 48	maːtaː	màːtaː	NOUN	_	Number=Plur	47	comp:obj	_	Gloss=woman.Plur
 49	ƙanaːnàː	ƙàramiː	ADJ	_	Number=Plur	48	mod	_	Gloss=small.Plur
-50	aureː	aureː	NOUN	_	Gender=Masc	46	comp:obj	_	Gloss=marriage.Masc|SpaceAfter=No
+50	aureː	aureː	NOUN	_	Gender=Masc	46	comp:pred	_	Gloss=marriage.Masc|SpaceAfter=No
 51	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 

@@ -334,13 +334,13 @@
 16	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	17	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
 17	nuːnà	nuːn-	VERB	_	_	14	comp:obj	_	Gloss=show
 18	cêːwaː	cêːwaː	SCONJ	_	_	17	comp:obj	_	Gloss=COMP
-19	rabì	rabìː	NOUN	_	Gender=Masc	33	dislocated@subj	_	Gloss=half.Masc|SpaceAfter=No|wordform=rabìn
+19	rabì	rabìː	NOUN	_	Gender=Masc	33	dislocated@subj	_	Gloss=half.Masc|RelAnt=Yes|SpaceAfter=No|wordform=rabìn
 20	-n	na	PART	_	Case=Gen|PartType=Case	19	udep/m	_	Gloss=Gen.Masc/Plur
-21	mazân	mijìː	NOUN	_	Definite=Def|Number=Plur	20	comp:obj	_	Gloss=man.Plur.Def
-22	dà	dà	SCONJ	_	_	21	mod@relcl	_	Gloss=COMP
+21	mazân	mijìː	NOUN	_	Definite=Def|Number=Plur	20	comp:obj	_	Gloss=man.Plur.Def|RelAnt=Yes
+22	dà	dà	SCONJ	_	_	19	mod@relcl	_	Gloss=CompRel|Relz=Word
 23	a-	a	PRON	_	Person=4|PronType=PrsSubj	25	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 24	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	25	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-25	yi	yi	VERB	_	_	22	comp:obj	_	Gloss=do
+25	yi	yi	VERB	_	_	22	comp:obj	_	ClauseType=Rel|Gloss=do|RelRole=obj
 26	wà	mà	ADP	_	Case=Dat	25	comp:obl	_	Gloss=Dat
 27	gwajìː	gwajìː	NOUN	_	Gender=Masc	25	comp:pred	_	Gloss=test.Masc
 28	à	à	ADP	_	_	25	mod	_	Gloss=at
@@ -413,7 +413,7 @@
 # sent_id = 04_AIDS_11
 # text_ortho = Duk dà haka, Ministàn Kiːwòn Laːfiyàː na Nàːjeːr̃iyàː, Fàr̃feːsàː Ransome-Kuti, yaː cêː cùːtar̃ AIDS taː kashè mutàːneː goːmà shâː shidà dàgà cikin tàlàːtin dà bìyar̃ dà sukà kàːmu dà ita tun loːkàcîn dà ta shigoː Nàːjeːriyàː fìye dà shèːkàruː ukù dà sukà wucèː.
 # text_en = However, the Minister of Public Health of Nigeria, Professor Ransome-Kuti, has declared that AIDS has killed sixteen people out of the forty-five that have caught it since it penetrated in Nigeria more than three years ago.
-# text = duk dà hakà, ministàn kiːwòn laːfiyàː na Nàːjeːr̃iyàː, Fàr̃feːsàː Ransome-Kuti, yaː cêː cùːtar̃ AIDS taː kashè mutàːneː goːmà shâː shidà dàgà cikin tàlàːtin dà bìyar̃ dà sukà kàːmu dà ita tun loːkàcîn dà ta shigoː Nàːjeːriyàː fìye dà shèːkàruː ukù dà sukà wucèː.
+# text = duk dà hakà, ministà-n kiːwò-n laːfiyàː na Nàːjeːr̃iyàː, Fàr̃feːsàː Ransome-Kuti, y-aː= cêː cùːta-r̃ AIDS t-aː= kashè mutàːneː goːmà shâː shidà dàgà cikin tàlàːtin dà bìyar̃ dà su-kà= kàːmu dà ita tun loːkàcîn dà ta= shigoː Nàːjeːriyàː fìye dà shèːkàruː ukù dà su-kà= wucèː.
 1	duk	dukà	PRON	_	PronType=Tot	18	mod	_	Gloss=all
 2	dà	dà	CCONJ	_	_	3	cc	_	Gloss=and
 3	hakà	hakà	ADV	_	_	1	conj:coord	_	Gloss=thus|SpaceAfter=No
@@ -438,7 +438,7 @@
 22	t-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	24	subj/m	_	Gloss=3Fem|SpaceAfter=No|wordform=taː
 23	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	24	mod/m	_	Gloss=Perf.Sing=|wordform=aː
 24	kashè	kas-	VERB	_	_	18	comp:obj	_	Gloss=kill
-25	mutàːneː	mùtûm	NOUN	_	Number=Plur	24	comp:obj	_	Gloss=people.Plur
+25	mutàːneː	mùtûm	NOUN	_	Number=Plur	24	comp:obj	_	Gloss=people.Plur|RelAnt=Yes
 26	goːmà	goːmà	NUM	_	_	25	mod:num	_	Gloss=ten
 27	shâː	shâː	NUM	_	_	26	flat@num	_	Gloss=plus
 28	shidà	shidà	NUM	_	_	27	flat@num	_	Gloss=six
@@ -447,28 +447,28 @@
 31	tàlàːtin	tàlàːtin	NUM	_	_	30	comp:obj	_	Gloss=thirty
 32	dà	dà	CCONJ	_	_	33	cc	_	Gloss=and
 33	bìyar̃	bìyar̃	NUM	_	_	31	conj:coord	_	Gloss=five
-34	dà	dà	SCONJ	_	_	25	mod@relcl	_	Gloss=COMP
+34	dà	dà	SCONJ	_	_	25	mod@relcl	_	Gloss=CompRel|Relz=Word
 35	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	37	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 36	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	37	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-37	kàːmu	kaːm-	VERB	_	_	34	comp:obj	_	Gloss=catch
+37	kàːmu	kaːm-	VERB	_	_	34	comp:obj	_	ClauseType=Rel|Gloss=catch|RelRole=subj
 38	dà	dà	ADP	_	_	37	comp:obl	_	Gloss=with
 39	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	38	comp:obj	_	Gloss=3Fem.Nom
 40	tun	tun	ADP	_	_	37	mod	_	Gloss=since
-41	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	40	comp:obj	_	Gloss=time.Masc.Def
-42	dà	dà	SCONJ	_	_	41	mod@relcl	_	Gloss=COMP
+41	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	40	comp:obj	_	Gloss=time.Masc.Def|RelAnt=Yes
+42	dà	dà	SCONJ	_	_	41	mod@relcl	_	Gloss=CompRel|Relz=Word
 43-44	ta=	_	_	_	_	_	_	_	_
 43	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	45	subj/m	_	Gloss=3Fem-|Relative=Yes|SpaceAfter=No|wordform=ta
 44	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	45	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-45	shigoː	shig-	VERB	_	_	42	comp:obj	_	Gloss=enter
+45	shigoː	shig-	VERB	_	_	42	comp:obj	_	ClauseType=Rel|Gloss=enter|RelRole=mod
 46	Nàːjeːriyàː	Nàːjeːriyàː	PROPN	_	_	45	comp:obj@G	_	Gloss=Nigeria
 47	fìye	fi	VERB	_	VerbForm=Part	45	mod	_	Gloss=exceed.Part
 48	dà	dà	ADP	_	_	47	comp:obl	_	Gloss=with
-49	shèːkàruː	shèːkaràː	NOUN	_	Number=Plur	48	comp:obj	_	Gloss=year.Plur
+49	shèːkàruː	shèːkaràː	NOUN	_	Number=Plur	48	comp:obj	_	Gloss=year.Plur|RelAnt=Yes
 50	ukù	ukù	NUM	_	_	49	mod:num	_	Gloss=three
-51	dà	dà	SCONJ	_	_	49	mod@relcl	_	Gloss=COMP
+51	dà	dà	SCONJ	_	_	49	mod@relcl	_	Gloss=CompRel|Relz=Word
 52	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	54	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 53	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	54	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-54	wucèː	wut-	VERB	_	_	51	comp:obj	_	Gloss=pass|SpaceAfter=No
+54	wucèː	wut-	VERB	_	_	51	comp:obj	_	ClauseType=Rel|Gloss=pass|RelRole=subj|SpaceAfter=No
 55	.	.	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 
 # sent_id = 04_AIDS_12
@@ -495,7 +495,7 @@
 
 # sent_id = 04_AIDS_13
 # text_en = The Misister, who is the head of the committed on AIDS, continued by saying taht the committee insist that the hospitals should make sure of the quality of the blood that they will inject to the patients, although he said that their main problem is the lack of machines to test the blood.
-# text = ministàn, wandà shiː nèː shùːgàba-n kwàmìtî kân cùːta-r̃ AIDS, ya= ƙaːràː dà cêːwaː kwàmìtî-n-sà ya nàː naːnàːtaː wà asibitoːciː sù= tabbatar̃ dà kyâu-n jinîn dà zaːsù= ɗuːràː wà maràsaː laːfiyàː, koː dà ya kè yaː= cêː bàbbar̃ màtsalàː ita cèː rashì-n naːꞌuːr̃oːr̃i-n duːbà jiniː.
+# text = ministàn, wandà shiː nèː shùːgàba-n kwàmìtî kân cùːta-r̃ AIDS, ya= ƙaːràː dà cêːwaː kwàmìtî-n-sà ya nàː naːnàːtaː wà asibitoːciː su-_̀= tabbatar̃ dà kyâu-n jinîn dà zaː-sù= ɗuːràː wà maràsaː laːfiyàː, koː dà ya kè y-aː= cêː bàbbar̃ màtsalàː ita cèː rashì-n naːꞌuːr̃oːr̃i-n duːbà jiniː.
 # text_ortho = Ministàn, wandà shiː nèː shùːgàban kwàmìtî kân cùːtar̃ AIDS, ya ƙaːràː dà cêːwaː kwàmìtînsà yanàː naːnàːtaː wà asibitoːciː sù tabbatar̃ dà kyâun jinîn dà zaː sù ɗuːràː wà maràsaː laːfiyàː, koː dà yakè yaː cêː bàbbar̃ màtsalàː ita cèː rashìn naːꞌur̃oːr̃in duːbà jiniː.
 1	ministàn	ministàː	NOUN	_	Definite=Def|Gender=Masc	16	subj	_	Gloss=minister.Masc.Def|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -530,11 +530,11 @@
 30	dà	dà	ADP	_	_	29	comp:obl	_	Gloss=with
 31	kyâu	kyâu	NOUN	_	Gender=Masc	30	comp:obj	_	Gloss=quality.Masc|SpaceAfter=No|wordform=kyâun
 32	-n	na	PART	_	Case=Gen|PartType=Case	31	mod/m	_	Gloss=Gen.Masc/Plur
-33	jinîn	jiniː	VERB	_	Definite=Def|Gender=Masc	32	comp:obj	_	Gloss=blood.Masc.Def
-34	dà	dà	SCONJ	_	_	33	mod@relcl	_	Gloss=COMP
+33	jinîn	jiniː	VERB	_	Definite=Def|Gender=Masc	32	comp:obj	_	Gloss=blood.Masc.Def|RelAnt=Yes
+34	dà	dà	SCONJ	_	_	33	mod@relcl	_	Gloss=CompRel|Relz=Word
 35	zaː-	zâː-	PART	_	PartType=TAM|Tense=Fut	37	mod/m	_	Gloss=Fut-|SpaceAfter=No
 36	sù=	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj|Tense=Fut	37	subj/m	_	Gloss=3Plur=|wordform=sù
-37	ɗuːràː	ɗuːr-	VERB	_	_	34	comp:obj	_	Gloss=inject
+37	ɗuːràː	ɗuːr-	VERB	_	_	34	comp:obj	_	ClauseType=Rel|Gloss=inject|RelRole=obj
 38	wà	mà	ADP	_	Case=Dat	37	comp:obl	_	Gloss=Dat
 39	maràsaː	maràsaː	PART	_	Number=Plur|PartType=Der|Polarity=Neg	38	comp:obj	_	Gloss=lacking.Plur
 40	laːfiyàː	laːfiyàː	NOUN	_	Gender=Fem	39	compound	_	Gloss=health.Fem|SpaceAfter=No
@@ -560,7 +560,7 @@
 
 # sent_id = 04_AIDS_14
 # text_en = He said too that the hospital must use boiled needles.
-# text = yaː kuma cêː doːlè neː asibitoːcîn sù riƙà àmfàːniː dà àllùːr̃ân dà akà tafàsaː.
+# text = y-aː= kuma cêː doːlè neː asibitoːcîn su-_̀= riƙà àmfàːniː dà àllùːr̃ân dà a-kà= tafàsaː.
 # text_ortho = Yaː kuma cêː doːlè neː asibitoːcîn sù riƙà àmfàːniː dà àllùːr̃ân dà akà tafàsaː.
 1	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
 2	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Sing=|wordform=aː
@@ -574,11 +574,11 @@
 10	riƙà	riƙ-	VERB	_	_	5	comp:cleft	_	Gloss=keep_doing
 11	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=use.Masc
 12	dà	dà	ADP	_	_	11	comp:obl	_	Gloss=with
-13	àllùːr̃ân	àlluːr̃àː	NOUN	_	Definite=Def|Number=Plur	12	comp:obj	_	Gloss=needle.Plur.Def
-14	dà	dà	SCONJ	_	_	13	mod@relcl	_	Gloss=COMP
+13	àllùːr̃ân	àlluːr̃àː	NOUN	_	Definite=Def|Number=Plur	12	comp:obj	_	Gloss=needle.Plur.Def|RelAnt=Yes
+14	dà	dà	SCONJ	_	_	13	mod@relcl	_	Gloss=CompRel|Relz=Word
 15	a-	a	PRON	_	Person=4|PronType=PrsSubj	17	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 16	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	17	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-17	tafàsaː	tafas-	VERB	_	_	14	comp:obj	_	Gloss=boil|SpaceAfter=No
+17	tafàsaː	tafas-	VERB	_	_	14	comp:obj	_	ClauseType=Rel|Gloss=boil|RelRole=obj|SpaceAfter=No
 18	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 04_AIDS_15
@@ -619,17 +619,17 @@
 
 # sent_id = 04_AIDS_16
 # text_en = One doctor that we interviewed in London said that if we take into account that the number of Nigerians is more than a hundred million, well it is possible that there are many people who have the disease, or that the disease has killed, and who have not gone to the hospital.
-# text = wani likità dà akà yi hiːr̃a dà shiː à Ìkko yaː cêː ìdan akà yi làꞌakàr̃iː dà cêːwaː yawàn mutàːnen Nàːjeːr̃iyàː yaː fi miliyàn ɗàriː, tòː zâi yìwu à sàːmi mutàːneː dà daːmaː màːsu cùːtâr̃ koː kùwa waɗàndà cùːtâr̃ ta kashèː, dà bàsù kai kânsù asìbitì ba.
+# text = wani likità dà a-kà= yi hiːr̃a dà shiː à Ìkko y-aː= cêː ìdan a-kà= yi làꞌakàr̃iː dà cêːwaː yawà-n mutàːne-n Nàːjeːr̃iyàː y-aː= fi miliyàn ɗàriː, tòː zâ-i= yìwu a-_̀= sàːmi mutàːneː dà daːmaː màːsu cùːtâr̃ koː kùwa waɗàndà cùːtâr̃ ta= kashèː, dà bà-sù=kai kânsù asìbitì ba.
 # text_ortho = Wani likità dà akà yi hiːr̃a dà shiː à Ìkko yaː cêː ìdan akà yi làꞌakàr̃iː dà cêːwaː yawàn mutàːnen Nàːjeːr̃iyàː yaː fi miliyàn ɗàriː, tòː zâi yìwu à sàːmi mutàːneː dà daːmaː màːsu cùːtâr̃ koː kùwa waɗàndà cùːtâr̃ ta kashèː, dà bà sù kai kânsù asìbiti ba.
 1	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	2	det	_	Gloss=some.Masc.Spec
-2	likità	likità	NOUN	_	Gender=Masc	14	subj	_	Gloss=doctor.Masc
-3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP
+2	likità	likità	NOUN	_	Gender=Masc	14	subj	_	Gloss=doctor.Masc|RelAnt=Yes
+3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=CompRel|Relz=Word
 4	a-	a	PRON	_	Person=4|PronType=PrsSubj	6	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 5	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	6	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-6	yi	yi	VERB	_	_	3	comp:obj	_	Gloss=do
+6	yi	yi	VERB	_	_	3	comp:obj	_	ClauseType=Rel|Gloss=do
 7	hiːr̃a	hiːr̃a	NOUN	_	Gender=Fem	6	comp:pred	_	Gloss=conversation.Fem
 8	dà	dà	ADP	_	_	7	comp:obl	_	Gloss=with
-9	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	8	comp:obj	_	Gloss=3Masc.Nom
+9	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	8	comp:obj	_	Gloss=3Masc.Nom|RelPos=Yes
 10	à	à	ADP	_	_	6	mod	_	Gloss=at
 11	Ìkko	Ìkko	PROPN	_	_	10	comp:obj	_	Gloss=Lagos
 12	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	14	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
@@ -710,11 +710,11 @@
 21	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	22	mod/m	_	Gloss=Sub=
 22	gùji	gud-	VERB	_	_	19	comp:obj	_	Gloss=avoid
 23	dukkàn	dukà	DET	_	Gender=Masc|PronType=Tot	24	det	_	Gloss=all
-24	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	22	comp:obj	_	Gloss=thing.Masc.Def
-25	dà	dà	SCONJ	_	_	24	mod@relcl	_	Gloss=COMP
+24	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	22	comp:obj	_	Gloss=thing.Masc.Def|RelAnt=Yes
+25	dà	dà	SCONJ	_	_	24	mod@relcl	_	Gloss=CompRel|Relz=Word
 26	zâ-	zâː-	PART	_	PartType=TAM|Tense=Fut	28	mod/m	_	Gloss=Fut-|SpaceAfter=No
 27	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj|Tense=Fut	28	subj/m	_	Gloss=3Masc=|wordform=zâi
-28	sâː	sâː	VERB	_	_	25	comp:obj	_	Gloss=cause
+28	sâː	sâː	VERB	_	_	25	comp:obj	_	ClauseType=Rel|Gloss=cause|RelRole=obj
 29	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	31	subj/m	_	Gloss=3.Plur-|SpaceAfter=No|wordform=sù
 30	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	31	mod/m	_	Gloss=Sub=
 31	kàːmu	kaːm-	VERB	_	_	28	comp:obj	_	Gloss=catch

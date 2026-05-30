@@ -107,12 +107,12 @@
 
 # sent_id = 03_Barayi_a_Ikko_4
 # text_en = When they came out of their car, then the people who were in front of the bank started showering them with bullets.
-# text = loːkàcîn dà sukà= fitoː dàgà cikin moːtà-r̃-sù , sai mutàːnên dà kèː= gàban bankìn sukà= faːrà yi musù ruwa-n hàr̃saːshìː.
-1	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	20	mod	_	Gloss=time.Masc.Def
-2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
+# text = loːkàcîn dà su-kà= fitoː dàgà cikin moːtà-r̃-sù , sai mutàːnên dà kèː gàban bankìn su-kà= faːrà yi musù ruwa-n hàr̃saːshìː.
+1	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	20	mod	_	Gloss=time.Masc.Def|RelAnt=Yes
+2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=CompRel|Relz=Word
 3	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	5	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 4	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-5	fitoː	fit-	VERB	_	_	2	comp:obj	_	Gloss=come_out
+5	fitoː	fit-	VERB	_	_	2	comp:obj	_	ClauseType=Rel|Gloss=come_out|RelRole=mod
 6	dàgà	dàgà	ADP	_	_	5	comp:obl	_	Gloss=from
 7	cikin	cikin	ADP	_	_	6	mod	_	Gloss=inside
 8	moːtà	moːtàː	NOUN	_	Gender=Fem	7	comp:obj	_	Gloss=car.Fem|Poss=Yes|SpaceAfter=No|wordform=moːtàr̃sù
@@ -159,14 +159,14 @@
 
 # sent_id = 03_Barayi_a_Ikko_6
 # text_en = When the dust stettled down, then the policemen discoverd seven human corpses.
-# text = loːkàcîn dà ƙùːraː ta lafàː, sai ꞌyan sàndân sukà gaːnoː gàːwàwwakin mutàːneː bakwài.
-1	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	14	mod	_	Gloss=time.Masc.Def
-2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
+# text = loːkàcîn dà ƙùːraː ta= lafàː, sai ꞌya-n sàndân su-kà= gaːnoː gàːwàwwaki-n mutàːneː bakwài.
+1	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	14	mod	_	Gloss=time.Masc.Def|RelAnt=Yes
+2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=CompRel|Relz=Word
 3	ƙùːraː	ƙùːraː	NOUN	_	Gender=Fem	6	subj	_	Gloss=dust.Fem
 4-5	ta=	_	_	_	_	_	_	_	_
 4	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=3Fem-|Relative=Yes|SpaceAfter=No|wordform=ta
 5	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	6	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-6	lafàː	laf-	VERB	_	_	2	comp:obj	_	Gloss=subside|SpaceAfter=No
+6	lafàː	laf-	VERB	_	_	2	comp:obj	_	ClauseType=Rel|Gloss=subside|RelRole=mod|SpaceAfter=No
 7	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 8	sai	sai	ADV	_	_	14	mod	_	Gloss=then
 9	ꞌya	ɗaː	NOUN	_	Number=Plur	14	subj	_	Compound=Yes|Gloss=child.Plur|SpaceAfter=No|wordform=ꞌyan
@@ -193,11 +193,11 @@
 6	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	8	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
 7	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	8	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
 8	cèː	cêː	VERB	_	Gender=Fem	0	root	_	Gloss=be.Fem
-9	mutàːnên	mùtûm	NOUN	_	Definite=Def|Number=Plur	22	subj	_	Gloss=people.Plur.Def
-10	dà	dà	SCONJ	_	_	9	mod@relcl	_	Gloss=COMP
+9	mutàːnên	mùtûm	NOUN	_	Definite=Def|Number=Plur	22	subj	_	Gloss=people.Plur.Def|RelAnt=Yes
+10	dà	dà	SCONJ	_	_	9	mod@relcl	_	Gloss=CompRel|Relz=Word
 11	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	13	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 12	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	13	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-13	yi	yi	VERB	_	_	10	comp:obj	_	Gloss=do
+13	yi	yi	VERB	_	_	10	comp:obj	_	ClauseType=Rel|Gloss=do|RelRole=subj
 14	ƙòːkari	ƙòːkariː	NOUN	_	Gender=Masc	13	comp:pred	_	Gloss=trying.Masc|SpaceAfter=No|wordform=ƙòːkarin
 15	-n	na	PART	_	Case=Gen|PartType=Case	14	udep/m	_	Gloss=Gen.Masc/Plur
 16	yî	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	15	comp:obj	_	Compound=Yes|Gloss=do.Vnoun.Masc.|SpaceAfter=No|wordform=yîn
@@ -220,12 +220,12 @@
 33	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	34	mod/m	_	Gloss=Perf.Sing=|wordform=aː
 34	tabbàtaː	tabbàtaː	VERB	_	_	22	conj:coord	_	Gloss=be_certain
 35	sauraː	sauraː	ADP	_	_	45	mod	_	Gloss=except_for
-36	gùdaː	gùdaː	NOUN	_	Gender=Masc	35	comp:obj	_	Gloss=unit.Masc
+36	gùdaː	gùdaː	NOUN	_	Gender=Masc	35	comp:obj	_	Gloss=unit.Masc|RelAnt=Yes
 37	shidàn	shidà	NUM	_	Definite=Def	36	mod:num	_	Gloss=six.Def
-38	dà	dà	SCONJ	_	_	36	mod@relcl	_	Gloss=COMP
+38	dà	dà	SCONJ	_	_	36	mod@relcl	_	Gloss=CompRel|Relz=Word
 39	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	41	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 40	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	41	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-41	gudù	gudù	VERB	_	_	38	comp:obj	_	Gloss=flee
+41	gudù	gudù	VERB	_	_	38	comp:obj	_	ClauseType=Rel|Gloss=flee|RelRole=subj
 42	duk	dukà	PRON	_	PronType=Tot	45	subj	_	Gloss=all
 43	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	45	subj/m	_	Gloss=3Plur|SpaceAfter=No|wordform=sun
 44	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	45	mod/m	_	Gloss=Perf.Plur=|wordform=n
@@ -235,7 +235,7 @@
 
 # sent_id = 03_Barayi_a_Ikko_8
 # text_en = He also called on all the hospitals to report about anyone who went to their place to be treated for these injuries caused by firearms.
-# text = yaː kuma yi kiràː gà dukkàn asibitoːciː dà sù kai r̃àːhoːtòn duk mùtumìn dà ya jeː wurinsù dòːmin saːmùn maːgàniː danganèː dà irìn wannàn rauniː na har̃bìn bindigàː.
+# text = y-aː= kuma yi kiràː gà dukkàn asibitoːciː dà su-_̀= kai r̃àːhoːtò -n duk mùtumìn dà ya= jeː wuri-n-sù dòːmin saːmù-n maːgàniː danganèː dà irì-n wannàn rauniː na har̃bì-n bindigàː.
 1	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
 2	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Sing=|wordform=aː
 3	kuma	kuma	PART	_	PartType=Top	4	discourse@top	_	Gloss=also
@@ -248,32 +248,33 @@
 10	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	12	subj/m	_	Gloss=3.Plur-|SpaceAfter=No|wordform=sù
 11	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	12	mod/m	_	Gloss=Sub=
 12	kai	kai	VERB	_	_	9	comp:obj	_	Gloss=reach/carry_to
-13	r̃àːhoːtòn	r̃àːhoːtòː	NOUN	_	Definite=Def|Gender=Masc|Number=Plur	12	comp:obj	_	Gloss=report.Masc.Def
-14	duk	dukà	DET	_	PronType=Tot	15	det	_	Gloss=all
-15	mùtumìn	mùtûm	NOUN	_	Definite=Def|Gender=Masc	13	mod	_	Gloss=person.Masc.Def
-16	dà	dà	SCONJ	_	_	15	mod@relcl	_	Gloss=COMP
-17-18	ya=	_	_	_	_	_	_	_	_
-17	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	19	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
-18	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	19	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-19	jeː	jeː	VERB	_	_	16	comp:obj	_	Gloss=go
-20	wuri	wuriː	NOUN	_	Gender=Masc	19	comp:obl	_	Gloss=place.Masc|Poss=Yes|SpaceAfter=No|wordform=wurinsù
-21	-n	na	PART	_	Case=Gen|PartType=Case	20	mod@poss	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
-22	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	21	comp:obj	_	Gloss=3Plur.Gen
-23	dòːmin	dòːmin	SCONJ	_	_	19	mod	_	Gloss=in_order_to
-24	saːmù	saːmùː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	23	comp:obj	_	Gloss=get.Vnoun.Masc|SpaceAfter=No|wordform=saːmùn
-25	-n	na	PART	_	Case=Gen|PartType=Case	24	udep/m	_	Gloss=Gen.Masc/Plur
-26	maːgàniː	maːgàniː	NOUN	_	Gender=Masc	25	comp:obj	_	Gloss=medicine.Masc
-27	danganèː	danganèː	NOUN	_	ExtPos=ADP|Gender=Masc	24	comp:obl	_	Gloss=relation.Masc|Idiom=Yes
-28	dà	dà	ADP	_	_	27	compound	_	Gloss=with|InIdiom=Yes
-29	irì	irìː	NOUN	_	Gender=Masc	27	comp:obj	_	Compound=Yes|Gloss=type_of.Masc.|SpaceAfter=No|wordform=irìn
-30	-n	na	PART	_	Case=Gen|PartType=Case	29	udep/m	_	Gloss=Gen.Masc/Plur
-31	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	32	det	_	Gloss=ProxS.Masc
-32	rauniː	rauniː	NOUN	_	Gender=Masc	30	comp:obj	_	Gloss=injury.Masc
-33	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	32	mod	_	Gloss=Gen
-34	har̃bì	har̃b-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	33	comp:obj	_	Gloss=shoot.Vnoun.Masc|SpaceAfter=No|wordform=har̃bìn
-35	-n	na	PART	_	Case=Gen|PartType=Case	34	udep/m	_	Gloss=Gen.Masc/Plur
-36	bindigàː	bindigàː	NOUN	_	Gender=Fem	35	comp:obj	_	Gloss=gun.Fem|SpaceAfter=No
-37	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
+13	r̃àːhoːtò	r̃àːhoːtòː	NOUN	_	Gender=Masc	12	comp:obj	_	Gloss=report.Masc
+14	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	13	udep/m	_	Gloss=Gen.Masc/Plur
+15	duk	dukà	DET	_	PronType=Tot	16	det	_	Gloss=all
+16	mùtumìn	mùtûm	NOUN	_	Definite=Def|Gender=Masc	14	comp:obj	_	Gloss=person.Masc.Def|RelAnt=Yes
+17	dà	dà	SCONJ	_	_	16	mod@relcl	_	Gloss=CompRel|Relz=Word
+18-19	ya=	_	_	_	_	_	_	_	_
+18	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	20	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
+19	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	20	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
+20	jeː	jeː	VERB	_	_	17	comp:obj	_	ClauseType=Rel|Gloss=go|RelRole=subj
+21	wuri	wuriː	NOUN	_	Gender=Masc	20	comp:obl	_	Gloss=place.Masc|Poss=Yes|SpaceAfter=No|wordform=wurinsù
+22	-n	na	PART	_	Case=Gen|PartType=Case	21	mod@poss	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
+23	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	22	comp:obj	_	Gloss=3Plur.Gen
+24	dòːmin	dòːmin	SCONJ	_	_	20	mod	_	Gloss=in_order_to
+25	saːmù	saːmùː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	24	comp:obj	_	Gloss=get.Vnoun.Masc|SpaceAfter=No|wordform=saːmùn
+26	-n	na	PART	_	Case=Gen|PartType=Case	25	udep/m	_	Gloss=Gen.Masc/Plur
+27	maːgàniː	maːgàniː	NOUN	_	Gender=Masc	26	comp:obj	_	Gloss=medicine.Masc
+28	danganèː	danganèː	NOUN	_	ExtPos=ADP|Gender=Masc	25	comp:obl	_	Gloss=relation.Masc|Idiom=Yes
+29	dà	dà	ADP	_	_	28	compound	_	Gloss=with|InIdiom=Yes
+30	irì	irìː	NOUN	_	Gender=Masc	28	comp:obj	_	Compound=Yes|Gloss=type_of.Masc.|SpaceAfter=No|wordform=irìn
+31	-n	na	PART	_	Case=Gen|PartType=Case	30	udep/m	_	Gloss=Gen.Masc/Plur
+32	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	33	det	_	Gloss=ProxS.Masc
+33	rauniː	rauniː	NOUN	_	Gender=Masc	31	comp:obj	_	Gloss=injury.Masc
+34	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	33	mod	_	Gloss=Gen
+35	har̃bì	har̃b-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	34	comp:obj	_	Gloss=shoot.Vnoun.Masc|SpaceAfter=No|wordform=har̃bìn
+36	-n	na	PART	_	Case=Gen|PartType=Case	35	udep/m	_	Gloss=Gen.Masc/Plur
+37	bindigàː	bindigàː	NOUN	_	Gender=Fem	36	comp:obj	_	Gloss=gun.Fem|SpaceAfter=No
+38	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 03_Barayi_a_Ikko_9
 # text_en = While that was happening, the headquarters of Lagos police explained that the number of burglaries and thefts that were committed in Nigeria exceeds what was done in the last five years.
@@ -319,17 +320,17 @@
 39	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	40	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
 40	yi	yi	VERB	_	_	37	mod@relcl	_	Gloss=do
 41	cikin	cikin	ADP	_	_	40	mod	_	Gloss=inside
-42	shèːkàruː	shèːkaràː	NOUN	_	Number=Plur	41	comp:obj	_	Gloss=year.Plur
+42	shèːkàruː	shèːkaràː	NOUN	_	Number=Plur	41	comp:obj	_	Gloss=year.Plur|RelAnt=Yes
 43	biyûn	biyu	NOUN	_	Definite=Def	42	mod:num	_	Gloss=two.Def
-44	dà	dà	SCONJ	_	_	42	mod@relcl	_	Gloss=COMP
+44	dà	dà	SCONJ	_	_	42	mod@relcl	_	Gloss=CompRel|Relz=Word
 45	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	47	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 46	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	47	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-47	wucèː	wut-	VERB	_	_	44	comp:obj	_	Gloss=pass|SpaceAfter=No
+47	wucèː	wut-	VERB	_	_	44	comp:obj	_	ClauseType=Rel|Gloss=pass|RelRole=subj|SpaceAfter=No
 48	.	.	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 
 # sent_id = 03_Barayi_a_Ikko_10
 # text_en = The declaration said that one thousand three hundred and thirty eight thefts were committed by robbers in the city last year, although this number does not reach the quantity of thefts that were committed in nineteen eighty-six.
-# text = sanâr̃wâr̃ ta= cèː sàu dubuː ɗaya dà ɗàriː ukù dà tàlàːtin dà takwàs neː ɓàràːyiː sukà= yi saːtàː à bir̃nîn à bàːra, koː dà ya kè wannàn adàdiː bài= kai yawà-n sàːce-sàːcên dà akà= yi à shèːkarà-r̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà shidà ba.
+# text = sanâr̃wâr̃ ta= cèː sàu dubuː ɗaya dà ɗàriː ukù dà tàlàːtin dà takwàs neː ɓàràːyiː su-kà= yi saːtàː à bir̃nîn à bàːra, koː dà ya kè wannàn adàdiː bà-ì=kai yawà-n sàːce-sàːcên dà a-kà= yi à shèːkarà-r̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà shidà ba.
 1	sanâr̃wâr̃	sanâr̃wâː	NOUN	_	Definite=Def|Gender=Fem	4	subj	_	Gloss=announcement.Fem.Def
 2-3	ta=	_	_	_	_	_	_	_	_
 2	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Fem-|Relative=Yes|SpaceAfter=No|wordform=ta
@@ -367,11 +368,11 @@
 34	kai	kai	VERB	_	_	26	comp:obj	_	Gloss=reach/carry_to
 35	yawà	yawàː	NOUN	_	Gender=Masc	34	comp:obl	_	Gloss=quantity.Masc|SpaceAfter=No|wordform=yawàn
 36	-n	na	PART	_	Case=Gen|PartType=Case	35	udep/m	_	Gloss=Gen.Masc/Plur
-37	sàːce-sàːcên	saːcìː	NOUN	_	Definite=Def|Number=Plur	36	comp:obj	_	Gloss=theft.Plur.Def
-38	dà	dà	SCONJ	_	_	37	mod@relcl	_	Gloss=COMP
+37	sàːce-sàːcên	saːcìː	NOUN	_	Definite=Def|Number=Plur	36	comp:obj	_	Gloss=theft.Plur.Def|RelAnt=Yes
+38	dà	dà	SCONJ	_	_	37	mod@relcl	_	Gloss=CompRel|Relz=Word
 39	a-	a	PRON	_	Person=4|PronType=PrsSubj	41	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 40	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	41	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-41	yi	yi	VERB	_	_	38	comp:obj	_	Gloss=do
+41	yi	yi	VERB	_	_	38	comp:obj	_	ClauseType=Rel|Gloss=do|RelRole=pred
 42	à	à	ADP	_	_	41	mod	_	Gloss=at
 43	shèːkarà	shèːkaràː	NOUN	_	Gender=Fem	42	comp:obj	_	Gloss=year.Fem|SpaceAfter=No|wordform=shèːkaràr̃
 44	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	43	mod/m	_	Gloss=Gen.Fem
@@ -395,12 +396,12 @@
 4	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 5	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	6	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
 6	cêː	cêː	VERB	_	_	0	root	_	Gloss=say
-7	dàliːlìn	dàliːlìː	NOUN	_	Definite=Def|Gender=Masc	17	subj	_	Gloss=reason.Masc.Def
-8	dà	dà	SCONJ	_	_	7	mod@relcl	_	Gloss=COMP
+7	dàliːlìn	dàliːlìː	NOUN	_	Definite=Def|Gender=Masc	17	subj	_	Gloss=reason.Masc.Def|RelAnt=Yes
+8	dà	dà	SCONJ	_	_	7	mod@relcl	_	Gloss=CompRel|Relz=Word
 9-10	ya=	_	_	_	_	_	_	_	_
 9	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	11	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
 10	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	11	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-11	sâː	sâː	VERB	_	_	8	comp:obj	_	Gloss=cause
+11	sâː	sâː	VERB	_	_	8	comp:obj	_	ClauseType=Rel|Gloss=cause|RelRole=subj
 12	sàːce-sàːcên	saːcìː	NOUN	_	Definite=Def|Number=Plur	15	subj	_	Gloss=theft.Plur.Def
 13	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	15	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 14	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	15	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
