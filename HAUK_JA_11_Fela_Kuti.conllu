@@ -150,12 +150,12 @@
 # sent_id = 11_Fela_Kuti_5
 # text_en = When he was doing this work, he tried to become a musician, he was singing his songs in various clubs in Lagos.
 # text_ortho = À loːkàcîn dà yakèː yîn wannàn aikìː neː ya dingà ƙòːƙarin zamaː makàɗiː, yanàː wàːƙe-wàːƙensà à kùlâb-kùlâb na bir̃nin Ìkko.
-# text = à loːkàcîn dà ya- kèː yî-n wannàn aikìː neː ya= dingà ƙòːƙari-n zamaː makàɗiː, ya nàː wàːƙe-wàːƙe-n-sà à kùlâb-kùlâb na bir̃ni-n Ìkko.
+# text = à loːkàcîn dà ya-kèː yî-n wannàn aikìː neː ya= dingà ƙòːƙari-n zamaː makàɗiː, ya nàː wàːƙe-wàːƙe-n-sà à kùlâb-kùlâb na bir̃ni-n Ìkko.
 1	à	à	ADP	_	_	13	mod	_	Gloss=at
-2	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	1	comp:obj	_	Gloss=time.Masc.Def
-3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP
+2	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	1	comp:obj	_	Gloss=time.Masc.Def|RelAnt=Yes
+3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=CompRel|Relz=Word
 4	ya-	ya-	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	Gloss=3Masc-|SpaceAfter=No
-5	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	3	comp:obj	_	Gloss=Prog.Rel|Relative=Yes|wordform=yakề
+5	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	3	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|RelRole=mod|wordform=yakề
 6	yî	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	5	comp:aux	_	Compound=Yes|Gloss=do.Vnoun.Masc|SpaceAfter=No|wordform=yîn
 7	-n	na	PART	_	Case=Gen|PartType=Case	6	udep/m	_	Gloss=Gen.Masc/Plur
 8	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	9	det	_	Gloss=ProxS.Masc
@@ -808,7 +808,7 @@
 # sent_id = 11_Fela_Kuti_22
 # text_en = He went on criticizing the goverment's views in the music and songs that he does.
 # text_ortho = Yaː ci gàba dà suːkàr̃ làmiːr̃ìn gwamnatìn à cikin kàɗe-kàɗe dà wàːƙe-wàːƙên dà yakèː yîː.
-# text = yaː= ci gàba dà suːkà-r̃ làmiːr̃ì-n gwamnatìn à cikin kàɗe-kàɗe dà wàːƙe-wàːƙên dà ya- kèː yîː.
+# text = y-aː= ci gàba dà suːkà-r̃ làmiːr̃ì-n gwamnatìn à cikin kàɗe-kàɗe dà wàːƙe-wàːƙên dà ya-kèː yîː.
 1	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
 2	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Sing=|wordform=aː
 3	ci	ci	VERB	_	_	0	root	_	Gloss=proceed
@@ -823,11 +823,11 @@
 12	cikin	cikin	ADP	_	_	11	comp:obj	_	Gloss=inside
 13	kàɗe-kàɗe	kiɗìː	NOUN	_	Number=Plur	12	comp:obj	_	Gloss=music.Plur
 14	dà	dà	CCONJ	_	_	15	cc	_	Gloss=and
-15	wàːƙe-wàːƙên	waːƙàː	NOUN	_	Definite=Def|Number=Plur	13	conj:coord	_	Gloss=song.Plur.Def
-16	dà	dà	SCONJ	_	_	15	mod@relcl	_	Gloss=COMP
+15	wàːƙe-wàːƙên	waːƙàː	NOUN	_	Definite=Def|Number=Plur	13	conj:coord	_	Gloss=song.Plur.Def|RelAnt=Yes
+16	dà	dà	SCONJ	_	_	15	mod@relcl	_	Gloss=CompRel|Relz=Word
 17	ya-	ya-	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	18	subj/m	_	Gloss=3Masc-|SpaceAfter=No
-18	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	16	comp:obj	_	Gloss=Prog.Rel|Relative=Yes|wordform=yakèː
-19	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	18	comp:aux	_	Gloss=do.Vnoun.Masc|SpaceAfter=No
+18	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	16	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|wordform=yakèː
+19	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	18	comp:aux	_	Gloss=do.Vnoun.Masc|RelRole=pred|SpaceAfter=No
 20	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
 # sent_id = 11_Fela_Kuti_23

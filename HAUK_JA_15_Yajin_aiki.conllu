@@ -629,17 +629,17 @@
 # text = bandà kuma matsà lambàr̃ dà shùːgàbaː " Ali Saibou " ya-kèː fùskantàː à kân kaucèːwaː dàgà kân tafarkì-n tsaːrì-n mulkì-n mài jàm'iyyàː ƙwàːyaː ɗaya tal, hakà kuma shùːgàbân ya-nàː faːmaː dà ƙaːrì-n yawà-n wànzuwa-r̃ rashì-n amìncêwaː dà manufoːfi-n tattali-n ar̃zìkiː dà gwamnatì-n-sà ta-kèː aikìː dà suː.
 1	bandà	bandà	ADP	_	_	35	mod	_	Gloss=apart_from
 2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
-3	matsà	mats-	VERB	_	_	1	comp:obj	_	Compound=Yes|Gloss=press
+3	matsà	mats-	VERB	_	_	1	comp:obj	_	Compound=Yes|Gloss=press|RelAnt=Yes
 4	lambàr̃	lambàː	NOUN	_	Definite=Def|Gender=Fem	3	comp:obj	_	Gloss=sign.Fem.Def
-5	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=COMP
+5	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=CompRel|Relz=Word
 6	shùːgàbaː	shùːgàbaː	NOUN	_	Gender=Masc	12	subj	_	Gloss=leader.Masc
 7	"	"	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 8	Ali	Ali	PROPN	_	_	6	mod@appos	_	Gloss=Ali
 9	Saibou	Saibou	PROPN	_	_	8	flat@name	_	Gloss=Saibou
 10	"	"	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 11	ya-	ya-	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	12	subj/m	_	Gloss=3Masc-|SpaceAfter=No
-12	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	5	comp:obj	_	Gloss=Prog.Rel|Relative=Yes|wordform=yakèː
-13	fùskantàː	fuskant-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	12	comp:aux	_	Gloss=face.Vnoun.Fem
+12	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	5	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|wordform=yakèː
+13	fùskantàː	fuskant-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	12	comp:aux	_	Gloss=face.Vnoun.Fem|RelRole=obj
 14	à	à	ADP	_	_	13	comp:obl	_	Gloss=at
 15	kân	kân	ADP	_	_	14	comp:obj	_	Gloss=top
 16	kaucèːwaː	kaut-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	15	comp:obj	_	Gloss=move_away.Vnoun.Fem

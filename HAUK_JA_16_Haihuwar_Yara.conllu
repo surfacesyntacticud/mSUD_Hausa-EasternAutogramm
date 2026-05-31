@@ -599,12 +599,12 @@
 # sent_id = 16_Aihuwar_Yara_15
 # text_en = When he opened the meeting, the Health Minister begged the men of the country to stop marrying young girls.
 # text_ortho = À loːkàcîn dà yakèː buːɗè tàːrôn, Ministàːn Laːfiyàː yaː ròːƙi mazan ƙasâr̃ dà kadà sù riƙà auren ƙanaːnàn yâːraː maːtaː.
-# text = à loːkàcîn dà yakèː buːɗè tàːrôn, Ministàːn Laːfiyàː yaː ròːƙi mazan ƙasâr̃ dà kadà sù riƙà auren ƙanaːnàn yâːraː maːtaː.
+# text = à loːkàcîn dà ya-kèː buːɗè tàːrôn, Ministà-n Laːfiyàː y-aː= ròːƙi maza-n ƙasâr̃ dà kadà su-_̀= riƙà aure-n ƙanaːnàn yâːraː maːtaː.
 1	à	à	ADP	_	_	14	mod	_	Gloss=at
-2	loːkàcîn	loːkàcîː	NOUN	_	Definite=Def|Gender=Masc	1	comp:obj	_	Gloss=time.Masc.Def
-3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP
+2	loːkàcîn	loːkàcîː	NOUN	_	Definite=Def|Gender=Masc	1	comp:obj	_	Gloss=time.Masc.Def|RelAnt=Yes
+3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=CompRel|Relz=Word
 4	ya-	ya-	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	Gloss=3Masc-|SpaceAfter=No
-5	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	3	comp:obj	_	Gloss=Prog.Rel|Relative=Yes|wordform=yakề
+5	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	3	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|RelRole=mod|wordform=yakề
 6	buːɗè	buːɗ-	VERB	_	_	5	comp:aux	_	Gloss=open
 7	tàːrôn	tàːroː	NOUN	_	Definite=Def|Gender=Masc	6	comp:obj	_	Gloss=meeting.Masc.Def|SpaceAfter=No
 8	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT

@@ -329,7 +329,7 @@
 # sent_id = 10_Daurin_Siyasa_10
 # text_en = One of their speakers said that they have documented a case where somebody with connexion in the government had a business competitor jailed for two years under this second national security law, just because he did not pay back the loan he owed him, - that is he did not even steal anything from him.
 # text_ortho = Wani kàːkàːkinsù yaː cêː sun sàːmi làːbaːrìː cêːwaː wani mùtûm mài àlaːƙàː dà gwamnatì yaː sâː an kaːmà àboːkin kaːsuwancìnsà an kuma tsarèː shi har̃ tsawon shèːkaràː biyu, bìsàː wannàn dòːkaː ta tsàron laːfiyàr̃ ƙasaː, don kawài bài biyaː shì baːshìn dà yakèː bînsà ba - wàːtòː bài koː saːtar̃ masà wani àbù ba.
-# text = wani kàːkàːki-n-sù yaː= cêː sun= sàːmi làːbaːrìː cêːwaː wani mùtûm mài àlaːƙàː dà gwamnatì yaː= sâː an= kaːmà àboːki-n kaːsuwancì-n -sà an= kuma tsarèː -shi har̃ tsawo-n shèːkaràː biyu, bìsàː wannàn dòːkaː ta tsàro-n laːfiyà-r̃ ƙasaː, don kawài bài= biyaː -shì baːshìn dà ya- kèː bî-n-sà ba - wàːtòː bài= koː saːtar̃ masà wani àbù ba.
+# text = wani kàːkàːki-n-sù y-aː= cêː su-n= sàːmi làːbaːrìː cêːwaː wani mùtûm mài àlaːƙàː dà gwamnatì y-aː= sâː a-n= kaːmà àboːki-n kaːsuwancì-n -sà a-n= kuma tsarèː -shi har̃ tsawo-n shèːkaràː biyu, bìsàː wannàn dòːkaː ta tsàro-n laːfiyà-r̃ ƙasaː, don kawài bà-ì=biyaː -shì baːshìn dà ya-kèː bî-n-sà ba -wàːtòː bà-ì=koː saːtar̃ masà wani àbù ba.
 1	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	2	det	_	Gloss=some.Masc.Spec
 2	kàːkàːki	kàːkàːkiː	NOUN	_	Gender=Masc	7	subj	_	Gloss=spokesman.Masc|Poss=Yes|SpaceAfter=No|wordform=kàːkàːkinsù
 3	-n	na	PART	_	Case=Gen|PartType=Case	2	mod@poss	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
@@ -386,11 +386,11 @@
 54	ì=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	55	subj/m	_	Gloss=3Masc=|SpaceAfter=No|wordform=bài
 55	biyaː	biyaː	VERB	_	_	51	comp:obj	_	Gloss=pay
 56	-shì	-shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	55	comp:obj@R/m	_	Gloss=-3Masc.Acc|wordform=shì
-57	baːshìn	baːshìː	NOUN	_	Definite=Def|Gender=Masc	55	comp:obj@T	_	Gloss=loan.Masc.Def
-58	dà	dà	SCONJ	_	_	57	mod@relcl	_	Gloss=COMP
+57	baːshìn	baːshìː	NOUN	_	Definite=Def|Gender=Masc	55	comp:obj@T	_	Gloss=loan.Masc.Def|RelAnt=Yes
+58	dà	dà	SCONJ	_	_	57	mod@relcl	_	Gloss=CompRel|Relz=Word
 59	ya-	ya-	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	60	subj/m	_	Gloss=3Masc-|SpaceAfter=No
-60	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	58	comp:obj	_	Gloss=Prog.Rel|Relative=Yes|wordform=yakèː
-61	bî	bi	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	60	comp:aux	_	Gloss=owe.Vnoun.Masc|Poss=Yes|SpaceAfter=No|wordform=bîn|wordfrom=bînsà
+60	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	58	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|wordform=yakèː
+61	bî	bi	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	60	comp:aux	_	Gloss=owe.Vnoun.Masc|Poss=Yes|RelRole=obj|SpaceAfter=No|wordform=bîn|wordfrom=bînsà
 62	-n	na	PART	_	Case=Gen|PartType=Case	61	udep/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 63	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	62	comp:obj/m	_	Gloss=3Masc.Gen
 64	ba	ba	PART	_	PartType=Neg|Polarity=Neg	55	mod	_	Gloss=Neg

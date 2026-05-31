@@ -588,9 +588,9 @@
 14	ƙaːrà	ƙaːr-	VERB	_	_	4	comp:obj	_	Gloss=increase
 15	yawà	yawàː	NOUN	_	Gender=Masc	14	comp:obj	_	Gloss=quantity.Masc|SpaceAfter=No|wordform=yawàn
 16	-n	na	PART	_	Case=Gen|PartType=Case	15	mod/m	_	Gloss=Gen.Masc/Plur
-17	ƙungiyoːyîn	ƙungìyaː	NOUN	_	Definite=Def|Number=Plur	16	comp:obj	_	Gloss=gang.Plur.Def
-18	dà	dà	SCONJ	_	_	17	mod@relcl	_	Gloss=COMP
-19	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	18	comp:obj	_	Gloss=Prog.Rel|Relative=Yes
+17	ƙungiyoːyîn	ƙungìyaː	NOUN	_	Definite=Def|Number=Plur	16	comp:obj	_	Gloss=gang.Plur.Def|RelAnt=Yes
+18	dà	dà	SCONJ	_	_	17	mod@relcl	_	Gloss=CompRel|Relz=Word
+19	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	18	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|RelRole=subj
 20	fataucì	fataucìː	NOUN	_	Gender=Masc	19	subj	_	Compound=Yes|Gloss=trade.Masc.|SpaceAfter=No|wordform=fataucìn
 21	-n	na	PART	_	Case=Gen|PartType=Case	20	udep/m	_	Gloss=Gen.Masc/Plur
 22	miyàːgun	muːgùː	ADJ	_	Number=Plur	23	mod	_	Gloss=bad.Plur

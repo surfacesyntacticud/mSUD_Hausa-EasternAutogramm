@@ -283,9 +283,9 @@
 12	Ɓaleːwà	Ɓaleːwà	PROPN	_	_	11	flat@name	_	Gloss=Balewa|SpaceAfter=No
 13	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 14	gàrîn	gàriː	NOUN	_	Definite=Def|Gender=Masc	9	conj:appos	_	Gloss=city.Masc.Def|RelAnt=Yes
-15	dà	dà	SCONJ	_	ExtPos=SCONJ	14	mod@relcl	_	Gloss=COMP|Idiom=Yes|Relz=Word
+15	dà	dà	SCONJ	_	ExtPos=SCONJ	14	mod@relcl	_	Gloss=CompRel|Idiom=Yes|Relz=Word
 16	ya-	ya-	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=PrsSubj	17	subj/m	_	Gloss=3Masc-|InIdiom=Yes|SpaceAfter=No
-17	kè	nàː	AUX	_	Aspect=Prog|Copula=Yes	15	comp:obj	_	Gloss=bePred.Rel2|InIdiom=Yes|Relative=Variante|wordform=yakè
+17	kè	nàː	AUX	_	Aspect=Prog|Copula=Yes	15	comp:obj	_	ClauseType=Rel|Gloss=bePred.Rel2|InIdiom=Yes|Relative=Variante|RelRole=pred|wordform=yakè
 18	duk	dukà	ADV	_	ExtPos=SCONJ|PronType=Tot	31	mod	_	Gloss=all|Idiom=Yes
 19	dà	dà	ADP	_	_	18	unk	_	Gloss=with|InIdiom=Yes
 20	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	19	unk	_	Gloss=say.Vnoun.Fem|InIdiom=Yes
