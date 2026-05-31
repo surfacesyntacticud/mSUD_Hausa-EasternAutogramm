@@ -235,10 +235,10 @@
 # text_ortho = Tòː gidân dà akèː tàːrôn yanàː dà tsayìː sòːsai,
 # text = tòː gidân dà a kèː tàːrôn ya nàː dà tsayìː sòːsai,
 1	tòː	tòː	INTJ	_	_	8	discourse	_	Gloss=well
-2	gidân	gidaː	NOUN	_	Definite=Def|Gender=Masc	8	subj	_	Gloss=house.Masc.Def
-3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP
+2	gidân	gidaː	NOUN	_	Definite=Def|Gender=Masc	8	subj	_	Gloss=house.Masc.Def|RelAnt=Yes
+3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=CompRel|Relz=Word
 4	a	a	PRON	_	Person=4|PronType=Prs	5	subj	_	Gloss=4
-5	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	3	comp:obj	_	Gloss=Prog.Rel|Relative=Yes
+5	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	3	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|RelRole=mod
 6	tàːrôn	tàːroː	NOUN	_	Definite=Def|Gender=Masc	5	comp:pred	_	Gloss=meeting.Masc.Def
 7	ya	ya	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=PrsSubj	8	subj/m	_	Gloss=3Masc
 8	nàː	nàː	AUX	_	Copula=Yes	0	root	_	Gloss=be.Pred|wordform=yanàː
@@ -489,7 +489,7 @@
 # sent_id = 09_Salman_Rushdie_17
 # text_en = There, a man stood up and went to take a sort of small instrument that they record speech with - that is to say, a microphone, went and started beating Gianni Palma with it.
 # text_ortho = Can sai wani mùtûm ya taːsoː ya jeː ya ɗàuki irìn 'yar̃ naː'uːr̃âr̃ nan dà akèː ɗaukàr̃ màganàː - wàːtòː maːkar̃ufôː ya jeː ya faːrà duːkàn Gianni Palma dà ita.
-# text = can sai wani mùtûm ya taːsoː ya jeː ya ɗàuki irìn 'yar̃ naː'uːr̃âr̃ nan dà akèː ɗaukàr̃ màganàː - wàːtòː maːkar̃ufôː - ya jeː ya faːrà duːkàn Gianni Palma dà ita.
+# text = can sai wani mùtûm ya= taːsoː ya= jeː ya= ɗàuki irì-n 'yar̃ naː'uːr̃âr̃ nan dà a-kèː ɗaukà-r̃ màganàː -wàːtòː maːkar̃ufôː -ya= jeː ya= faːrà duːkà-n Gianni Palma dà ita.
 1	can	can	ADV	_	_	7	mod	_	Gloss=over_there
 2	sai	sai	ADV	_	_	7	mod	_	Gloss=then
 3	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	4	det	_	Gloss=some.Masc.Spec
@@ -509,12 +509,12 @@
 14	irì	irìː	NOUN	_	Gender=Masc	13	comp:obj	_	Compound=Yes|Gloss=type_of.Masc.|SpaceAfter=No|wordform=irìn
 15	-n	na	PART	_	Case=Gen|PartType=Case	14	udep/m	_	Gloss=Gen.Masc/Plur
 16	'yar̃	ɗan	ADJ	_	Gender=Fem	17	mod	_	Gloss=small.Fem
-17	naː'uːr̃âr̃	naː'uːr̃aː	NOUN	_	Definite=Def|Gender=Fem	15	comp:obj	_	Gloss=machine.Fem.Def
+17	naː'uːr̃âr̃	naː'uːr̃aː	NOUN	_	Definite=Def|Gender=Fem	15	comp:obj	_	Gloss=machine.Fem.Def|RelAnt=Yes
 18	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	17	det	_	Gloss=PreRef|PreRef=Yes
-19	dà	dà	SCONJ	_	_	17	mod@relcl	_	Gloss=COMP
+19	dà	dà	SCONJ	_	_	17	mod@relcl	_	Gloss=CompRel|Relz=Word
 20	a-	a-	PRON	_	Person=4|PronType=Prs	21	subj/m	_	Gloss=4|SpaceAfter=No
-21	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	19	comp:obj	_	Gloss=Prog.Rel|Relative=Yes|wordform=akèː
-22	ɗaukà	ɗauk-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	21	comp:pred	_	Gloss=take.Vnoun.Fem|SpaceAfter=No|wordform=ɗaukàr̃
+21	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	19	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|RelRole=subj|wordform=akèː
+22	ɗaukà	ɗauk-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	21	comp:pred	_	Compound=Yes|Gloss=take.Vnoun.Fem|RelRole=obl|SpaceAfter=No|wordform=ɗaukàr̃
 23	-r̃	na	PART	_	Case=Gen|PartType=Case	22	udep/m	_	Gloss=Gen.Fem
 24	màganàː	màganàː	NOUN	_	Gender=Fem	23	comp:obj	_	Gloss=speech.Fem
 25	-	-	PUNCT	_	_	27	punct	_	Gloss=PUNCT|SpaceAfter=No
@@ -581,11 +581,11 @@
 # sent_id = 09_Salman_Rushdie_19
 # text_en = When they were taking him away, he talked and said that him, he loved Japan, and Japan should not get involved in this matter.
 # text_ortho = Loːkàcîn dà akèː tàfiyàː dà shiː sai ya kaː dà bàːkiː ya cèː shiː kàm yanàː ƙàunar̃ ƙasar̃ Jàpân, kuma bài kàmaːtà ita ƙasar̃ Jàpân ɗîn tà tsoːmà bàːkintà cikin wannàn àl'amàr̃iː ba.
-# text = loːkàcîn dà akèː= tàfiyàː dà shiː sai ya= kaː dà bàːkiː ya= cèː shiː kàm yanàː= ƙàunar̃ ƙasar̃ Jàpân, kuma bài= kàmaːtà ita ƙasar̃ Jàpân ɗîn tà= tsoːmà bàːkiː-n-tà cikin wannàn àl'amàr̃iː ba.
-1	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	11	mod	_	Gloss=time.Masc.Def
-2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
+# text = loːkàcîn dà a-kèː tàfiyàː dà shiː sai ya= kaː dà bàːkiː ya= cèː shiː kàm ya nàː ƙàuna-r̃ ƙasa-r̃ Jàpân, kuma bà-ì=kàmaːtà ita ƙasa-r̃ Jàpân ɗîn ta-_̀= tsoːmà bàːki-n-tà cikin wannàn àl'amàr̃iː ba.
+1	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	11	mod	_	Gloss=time.Masc.Def|RelAnt=Yes
+2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=CompRel|Relz=Word
 3	a-	a-	PRON	_	Person=4|PronType=Prs	4	subj/m	_	Gloss=4|SpaceAfter=No
-4	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	2	comp:obj	_	Gloss=Prog.Rel|Relative=Yes|wordform=akèː
+4	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	2	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|RelRole=mod|wordform=akèː
 5	tàfiyàː	tàfiyàː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	4	comp:pred	_	Gloss=go.Vnoun.Fem
 6	dà	dà	ADP	_	_	5	comp:obl	_	Gloss=with
 7	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	6	comp:obj	_	Gloss=3Masc.Nom
@@ -714,13 +714,13 @@
 12	jini	jiniː	NOUN	_	Gender=Masc	11	comp:obj	_	Compound=Yes|Gloss=blood.Masc|InIdiom=Yes|SpaceAfter=No|wordform=jinin
 13	-n	na	PART	_	Case=Gen|PartType=Case	10	udep/m	_	Gloss=Gen.Masc/Plur
 14	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	13	comp:obj	_	Gloss=ProxS.Masc
-15	littaːfìː	littaːfìː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=book.Masc
-16	dà	dà	SCONJ	_	_	15	mod@relcl	_	Gloss=COMP
+15	littaːfìː	littaːfìː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=book.Masc|RelAnt=Yes
+16	dà	dà	SCONJ	_	_	15	mod@relcl	_	Gloss=CompRel|Relz=Word
 17	a-	a-	PRON	_	Person=4|PronType=Prs	18	subj/m	_	Gloss=4|SpaceAfter=No
-18	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	16	comp:obj	_	Gloss=Prog.Rel|Relative=Yes|wordform=akèː
+18	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	16	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|wordform=akèː
 19	sô	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	18	comp:pred	_	Gloss=want.Vnoun.Masc|SpaceAfter=No|wordform=sôn
 20	-n	na	PART	_	Case=Gen|PartType=Case	19	udep/m	_	Gloss=Gen.Masc/Plur
-21	bugàːwaː	bug-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	20	comp:obj	_	Gloss=print.Vnoun.Fem
+21	bugàːwaː	bug-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	20	comp:obj	_	Gloss=print.Vnoun.Fem|RelRole=obj
 22	à	à	ADP	_	_	21	mod	_	Gloss=at
 23	harshè	harshèː	NOUN	_	Gender=Masc	22	comp:obj	_	Compound=Yes|Gloss=tongue.Masc|SpaceAfter=No|wordform=harshèn
 24	-n	na	PART	_	Case=Gen|PartType=Case	23	udep/m	_	Gloss=Gen.Fem

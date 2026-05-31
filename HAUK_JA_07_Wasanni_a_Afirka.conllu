@@ -10,7 +10,7 @@
 
 # sent_id = 07_Wasanni_a_Afirka_2
 # text_en = Today we will start our programme with news about the crisis that is taking place there in Nigeria about the organisation of a boxing match.
-# text = à yâu zaːmù= soːmà shirìː-n-mù dà làːbaːr̃ìn rìkicîn dà akèː= yîː can Nàːjeːr̃iyàː gàme dà gudaːnar̃ dà wàːsan dambe.
+# text = à yâu zaː-mù= soːmà shirì-n-mù dà làːbaːr̃ì-n rìkicîn dà a-kèː yîː can Nàːjeːr̃iyàː gàme dà gudaːnar̃ dà wàːsa-n dambe.
 # text_ortho = À yâu zaː mù soːmà shirìnmù dà làːbaːr̃ìn rìkicîn dà akèː yîː can Nàːjeːr̃iyàː gàme dà gudàːnar dà wàːsan dambe.
 1	à	à	ADP	_	_	5	mod	_	Gloss=at
 2	yâu	yâu	ADV	_	_	1	comp:obj	_	Gloss=today
@@ -23,11 +23,11 @@
 9	dà	dà	CCONJ	_	_	5	comp:obl	_	Gloss=and
 10	làːbaːr̃ì	làːbaːr̃ìː	NOUN	_	Gender=Masc	9	comp:obj	_	Gloss=news.Masc|SpaceAfter=No|wordform=làːbaːr̃ìn
 11	-n	na	PART	_	Case=Gen|PartType=Case	10	mod/m	_	Gloss=Gen.Masc/Plur
-12	rìkicîn	rìkiciː	NOUN	_	Definite=Def|Gender=Masc	11	comp:obj	_	Gloss=crisis.Masc.Def
-13	dà	dà	SCONJ	_	_	12	mod@relcl	_	Gloss=COMP
+12	rìkicîn	rìkiciː	NOUN	_	Definite=Def|Gender=Masc	11	comp:obj	_	Gloss=crisis.Masc.Def|RelAnt=Yes
+13	dà	dà	SCONJ	_	_	12	mod@relcl	_	Gloss=CompRel|Relz=Word
 14	a-	a-	PRON	_	Person=4|PronType=Prs	15	subj/m	_	Gloss=4|SpaceAfter=No
-15	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	13	comp:obj	_	Gloss=Prog.Rel|Relative=Yes|wordform=akèː
-16	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	15	comp:pred	_	Gloss=do.Vnoun.Masc
+15	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	13	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|wordform=akèː
+16	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	15	comp:pred	_	Gloss=do.Vnoun.Masc|RelRole=pred
 17	can	can	ADV	_	Deixis=Remt|PronType=Dem	16	mod	_	Gloss=Remt
 18	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	17	conj:appos	_	Gloss=Nigeria
 19	gàme	gàme	ADV	_	_	20	mod	_	Gloss=together

@@ -75,10 +75,10 @@
 # text = yâːraː ƙanaːnàː dà kèː= kân gadoːjiː na bir̃ni-n Ìkko su- nàː tàllà-n tarkò-n ɓeːr̃aː, dà kamfàːyeː, dà agoːgunàn " Rolex" na jàbu à tsàːkaːnin cùnkoːso-n moːtoːci, duk sun= daːkatar̃ dà tàllàce-tàllàce-n-sù dòːmin sù= yi kallo-n hàdàː-hadâr̃ dà ta- kèː àukuwaː à bàːki-n tèːkûn.
 # text_en = The children that are on the bridges of Lagos selling mouse traps, underpants and fake "Rolex" watches in the traffic jams, they all stopped peddling to watch the confusion that was taking place on the sea side.
 # text_ortho = Yâːraː ƙanaːnàː dà kèː kân gadoːjiː na bir̃nin Ìkko sunàː tàllàn tarkòn ɓeːr̃aː, da kamfàːyeː, dà agoːgunàn ‘Rolex’ na jàbu à tsàːkaːnin cùnkoːson moːtoːci, duk sun daːkatar̃ dà tàllàce-tàllàcensù dòːmin sù yi kallon hàdàː-hadâr̃ da takèː àukuwaː à bàːkin tèːkûn.
-1	yâːraː	yaːròː	NOUN	_	Number=Plur	38	dislocated@subj	_	Gloss=child.Plur
+1	yâːraː	yaːròː	NOUN	_	Number=Plur	38	dislocated@subj	_	Gloss=child.Plur|RelAnt=Yes
 2	ƙanaːnàː	ƙàramiː	ADJ	_	Number=Plur	1	mod	_	Gloss=small.Plur
-3	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
-4	kèː	nàː	AUX	_	Copula=Yes	3	comp:obj	_	Gloss=bePred.Rel|Relative=Yes
+3	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=CompRel|Relz=Word
+4	kèː	nàː	AUX	_	Copula=Yes	3	comp:obj	_	ClauseType=Rel|Gloss=bePred.Rel|Relative=Yes|RelRole=subj
 5	kân	kân	ADP	_	_	4	comp:pred	_	Gloss=on
 6	gadoːjiː	gadàː	NOUN	_	Number=Plur	5	comp:obj	_	Gloss=bridge.Plur
 7	na	na	PART	_	Case=Gen|Number=Plur|PartType=Case	6	mod	_	Gloss=Gen
@@ -123,10 +123,10 @@
 46	yi	yi	VERB	_	_	43	comp:obj	_	Gloss=do
 47	kallo	kalloː	NOUN	_	Gender=Masc	46	comp:pred	_	Gloss=watching.Masc|SpaceAfter=No|wordform=kallon
 48	-n	na	PART	_	Case=Gen|PartType=Case	47	udep/m	_	Gloss=Gen.Masc/Plur
-49	hàdàː-hadâr̃	hàdàː-hadaː	NOUN	_	Definite=Def|Gender=Fem	48	comp:obj	_	Gloss=confusion.Fem.Def
-50	dà	dà	SCONJ	_	_	49	mod@relcl	_	Gloss=COMP
+49	hàdàː-hadâr̃	hàdàː-hadaː	NOUN	_	Definite=Def|Gender=Fem	48	comp:obj	_	Gloss=confusion.Fem.Def|RelAnt=Yes
+50	dà	dà	SCONJ	_	_	49	mod@relcl	_	Gloss=CompRel|Relz=Word
 51	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	52	subj/m	_	Gloss=3Fem-|SpaceAfter=No
-52	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	50	comp:obj	_	Gloss=Prog.Rel|Relative=Yes|wordform=takèː
+52	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	50	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|RelRole=subj|wordform=takèː
 53	àukuwaː	auk-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	52	comp:pred	_	Gloss=take_place.Vnoun.Fem
 54	à	à	ADP	_	_	52	mod	_	Gloss=at
 55	bàːki	bàːkiː	NOUN	_	Gender=Masc	54	comp:obj	_	Compound=Yes|Gloss=shore.Masc|SpaceAfter=No|wordform=bàːkin
@@ -151,11 +151,11 @@
 11	nèː	neː	PART	_	PartType=Foc	10	discourse@foc	_	Gloss=Emph
 12	à	à	ADP	_	_	10	comp:obl	_	Gloss=at
 13	tsoːhon	tsoːhoː	ADJ	_	Gender=Masc	14	mod	_	Gloss=old.Masc
-14	gida	gidaː	NOUN	_	Gender=Masc	12	comp:obj	_	Gloss=house.Masc|SpaceAfter=No|wordform=gidan
+14	gida	gidaː	NOUN	_	Gender=Masc	12	comp:obj	_	Gloss=house.Masc|RelAnt=Yes|SpaceAfter=No|wordform=gidan
 15	-n	na	PART	_	Case=Gen|PartType=Case	14	mod/m	_	Gloss=Gen.Masc/Plur
 16	gwamnatì	gwamnatì	NOUN	_	Gender=Fem	15	comp:obj	_	Gloss=government.Fem
-17	dà	dà	SCONJ	_	_	14	mod@relcl	_	Gloss=COMP
-18	kèː	nàː	AUX	_	Copula=Yes	17	comp:obj	_	Gloss=bePred.Rel|Relative=Yes
+17	dà	dà	SCONJ	_	_	14	mod@relcl	_	Gloss=CompRel|Relz=Word
+18	kèː	nàː	AUX	_	Copula=Yes	17	comp:obj	_	ClauseType=Rel|Gloss=bePred.Rel|Relative=Yes|RelRole=subj
 19	Ìkko	Ìkko	PROPN	_	_	18	comp:pred	_	Gloss=Lagos|SpaceAfter=No
 20	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
 21	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	14	mod@relcl	_	Gloss=REL.Masc
@@ -224,31 +224,31 @@
 
 # sent_id = 02_Yarima_Charles_6
 # text_en = Well but not all the equipments that are in the house are working as they should be.
-# text = tòː àmmaː bàː dukkàn abuːbuwàn jîn daːɗin ràːyuwaː dà kèː cikin gidân kèː aikìː kàmar̃ yaddà ya kàmaːtà ba.
+# text = tòː àmmaː bàː dukkàn abuːbuwà-n jî-n daːɗi-n ràːyuwaː dà kèː cikin gidân kèː aikìː kàmar̃ yaddà ya= kàmaːtà ba.
 # text_ortho = Tòː àmmaː bàː dukkàn abuːbuwàn jîn daːɗin ràːyuwaː dà kèː cikin gidân kèː aikìː kàmar̃ yaddà ya kàmaːtà ba.
 1	tòː	tòː	INTJ	_	_	5	discourse	_	Gloss=well
 2	àmmaː	àmmaː	CCONJ	_	_	5	discourse	_	Gloss=but
 3	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	5	mod	_	Gloss=Neg
 4	dukkàn	dukà	DET	_	PronType=Tot	5	mod	_	Gloss=all
-5	abuːbuwà	àbù	NOUN	_	Number=Plur	0	root	_	Gloss=thing.Plur|SpaceAfter=No|wordform=abuːbuwàn
+5	abuːbuwà	àbù	NOUN	_	Number=Plur	0	root	_	Gloss=thing.Plur|RelAnt=Yes|SpaceAfter=No|wordform=abuːbuwàn
 6	-n	na	PART	_	Case=Gen|PartType=Case	5	mod/m	_	Gloss=Gen.Masc/Plur
 7	jî	ji	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:obj	_	Gloss=hear.Vnoun.Masc|SpaceAfter=No|wordform=jîn
 8	-n	na	PART	_	Case=Gen|PartType=Case	7	udep/m	_	Gloss=Gen.Masc/Plur
 9	daːɗi	daːɗiː	NOUN	_	Gender=Masc	8	comp:obj	_	Gloss=pleasure.Masc|SpaceAfter=No|wordform=daːɗin
 10	-n	na	PART	_	Case=Gen|PartType=Case	9	udep/m	_	Gloss=Gen.Masc/Plur
 11	ràːyuwaː	ràːyuwaː	NOUN	_	Gender=Fem	10	comp:obj	_	Gloss=life.Fem
-12	dà	dà	SCONJ	_	_	5	mod@relcl	_	Gloss=COMP
-13	kèː	nàː	AUX	_	Copula=Yes	12	comp:obj	_	Gloss=bePred.Rel|Relative=Yes
+12	dà	dà	SCONJ	_	_	5	mod@relcl	_	Gloss=CompRel|Relz=Word
+13	kèː	nàː	AUX	_	Copula=Yes	12	comp:obj	_	ClauseType=Rel|Gloss=bePred.Rel|Relative=Yes|RelRole=subj
 14	cikin	cikin	ADP	_	_	13	comp:pred	_	Gloss=inside
 15	gidân	gidaː	NOUN	_	Definite=Def|Gender=Masc	14	comp:obj	_	Gloss=house.Masc.Def
 16	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	5	comp:cleft	_	Gloss=Prog.Rel|Relative=Yes
 17	aikìː	aikìː	NOUN	_	Gender=Masc	16	comp:pred	_	Gloss=work.Masc
 18	kàmar̃	kàmar̃	ADP	_	_	17	mod	_	Gloss=like
-19	yaddà	yaddà	ADV	_	PronType=Rel	18	comp:obj	_	Gloss=how
+19	yaddà	yaddà	ADV	_	PronType=Rel	22	mod	_	Gloss=how|RelPos=Yes|Relz=Word
 20-21	ya=	_	_	_	_	_	_	_	_
 20	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	22	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
 21	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	22	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-22	kàmaːtà	kamaːt-	VERB	_	_	19	mod@relcl	_	Gloss=be_appropriate
+22	kàmaːtà	kamaːt-	VERB	_	_	18	comp:obj	_	ClauseType=Rel|Gloss=be_appropriate
 23	ba	ba	PART	_	PartType=Neg|Polarity=Neg	5	mod	_	Gloss=Neg|SpaceAfter=No
 24	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
@@ -566,9 +566,9 @@
 
 # sent_id = 02_Yarima_Charles_16-7
 # text_en = Twenty-five percent of all the species of monkeys that exist in Africa will be found in the reserve of Korup, as well as snakes, small antelopes and even elephants.
-# text = kashìː àshìr̃in dà bìyar̃ cikin ɗàriː na duk yawà-n jinsunàn birân dà a kè dà suː à Afìr̃kà zaː'à=iskèː -su à gandu-n daːjì-n Korup; hakà maː màcìːzai, dà ƙanaːnàn gàdaː, kâi har̃ maː dà giːwàːyē.
+# text = kashìː àshìr̃in dà bìyar̃ cikin ɗàriː na duk yawà-n jinsunà -n birân dà a kè dà suː à Afìr̃kà zaː-'à= iskèː -su à gandu-n daːjì-n Korup; hakà maː màcìːzai, dà ƙanaːnàn gàdaː, kâi har̃ maː dà giːwàːyē.
 # text_ortho = Kashìː àshìr̃in dà bìyar̃ cikin ɗàriː na duk yawàn jinsunàn birân dà akè dà suː à Afìr̃kà zaː à iskèː su à gandun daːjìn Korup; hakà maː màcìːzai, dà ƙanaːnàn gàdaː, kâi har̃ maː dà giːwàːyē.
-1	kashìː	kashìː	NOUN	_	Gender=Masc	22	dislocated@subj	_	Gloss=portion.Masc
+1	kashìː	kashìː	NOUN	_	Gender=Masc	23	dislocated@subj	_	Gloss=portion.Masc
 2	àshìr̃in	àshìr̃in	NUM	_	_	1	mod:num	_	Gloss=twenty
 3	dà	dà	CCONJ	_	_	4	cc	_	Gloss=and
 4	bìyar̃	bìyar̃	NUM	_	_	2	conj:coord	_	Gloss=five
@@ -578,40 +578,41 @@
 8	duk	dukà	DET	_	PronType=Tot	9	det	_	Gloss=all
 9	yawà	yawàn	ADJ	_	Gender=Masc	7	mod	_	Gloss=quantity.Masc|SpaceAfter=No|wordform=yawàn
 10	-n	na	PART	_	Case=Gen|PartType=Case	9	mod/m	_	Gloss=Gen.Masc/Plur
-11	jinsunàn	jinsìː	NOUN	_	Definite=Def|Number=Plur	10	comp:obj	_	Gloss=species.Plur.Def
-12	birân	birìː	NOUN	_	Definite=Def|Number=Plur	11	mod	_	Gloss=monkey.Plur.Def
-13	dà	dà	SCONJ	_	_	12	mod@relcl	_	Gloss=COMP
-14	a	a	PRON	_	Person=4|PronType=Prs	15	subj	_	Gloss=4
-15	kè	nàː	AUX	_	Copula=Yes	13	comp:obj	_	Gloss=bePred.Rel2|Relative=Variant
-16	dà	dà	ADP	_	_	15	comp:pred	_	Gloss=with
-17	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	16	comp:obj	_	Gloss=3Plur.Nom
-18	à	à	ADP	_	_	16	mod	_	Gloss=at
-19	Afìr̃kà	Afìr̃kà	PROPN	_	_	18	comp:obj	_	Gloss=Africa
-20	zaː-	zâː-	PART	_	PartType=TAM|Tense=Fut	22	mod/m	_	Gloss=Fut-|SpaceAfter=No
-21	'à=	a	PRON	_	Person=4|PronType=PrsSubj|Tense=Fut	22	subj/m	_	Gloss=4=|wordform=zaː'à
-22	iskèː	isk-	VERB	_	_	0	root	_	Gloss=find
-23	-su	-su	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	22	comp:obj/m	_	Gloss=-3Plur.Acc|wordform=su
-24	à	à	ADP	_	_	22	comp:obl	_	Gloss=at
-25	gandu	ganduː	NOUN	_	Gender=Masc	24	comp:obj	_	Gloss=ranch.Masc|SpaceAfter=No|wordform=gandun
-26	-n	na	PART	_	Case=Gen|PartType=Case	25	mod/m	_	Gloss=Gen.Masc/Plur
-27	daːjì	daːjìː	NOUN	_	Gender=Masc	26	comp:obj	_	Gloss=bush.Masc|SpaceAfter=No|wordform=daːjìn
-28	-n	na	PART	_	Case=Gen|PartType=Case	27	udep/m	_	Gloss=Gen.Masc/Plur
-29	Korup	Korup	PROPN	_	_	28	comp:obj	_	Gloss=Korup|SpaceAfter=No
-30	;	;	PUNCT	_	_	33	punct	_	Gloss=PUNCT
-31	hakà	hakà	ADV	_	_	33	mod	_	Gloss=thus
-32	maː	maː	PART	_	PartType=Top	31	discourse@top	_	Gloss=even
-33	màcìːzai	macìjiː	NOUN	_	Number=Plur	22	dislocated@comp	_	Gloss=snake.Plur|SpaceAfter=No
-34	,	,	PUNCT	_	_	37	punct	_	Gloss=PUNCT
-35	dà	dà	CCONJ	_	_	37	cc	_	Gloss=and
-36	ƙanaːnàn	ƙàramiː	ADJ	_	Number=Plur	37	mod	_	Gloss=small.Plur
-37	gàdaː	gàdaː	NOUN	_	Number=Plur	33	conj:coord	_	Gloss=duiker.Plur|SpaceAfter=No
-38	,	,	PUNCT	_	_	43	punct	_	Gloss=PUNCT
-39	kâi	kâi	INTJ	_	_	43	discourse	_	Gloss=well
-40	har̃	har̃	ADP	_	_	42	mod	_	Gloss=up_to
-41	maː	maː	PART	_	PartType=Top	40	discourse@top	_	Gloss=even
-42	dà	dà	CCONJ	_	_	43	cc	_	Gloss=and
-43	giːwàːyē	giːwaː	NOUN	_	Number=Plur	37	conj:coord	_	Gloss=elephant.Plur|SpaceAfter=No
-44	.	.	PUNCT	_	_	22	punct	_	Gloss=PUNCT
+11	jinsunà	jinsìː	NOUN	_	Number=Plur	10	comp:obj	_	Gloss=species.Plur|RelAnt=Yes
+12	-n	na	PART	_	Case=Gen|Number=Plur|PartType=Case	11	mod/m	_	Gloss=Gen.Masc/Plur
+13	birân	birìː	NOUN	_	Definite=Def|Number=Plur	12	comp:obj	_	Gloss=monkey.Plur.Def
+14	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=CompRel|Relz=Word
+15	a	a	PRON	_	Person=4|PronType=Prs	16	subj	_	Gloss=4
+16	kè	nàː	AUX	_	Copula=Yes	14	comp:obj	_	ClauseType=Rel|Gloss=bePred.Rel2|Relative=Variant
+17	dà	dà	ADP	_	_	16	comp:pred	_	Gloss=with
+18	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	comp:obj	_	Gloss=3Plur.Nom|RelPos=Yes
+19	à	à	ADP	_	_	17	mod	_	Gloss=at
+20	Afìr̃kà	Afìr̃kà	PROPN	_	_	19	comp:obj	_	Gloss=Africa
+21	zaː-	zâː-	PART	_	PartType=TAM|Tense=Fut	23	mod/m	_	Gloss=Fut-|SpaceAfter=No
+22	'à=	a	PRON	_	Person=4|PronType=PrsSubj|Tense=Fut	23	subj/m	_	Gloss=4=|wordform=zaː'à
+23	iskèː	isk-	VERB	_	_	0	root	_	Gloss=find
+24	-su	-su	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	23	comp:obj/m	_	Gloss=-3Plur.Acc|wordform=su
+25	à	à	ADP	_	_	23	comp:obl	_	Gloss=at
+26	gandu	ganduː	NOUN	_	Gender=Masc	25	comp:obj	_	Gloss=ranch.Masc|SpaceAfter=No|wordform=gandun
+27	-n	na	PART	_	Case=Gen|PartType=Case	26	mod/m	_	Gloss=Gen.Masc/Plur
+28	daːjì	daːjìː	NOUN	_	Gender=Masc	27	comp:obj	_	Gloss=bush.Masc|SpaceAfter=No|wordform=daːjìn
+29	-n	na	PART	_	Case=Gen|PartType=Case	28	udep/m	_	Gloss=Gen.Masc/Plur
+30	Korup	Korup	PROPN	_	_	29	comp:obj	_	Gloss=Korup|SpaceAfter=No
+31	;	;	PUNCT	_	_	34	punct	_	Gloss=PUNCT
+32	hakà	hakà	ADV	_	_	34	mod	_	Gloss=thus
+33	maː	maː	PART	_	PartType=Top	32	discourse@top	_	Gloss=even
+34	màcìːzai	macìjiː	NOUN	_	Number=Plur	23	dislocated@comp	_	Gloss=snake.Plur|SpaceAfter=No
+35	,	,	PUNCT	_	_	38	punct	_	Gloss=PUNCT
+36	dà	dà	CCONJ	_	_	38	cc	_	Gloss=and
+37	ƙanaːnàn	ƙàramiː	ADJ	_	Number=Plur	38	mod	_	Gloss=small.Plur
+38	gàdaː	gàdaː	NOUN	_	Number=Plur	34	conj:coord	_	Gloss=duiker.Plur|SpaceAfter=No
+39	,	,	PUNCT	_	_	44	punct	_	Gloss=PUNCT
+40	kâi	kâi	INTJ	_	_	44	discourse	_	Gloss=well
+41	har̃	har̃	ADP	_	_	43	mod	_	Gloss=up_to
+42	maː	maː	PART	_	PartType=Top	41	discourse@top	_	Gloss=even
+43	dà	dà	CCONJ	_	_	44	cc	_	Gloss=and
+44	giːwàːyē	giːwaː	NOUN	_	Number=Plur	38	conj:coord	_	Gloss=elephant.Plur|SpaceAfter=No
+45	.	.	PUNCT	_	_	23	punct	_	Gloss=PUNCT
 
 # sent_id = 02_Yarima_Charles_18
 # text_en = But then alas! the Prince did not see even one of these creatures, because of the eagerness that the Cameroonian authorities showed concerning the introduction of weapons in the reserve to perserve his safety.

@@ -15,13 +15,13 @@
 # text_ortho = À gàrin " Gboko " dà kèː jihàr̃ Binuwài can areːwacin Nàːjeːr̃iyàː an kai wasu mutàneː gùdaː takwàs asìbitì baːyân dà sukà cikà cikìnsù dà àbincîn dà sukà yi miyàr̃sà dà naːmàn wani shirgeːgèn macìːjiː.
 # text = à gàri-n " Gboko " dà kèː jihà-r̃Binuwài can areːwacin Nàːjeːr̃iyàː a-n= kai wasu mutàneː gùdaː takwàs asìbitì baːyân dà su-kà= cikà cikì-n-sù dà àbincîn dà su-kà= yi miyà-r̃-sà dà naːmà-n wani shirgeːgèn macìːjiː.
 1	à	à	ADP	_	_	17	mod	_	Gloss=at
-2	gàri	gàriː	NOUN	_	Gender=Masc	1	comp:obj	_	Compound=Yes|Gloss=city.Masc|SpaceAfter=No|wordform=gàrin
+2	gàri	gàriː	NOUN	_	Gender=Masc	1	comp:obj	_	Compound=Yes|Gloss=city.Masc|RelAnt=Yes|SpaceAfter=No|wordform=gàrin
 3	-n	na	PART	_	Case=Gen|PartType=Case	2	mod@appos/m	_	Gloss=Gen.Masc/Plur
 4	"	"	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 5	Gboko	Gboko	PROPN	_	_	3	comp:obj	_	Gloss=Gboko
 6	"	"	PUNCT	_	_	5	punct	_	Gloss=PUNCT
-7	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP
-8	kèː	nàː	AUX	_	Copula=Yes	7	comp:obj	_	Gloss=bePred.Rel|Relative=Yes
+7	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=CompRel|Relz=Word
+8	kèː	nàː	AUX	_	Copula=Yes	7	comp:obj	_	ClauseType=Rel|Gloss=bePred.Rel|Relative=Yes|RelRole=subj
 9	jihà	jihàː	ADP	_	Gender=Fem	8	comp:pred	_	Gloss=state.Fem|SpaceAfter=No|wordform=jihàr̃
 10	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	9	mod/m	_	Gloss=Gen.Fem|SpaceAfter=No
 11	Binuwài	Binuwài	PROPN	_	_	10	comp:obj	_	Gloss=Benue
@@ -65,13 +65,13 @@
 # text_en = The way this matter happened is has follows: these people took the corpse of a snake after it had been squashed by a lorry on the road at night, and went home with it.
 # text_ortho = Yaddà wannàn àl'amàr̃iː ya fàːru shiː nèː suː mutàːnên sun ɗaukoː gaːwar̃ wannàn macìːjiː nèː baːyân dà wata bàbbar̃ moːtàː ta laːtsèː shi à bisà hanyàː dà dàddare, sukà nùfi dà shiː zuwàː gidaː.
 # text = yaddà wannàn àl'amàr̃iː ya fàːru shiː nèː suː mutàːnên sun ɗaukoː gaːwar̃ wannàn macìːjiː nèː baːyân dà wata bàbbar̃ moːtàː ta laːtsèː shi à bisà hanyàː dà dàddare, sukà nùfi dà shiː zuwàː gidaː.
-1	yaddà	yaddà	ADV	_	PronType=Rel	8	subj	_	Gloss=how
+1	yaddà	yaddà	ADV	_	PronType=Rel	6	mod	_	Gloss=how|RelPos=Yes|Relz=Word
 2	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	3	det	_	Gloss=ProxS.Masc
 3	àl'amàr̃iː	àl'amàr̃iː	NOUN	_	Gender=Masc	6	subj	_	Gloss=matter.Masc
 4-5	ya=	_	_	_	_	_	_	_	_
 4	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
 5	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	6	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-6	fàːru	faːr-	VERB	_	_	1	mod@relcl	_	Gloss=begin
+6	fàːru	faːr-	VERB	_	_	8	subj	_	ClauseType=Rel|Gloss=begin
 7	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	8	comp:pred	_	Gloss=3Masc.Nom
 8	nèː	neː	AUX	_	Copula=Yes	0	root	_	Gloss=Equ.Masc/Plur
 9	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	dislocated@subj	_	Gloss=3Plur.Nom
@@ -143,12 +143,12 @@
 # text_ortho = Tòː indà màtsalàr̃ ta faːrà taːshìː shiː nèː baːyân dà sukà cînyeː macìːjîn dà sukà dafàn, nan dà nan sai waɗànnân mutàːneː sukà faːrà jîn wani àbù nàː mur̃ɗàː musù cikin cikkunànsù .
 # text = tòː indà màtsalàr̃ ta= faːrà taːshìː shiː nèː baːyân dà su-kà= cînyeː macìːjîn dà su-kà= dafàn, nan dà nan sai waɗànnân mutàːneː su-kà= faːrà jî-n wani àbù nàːmur̃ɗàː musù cikin cikkunà-n-sù .
 1	tòː	tòː	INTJ	_	_	9	discourse	_	Gloss=well
-2	indà	indà	ADV	_	PronType=Rel	9	subj	_	Gloss=where
+2	indà	indà	ADV	_	PronType=Rel	7	comp:obj@L	_	Gloss=where|RelPos=Yes|Relz=Word
 3	màtsalàr̃	màtsalaː	NOUN	_	Definite=Def|Gender=Fem	6	subj	_	Gloss=problem.Fem.Def
 4-5	ta=	_	_	_	_	_	_	_	_
 4	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=3Fem-|Relative=Yes|SpaceAfter=No|wordform=ta
 5	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	6	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-6	faːrà	faːràː	VERB	_	_	2	mod@relcl	_	Gloss=begin
+6	faːrà	faːràː	VERB	_	_	9	subj	_	ClauseType=Rel|Gloss=begin
 7	taːshìː	taːs-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:obj	_	Gloss=rise.Vnoun.Masc
 8	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	9	comp:pred	_	Gloss=3Masc.Nom
 9	nèː	neː	AUX	_	Copula=Yes	0	root	_	Gloss=Equ.Masc/Plur
@@ -256,10 +256,10 @@
 # text_en = When that happened, some hospital officials said that the snake meat that these people had eaten, and wich almost cost them their lifes, is one among the snakes that are really poisonous.
 # text_ortho = Loːkàcîn dà hakàn kèː fàːruwaː, wasu jàːmi'an asìbitìn sukà cêː wai naːmàn macijîn dà waɗànnân mutàːnên sukà cînyeː wandà kuma ya kusa zamaː sanàdin ajàlinsù - yanàː ɗaya dàgà cikin irìn màcìːzân nan nèː màːsu dafìn gàske.
 # text = loːkàcîn dà hakàn kèːfàːruwaː, wasu jàːmi'a-n asìbitìn su-kà= cêː wai naːmà-n macijîn dà waɗànnân mutàːnên su-kà= cînyeː wandà kuma ya-Ø= kusa zamaː sanàdi-n ajàli-n-sù -ya nàː ɗaya dàgà cikin irì-n màcìːzân nan nèː màːsu dafì-n gàske.
-1	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	13	mod	_	Gloss=time.Masc.Def
-2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
+1	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	13	mod	_	Gloss=time.Masc.Def|RelAnt=Yes
+2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=CompRel|Relz=Word
 3	hakàn	hakàn	PRON	_	_	4	subj	_	Gloss=this
-4	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	2	comp:obj	_	Gloss=Prog.Rel|Relative=Yes|SpaceAfter=No
+4	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	2	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|RelRole=subj|SpaceAfter=No
 5	fàːruwaː	faːr-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	4	comp:pred	_	Gloss=happen.Vnoun.Fem|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	8	det	_	Gloss=some.Plur.Spec
@@ -279,11 +279,11 @@
 21	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	23	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 22	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	23	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
 23	cînyeː	cînyeː	VERB	_	_	18	comp:obj	_	ClauseType=Rel|Gloss=eat|RelRole=obj
-24	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	18	conj:coord	_	Gloss=REL.Masc
+24	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	28	subj	_	Gloss=REL.Masc|RelPos=Yes|Relz=Word
 25	kuma	kuma	PART	_	PartType=Top	24	discourse@top	_	Gloss=also
 26	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	28	subj/m	_	Gloss=3Masc|SpaceAfter=No
 27	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	28	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=_=
-28	kusa	kusa	VERB	_	_	24	mod@relcl	_	Gloss=be_almost
+28	kusa	kusa	VERB	_	_	17	conj:coord	_	ClauseType=Rel|Gloss=be_almost
 29	zamaː	zama	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	28	comp:obj	_	Gloss=become.Vnoun.Masc
 30	sanàdi	sanàdiː	NOUN	_	Gender=Masc	29	comp:pred	_	Gloss=cause.Masc|SpaceAfter=No|wordform=sanàdin
 31	-n	na	PART	_	Case=Gen|PartType=Case	30	mod/m	_	Gloss=Gen.Masc/Plur
@@ -356,9 +356,9 @@
 4	yi	yi	VERB	_	_	0	root	_	Gloss=do
 5	kiràː	kiraː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	4	comp:pred	_	Gloss=call.Vnoun.Masc
 6	gà	gà	ADP	_	_	5	comp:obl	_	Gloss=to
-7	mutàːnên	mùtûm	NOUN	_	Definite=Def|Number=Plur	6	comp:obj	_	Gloss=people.Plur.Def
-8	dà	dà	SCONJ	_	_	7	mod@relcl	_	Gloss=COMP
-9	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	8	comp:obj	_	Gloss=Prog.Rel|Relative=Yes
+7	mutàːnên	mùtûm	NOUN	_	Definite=Def|Number=Plur	6	comp:obj	_	Gloss=people.Plur.Def|RelAnt=Yes
+8	dà	dà	SCONJ	_	_	7	mod@relcl	_	Gloss=CompRel|Relz=Word
+9	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	8	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|RelRole=subj
 10	zàune	zaun-	VERB	_	ExtPos=ADV|VerbForm=Part	9	comp:pred	_	Gloss=stay.Part
 11	à	à	ADP	_	_	10	comp:obl	_	Gloss=at
 12	yankìn	yankìː	NOUN	_	Definite=Def|Gender=Masc	11	comp:obj	_	Gloss=area.Masc.Def

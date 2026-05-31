@@ -14,17 +14,17 @@
 # sent_id = 16_Aihuwar_Yara_2
 # text_en = At the end of this year, seventy-five thousand women in Nigeria are estimated to have died while giving birth or else because they were pregnant.
 # text_ortho = Zuwàː gà ƙàrshen wannàn shèːkaràr̃ dà mukè ciki, an ƙiyàstà maːtaː à Nàːjeːr̃iyàː kìːma:nìn dubuː sàbà'in dà bìyar̃ nèː zaːsù rasà raːyukànsù à dàliːlìn saːmùn tangar̃ɗàː wajen haihùwaː koː kuma maː tun sunàː dà cikìː.
-# text = zuwàː gà ƙàrshe-n wannàn shèːkaràr̃ dà mu-kè ciki, an=ƙiyàstà maːtaː à Nàːjeːr̃iyàː kìːma:nìn dubuː sàbà'in dà bìyar̃ nèː zaːsù=rasà raːyukà-n-sù à dàliːlìn saːmù-n tangar̃ɗàː wajen haihùwaː koː kuma maː tun su nàː dà cikìː.
+# text = zuwàː gà ƙàrshe-n wannàn shèːkaràr̃ dà mu-kè ciki, a-n= ƙiyàstà maːtaː à Nàːjeːr̃iyàː kìːma:nìn dubuː sàbà'in dà bìyar̃ nèː zaː-sù= rasà raːyukà-n-sù à dàliːlìn saːmù-n tangar̃ɗàː wajen haihùwaː koː kuma maː tun su nàː dà cikìː.
 1	zuwàː	zuwàː	ADP	_	_	14	mod	_	Gloss=towards
 2	gà	gà	ADP	_	_	1	comp:obj	_	Gloss=to
 3	ƙàrshe	ƙàrshen	NOUN	_	Gender=Masc	2	comp:obj	_	Compound=Yes|Gloss=end.Masc.|SpaceAfter=No|wordform=ƙàrshen
 4	-n	na	PART	_	Case=Gen|PartType=Case	3	udep/m	_	Gloss=Gen.Masc/Plur
 5	wannàn	nân	DET	_	Deixis=ProxS|Gender=Fem|PronType=Dem	6	det	_	Gloss=ProxS.Fem
-6	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Def|Gender=Fem	4	comp:obj	_	Gloss=year.Fem.Def
-7	dà	dà	SCONJ	_	_	6	mod@relcl	_	Gloss=COMP
+6	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Def|Gender=Fem	4	comp:obj	_	Gloss=year.Fem.Def|RelAnt=Yes
+7	dà	dà	SCONJ	_	_	6	mod@relcl	_	Gloss=CompRel|Relz=Word
 8	mu-	mu-	PRON	_	Number=Plur|Person=1|PronType=Prs	9	subj/m	_	Gloss=1Plur|SpaceAfter=No
-9	kè	nàː	AUX	_	Copula=Yes	7	comp:obj	_	Gloss=bePred.Rel2|Relative=Variant|wordform=mukè
-10	ciki	ciki	ADV	_	_	9	comp:pred	_	Gloss=inside|SpaceAfter=No
+9	kè	nàː	AUX	_	Copula=Yes	7	comp:obj	_	ClauseType=Rel|Gloss=bePred.Rel2|Relative=Variant|wordform=mukè
+10	ciki	ciki	ADV	_	ExtPos=ADP	9	comp:pred	_	Gloss=inside|RelRole=obj|SpaceAfter=No
 11	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 12	a-	a	PRON	_	Person=4|PronType=PrsSubj	14	subj/m	_	Gloss=4|SpaceAfter=No|wordform=an
 13	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	14	mod/m	_	Gloss=Perf.Plur=|wordform=n
@@ -97,16 +97,16 @@
 30	ragè	rag-	VERB	_	_	29	comp:obj	_	Gloss=reduce
 31	irì	irìː	NOUN	_	Gender=Masc	30	comp:obj	_	Gloss=type_of.Masc|SpaceAfter=No|wordform=irìn
 32	-n	na	PART	_	Case=Gen|PartType=Case	31	udep/m	_	Gloss=Gen.Masc/Plur
-33	haɗur̃àn	haɗàr̃iː	NOUN	_	Definite=Def|Number=Plur	32	comp:obj	_	Gloss=danger.Plur.Def
+33	haɗur̃àn	haɗàr̃iː	NOUN	_	Definite=Def|Number=Plur	32	comp:obj	_	Gloss=danger.Plur.Def|RelAnt=Yes
 34	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	33	det	_	Gloss=PreRef|PreRef=Yes
 35	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	33	mod	_	Gloss=there_is.Neg
 36	gair̃à	gair̃à	NOUN	_	Gender=Fem	35	subj	_	Gloss=fault.Fem
 37	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	35	conj:coord	_	Gloss=there_is.Neg
 38	dàliːlìː	dàliːlìː	NOUN	_	Gender=Masc	37	subj	_	Gloss=reason.Masc
-39	dà	dà	SCONJ	_	_	33	mod@relcl	_	Gloss=COMP
+39	dà	dà	SCONJ	_	_	33	mod@relcl	_	Gloss=CompRel|Relz=Word
 40	maːtaː	màːtaː	NOUN	_	Number=Plur	41	subj	_	Gloss=woman.Plur
-41	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	39	comp:obj	_	Gloss=Prog.Rel|Relative=Yes|SpaceAfter=No
-42	fùskantàː	fuskant-	VERB	_	_	41	comp:pred	_	Gloss=face
+41	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	39	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|SpaceAfter=No
+42	fùskantàː	fuskant-	VERB	_	_	41	comp:pred	_	Gloss=face|RelRole=obj
 43	wajen	wajen	ADP	_	_	42	comp:obl	_	Gloss=about
 44	haihùwaː	haihùwaː	NOUN	_	Gender=Fem	43	comp:obj	_	Gloss=giving_birth.Fem|SpaceAfter=No
 45	.	.	PUNCT	_	_	24	punct	_	Gloss=PUNCT
@@ -201,7 +201,7 @@
 # sent_id = 16_Aihuwar_Yara_6
 # text_en = At least three to four women are dying trying to become mothers while you are listening to this programme.
 # text_ortho = À ƙallà maːtaː ukù zuwàː huɗu nèː kèː mutuwàː à yàːyîn dà sukèː ƙòƙarin zamaː iyàːyeː à daidai wannàn loːkàciː dà kukèː sàuràːren wannàn shirìː.
-# text = à ƙallà maːtaː ukù zuwàː huɗu nèː kèː=mutuwàː à yàːyîn dà su kèː ƙòƙari-n zamaː iyàːyeː à daidai wannàn loːkàciː dà ku-kèː sàuràːre-n wannàn shirìː.
+# text = à ƙallà maːtaː ukù zuwàː huɗu nèː kèː mutuwàː à yàːyîn dà su kèː ƙòƙari-n zamaː iyàːyeː à daidai wannàn loːkàciː dà ku-kèː sàuràːre-n wannàn shirìː.
 1	à	à	ADP	_	_	3	mod	_	Gloss=at
 2	ƙallà	ƙallà	ADV	_	_	1	comp:obj	_	Gloss=least
 3	maːtaː	màːtaː	NOUN	_	Number=Plur	0	root	_	Gloss=woman.Plur
@@ -212,10 +212,10 @@
 8	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	3	comp:cleft	_	Gloss=Prog.Rel|Relative=Yes
 9	mutuwàː	mutù	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	8	comp:pred	_	Gloss=die.Vnoun.Fem
 10	à	à	ADP	_	_	9	mod	_	Gloss=at
-11	yàːyîn	yàːyiː	ADV	_	PronType=Rel	10	comp:obj	_	Gloss=when
-12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
+11	yàːyîn	yàːyiː	NOUN	_	_	10	comp:obj	_	Gloss=time.Def|RelAnt=Yes
+12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP|Relz=Word
 13	su	su	PRON	_	Number=Plur|Person=3|PronType=Prs	14	subj	_	Gloss=3Plur
-14	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	12	comp:obj	_	Gloss=Prog.Rel|Relative=Yes
+14	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	12	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|RelRole=mod
 15	ƙòƙari	ƙòƙariː	NOUN	_	Gender=Masc	14	comp:pred	_	Gloss=trying.Masc|SpaceAfter=No|wordform=ƙòƙarin
 16	-n	na	PART	_	Case=Gen|PartType=Case	15	udep/m	_	Gloss=Gen.Masc/Plur
 17	zamaː	zama	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	16	comp:obj	_	Gloss=become.Vnoun.Masc
@@ -223,10 +223,10 @@
 19	à	à	ADP	_	_	9	mod	_	Gloss=at
 20	daidai	daidaː	ADV	_	_	22	mod	_	Gloss=exactly
 21	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	22	det	_	Gloss=ProxS.Masc
-22	loːkàciː	loːkàciː	NOUN	_	Gender=Masc	19	comp:obj	_	Gloss=time.Masc
-23	dà	dà	SCONJ	_	_	22	mod@relcl	_	Gloss=COMP
+22	loːkàciː	loːkàciː	NOUN	_	Gender=Masc	19	comp:obj	_	Gloss=time.Masc|RelAnt=Yes
+23	dà	dà	SCONJ	_	_	22	mod@relcl	_	Gloss=CompRel|Relz=Word
 24	ku-	ku-	PRON	_	Number=Plur|Person=2|PronType=Prs	25	subj/m	_	Gloss=2Plur|SpaceAfter=No
-25	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	23	comp:obj	_	Gloss=Prog.Rel|Relative=Yes|wordform=kukèː
+25	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	23	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|RelRole=mod|wordform=kukèː
 26	sàuràːre	sauraːr-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	25	comp:pred	_	Compound=Yes|Gloss=listen.Vnoun.Masc.|SpaceAfter=No|wordform=sàuràːren
 27	-n	na	PART	_	Case=Gen|PartType=Case	26	udep/m	_	Gloss=Gen.Masc/Plur
 28	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	29	det	_	Gloss=ProxS.Masc
@@ -282,7 +282,7 @@
 # sent_id = 16_Aihuwar_Yara_8
 # text_en = Some of them die too because of the terror they experience with the changes that occur when they have twins, like swelling of the legs, which is seen as a sign that twins are to be born, or a boy.
 # text_ortho = Wasunsù kuma sunàː mutuwàː neː sabòːdà ràːzanàr̃ dà sukèː yîː danganèː dà wasu cànje-cànje dà kèː fàːruwaː à loːkàcîn dà sukè dà juːnaː biyu, kàmar̃ kùmburin ƙafàːfunsù wandà akèː ganin cêːwaː wata àlaːmàː ceː dà kèː nuːnà koː tagwàːyeː neː zaː'à hàifaː koː kuma ɗaː namijì.
-# text = wasu-n -sù kuma su-nàː mutuwàː neː sabòːdà ràːzanàr̃  dà su-kèː yîː danganèː dà wasu cànje-cànje dà kèː=fàːruwaː à loːkàcîn dà su kè dà juːnaː biyu, kàmar̃ kùmburi-n ƙafàːfu-n-sù wandà a-kèː gani-n cêːwaː wata àlaːmàː ceː dà kèː=nuːnà koː tagwàːyeː neː zaː'à=hàifaː koː kuma ɗaː namijì.
+# text = wasu-n -sù kuma su-nàː mutuwàː neː sabòːdà ràːzanàr̃  dà su-kèː yîː danganèː dà wasu cànje-cànje dà kèː fàːruwaː à loːkàcîn dà su kè dà juːnaː biyu, kàmar̃ kùmburi-n ƙafàːfu-n-sù wandà a-kèː gani-n cêːwaː wata àlaːmàː ceː dà kèː nuːnà koː tagwàːyeː neː zaː-'à= hàifaː koː kuma ɗaː namijì.
 1	wasu	wasu	PRON	_	Definite=Spec|Number=Plur|PronType=Ind	6	subj	_	Gloss=some.Plur|SpaceAfter=No|wordform=wasunsù
 2	-n	na	PART	_	Case=Gen|PartType=Case	1	udep/m	_	Gloss=Gen.Masc/Plur
 3	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	2	comp:obj	_	Gloss=3Plur.Gen
@@ -292,23 +292,23 @@
 7	mutuwàː	mutù	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	6	comp:pred	_	Gloss=die.Vnoun.Fem
 8	neː	neː	PART	_	PartType=Foc	7	discourse@foc	_	Gloss=Emph
 9	sabòːdà	sabòːdà	ADP	_	_	7	mod	_	Gloss=because_of
-10	ràːzanàr̃ 	raːzan-	VERB	_	Definite=Def|ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	9	comp:obj	_	Gloss=be_terrified.Vnoun.Fem.Def|wordform=ràːzanàr̃
-11	dà	dà	SCONJ	_	_	10	mod@relcl	_	Gloss=COMP
+10	ràːzanàr̃ 	raːzan-	VERB	_	Definite=Def|ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	9	comp:obj	_	Gloss=be_terrified.Vnoun.Fem.Def|RelAnt=Yes|wordform=ràːzanàr̃
+11	dà	dà	SCONJ	_	_	10	mod@relcl	_	Gloss=CompRel|Relz=Word
 12	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	13	subj/m	_	Gloss=3Plur|SpaceAfter=No
-13	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	11	comp:obj	_	Gloss=Prog.Rel|Relative=Yes|wordform=sukèː
-14	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	13	comp:pred	_	Gloss=do.Vnoun.Masc
+13	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	11	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|wordform=sukèː
+14	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	13	comp:pred	_	Gloss=do.Vnoun.Masc|RelRole=pred
 15	danganèː	danganèː	NOUN	_	ExtPos=ADP|Gender=Masc	14	comp:obl	_	Gloss=relation.Masc|Idiom=Yes
 16	dà	dà	ADP	_	_	15	compound	_	Gloss=with|InIdiom=Yes
 17	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	18	det	_	Gloss=some.Plur.Spec
-18	cànje-cànje	canjìː	NOUN	_	Number=Plur	15	comp:obj	_	Gloss=change.Plur
-19	dà	dà	SCONJ	_	_	18	mod@relcl	_	Gloss=COMP
-20	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	19	comp:obj	_	Gloss=Prog.Rel|Relative=Yes
+18	cànje-cànje	canjìː	NOUN	_	Number=Plur	15	comp:obj	_	Gloss=change.Plur|RelAnt=Yes
+19	dà	dà	SCONJ	_	_	18	mod@relcl	_	Gloss=CompRel|Relz=Word
+20	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	19	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|RelRole=subj
 21	fàːruwaː	faːr-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	20	comp:pred	_	Gloss=happen.Vnoun.Fem
 22	à	à	ADP	_	_	21	comp:obl	_	Gloss=at
-23	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	22	comp:obj	_	Gloss=time.Masc.Def
-24	dà	dà	SCONJ	_	_	23	mod@relcl	_	Gloss=COMP|wordform=da
+23	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	22	comp:obj	_	Gloss=time.Masc.Def|RelAnt=Yes
+24	dà	dà	SCONJ	_	_	23	mod@relcl	_	Gloss=CompRel|Relz=Word|wordform=da
 25	su	su	PRON	_	Number=Plur|Person=3|PronType=Prs	26	subj/m	_	Gloss=3Plur
-26	kè	nàː	AUX	_	Copula=Yes	24	comp:obj	_	Gloss=bePred.Rel2|Relative=Variant
+26	kè	nàː	AUX	_	Copula=Yes	24	comp:obj	_	ClauseType=Rel|Gloss=bePred.Rel2|Relative=Variant|RelRole=subj
 27	dà	dà	ADP	_	_	26	comp:pred	_	Gloss=with
 28	juːnaː	juːnaː	NOUN	_	Gender=Masc	27	comp:obj	_	Gloss=each_other.Masc
 29	biyu	biyu	NUM	_	_	28	compound	_	Gloss=two|SpaceAfter=No
@@ -326,10 +326,10 @@
 41	-n	na	PART	_	Case=Gen|PartType=Case	40	udep/m	_	Gloss=Gen.Masc/Plur
 42	cêːwaː	cêːwaː	SCONJ	_	_	41	comp:obj	_	Gloss=COMP
 43	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	44	det	_	Gloss=some.Fem.Spec
-44	àlaːmàː	àlaːmàː	NOUN	_	Gender=Fem	45	comp:pred	_	Gloss=sign.Fem
+44	àlaːmàː	àlaːmàː	NOUN	_	Gender=Fem	45	comp:pred	_	Gloss=sign.Fem|RelAnt=Yes
 45	ceː	neː	AUX	_	Copula=Yes|Gender=Fem	42	comp:obj	_	Gloss=Equ.Fem
-46	dà	dà	SCONJ	_	_	44	mod@relcl	_	Gloss=COMP
-47	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	46	comp:obj	_	Gloss=Prog.Rel|Relative=Yes
+46	dà	dà	SCONJ	_	_	44	mod@relcl	_	Gloss=CompRel|Relz=Word
+47	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	46	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|RelRole=subj
 48	nuːnà	nuːn-	VERB	_	_	47	comp:pred	_	Gloss=show
 49	koː	koː	CCONJ	_	_	50	cc@preconj	_	Gloss=or
 50	tagwàːyeː	tagwàːyeː	NOUN	_	Number=Plur	48	comp:obj	_	Gloss=twins
@@ -416,7 +416,7 @@
 6	mutuwàː	mutù	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	5	comp:pred	_	Gloss=die.Vnoun.Fem
 7	neː	neː	PART	_	PartType=Foc	6	discourse@foc	_	Gloss=Emph
 8	à	à	ADP	_	_	6	mod	_	Gloss=at
-9	yàːyîn	yàːyiː	ADV	_	PronType=Rel	8	comp:obj	_	Gloss=when|RelAnt=Yes
+9	yàːyîn	yàːyiː	NOUN	_	Definite=Def	8	comp:obj	_	Gloss=time.Def|RelAnt=Yes
 10	dà	dà	SCONJ	_	_	9	mod@relcl	_	Gloss=CompRel|Relz=Word
 11	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	13	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 12	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	13	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
@@ -450,11 +450,11 @@
 15	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
 16	kuma	kuma	CCONJ	_	_	26	cc	_	Gloss=also
 17	à	à	ADP	_	_	26	mod	_	Gloss=at
-18	haːlîn	haːlîː	NOUN	_	Definite=Def|Gender=Masc	17	comp:obj	_	Gloss=situation.Masc.Def
-19	dà	dà	SCONJ	_	_	18	mod@relcl	_	Gloss=COMP
+18	haːlîn	haːlîː	NOUN	_	Definite=Def|Gender=Masc	17	comp:obj	_	Gloss=situation.Masc.Def|RelAnt=Yes
+19	dà	dà	SCONJ	_	_	18	mod@relcl	_	Gloss=CompRel|Relz=Word
 20	a	a	PRON	_	Copula=Yes|Person=4|PronType=Prs	21	subj	_	Gloss=4|SpaceAfter=No
-21	kè	nàː	AUX	_	Copula=Yes	19	comp:obj	_	Gloss=bePred.Rel2|Relative=Variant
-22	ciki	ciki	ADV	_	_	21	comp:pred	_	Gloss=inside
+21	kè	nàː	AUX	_	Copula=Yes	19	comp:obj	_	ClauseType=Rel|Gloss=bePred.Rel2|Relative=Variant
+22	ciki	cikin	ADP	_	_	21	comp:pred	_	Gloss=inside|RelRole=obj
 23	yànzu	yànzu	ADV	_	_	21	mod	_	Gloss=now|wordform=yanzu
 24	a-	a	PRON	_	Person=4|PronType=PrsSubj	26	subj/m	_	Gloss=4|SpaceAfter=No|wordform=an
 25	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	26	mod/m	_	Gloss=Perf.Plur=|wordform=n
@@ -540,12 +540,12 @@
 23	na	na	PART	_	Case=Gen|PartType=Case	22	mod	_	Gloss=Gen
 24	yawà	yawàn	ADJ	_	Gender=Masc	23	comp:obj	_	Gloss=quantity.Masc|SpaceAfter=No|wordform=yawàn
 25	-n	na	PART	_	Case=Gen|PartType=Case	24	udep/m	_	Gloss=Gen.Masc/Plur
-26	mutàːnên	mùtûm	NOUN	_	Definite=Def|Number=Plur	25	comp:obj	_	Gloss=people.Plur.Def
-27	dà	dà	SCONJ	_	_	26	mod@relcl	_	Gloss=COMP
+26	mutàːnên	mùtûm	NOUN	_	Definite=Def|Number=Plur	25	comp:obj	_	Gloss=people.Plur.Def|RelAnt=Yes
+27	dà	dà	SCONJ	_	_	26	mod@relcl	_	Gloss=CompRel|Relz=Word
 28	a	a	PRON	_	Copula=Yes|Person=4|PronType=Prs	29	subj/m	_	Gloss=4
-29	kè	nàː	AUX	_	Copula=Yes	27	comp:obj	_	Gloss=bePred.Rel2|Relative=Variant
+29	kè	nàː	AUX	_	Copula=Yes	27	comp:obj	_	ClauseType=Rel|Gloss=bePred.Rel2|Relative=Variant
 30	dà	dà	ADP	_	_	29	comp:pred	_	Gloss=with
-31	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	30	comp:obj	_	Gloss=3Plur.Nom
+31	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	30	comp:obj	_	Gloss=3Plur.Nom|RelPos=Yes
 32	à	à	ADP	_	_	29	mod	_	Gloss=at
 33	duk	dukà	DET	_	PronType=Tot	34	det	_	Gloss=all
 34	duːniyàː	duːniyàː	NOUN	_	Gender=Fem	32	comp:obj	_	Gloss=world.Fem

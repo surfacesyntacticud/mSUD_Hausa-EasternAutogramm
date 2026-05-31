@@ -30,15 +30,15 @@
 9	shaː	shaː	VERB	_	_	0	root	_	Gloss=suffer
 10	bambam	bambam	ADV	_	_	9	comp:pred	_	Gloss=different
 11	dà	dà	CCONJ	_	_	9	comp:obl	_	Gloss=and
-12	saura	sauraː	NOUN	_	Gender=Masc	11	comp:obj	_	Gloss=rest.Masc|SpaceAfter=No|wordform=sauran
+12	saura	sauraː	NOUN	_	Gender=Masc	11	comp:obj	_	Gloss=rest.Masc|RelAnt=Yes|SpaceAfter=No|wordform=sauran
 13	-n	na	PART	_	Case=Gen|PartType=Case	12	mod/m	_	Gloss=Gen.Masc/Plur
 14	gwamnatoːci	gwamnatì	NOUN	_	Number=Plur	13	comp:obj	_	Gloss=government.Plur|SpaceAfter=No|wordform=gwamnatoːcin
 15	-n	na	PART	_	Case=Gen|PartType=Case	14	mod/m	_	Gloss=Gen.Masc/Plur
 16	mulkì	mulkìː	NOUN	_	Gender=Masc	15	comp:obj	_	Gloss=rule.Masc|SpaceAfter=No|wordform=mulkìn
 17	-n	na	PART	_	Case=Gen|PartType=Case	16	udep/m	_	Gloss=Gen.Masc/Plur
 18	soːjà	soːjà	NOUN	_	Number=Plur	17	comp:obj	_	Gloss=soldiers.Plur
-19	dà	dà	SCONJ	_	_	12	mod@relcl	_	Gloss=COMP
-20	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	19	comp:obj	_	Gloss=Prog.Rel|Relative=Yes
+19	dà	dà	SCONJ	_	_	12	mod@relcl	_	Gloss=CompRel|Relz=Word
+20	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	19	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|RelRole=subj
 21	Afir̃kà	Afir̃kà	PROPN	_	_	20	comp:pred	_	Gloss=Africa|SpaceAfter=No
 22	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 
@@ -320,18 +320,18 @@
 # sent_id = 05_Gurfanarwa_da_lauya_10-12
 # text_en = That crime that Chief G.F. is accused of, according to his lawyer, concerns a paper that he, Chief G.F. wrote in an opposition jounal, in May.
 # text_ortho = Wannàn lâifîn dà akèː zàrgin Chief G.F. dà shiː, ìn ji lauyàn naːsà , yaː shàːfi wata takàr̃daː cèː waddà shiː Chief G.F. ya r̃ubùːtaː à cikin wata mùjallàː ta màːsu r̃aꞌàyin canjìː à cikin watàn Maːyù.
-# text = wannàn lâifîn dà akèː zàrgin Chief G.F. dà shiː, ìn ji lauyàn naːsà , yaː shàːfi wata takàr̃daː cèː waddà shiː Chief G.F. ya r̃ubùːtaː à cikin wata mùjallàː ta màːsu r̃aꞌàyin canjìː à cikin watàn Maːyù.
+# text = wannàn lâifîn dà a-kèː zàrgi-n Chief G.F. dà shiː, in-_̀= ji lauyàn naːsà, y-aː= shàːfi wata takàr̃daː cèː waddà shiː Chief G.F. ya= r̃ubùːtaː à cikin wata mùjallàː ta màːsu r̃aꞌàyi-n canjìː à cikin watà-n Maːyù.
 1	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	2	det	_	Gloss=ProxS.Masc
-2	lâifîn	lâifiː	NOUN	_	Definite=Def|Gender=Masc	21	subj	_	Gloss=crime.Masc.Def
-3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP
+2	lâifîn	lâifiː	NOUN	_	Definite=Def|Gender=Masc	21	subj	_	Gloss=crime.Masc.Def|RelAnt=Yes
+3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=CompRel|Relz=Word
 4	a-	a-	PRON	_	Person=4|PronType=Prs	5	subj/m	_	Gloss=4|SpaceAfter=No
-5	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	3	comp:obj	_	Gloss=Prog.Rel|Relative=Yes|wordform=akèː
+5	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	3	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|wordform=akèː
 6	zàrgi	zarg-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	5	comp:pred	_	Gloss=accuse.Vnoun.Masc|SpaceAfter=No|wordform=zàrgin
 7	-n	na	PART	_	Case=Gen|PartType=Case	6	udep/m	_	Gloss=Gen.Masc/Plur
 8	Chief	Chief	PROPN	_	_	7	comp:obj	_	Gloss=Chief
 9	G.F.	G.F.	PROPN	_	_	8	mod@appos	_	Gloss=G.F.
 10	dà	dà	ADP	_	_	6	comp:obl	_	Gloss=with
-11	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	10	comp:obj	_	Gloss=3Masc.Nom|SpaceAfter=No
+11	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	10	comp:obj	_	Gloss=3Masc.Nom|RelPos=Yes|SpaceAfter=No
 12	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 13	in-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	15	subj/m	_	Gloss=1Sing-|SpaceAfter=No|wordform=ìn
 14	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	15	mod/m	_	Gloss=Sub=
@@ -495,13 +495,13 @@
 22	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	23	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
 23	kaːrè	kaːr-	VERB	_	_	20	comp:obj	_	ClauseType=Rel|Gloss=protect|RelRole=mod
 24	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	25	det	_	Gloss=some.Masc.Spec
-25	leːbùr̃à	leːbùr̃à	NOUN	_	Gender=Masc	23	comp:obj	_	Gloss=worker.Masc
-26	dà	dà	SCONJ	_	_	25	mod@relcl	_	Gloss=COMP
+25	leːbùr̃à	leːbùr̃à	NOUN	_	Gender=Masc	23	comp:obj	_	Gloss=worker.Masc|RelAnt=Yes
+26	dà	dà	SCONJ	_	_	25	mod@relcl	_	Gloss=CompRel|Relz=Word
 27	a-	a-	PRON	_	Person=4|PronType=Prs	28	subj/m	_	Gloss=4|SpaceAfter=No
-28	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	26	comp:obj	_	Gloss=Prog.Rel|Relative=Yes|wordform=akèː
+28	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	26	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|wordform=akèː
 29	yî	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	28	comp:pred	_	Compound=Yes|Gloss=do.Vnoun.Masc.|SpaceAfter=No|wordform=yîn
 30	-n	na	PART	_	Case=Gen|PartType=Case	29	udep/m	_	Gloss=Gen.Masc/Plur
-31	zàrgi	zarg-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	30	comp:obj	_	Gloss=accuse.Vnoun.Masc|SpaceAfter=No|wordform=zàrgin
+31	zàrgi	zarg-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	30	comp:obj	_	Gloss=accuse.Vnoun.Masc|RelRole=obj|SpaceAfter=No|wordform=zàrgin
 32	-n	na	PART	_	Case=Gen|PartType=Case	31	mod/m	_	Gloss=Gen.Masc/Plur
 33	cêːwa	cêːwa	SCONJ	_	_	32	comp:obj	_	Gloss=COMP
 34	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	35	det	_	Gloss=some.Masc.Spec
@@ -556,14 +556,14 @@
 # sent_id = 05_Gurfanarwa_da_lauya_19-20
 # text_en = This war that Chief G.F. has been fighting against the authorities has caused him to appear in court for a total of thirty times.
 # text_ortho = Wannàn yaːƙìn dà Chief G.F. kèː yîː dà hukuːmoːmiː yaː yi sànàdiyyàr̃ zuwànsà koːtù har̃ kìːmaːnìn sàu tàlàːtin dà bìyar̃.
-# text = wannàn yaːƙìn dà Chief G.F. kèː yîː dà hukuːmoːmiː yaː yi sànàdiyyàr̃ zuwànsà koːtù har̃ kìːmaːnìn sàu tàlàːtin dà bìyar̃.
+# text = wannàn yaːƙìn dà Chief G.F. kèːyîː dà hukuːmoːmiː y-aː= yi sànàdiyyà-r̃ zuwà-n-sà koːtù har̃ kìːmaːnì-n sàu tàlàːtin dà bìyar̃.
 1	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	2	det	_	Gloss=ProxS.Sing
-2	yaːƙìn	yaːƙìː	NOUN	_	Definite=Def|Gender=Masc	12	subj	_	Gloss=fight.Masc.Def
-3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP
+2	yaːƙìn	yaːƙìː	NOUN	_	Definite=Def|Gender=Masc	12	subj	_	Gloss=fight.Masc.Def|RelAnt=Yes
+3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=CompRel|Relz=Word
 4	Chief	Chief	PROPN	_	_	6	subj	_	Gloss=Chief
 5	G.F.	G.F.	PROPN	_	_	4	mod@appos	_	Gloss=G.F.
-6	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	3	comp:obj	_	Gloss=Prog.Rel|Relative=Yes|SpaceAfter=No
-7	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:pred	_	Gloss=do.Vnoun.Masc
+6	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	3	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|SpaceAfter=No
+7	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:pred	_	Gloss=do.Vnoun.Masc|RelRole=pred
 8	dà	dà	ADP	_	_	7	comp:obl	_	Gloss=with
 9	hukuːmoːmiː	hùkuːmàː	NOUN	_	Number=Plur	8	comp:obj	_	Gloss=authority.Plur
 10	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	12	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
@@ -669,7 +669,7 @@
 # sent_id = 05_Gurfanarwa_da_lauya_23
 # text_en = Chief G.H. was arrested in June, i.e. when he was preparing a meeting where he condemned the economic situation of Nigeria.
 # text_ortho = An kaːmè Chief G.F. neː à watàn Yuːnì, wàːtòː loːkàcîn dà yakèː cikin shirìn wani tàːroː indà ya yi wà tsaːrìn tattalin ar̃zìkin ƙasar̃ Nàːjeːr̃iyàː tatas.
-# text = an kaːmè Chief G.F. neː à watàn Yuːnì, wàːtòː loːkàcîn dà yakè cikin shirìn wani tàːroː indà ya yi wà tsaːrìn tattalin ar̃zìkin ƙasar̃ Nàːjeːr̃iyàː tatas.
+# text = a-n= kaːmè Chief G.F. neː à watà-n Yuːnì, wàːtòː loːkàcîn dà ya kè cikin shirì-n wani tàːroː indà ya= yi wà tsaːrì-n tattali-n ar̃zìki-n ƙasa-r̃ Nàːjeːr̃iyàː tatas.
 1	a-	a	PRON	_	Person=4|PronType=PrsSubj	3	subj/m	_	Gloss=4|SpaceAfter=No|wordform=an
 2	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	3	mod/m	_	Gloss=Perf.Plur=|wordform=n
 3	kaːmè	kaːm-	VERB	_	_	0	root	_	Gloss=catch
@@ -682,10 +682,10 @@
 10	Yuːnì	Yuːnì	NOUN	_	Gender=Masc	9	comp:obj	_	Gloss=June.Masc|SpaceAfter=No
 11	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 12	wàːtòː	wàːtòː	CCONJ	_	_	13	cc	_	Gloss=i.e.
-13	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	7	conj:dicto	_	Gloss=time.Masc.Def
-14	dà	dà	SCONJ	_	_	13	mod@relcl	_	Gloss=COMP
+13	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	7	conj:dicto	_	Gloss=time.Masc.Def|RelAnt=Yes
+14	dà	dà	SCONJ	_	_	13	mod@relcl	_	Gloss=CompRel|Relz=Word
 15	ya	ya	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=PrsSubj	16	subj/m	_	Gloss=3Masc
-16	kè	nàː	AUX	_	Copula=Yes	14	comp:obj	_	Gloss=bePred.Rel2|Relative=Variant|wordform=yakè
+16	kè	nàː	AUX	_	Copula=Yes	14	comp:obj	_	ClauseType=Rel|Gloss=bePred.Rel2|Relative=Variant|RelRole=mod|wordform=yakè
 17	cikin	cikin	ADP	_	_	16	comp:pred	_	Gloss=inside
 18	shirì	shiry-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	17	comp:obj	_	Compound=Yes|Gloss=prepare.Vnoun.Masc.|SpaceAfter=No|wordform=shirìn
 19	-n	na	PART	_	Case=Gen|PartType=Case	18	udep/m	_	Gloss=Gen.Masc/Plur

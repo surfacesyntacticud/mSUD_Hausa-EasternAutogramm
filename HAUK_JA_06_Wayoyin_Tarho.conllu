@@ -91,7 +91,7 @@
 
 # sent_id = 06_Wayoyin_Tarho_4
 # text_en = Sometimes too, even it you get a line, you find that the quality is not very good, so much so that you can't hear what is said.
-# text = wani loːkàciː kuma koː k-aː= sàːmi laːyìː sai ka-_̀= ga bâː shi dà kyâu sòːsai, har̃ baːkàː iyà jî-n àbîn dà a-kèː fàɗaː.
+# text = wani loːkàciː kuma koː k-aː= sàːmi laːyìː sai ka-_̀= ga bâː shi dà kyâu sòːsai, har̃ baː-kàː= iyà jî-n àbîn dà a-kèː fàɗaː.
 # text_ortho = Wani loːkàciː kuma koː kaː sàːmi laːyìː sai kà ga bâː shi dà kyâu sòːsai, har̃ baː kàː iyà jîn àbîn dà akèː fàɗaː.
 1	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	2	det	_	Gloss=some.Masc.Spec
 2	loːkàciː	loːkàciː	NOUN	_	Gender=Masc	12	mod	_	Gloss=time.Masc
@@ -117,11 +117,11 @@
 22	iyà	iy-	VERB	_	_	19	comp:obj	_	Gloss=be_able_to
 23	jî	ji	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	22	comp:obj	_	Gloss=hear.Vnoun.Masc|SpaceAfter=No|wordform=jîn
 24	-n	na	PART	_	Case=Gen|PartType=Case	23	udep/m	_	Gloss=Gen.Masc/Plur
-25	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	24	comp:obj	_	Gloss=thing.Masc.Def
-26	dà	dà	SCONJ	_	_	25	mod@relcl	_	Gloss=COMP
+25	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	24	comp:obj	_	Gloss=thing.Masc.Def|RelAnt=Yes
+26	dà	dà	SCONJ	_	_	25	mod@relcl	_	Gloss=CompRel|Relz=Word
 27	a-	a-	PRON	_	Person=4|PronType=Prs	28	subj/m	_	Gloss=4|SpaceAfter=No
-28	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	26	comp:obj	_	Gloss=Prog.Rel|Relative=Yes|wordform=akèː
-29	fàɗaː	faɗ-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	28	comp:pred	_	Gloss=say.Vnoun.Fem|SpaceAfter=No
+28	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	26	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|wordform=akèː
+29	fàɗaː	faɗ-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	28	comp:pred	_	Gloss=say.Vnoun.Fem|RelRole=obj|SpaceAfter=No
 30	.	.	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 
 # sent_id = 06_Wayoyin_Tarho_5
@@ -364,11 +364,11 @@
 6	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	7	mod/m	_	Gloss=Sub=
 7	amìnceː	amint-	NOUN	_	_	1	comp:cleft	_	Gloss=agree
 8	dà	dà	ADP	_	_	7	comp:obl	_	Gloss=with
-9	laːyukàn	laːyìː	NOUN	_	Definite=Def|Number=Plur	8	comp:obj	_	Gloss=line.Plur.Def
-10	dà	dà	SCONJ	_	_	9	mod@relcl	_	Gloss=COMP
+9	laːyukàn	laːyìː	NOUN	_	Definite=Def|Number=Plur	8	comp:obj	_	Gloss=line.Plur.Def|RelAnt=Yes
+10	dà	dà	SCONJ	_	_	9	mod@relcl	_	Gloss=CompRel|Relz=Word
 11	a-	a-	PRON	_	Person=4|PronType=Prs	12	subj/m	_	Gloss=4|SpaceAfter=No
-12	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	10	comp:obj	_	Gloss=Prog.Rel|Relative=Yes|wordform=akèː
-13	bùkaːtàː	bukaːt-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	12	comp:pred	_	Gloss=need|SpaceAfter=No
+12	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	10	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|wordform=akèː
+13	bùkaːtàː	bukaːt-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	12	comp:pred	_	Gloss=need|RelRole=obj|SpaceAfter=No
 14	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 15	dà	dà	CCONJ	_	_	17	cc	_	Gloss=and
 16	kuma	kuma	PART	_	PartType=Top	15	discourse@top	_	Gloss=also
@@ -472,16 +472,16 @@
 
 # sent_id = 06_Wayoyin_Tarho_17
 # text_en = All those detours that are done by telephone calls spoil the lines, and you can't hear yourselves clearly.
-# text = irì-n waɗànnân zàːgàːye-zàːgàːyên dà a-kèː yîː dà wayà-r̃ tàr̃hôː ya nàː ɓaːtà laːyìː, kuma baːàː jî-n màganàr̃ sòːsai.
+# text = irì-n waɗànnân zàːgàːye-zàːgàːyên dà a-kèː yîː dà wayà-r̃ tàr̃hôː ya nàː ɓaːtà laːyìː, kuma baː-àː= jî-n màganàr̃ sòːsai.
 # text_ortho = Irìn waɗànnân zàːgàːye-zàːgàːyên dà akèː yîː dà wayàr̃ tàr̃hôː yanàː ɓaːtà laːyìː, kuma baː àː jîn màganàr̃ sòːsai.
 1	irì	irìː	NOUN	_	Gender=Masc	14	subj	_	Compound=Yes|Gloss=type_of.Masc.|SpaceAfter=No|wordform=irìn
 2	-n	na	PART	_	Case=Gen|PartType=Case	1	udep/m	_	Gloss=Gen.Masc/Plur
 3	waɗànnân	nân	DET	_	Deixis=ProxS|Number=Plur|PronType=Dem	4	det	_	Gloss=ProxS.Plur
-4	zàːgàːye-zàːgàːyên	zàːgàːye-zàːgàːye	NOUN	_	Definite=Def|Number=Plur	2	comp:obj	_	Gloss=going_round.Plur.Def
-5	dà	dà	SCONJ	_	_	4	mod@relcl	_	Gloss=COMP
+4	zàːgàːye-zàːgàːyên	zàːgàːye-zàːgàːye	NOUN	_	Definite=Def|Number=Plur	2	comp:obj	_	Gloss=going_round.Plur.Def|RelAnt=Yes
+5	dà	dà	SCONJ	_	_	4	mod@relcl	_	Gloss=CompRel|Relz=Word
 6	a-	a-	PRON	_	Person=4|PronType=Prs	7	subj/m	_	Gloss=4|SpaceAfter=No
-7	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	5	comp:obj	_	Gloss=Prog.Rel|Relative=Yes|wordform=akèː
-8	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	7	comp:pred	_	Gloss=do.Vnoun.Masc
+7	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	5	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|wordform=akèː
+8	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	7	comp:pred	_	Gloss=do.Vnoun.Masc|RelRole=pred
 9	dà	dà	ADP	_	_	8	comp:obl	_	Gloss=with
 10	wayà	wayàr̃	NOUN	_	Gender=Fem	9	comp:obj	_	Compound=Yes|Gloss=wire.Fem|SpaceAfter=No|wordform=wayàr̃
 11	-r̃	na	PART	_	Case=Gen|PartType=Case	10	udep/m	_	Gloss=Gen.Fem

@@ -282,7 +282,7 @@
 11	Tafaːwà	Tafaːwà	PROPN	_	_	10	comp:obj	_	Gloss=Tafawa
 12	Ɓaleːwà	Ɓaleːwà	PROPN	_	_	11	flat@name	_	Gloss=Balewa|SpaceAfter=No
 13	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
-14	gàrîn	gàriː	NOUN	_	Definite=Def|Gender=Masc	9	conj:appos	_	Gloss=city.Masc.Def
+14	gàrîn	gàriː	NOUN	_	Definite=Def|Gender=Masc	9	conj:appos	_	Gloss=city.Masc.Def|RelAnt=Yes
 15	dà	dà	SCONJ	_	ExtPos=SCONJ	14	mod@relcl	_	Gloss=COMP|Idiom=Yes|Relz=Word
 16	ya-	ya-	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=PrsSubj	17	subj/m	_	Gloss=3Masc-|InIdiom=Yes|SpaceAfter=No
 17	kè	nàː	AUX	_	Aspect=Prog|Copula=Yes	15	comp:obj	_	Gloss=bePred.Rel2|InIdiom=Yes|Relative=Variante|wordform=yakè
@@ -404,13 +404,13 @@
 # text_en = The Nigerian reporters who were in Bauchi declared that they saw more than one hundred and twenty burials that were given to Muslims, and travellers on the road from Bauchi to Jos said that they had seen many corpses alongside the road.
 # text_ortho = 'Yan jàːr̃ìːdun Nàjeːr̃iyàː dà kèː Baucîn sun cêː sun ga jànaː'izàr̃ dà akà yi wà Mùsùlmiː suː fìye dà ɗàriː dà àshìr̃in, kuma matàfìyaː à kân hanyàr̃ Bauci zuwàː Jàs sun cêː sun ga gaːwàwwakiː dà daːmaː à yàr̃yàːshe à geːfèn hanyàː.
 # text = 'ya-n jàːr̃ìːdu -n Nàjeːr̃iyàː dà kèː Baucîn su-n= cêː su-n= ga jànaː'izàr̃  dà a-kà= yi wà Mùsùlmiː suː fìye dà ɗàriː dà àshìr̃in, kuma matàfìyaː à kân hanyà-r̃ Bauci zuwàː Jàs su-n= cêː su-n= ga gaːwàwwakiː dà daːmaː à yàr̃yàːshe à geːfè-n hanyàː.
-1	'ya	ɗaː	NOUN	_	Number=Plur	11	subj	_	Compound=Yes|Gloss=child.Plur|SpaceAfter=No|wordform='yan
+1	'ya	ɗaː	NOUN	_	Number=Plur	11	subj	_	Compound=Yes|Gloss=child.Plur|RelAnt=Yes|SpaceAfter=No|wordform='yan
 2	-n	na	PART	_	Case=Gen|PartType=Case	1	udep/m	_	Gloss=Gen.Fem
 3	jàːr̃ìːdu	jàːr̃ìːdu	NOUN	_	Number=Plur	2	comp:obj	_	Gloss=newspaper.Plur
 4	-n	na	PART	_	Case=Gen|Number=Plur|PartType=Case	1	mod/m	_	Gloss=Gen.Masc/Plur
 5	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	4	comp:obj	_	Gloss=Nigeria
-6	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
-7	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	6	comp:obj	_	Gloss=Prog.Rel|Relative=Yes
+6	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=CompRel|Relz=Word
+7	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	6	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|RelRole=subj
 8	Baucîn	Baucîn	PROPN	_	Definite=Def	7	comp:pred	_	Gloss=Bauchi.Def
 9	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	11	subj/m	_	Gloss=3Plur|SpaceAfter=No|wordform=sun
 10	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	11	mod/m	_	Gloss=Perf.Plur=|wordform=n
