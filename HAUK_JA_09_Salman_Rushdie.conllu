@@ -154,10 +154,10 @@
 29	Tuːr̃anciː	Tuːr̃anciː	PROPN	_	_	28	comp:obj	_	Gloss=Tuːr̃anciː
 30	zuwàː	zuwàː	ADP	_	_	26	conj:coord	_	Gloss=towards
 31	Japananciː	Japananciː	PROPN	_	Gender=Masc	30	comp:obj	_	Gloss=Japanese|SpaceAfter=No
-32	,	,	PUNCT	_	_	33	punct	_	Gloss=PUNCT
-33	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	12	mod@relcl	_	Gloss=REL.Masc
+32	,	,	PUNCT	_	_	35	punct	_	Gloss=PUNCT
+33	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	36	comp	_	Gloss=Pron.Masc.Rel|RelPos=Yes|Relz=word
 34	a-	a-	PRON	_	Person=4|PronType=Prs	35	subj/m	_	Gloss=4|SpaceAfter=No
-35	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	33	comp:obj	_	Gloss=Prog.Rel|Relative=Yes|wordform=akèː
+35	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	12	mod@relcl	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|wordform=akèː
 36	kiràː	kiraː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	35	comp:pred	_	Gloss=call.Vnoun.Masc
 37	"	"	PUNCT	_	_	38	punct	_	Gloss=PUNCT
 38	Gianni	Gianni	PROPN	_	_	36	comp:pred	_	Gloss=Gianni
@@ -302,11 +302,11 @@
 11	harìː	harìː	NOUN	_	Gender=Masc	9	comp:obj	_	Gloss=attack.Masc
 12	dà	dà	ADP	_	_	9	comp:obl	_	Gloss=with|wordform=da
 13	sùkùddìr̃eːbàː	sùkùddìr̃eːbàː	NOUN	_	Gender=Fem	12	comp:obj	_	Gloss=screwdriver.Fem
-14	indà	indà	PRON	_	PronType=Rel	11	mod@relcl	_	Gloss=where
+14	indà	indà	PRON	_	PronType=Rel	17	mod	_	Gloss=where.Rel|RelPos=Yes|Relz=word
 15-16	ya=	_	_	_	_	_	_	_	_
 15	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	17	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
 16	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	17	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-17	daɓàː	daɓ-	VERB	_	_	14	comp:obj	_	Gloss=stab
+17	daɓàː	daɓ-	VERB	_	_	11	mod@relcl	_	ClauseType=Rel|Gloss=stab
 18	wà	mà	ADP	_	Case=Dat	17	comp:obl	_	Gloss=Dat
 19	ɗaya	ɗaya	NUM	_	_	18	comp:obj	_	Gloss=one
 20	dàgà	dàgà	ADP	_	_	19	mod	_	Gloss=from
@@ -400,7 +400,7 @@
 3	maː	maː	PART	_	PartType=Top	2	discourse@top	_	Gloss=even
 4	ɗîn	ɗin	DET	_	Definite=Def	2	det	_	Gloss=Def
 5	samsam	samsan	IDEO	_	_	8	mod	_	Gloss=absolutely
-6	baː-	bâː-	PART	_	Aspect=Prog|Number=Plur|PartType=Neg|Polarity=Neg	8	mod	_	Gloss=Neg.Prog-|SpaceAfter=No|wordform=baː
+6	baː-	bâː-	PART	_	Aspect=Prog|Number=Plur|PartType=Neg|Polarity=Neg	8	mod/m	_	Gloss=Neg.Prog-|SpaceAfter=No|wordform=baː
 7	sàː=	su	PRON	_	Number=Plur|Person=3|PronType=Prs	8	subj/m	_	Gloss=3Plur=|wordform=baːsàː
 8	sô	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	0	root	_	Compound=Yes|Gloss=want.Vnoun.Masc.|SpaceAfter=No|wordform=sôn
 9	-n	na	PART	_	Case=Gen|PartType=Case	8	udep/m	_	Gloss=Gen.Masc/Plur

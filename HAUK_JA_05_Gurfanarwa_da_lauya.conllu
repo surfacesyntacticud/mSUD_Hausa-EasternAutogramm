@@ -104,11 +104,11 @@
 16	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	15	mod	_	Gloss=Gen.Fem
 17	Biyu	Biyu	PROPN	_	_	16	comp:obj	_	Gloss=Biyu
 18	-	-	PUNCT	_	_	15	punct	_	Gloss=PUNCT|SpaceAfter=No
-19	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	15	mod@relcl	_	Gloss=REL.Fem
+19	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	22	subj	_	Gloss=Pron.Fem.Rel|RelPos=Yes|Relz=word
 20-21	ta=	_	_	_	_	_	_	_	_
 20	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	22	subj/m	_	Gloss=3Fem-|Relative=Yes|SpaceAfter=No|wordform=ta
 21	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	22	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-22	sâː	sâː	VERB	_	_	19	comp:obj	_	Gloss=cause
+22	sâː	sâː	VERB	_	_	15	mod@relcl	_	ClauseType=Rel|Gloss=cause
 23	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	27	subj	_	Gloss=3Fem.Nom
 24	gwamnatìn	gwamnatì	NOUN	_	Definite=Def|Gender=Fem	23	conj:appos	_	Gloss=government.Fem.Def
 25-26	ta=	_	_	_	_	_	_	_	_
@@ -345,14 +345,14 @@
 22	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	23	det	_	Gloss=some.Fem.Spec
 23	takàr̃daː	takàr̃daː	NOUN	_	Gender=Fem	21	comp:obj	_	Gloss=paper.Fem
 24	cèː	neː	PART	_	Gender=Fem	23	discourse@foc	_	Gloss=Emph.Fem
-25	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	23	mod@relcl	_	Gloss=REL.Fem
+25	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	31	subj	_	Gloss=Pron.Fem.Rel|RelPos=Yes|Relz=word
 26	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	31	subj	_	Gloss=3Masc.Nom
 27	Chief	Chief	PROPN	_	_	26	conj:appos	_	Gloss=Chief
 28	G.F.	G.F.	PROPN	_	_	27	mod@appos	_	Gloss=G.F.
 29-30	ya=	_	_	_	_	_	_	_	_
 29	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	31	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
 30	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	31	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-31	r̃ubùːtaː	r̃ubuːt-	VERB	_	_	25	comp:obj	_	Gloss=write
+31	r̃ubùːtaː	r̃ubuːt-	VERB	_	_	23	mod@relcl	_	ClauseType=Rel|Gloss=write
 32	à	à	ADP	_	_	31	mod	_	Gloss=at
 33	cikin	cikin	ADP	_	_	32	comp:obj	_	Gloss=inside
 34	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	35	det	_	Gloss=some.Fem.Spec
@@ -372,38 +372,37 @@
 # sent_id = 05_Gurfanarwa_da_lauya_13
 # text_en = In it, he accused the Government's economic policy of deteriorating the situation of Nigerian workers.
 # text_ortho = À cikintà kuma yaː sòːki manufar̃ tattalin ar̃zìkin Gwamnatì, yanàː cêːwaː tanàː ta laːlàːtà haːlin ràːyuwar̃ maꞌàikàtan Nàːjeːr̃iyàː.
-# text = à cikiː-n-tà kuma yaː= sòːki manufar̃ tattalin ar̃zìkin Gwamnatì, yanàː= cêːwaː tanàː= ta laːlàːtà haːlin ràːyuwar̃ maꞌàikàtan Nàːjeːr̃iyàː.
-1	à	à	ADP	_	_	8	mod	_	Gloss=at
-2	ciki	cikin	ADP	_	_	1	comp:obj	_	Gloss=inside.Masc|Poss=Yes|SpaceAfter=No|wordform=cikin|wordfrom=cikintà
-3	-n	na	PART	_	Case=Gen|PartType=Case	2	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
-4	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	3	comp:obj/m	_	Gloss=3Fem.Gen
-5	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
-6	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	8	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
-7	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	8	mod/m	_	Gloss=Perf.Sing=|wordform=aː
-8	sòːki	sauk-	VERB	_	_	0	root	_	Gloss=criticize
-9	manufa	manufar̃	NOUN	_	Gender=Fem	8	comp:obl	_	Gloss=policy.Fem|SpaceAfter=No|wordform=manufar̃
-10	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	9	mod/m	_	Gloss=Gen.Fem
-11	tattali	tattaliː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=planning.Masc|SpaceAfter=No|wordform=tattalin
-12	-n	na	PART	_	Case=Gen|PartType=Case	11	mod/m	_	Gloss=Gen.Masc/Plur
-13	ar̃zìki	ar̃zìkiː	NOUN	_	Gender=Masc	12	comp:obj	_	Gloss=wealth.Masc|SpaceAfter=No|wordform=ar̃zìkin
-14	-n	na	PART	_	Case=Gen|PartType=Case	13	mod/m	_	Gloss=Gen.Masc/Plur
-15	Gwamnatì	Gwamnatì	PROPN	_	_	14	comp:obj	_	Gloss=Gwamnatì|SpaceAfter=No
-16	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
-17	ya	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	18	subj/m	_	Gloss=3Masc
-18	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	8	parataxis@conj	_	Gloss=Prog|wordform=yanàː
-19	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	18	comp:aux	_	Gloss=say.Vnoun.Fem
-20	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	21	subj/m	_	Gloss=3Fem-|SpaceAfter=No
-21	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	19	comp:obj	_	Gloss=Prog|wordform=tanàː
-22	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	23	mod	_	Gloss=Iter
-23	laːlàːtà	laːlat-	VERB	_	_	21	comp:pred	_	Gloss=spoil
-24	haːli	haːliː	NOUN	_	Gender=Masc	23	comp:obj	_	Gloss=situation.Masc|SpaceAfter=No|wordform=haːlin
-25	-n	na	PART	_	Case=Gen|PartType=Case	24	mod/m	_	Gloss=Gen.Masc/Plur
-26	ràːyuwa	ràːyuwaː	NOUN	_	Gender=Fem	25	comp:obj	_	Gloss=life.Fem|SpaceAfter=No|wordform=ràːyuwar̃
-27	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	26	mod/m	_	Gloss=Gen.Fem
-28	maꞌàikàta	maꞌàikàciː	NOUN	_	Number=Plur	27	comp:obj	_	Gloss=worker.Plur|SpaceAfter=No|wordform=maꞌàikàtan
-29	-n	na	PART	_	Case=Gen|PartType=Case	28	udep/m	_	Gloss=Gen.Masc/Plur
-30	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	29	comp:obj	_	Gloss=Nigeria|SpaceAfter=No
-31	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
+# text = à cikin-tà kuma y-aː= sòːki manufa-r̃ tattali-n ar̃zìki-n Gwamnatì, ya nàː cêːwaː ta-nàː ta laːlàːtà haːli-n ràːyuwa-r̃ maꞌàikàta-n Nàːjeːr̃iyàː.
+1	à	à	ADP	_	_	7	mod	_	Gloss=at
+2	cikin	cikin	ADP	_	_	1	comp:obj	_	Gloss=inside|SpaceAfter=No|wordfrom=cikintà
+3	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	2	comp:obj/m	_	Gloss=3Fem.Gen
+4	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
+5	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	7	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
+6	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	7	mod/m	_	Gloss=Perf.Sing=|wordform=aː
+7	sòːki	sauk-	VERB	_	_	0	root	_	Gloss=criticize
+8	manufa	manufar̃	NOUN	_	Gender=Fem	7	comp:obl	_	Gloss=policy.Fem|SpaceAfter=No|wordform=manufar̃
+9	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	8	mod/m	_	Gloss=Gen.Fem
+10	tattali	tattaliː	NOUN	_	Gender=Masc	9	comp:obj	_	Gloss=planning.Masc|SpaceAfter=No|wordform=tattalin
+11	-n	na	PART	_	Case=Gen|PartType=Case	10	mod/m	_	Gloss=Gen.Masc/Plur
+12	ar̃zìki	ar̃zìkiː	NOUN	_	Gender=Masc	11	comp:obj	_	Gloss=wealth.Masc|SpaceAfter=No|wordform=ar̃zìkin
+13	-n	na	PART	_	Case=Gen|PartType=Case	12	mod/m	_	Gloss=Gen.Masc/Plur
+14	Gwamnatì	Gwamnatì	PROPN	_	_	13	comp:obj	_	Gloss=Gwamnatì|SpaceAfter=No
+15	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
+16	ya	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	17	subj/m	_	Gloss=3Masc
+17	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	7	parataxis@conj	_	Gloss=Prog|wordform=yanàː
+18	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	17	comp:aux	_	Gloss=say.Vnoun.Fem
+19	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	20	subj/m	_	Gloss=3Fem-|SpaceAfter=No
+20	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	18	comp:obj	_	Gloss=Prog|wordform=tanàː
+21	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	22	mod	_	Gloss=Iter
+22	laːlàːtà	laːlat-	VERB	_	_	20	comp:pred	_	Gloss=spoil
+23	haːli	haːliː	NOUN	_	Gender=Masc	22	comp:obj	_	Gloss=situation.Masc|SpaceAfter=No|wordform=haːlin
+24	-n	na	PART	_	Case=Gen|PartType=Case	23	mod/m	_	Gloss=Gen.Masc/Plur
+25	ràːyuwa	ràːyuwaː	NOUN	_	Gender=Fem	24	comp:obj	_	Gloss=life.Fem|SpaceAfter=No|wordform=ràːyuwar̃
+26	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	25	mod/m	_	Gloss=Gen.Fem
+27	maꞌàikàta	maꞌàikàciː	NOUN	_	Number=Plur	26	comp:obj	_	Gloss=worker.Plur|SpaceAfter=No|wordform=maꞌàikàtan
+28	-n	na	PART	_	Case=Gen|PartType=Case	27	udep/m	_	Gloss=Gen.Masc/Plur
+29	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	28	comp:obj	_	Gloss=Nigeria|SpaceAfter=No
+30	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
 # sent_id = 05_Gurfanarwa_da_lauya_14-5
 # text_en = His lawyer went on to say that if Chief G.F. os convicted of this crime, he can receive up to five year's imprisonment.
@@ -618,10 +617,10 @@
 27	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	26	mod/m	_	Gloss=Gen.Fem
 28	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	27	comp:obj	_	Gloss=Nigeria
 29	biyu	biyu	NUM	_	_	22	mod:num	_	Gloss=two
-30	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	22	mod@relcl	_	Gloss=REL.Plur
+30	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	33	comp:obj	_	Gloss=Pron.Plur.Rel|RelPos=Yes|Relz=word
 31	a-	a	PRON	_	Person=4|PronType=PrsSubj	33	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 32	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	33	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-33	zàrgaː	zarg-	VERB	_	_	30	comp:obj	_	Gloss=accuse
+33	zàrgaː	zarg-	VERB	_	_	22	mod@relcl	_	ClauseType=Rel|Gloss=accuse
 34	dà	dà	ADP	_	_	33	comp:obl	_	Gloss=with
 35	lâifi	lâifiː	NOUN	_	Gender=Masc	34	comp:obj	_	Gloss=crime.Masc|SpaceAfter=No|wordform=lâifin
 36	-n	na	PART	_	Case=Gen|PartType=Case	35	mod/m	_	Gloss=Gen.Masc/Plur
@@ -691,11 +690,11 @@
 19	-n	na	PART	_	Case=Gen|PartType=Case	18	udep/m	_	Gloss=Gen.Masc/Plur
 20	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	21	det	_	Gloss=some.Masc.Spec
 21	tàːroː	tàːroː	NOUN	_	Gender=Masc	19	comp:obj	_	Gloss=meeting.Masc
-22	indà	indà	PRON	_	PronType=Rel	21	mod@relcl	_	Gloss=where
+22	indà	indà	PRON	_	PronType=Rel	25	mod	_	Gloss=where.Rel|RelPos=Yes|Relz=word
 23-24	ya=	_	_	_	_	_	_	_	_
 23	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	25	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
 24	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	25	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-25	yi	yi	VERB	_	_	22	comp:obj	_	Gloss=do
+25	yi	yi	VERB	_	_	21	mod@relcl	_	ClauseType=Rel|Gloss=do
 26	wà	mà	ADP	_	Case=Dat	25	comp:obl	_	Gloss=Dat
 27	tsaːrì	tsaːrìː	NOUN	_	Gender=Masc	26	comp:obj	_	Gloss=system.Masc|SpaceAfter=No|wordform=tsaːrìn
 28	-n	na	PART	_	Case=Gen|PartType=Case	27	mod/m	_	Gloss=Gen.Masc/Plur

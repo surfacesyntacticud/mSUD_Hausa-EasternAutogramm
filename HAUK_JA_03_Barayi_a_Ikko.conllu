@@ -280,7 +280,7 @@
 # text_en = While that was happening, the headquarters of Lagos police explained that the number of burglaries and thefts that were committed in Nigeria exceeds what was done in the last five years.
 # text = yàːyîn dà hakàn kèːfàːruwaː, hêdkwatà-r̃ ꞌya-n sàndân à bir̃ni-n Ìkko t-aː= bayyànà cêːwaː yawà-n fàshe-fàshe dà sàːce-sàːcên dà a-kèː yîː à cikin Nàːjeːr̃iyàr̃ y-aː= fi irì-n waɗàndà a-kà= yi cikin shèːkàruː biyûn dà su-kà= wucèː.
 1	yàːyîn	yàːyîː	NOUN	_	Definite=Def|Gender=Masc	18	mod	_	Gloss=time.Def|RelAnt=Yes
-2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP|Relz=Word
+2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP.Rel|Relz=Word
 3	hakàn	hakàn	PRON	_	_	4	subj	_	Gloss=this
 4	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	2	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|SpaceAfter=No
 5	fàːruwaː	faːr-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	4	comp:pred	_	Gloss=happen.Vnoun.Fem|RelRole=mod|SpaceAfter=No
@@ -315,7 +315,7 @@
 34	fi	fi	VERB	_	_	19	comp:obj	_	Gloss=exceed
 35	irì	irìː	NOUN	_	Gender=Masc	34	comp:obj	_	Gloss=type_of.Masc|SpaceAfter=No|wordform=irìn
 36	-n	na	PART	_	Case=Gen|PartType=Case	35	udep/m	_	Gloss=Gen.Masc/Plur
-37	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	40	mod	_	Gloss=REL.Plur|RelPos=Yes|Relz=Word
+37	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	40	comp:pred	_	Gloss=Pron.Plur.Rel|RelPos=Yes|Relz=Word
 38	a-	a	PRON	_	Person=4|PronType=PrsSubj	40	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 39	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	40	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
 40	yi	yi	VERB	_	_	36	mod	_	ClauseType=Rel|Gloss=do
@@ -436,8 +436,8 @@
 43	Lawrence	Lawrence	PROPN	_	_	41	mod	_	Gloss=Lawrence
 44	Anini	Anini	PROPN	_	_	43	flat@name	_	Gloss=Anini|SpaceAfter=No
 45	"	"	PUNCT	_	_	43	punct	_	Gloss=PUNCT|wordform=’
-46	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	38	mod@relcl	_	Gloss=REL.Masc
-47	kèː	nàː	AUX	_	Copula=Yes	46	comp:obj	_	Gloss=bePred.Rel|Relative=Yes
+46	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	47	subj	_	Gloss=Pron.Masc.Rel|RelPos=Yes|Relz=word
+47	kèː	nàː	AUX	_	Copula=Yes	38	mod@relcl	_	ClauseType=Rel|Gloss=bePred.Rel|Relative=Yes
 48	dà	dà	ADP	_	_	47	comp:pred	_	Gloss=with
 49	yâraː	yaːròː	NOUN	_	Number=Plur	48	comp:obj	_	Gloss=boy.Plur
 50	ɓàràːyiː	ɓàraːwòː	NOUN	_	Number=Plur	49	mod	_	Gloss=thief.Plur
@@ -465,12 +465,12 @@
 11	soːjì	soːjà	NOUN	_	Number=Plur	10	comp:obj	_	Gloss=soldier.Plur
 12	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	9	mod:num	_	Gloss=Gen.Fem
 13	biyu	biyu	NUM	_	_	12	comp:obj	_	Gloss=two
-14	-	-	PUNCT	_	_	15	punct	_	Gloss=PUNCT|SpaceAfter=No
-15	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	9	mod@relcl	_	Gloss=REL.Fem
+14	-	-	PUNCT	_	_	18	punct	_	Gloss=PUNCT|SpaceAfter=No
+15	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	18	subj	_	Gloss=Pron.Fem.Rel|RelPos=Yes|Relz=word
 16-17	ta=	_	_	_	_	_	_	_	_
 16	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	18	subj/m	_	Gloss=3Fem-|Relative=Yes|SpaceAfter=No|wordform=ta
 17	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	18	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-18	baː	baː	VERB	_	_	15	comp:obj	_	Gloss=give
+18	baː	baː	VERB	_	_	9	mod@relcl	_	ClauseType=Rel|Gloss=give
 19	dà	dà	ADP	_	_	18	comp:obl	_	Gloss=with
 20	iːkòː	iːkòː	NOUN	_	Gender=Masc	19	comp:obj	_	Gloss=power.Masc
 21	a-	a	PRON	_	Person=4|PronType=PrsSubj	23	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
