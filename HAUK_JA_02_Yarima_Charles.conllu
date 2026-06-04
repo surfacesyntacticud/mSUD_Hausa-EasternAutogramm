@@ -206,7 +206,7 @@
 24	dà	dà	SCONJ	_	_	21	mod@relcl	_	Gloss=CompRel|Relz=Word
 25	a-	a	PRON	_	Person=4|PronType=PrsSubj	27	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 26	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	27	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-27	yi	yi	VERB	_	_	24	comp:obj	_	ClauseType=Rel|Gloss=do
+27	yi	yi	VERB	_	_	24	comp:obj	_	ClauseType=Rel|Gloss=do|RelRole=obl
 28	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	27	comp:obl	_	Gloss=3Masc.Dat|RelPos=Yes
 29	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	27	mod	_	Gloss=time.Masc.Def
 30	dà	dà	SCONJ	_	_	29	comp:obl	_	Gloss=COMP
@@ -320,7 +320,7 @@
 23	dà	dà	SCONJ	_	_	22	mod@relcl	_	Gloss=CompRel|Relz=Word
 24	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	26	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 25	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	26	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-26	saːbàː	saːb-	VERB	_	_	23	comp:obj	_	ClauseType=Rel|Gloss=be_familiar
+26	saːbàː	saːb-	VERB	_	_	23	comp:obj	_	ClauseType=Rel|Gloss=be_familiar|RelRole=obl
 27	dà	dà	ADP	_	_	26	comp:obl	_	Gloss=with
 28	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	27	comp:obj	_	Gloss=3Masc.Nom|RelPos=Yes|SpaceAfter=No
 29	,	,	PUNCT	_	_	33	punct	_	Gloss=PUNCT
@@ -338,7 +338,7 @@
 41	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	40	comp:obj	_	Gloss=Nigeria
 42	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	44	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 43	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	44	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-44	yi	yi	VERB	_	_	38	comp:obj	_	ClauseType=Rel|Gloss=do
+44	yi	yi	VERB	_	_	38	comp:obj	_	ClauseType=Rel|Gloss=do|RelRole=obl
 45	musù	musù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	44	comp:obl	_	Gloss=3Plur.Dat|RelPos=Yes|SpaceAfter=No
 46	.	.	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 
@@ -583,10 +583,10 @@
 13	birân	birìː	NOUN	_	Definite=Def|Number=Plur	12	comp:obj	_	Gloss=monkey.Plur.Def
 14	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=CompRel|Relz=Word
 15	a	a	PRON	_	Person=4|PronType=Prs	16	subj	_	Gloss=4
-16	kè	nàː	AUX	_	Copula=Yes	14	comp:obj	_	ClauseType=Rel|Gloss=bePred.Rel2|Relative=Variant
+16	kè	nàː	AUX	_	Copula=Yes	14	comp:obj	_	ClauseType=Rel|Gloss=bePred.Rel2|Relative=Variant|RelRole=obl
 17	dà	dà	ADP	_	_	16	comp:pred	_	Gloss=with
 18	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	comp:obj	_	Gloss=3Plur.Nom|RelPos=Yes
-19	à	à	ADP	_	_	17	mod	_	Gloss=at
+19	à	à	ADP	_	_	16	mod	_	Gloss=at
 20	Afìr̃kà	Afìr̃kà	PROPN	_	_	19	comp:obj	_	Gloss=Africa
 21	zaː-	zâː-	PART	_	PartType=TAM|Tense=Fut	23	mod/m	_	Gloss=Fut-|SpaceAfter=No
 22	'à=	a	PRON	_	Person=4|PronType=PrsSubj|Tense=Fut	23	subj/m	_	Gloss=4=|wordform=zaː'à

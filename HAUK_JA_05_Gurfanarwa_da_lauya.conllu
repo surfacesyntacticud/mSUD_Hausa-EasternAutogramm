@@ -326,7 +326,7 @@
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=CompRel|Relz=Word
 4	a-	a-	PRON	_	Person=4|PronType=Prs	5	subj/m	_	Gloss=4|SpaceAfter=No
 5	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	3	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|wordform=akèː
-6	zàrgi	zarg-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	5	comp:pred	_	Gloss=accuse.Vnoun.Masc|SpaceAfter=No|wordform=zàrgin
+6	zàrgi	zarg-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	5	comp:pred	_	Gloss=accuse.Vnoun.Masc|RelRole=obl|SpaceAfter=No|wordform=zàrgin
 7	-n	na	PART	_	Case=Gen|PartType=Case	6	udep/m	_	Gloss=Gen.Masc/Plur
 8	Chief	Chief	PROPN	_	_	7	comp:obj	_	Gloss=Chief
 9	G.F.	G.F.	PROPN	_	_	8	mod@appos	_	Gloss=G.F.

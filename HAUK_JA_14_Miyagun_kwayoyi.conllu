@@ -410,7 +410,7 @@
 56	dà	dà	SCONJ	_	_	54	mod@relcl	_	Gloss=CompRel|Relz=Word
 57	a-	a-	PRON	_	Person=4|PronType=Prs	58	subj/m	_	Gloss=4|SpaceAfter=No
 58	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	56	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|wordform=akèː
-59	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	58	comp:pred	_	Gloss=use.Masc
+59	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	58	comp:pred	_	Gloss=use.Masc|RelRole=obl
 60	dà	dà	ADP	_	_	59	comp:obl	_	Gloss=with
 61	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	60	comp:obj	_	Gloss=3Masc.Nom|RelPos=Yes
 62	don	don	SCONJ	_	_	59	mod	_	Gloss=in_order_to
@@ -751,7 +751,7 @@
 26	caːjìn	caːjìː	NOUN	_	Gender=Masc	25	comp:obj	_	Gloss=charge.Masc.Def
 27	dà	dà	SCONJ	_	_	25	mod@relcl	_	Gloss=CompRel|Relz=Word
 28	a-	a-	PRON	_	Person=4|PronType=Prs	29	subj/m	_	Gloss=4|SpaceAfter=No
-29	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	27	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|wordform=akề
+29	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	27	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|RelRole=pred|wordform=akề
 30	yi	yi	VERB	_	_	29	comp:pred	_	Gloss=do|RelPos=Yes
 31	wà	mà	ADP	_	Case=Dat	30	comp:obl	_	Gloss=Dat
 32	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	34	det	_	Gloss=some.Masc.Spec

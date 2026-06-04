@@ -50,7 +50,7 @@
 34	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	36	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 35	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	36	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
 36	yi	yi	VERB	_	_	33	comp:obj	_	ClauseType=Rel|Gloss=do
-37	miyà	miyàː	NOUN	_	Gender=Fem	36	comp:obj	_	Gloss=sauce.Fem|Poss=Yes|SpaceAfter=No|wordform=miyàr̃|wordfrom=miyàr̃sà
+37	miyà	miyàː	NOUN	_	Gender=Fem	36	comp:obj	_	Gloss=sauce.Fem|Poss=Yes|RelRole=mod|SpaceAfter=No|wordform=miyàr̃|wordfrom=miyàr̃sà
 38	-r̃	na	PART	_	Case=Gen|PartType=Case	37	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No|wordform=-t
 39	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	38	comp:obj/m	_	Gloss=3Masc.Gen|RelPos=Yes
 40	dà	dà	ADP	_	_	36	comp:obl	_	Gloss=with

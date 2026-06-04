@@ -626,9 +626,9 @@
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=CompRel|Relz=Word
 4	a-	a	PRON	_	Person=4|PronType=PrsSubj	6	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 5	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	6	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-6	yi	yi	VERB	_	_	3	comp:obj	_	ClauseType=Rel|Gloss=do
+6	yi	yi	VERB	_	_	3	comp:obj	_	ClauseType=Rel|Gloss=do|RelRole=obl
 7	hiːr̃a	hiːr̃a	NOUN	_	Gender=Fem	6	comp:pred	_	Gloss=conversation.Fem
-8	dà	dà	ADP	_	_	7	comp:obl	_	Gloss=with
+8	dà	dà	ADP	_	_	6	comp:obl	_	Gloss=with
 9	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	8	comp:obj	_	Gloss=3Masc.Nom|RelPos=Yes
 10	à	à	ADP	_	_	6	mod	_	Gloss=at
 11	Ìkko	Ìkko	PROPN	_	_	10	comp:obj	_	Gloss=Lagos

@@ -106,7 +106,7 @@
 29	bà	bà	PART	_	PartType=Neg|Polarity=Neg	32	mod	_	Gloss=Neg
 30	zaː-	zâː-	PART	_	PartType=TAM|Tense=Fut	32	mod/m	_	Gloss=Fut-|SpaceAfter=No
 31	'à=	a	PRON	_	Person=4|PronType=PrsSubj|Tense=Fut	32	subj/m	_	Gloss=4=|wordform=zaː'à
-32	sàːmi	saːm-	VERB	_	_	28	mod@relcl	_	Gloss=get
+32	sàːmi	saːm-	VERB	_	_	28	udep	_	Gloss=get
 33	daːma	daːmaː	NOUN	_	Gender=Fem	32	comp:obj	_	Compound=Yes|Gloss=opportunity.Fem.|SpaceAfter=No|wordform=daːmar̃
 34	-r̃	na	PART	_	Case=Gen|PartType=Case	33	mod/m	_	Gloss=Gen.Fem
 35	a-	a	PRON	_	Person=4|PronType=PrsSubj	37	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à

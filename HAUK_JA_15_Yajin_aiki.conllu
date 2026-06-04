@@ -685,7 +685,7 @@
 56	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	55	comp:obj/m	_	Gloss=3Masc.Gen
 57	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	58	subj/m	_	Gloss=3Fem-|SpaceAfter=No
 58	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	53	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|wordform=takèː
-59	aikìː	aikìː	NOUN	_	Gender=Masc	58	comp:pred	_	Gloss=work.Masc|wordform=aiki
+59	aikìː	aikìː	NOUN	_	Gender=Masc	58	comp:pred	_	Gloss=work.Masc|RelRole=obl|wordform=aiki
 60	dà	dà	ADP	_	_	59	comp:obl	_	Gloss=with
 61	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	60	comp:obj	_	Gloss=3Plur.Nom|RelPos=Yes|SpaceAfter=No
 62	.	.	PUNCT	_	_	35	punct	_	Gloss=PUNCT
