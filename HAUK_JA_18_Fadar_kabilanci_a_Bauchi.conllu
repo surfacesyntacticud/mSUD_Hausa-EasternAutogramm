@@ -568,7 +568,7 @@
 12	kudancin	kudancin	ADP	_	_	11	comp:obj	_	Gloss=south_of
 13	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	12	comp:obj	_	Gloss=Nigeria|SpaceAfter=No
 14	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
-15	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	23	dislocated	_	Gloss=Pron.Plur.Rel|RelPos=Yes|Relz=word
+15	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	23	dislocated	_	Gloss=Pron.Plur.Rel|Relz=word
 16	akasàr̃i	akasàr̃iː	NOUN	_	Gender=Masc	23	subj	_	Gloss=majority.Masc|Poss=Yes|SpaceAfter=No|wordform=akasàr̃insù
 17	-n	na	PART	_	Case=Gen|PartType=Case	16	mod@poss	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 18	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	17	comp:obj	_	Gloss=3Plur.Gen|RelPos=Yes

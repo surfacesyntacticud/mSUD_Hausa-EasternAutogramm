@@ -142,7 +142,7 @@
 26	ukù	ukù	NUM	_	_	25	comp:obj	_	Gloss=three
 27	à	à	ADP	_	_	26	mod	_	Gloss=at
 28	duːniːyàː	duːniːyàː	NOUN	_	Gender=Fem	27	comp:obj	_	Gloss=world.Fem
-29	wàddà	wandà	PRON	_	Gender=Fem|PronType=Rel	32	dislocated	_	Gloss=Pron.Fem.Rel|RelPos=Yes|Relz=word|wordform=wadda
+29	wàddà	wandà	PRON	_	Gender=Fem|PronType=Rel	32	dislocated	_	Gloss=Pron.Fem.Rel|Relz=word|wordform=wadda
 30	a-	a	PRON	_	Person=4|PronType=PrsSubj	32	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 31	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	32	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
 32	fi	fi	VERB	_	_	23	mod@relcl	_	ClauseType=Rel|Gloss=exceed
