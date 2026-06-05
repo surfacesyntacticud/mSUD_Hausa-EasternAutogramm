@@ -903,10 +903,10 @@
 10	jàm'iyyàr̃	jàm'iyyàː	NOUN	_	Definite=Def|Gender=Fem	9	comp:obj	_	Gloss=party.Fem.Def
 11	taːsà	taːsà	PRON	_	Case=Gen|Gender=Fem|PronType=Prs	10	mod@poss	_	CaseAf=Gen|GenderAf=Masc|Gloss=Gen.Fem-3MascGen|MSeg=taː-sà|PersonAf=3|Poss=Yes|SpaceAfter=No|wordform=taː
 12	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
-13	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	15	dislocated@comp	_	Gloss=Pron.Fem.Rel|RelPos=Yes|Relz=word
+13	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	19	dislocated	_	Gloss=Pron.Fem.Rel|Relz=word
 14	à	à	ADP	_	_	19	mod	_	Gloss=at
 15	cikin	cikin	ADP	_	_	14	comp:obj	_	Gloss=inside|SpaceAfter=No|wordfrom=cikintà
-16	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	15	comp:obj/m	_	Gloss=3Fem.Gen
+16	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	15	comp:obj/m	_	Gloss=3Fem.Gen|RelPos=Yes
 17-18	ya=	_	_	_	_	_	_	_	_
 17	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	19	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
 18	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	19	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
@@ -1044,7 +1044,7 @@
 # sent_id = 11_Fela_Kuti_27
 # text_en = What made the rest of the world take interest in Fela was his twenty-seven wifes all of whom he married in nineteen seventy-eight.
 # text_ortho = Wani àbù kuma dà ya sâː sauran duːniyàː ta shìga nuːnà shàʼawàː gàme dà Fela, shiː nèː gàme dà maːtansà na aureː suː àshìr̃in dà bakwài, waɗàndà ya àuri dukkànsù à shèːkaràr̃ alìf dà ɗàriː tar̃à dà sàbà'in dà takwàs.
-# text = wani àbù kuma dà ya=sâː saura-n duːniyàː ta=shìga nuːnà shàʼawàː gàme dà Fela, shiː nèː gàme dà maːta-n-sà na aureː suː àshìr̃in dà bakwài, waɗàndà ya=àuri dukkà -n-sù à shèːkarà-r̃ alìf dà ɗàriː tar̃à dà sàbà'in dà takwàs.
+# text = wani àbù kuma dà ya= sâː saura-n duːniyàː ta= shìga nuːnà shàʼawàː gàme dà Fela, shiː nèː gàme dà maːta-n-sà na aureː suː àshìr̃in dà bakwài, waɗàndà ya= àuri dukkà -n-sù à shèːkarà-r̃ alìf dà ɗàriː tar̃à dà sàbà'in dà takwàs.
 1	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	2	det	_	Gloss=some.Masc.Spec
 2	àbù	àbù	NOUN	_	Gender=Masc	21	subj	_	Gloss=thing.Masc|RelAnt=Yes
 3	kuma	kuma	PART	_	PartType=Top	2	discourse@top	_	Gloss=also
@@ -1080,14 +1080,14 @@
 31	dà	dà	CCONJ	_	_	32	cc	_	Gloss=and
 32	bakwài	bakwài	NUM	_	_	30	conj:coord	_	Gloss=seven|SpaceAfter=No
 33	,	,	PUNCT	_	_	37	punct	_	Gloss=PUNCT
-34	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	39	dislocated@comp	_	Gloss=Pron.Plur.Rel|RelPos=Yes|Relz=word
+34	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	37	dislocated	_	Gloss=Pron.Plur.Rel|Relz=word
 35-36	ya=	_	_	_	_	_	_	_	_
 35	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	37	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
 36	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	37	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
 37	àuri	aur-	VERB	_	_	24	mod@relcl	_	ClauseType=Rel|Gloss=marry
 38	dukkà	dukkà	PRON	_	PronType=Tot	37	comp:obj	_	Gloss=all|wordform=dukkànsù
 39	-n	na	PART	_	Case=Gen|PartType=Case	38	mod/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
-40	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	39	comp:obj	_	Gloss=3Plur.Gen
+40	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	39	comp:obj	_	Gloss=3Plur.Gen|RelPos=Yes
 41	à	à	ADP	_	_	37	mod	_	Gloss=at
 42	shèːkarà	shèːkaràː	NOUN	_	Gender=Fem	41	comp:obj	_	Gloss=year.Fem|SpaceAfter=No|wordform=shèːkaràr̃
 43	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	42	mod/m	_	Gloss=Gen.Fem

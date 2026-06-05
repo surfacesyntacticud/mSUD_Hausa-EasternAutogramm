@@ -390,7 +390,7 @@
 # sent_id = 08_Maciji_10
 # text_en = Likewise, the hospital officials gave a warning concerning all sort of insecticides that farmers were using to prevent insects from damaging their crops.
 # text_ortho = Hakà kuma jàːmì'an asìbitìn sun yi wani gàr̃gàɗiː gàme dà maːgungunàn kashè ƙwàːriː irìː dàbam dàbam waɗàndà manòːmaː kèː àmfàniː dà suː don kadà wasu ƙwàːriː sù laːlàːtaː musù àmfàːnin goːnaː.
-# text = hakà kuma jàːmì'an asìbitìn sun yi wani gàr̃gàɗiː gàme dà maːgungunàn kashè ƙwàːriː irìː dàbam dàbam waɗàndà manòːmaː kèː àmfàniː dà suː don kadà wasu ƙwàːriː sù laːlàːtaː musù àmfàːnin goːnaː.
+# text = hakà kuma jàːmì'a-n asìbitìn su-n= yi wani gàr̃gàɗiː gàme dà maːgungunà-n kashè ƙwàːriː irìː dàbam dàbam waɗàndà manòːmaː kèːàmfàniː dà suː don kadà wasu ƙwàːriː su-_̀= laːlàːtaː musù àmfàːni-n goːnaː.
 1	hakà	hakà	ADV	_	_	8	mod	_	Gloss=thus
 2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 3	jàːmì'a	jaːmì'iː	NOUN	_	Number=Plur	8	subj	_	Gloss=leader.Plur|SpaceAfter=No|wordform=jàːmì'an
@@ -410,12 +410,12 @@
 17	irìː	irìː	NOUN	_	Gender=Masc	13	mod	_	Gloss=type.Masc
 18	dàbam	dàbam	ADJ	_	_	17	mod	_	Gloss=different
 19	dàbam	dàbam	ADJ	_	_	18	conj:redup	_	Gloss=different
-20	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	24	dislocated@comp	_	Gloss=Pron.Plur.Rel|RelPos=Yes|Relz=word
+20	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	22	dislocated	_	Gloss=Pron.Plur.Rel|Relz=word
 21	manòːmaː	manòːmiː	NOUN	_	Number=Plur	22	subj	_	Gloss=farmer.Plur
 22	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	13	mod@relcl	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|SpaceAfter=No
 23	àmfàniː	àmfàniː	NOUN	_	Gender=Masc	22	comp:pred	_	Gloss=using.Masc
 24	dà	dà	ADP	_	_	23	comp:obl	_	Gloss=with
-25	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	24	comp:obj	_	Gloss=3Plur.Nom
+25	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	24	comp:obj	_	Gloss=3Plur.Nom|RelPos=Yes
 26	don	don	SCONJ	_	_	23	mod	_	Gloss=in_order_to
 27	kadà	kaɗà	PART	_	PartType=Neg|Polarity=Neg	32	mod	_	Gloss=Neg
 28	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	29	det	_	Gloss=some.Plur.Spec

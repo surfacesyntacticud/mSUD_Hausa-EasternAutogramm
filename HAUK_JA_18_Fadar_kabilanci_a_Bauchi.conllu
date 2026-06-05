@@ -342,7 +342,7 @@
 # sent_id = 18_Fadar_kabilanci_a_Bauchi_8
 # text_en = From there, the disturbances spread to other districts of Bauchi State, until it reached the capital of the state, where later eighty people died and then churches and buildings were set on fire.
 # text_ortho = Dàgà nan nèː kuma sai taːshìn hankàlîn ya bàzu sauran sâssan jihàr̃ ta Bauci, har̃ ya kai gà bàbban bir̃nin jihàr̃, wandà dàgà bìsaːniː kìːmaːnìn mutàːneː tàmàːnin sukà rasà raːyukànsù , sànnan kuma akà cinnàː wà coːcì-coːcì dà gìne-gìne wutaː.
-# text = dàgà nan nèː kuma sai taːshìn hankàlîn ya= bàzu sauran sâssan jihàr̃ ta Bauci, har̃ ya= kai gà bàbban bir̃nin jihàr̃, wandà dàgà bìsaːniː kìːmaːnìn mutàːneː tàmàːnin sukà= rasà raːyukà-n-sù , sànnan kuma akà= cinnàː wà coːcì-coːcì dà gìne-gìne wutaː.
+# text = dàgà nan nèː kuma sai taːshì-n hankàlîn ya= bàzu saura-n sâssa-n jihàr̃ ta Bauci, har̃ ya= kai gà bàbban bir̃ni-n jihàr̃, wandà dàgà bìsaːniː kìːmaːnì-n mutàːneː tàmàːnin su-kà= rasà raːyukà-n-sù , sànnan kuma a-kà= cinnàː wà coːcì-coːcì dà gìne-gìne wutaː.
 1	dàgà	dàgà	ADP	_	_	11	mod	_	Gloss=from
 2	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	1	comp:obj	_	Gloss=PreRef|PreRef=Yes
 3	nèː	neː	PART	_	PartType=Foc	1	discourse@foc	_	Gloss=Emph
@@ -374,7 +374,7 @@
 27	-n	na	PART	_	Case=Gen|PartType=Case	26	mod/m	_	Gloss=Gen.Masc/Plur
 28	jihàr̃	jihàr̃	NOUN	_	Definite=Def|Gender=Fem	27	comp:obj	_	Gloss=state.Fem.Def|SpaceAfter=No
 29	,	,	PUNCT	_	_	39	punct	_	Gloss=PUNCT
-30	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	40	dislocated@mod	_	Gloss=Pron.Masc.Rel|RelPos=Yes|Relz=word
+30	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	39	dislocated	_	Gloss=Pron.Masc.Rel|Relz=word
 31	dàgà	dàgà	ADP	_	_	39	mod	_	Gloss=from
 32	bìsaːniː	bìsaːniː	ADV	_	_	31	comp:obj	_	Gloss=later
 33	kìːmaːnì	kìːmaːnìː	NOUN	_	Gender=Masc	39	subj	_	Gloss=total.Masc|SpaceAfter=No|wordform=kìːmaːnìn
@@ -553,7 +553,7 @@
 # sent_id = 18_Fadar_kabilanci_a_Bauchi_12
 # text_en = Of all times, religious intolerance between Nigerian southerners, whose majority are Christians, and Nigerian northerners, whose majority are Muslims, has not been a new thing.
 # text_ortho = Dâː maː dai rashìn jìtuwar̃ àddiːnìː tsàkaːnin 'yan kudancin Nàjeːr̃iyàː, waɗàndà akasàr̃insù mabìyaː àddiːnìn Kir̃istàː neː, dà kuma 'yan areːwacin ƙasâr̃, waɗàndà mafìː yawànsù Mùsùlmiː nèː , bàː bàːƙon àbù ba nèː.
-# text = dâː maː dai rashìn jìtuwar̃ àddiːnìː tsàkaːnin 'yan kudancin Nàjeːr̃iyàː, waɗàndà akasàr̃insù mabìyaː àddiːnìn Kir̃istàː neː, dà kuma 'yan areːwacin ƙasâr̃, waɗàndà mafìː yawànsù Mùsùlmiː nèː , bàː bàːƙon àbù ba nèː.
+# text = dâː maː dai rashì-n jìtuwa-r̃ àddiːnìː tsàkaːnin 'ya-n kudancin Nàjeːr̃iyàː, waɗàndà akasàr̃i-n-sù mabìyaː àddiːnì-n Kir̃istàː neː, dà kuma 'ya-n areːwacin ƙasâr̃, waɗàndà mafìː yawà-n-sù Mùsùlmiː nèː , bàː bàːƙon àbù ba nèː.
 1	dâː	dâː	ADV	_	_	44	mod	_	Gloss=formerly
 2	maː	maː	PART	_	PartType=Top	1	discourse@top	_	Gloss=even
 3	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
@@ -568,10 +568,10 @@
 12	kudancin	kudancin	ADP	_	_	11	comp:obj	_	Gloss=south_of
 13	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	12	comp:obj	_	Gloss=Nigeria|SpaceAfter=No
 14	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
-15	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	16	dislocated@mod	_	Gloss=Pron.Plur.Rel|RelPos=Yes|Relz=word
+15	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	23	dislocated	_	Gloss=Pron.Plur.Rel|RelPos=Yes|Relz=word
 16	akasàr̃i	akasàr̃iː	NOUN	_	Gender=Masc	23	subj	_	Gloss=majority.Masc|Poss=Yes|SpaceAfter=No|wordform=akasàr̃insù
 17	-n	na	PART	_	Case=Gen|PartType=Case	16	mod@poss	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
-18	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	17	comp:obj	_	Gloss=3Plur.Gen
+18	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	17	comp:obj	_	Gloss=3Plur.Gen|RelPos=Yes
 19	mabìyaː	mabìyiː	NOUN	_	Number=Plur	23	comp:pred	_	Gloss=follower.Plur
 20	àddiːnì	àddiːnìː	NOUN	_	Gender=Masc|Number=Plur	19	comp:obj	_	Gloss=religion.Masc|SpaceAfter=No|wordform=àddiːnìn
 21	-n	na	PART	_	Case=Gen|PartType=Case	20	mod/m	_	Gloss=Gen.Masc/Plur
