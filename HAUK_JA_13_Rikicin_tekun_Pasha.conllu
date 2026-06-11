@@ -36,7 +36,7 @@
 13	yi	yi	VERB	_	_	0	root	_	Gloss=do
 14	kiràː	kiraː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	13	comp:pred	_	Gloss=call.Vnoun.Masc
 15	gà	gà	ADP	_	_	14	comp:obl	_	Gloss=to
-16	jàma'à	jàma'àː	NOUN	_	Gender=Fem	15	comp:obj	_	Gloss=people.Fem|Poss=Yes|SpaceAfter=No|wordform=jàma'àr̃|wordfrom=jàma'àr̃sà
+16	jàma'à	jàma'àː	NOUN	_	Gender=Fem	15	comp:obj	_	Gloss=people.Fem|SpaceAfter=No|wordform=jàma'àr̃|wordfrom=jàma'àr̃sà
 17	-r̃	na	PART	_	Case=Gen|PartType=Case	16	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No|wordform=-t
 18	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	17	comp:obj/m	_	Gloss=3Masc.Gen
 19	dà	dà	SCONJ	_	_	14	comp:obl	_	Gloss=COMP
@@ -132,7 +132,7 @@
 # text = à sanâr̃wâr̃ taːsà dai, Sarkin Mùsùlmiː bà-ì=fitoː fiːliː y-aː= bayyànà tàkàr̃dûn dà ya-kèː màganàː à kâi ba, tòː àmmaː à 'yan kwàːnàkin nàn jàr̃ìːdu-n Nàːjeːr̃iyàː su-n= shaː bugà shar̃hìː dà kèː nuːnà ƙî-n jini-n Amìr̃kà.
 1	à	à	ADP	_	_	10	mod	_	Gloss=at|wordform=A
 2	sanâr̃wâr̃	sanâr̃waː	NOUN	_	Definite=Def|Gender=Fem	1	comp:obj	_	Gloss=announcement.Fem.Def
-3	taːsà	taːsà	PRON	_	Case=Gen|Gender=Fem|PronType=Prs	2	mod@poss	_	CaseAf=Gen|GenderAf=Masc|Gloss=Gen.Fem-3MascGen|MSeg=taː-sà|PersonAf=3|Poss=Yes|wordform=taː
+3	taːsà	taːsà	PRON	_	Case=Gen|Gender=Fem|PronType=Prs	2	mod@poss	_	CaseAf=Gen|GenderAf=Masc|Gloss=Gen.Fem-3MascGen|MSeg=taː-sà|PersonAf=3|wordform=taː
 4	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	Sarkin	sarkiː	PROPN	_	Gender=Masc	10	subj	_	Gloss=leader.Masc.
@@ -264,7 +264,7 @@
 42	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	44	subj/m	_	Gloss=3.Plur-|SpaceAfter=No|wordform=sù
 43	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	44	mod/m	_	Gloss=Sub=
 44	bayyànà	bayyan-	VERB	_	_	40	parataxis@conj	_	Gloss=explain
-45	r̃a'àyi	r̃a'àyin	NOUN	_	Gender=Masc	44	comp:obj	_	Gloss=viewpoint.Masc|Poss=Yes|SpaceAfter=No|wordform=r̃a'àyinsù
+45	r̃a'àyi	r̃a'àyin	NOUN	_	Gender=Masc	44	comp:obj	_	Gloss=viewpoint.Masc|SpaceAfter=No|wordform=r̃a'àyinsù
 46	-n	na	PART	_	Case=Gen|PartType=Case	45	mod@poss	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 47	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	46	comp:obj	_	Gloss=3Plur.Gen
 48	à	à	ADP	_	_	44	comp:obl	_	Gloss=at
@@ -362,7 +362,7 @@
 18	-n	na	PART	_	Case=Gen|PartType=Case	17	udep/m	_	Gloss=Gen.Masc/Plur
 19	goːyo	goːy-	VERB	_	ExtPos=NOUN|Gender=Masc|Number=Plur|VerbForm=Vnoun	18	comp:obj	_	Gloss=support.Vnoun.Masc|SpaceAfter=No|wordform=goːyon
 20	-n	na	PART	_	Case=Gen|PartType=Case	19	udep/m	_	Gloss=Gen.Masc/Plur
-21	baːya	baːyaː	NOUN	_	Gender=Masc	20	comp:obj	_	Gloss=back.Masc|Poss=Yes|SpaceAfter=No|wordform=baːyansù
+21	baːya	baːyaː	NOUN	_	Gender=Masc	20	comp:obj	_	Gloss=back.Masc|SpaceAfter=No|wordform=baːyansù
 22	-n	na	PART	_	Case=Gen|PartType=Case	21	mod@poss	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 23	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	22	comp:obj	_	Gloss=3Plur.Gen
 24	gà	gà	ADP	_	_	19	comp:obl	_	Gloss=about
@@ -558,7 +558,7 @@
 58	dà	dà	CCONJ	_	_	59	cc	_	Gloss=and
 59	àːbòːka	àːboːkiː	NOUN	_	Number=Plur	55	conj:coord	_	Gloss=friend.Plur|SpaceAfter=No|wordform=àːbòːkan
 60	-n	na	PART	_	Case=Gen|PartType=Case	59	mod/m	_	Gloss=Gen.Masc/Plur
-61	ƙàwànce	ƙàwàncen	NOUN	_	Gender=Masc	60	comp:obj	_	Gloss=coalition.Masc|Poss=Yes|SpaceAfter=No|wordform=ƙàwàncen|wordfrom=ƙàwàncentà
+61	ƙàwànce	ƙàwàncen	NOUN	_	Gender=Masc	60	comp:obj	_	Gloss=coalition.Masc|SpaceAfter=No|wordform=ƙàwàncen|wordfrom=ƙàwàncentà
 62	-n	na	PART	_	Case=Gen|PartType=Case	61	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 63	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	62	comp:obj/m	_	Gloss=3Fem.Gen
 64	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	66	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
@@ -637,7 +637,7 @@
 22	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	23	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
 23	faːrà	faːr-	VERB	_	_	0	root	_	Gloss=begin
 24	huːcè	huːt-	VERB	_	_	23	comp:obj	_	Gloss=vent
-25	haushi	haushiː	NOUN	_	Gender=Masc	24	comp:obj	_	Gloss=anger.Masc|Poss=Yes|SpaceAfter=No|wordform=haushinsù
+25	haushi	haushiː	NOUN	_	Gender=Masc	24	comp:obj	_	Gloss=anger.Masc|SpaceAfter=No|wordform=haushinsù
 26	-n	na	PART	_	Case=Gen|PartType=Case	25	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 27	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	26	comp:obj	_	Gloss=3Plur.Gen
 28	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	30	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà

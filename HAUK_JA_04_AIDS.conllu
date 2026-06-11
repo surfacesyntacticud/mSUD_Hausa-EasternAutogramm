@@ -122,7 +122,7 @@
 33	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	32	mod/m	_	Gloss=Gen.Fem
 34	AIDS	AIDS	PROPN	_	_	33	comp:obj	_	Gloss=AIDS
 35	à	à	ADP	_	_	28	mod	_	Gloss=at
-36	jìki	jìkiː	NOUN	_	Gender=Masc	35	comp:obj	_	Gloss=body.Masc|Poss=Yes|SpaceAfter=No|wordform=jìkinsà|wordfrom=jìkinsà
+36	jìki	jìkiː	NOUN	_	Gender=Masc	35	comp:obj	_	Gloss=body.Masc|SpaceAfter=No|wordform=jìkinsà|wordfrom=jìkinsà
 37	-n	na	PART	_	Case=Gen|PartType=Case	36	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 38	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	37	comp:obj/m	_	Gloss=3Masc.Gen
 39	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
@@ -158,7 +158,7 @@
 9	–	–	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 10	wàːtòː	wàːtòː	CCONJ	_	_	11	cc	_	Gloss=i.e.
 11	jìmaːꞌì	jìmaːꞌì	NOUN	_	Gender=Masc	8	conj:dicto	_	Gloss=sexual_intercourse.Masc
-12	-	-	PUNCT	_	_	11	punct	_	Gloss=PUNCT|Poss=Yes|SpaceAfter=No
+12	-	-	PUNCT	_	_	11	punct	_	Gloss=PUNCT|SpaceAfter=No
 13	tsàkaːnin	tsàkaːnin	ADP	_	Gender=Masc	8	mod	_	Gloss=between
 14	màcè	màcè	NOUN	_	Gender=Fem	13	comp:obj	_	Gloss=woman.Fem
 15	dà	dà	CCONJ	_	_	16	cc	_	Gloss=and
@@ -216,7 +216,7 @@
 16	bazà	baz-	ADP	_	_	15	comp:obj	_	Gloss=spread
 17	cùːtâr̃	cùːtaː	NOUN	_	Definite=Def|Gender=Fem	16	comp:obj	_	Gloss=disease.Fem.Def
 18	ta	ta	ADP	_	_	16	comp:obl	_	Gloss=via
-19	màniyyì	màniyyìː	NOUN	_	Gender=Masc	18	comp:obj	_	Gloss=sperm.Masc|Poss=Yes|SpaceAfter=No|wordform=màniyyìn|wordfrom=màniyyìnsà
+19	màniyyì	màniyyìː	NOUN	_	Gender=Masc	18	comp:obj	_	Gloss=sperm.Masc|SpaceAfter=No|wordform=màniyyìn|wordfrom=màniyyìnsà
 20	-n	na	PART	_	Case=Gen|PartType=Case	19	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 21	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	20	comp:obj/m	_	Gloss=3Masc.Gen
 22	.	.	PUNCT	_	_	14	punct	_	Gloss=PUNCT
@@ -247,7 +247,7 @@
 20	-n	na	PART	_	Case=Gen|PartType=Case	19	udep/m	_	Gloss=Gen.Fem
 21	cùːtâr̃	cùːtaː	NOUN	_	Definite=Def|Gender=Fem	20	comp:obj	_	Gloss=disease.Fem.Def
 22	à	à	ADP	_	_	17	mod	_	Gloss=at
-23	jini	jiniː	NOUN	_	Gender=Masc	22	comp:obj	_	Gloss=blood.Masc|Poss=Yes|SpaceAfter=No|wordform=jininsà|wordfrom=jininsà
+23	jini	jiniː	NOUN	_	Gender=Masc	22	comp:obj	_	Gloss=blood.Masc|SpaceAfter=No|wordform=jininsà|wordfrom=jininsà
 24	-n	na	PART	_	Case=Gen|PartType=Case	23	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 25	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	24	comp:obj/m	_	Gloss=3Masc.Gen
 26	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
@@ -260,7 +260,7 @@
 33	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	32	mod	_	Gloss=Gen.Fem
 34	cùːtâr̃	cùːtaː	NOUN	_	Definite=Def|Gender=Fem	33	comp:obj	_	Gloss=disease.Fem.Def
 35	à	à	ADP	_	_	30	comp:obl	_	Gloss=at
-36	jìki	jìkiː	NOUN	_	Gender=Masc	35	comp:obj	_	Gloss=body.Masc|Poss=Yes|SpaceAfter=No|wordform=jìkinsà|wordfrom=jìkinsà
+36	jìki	jìkiː	NOUN	_	Gender=Masc	35	comp:obj	_	Gloss=body.Masc|SpaceAfter=No|wordform=jìkinsà|wordfrom=jìkinsà
 37	-n	na	PART	_	Case=Gen|PartType=Case	36	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 38	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	37	comp:obj/m	_	Gloss=3Masc.Gen
 39	ba	ba	PART	_	PartType=Neg|Polarity=Neg	30	mod	_	Gloss=Neg|SpaceAfter=No
@@ -268,7 +268,7 @@
 41	sai	sai	CCONJ	_	_	43	cc	_	Gloss=except_that
 42	dai	dai	PART	_	PartType=Top	41	discourse@top	_	Gloss=anyway
 43	à	à	ADP	_	_	35	conj:coord	_	Gloss=at
-44	jini	jiniːtà	NOUN	_	Gender=Masc	43	comp:obj	_	Gloss=blood.Masc|Poss=Yes|SpaceAfter=No|wordform=jininsà|wordfrom=jininsà
+44	jini	jiniːtà	NOUN	_	Gender=Masc	43	comp:obj	_	Gloss=blood.Masc|SpaceAfter=No|wordform=jininsà|wordfrom=jininsà
 45	-n	na	PART	_	Case=Gen|PartType=Case	44	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 46	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	45	comp:obj/m	_	Gloss=3Masc.Gen
 47	,	,	PUNCT	_	_	50	punct	_	Gloss=PUNCT
@@ -279,11 +279,11 @@
 52	bazà	baz-	VERB	_	_	51	comp:obj	_	Gloss=spread
 53	cùːtâr̃	cùːtaː	NOUN	_	Definite=Def|Gender=Fem	52	comp:obj	_	Gloss=disease.Fem.Def
 54	ta	ta	ADP	_	_	52	comp:obl	_	Gloss=via
-55	jini	jiniːtà	NOUN	_	Gender=Masc	54	comp:obj	_	Gloss=blood.Masc|Poss=Yes|SpaceAfter=No|wordform=jininsà|wordfrom=jininsà
+55	jini	jiniːtà	NOUN	_	Gender=Masc	54	comp:obj	_	Gloss=blood.Masc|SpaceAfter=No|wordform=jininsà|wordfrom=jininsà
 56	-n	na	PART	_	Case=Gen|PartType=Case	55	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 57	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	56	comp:obj/m	_	Gloss=3Masc.Gen
 58	dà	dà	CCONJ	_	_	59	cc	_	Gloss=and
-59	màniyyì	màniyyìː	NOUN	_	Gender=Masc	55	conj:coord	_	Gloss=sperm.Masc|Poss=Yes|SpaceAfter=No|wordform=màniyyìnsà|wordfrom=màniyyìnsà
+59	màniyyì	màniyyìː	NOUN	_	Gender=Masc	55	conj:coord	_	Gloss=sperm.Masc|SpaceAfter=No|wordform=màniyyìnsà|wordfrom=màniyyìnsà
 60	-n	na	PART	_	Case=Gen|PartType=Case	59	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 61	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	60	comp:obj/m	_	Gloss=3Masc.Gen
 62	har̃	har̃	ADP	_	_	52	mod	_	Gloss=up_to
@@ -299,14 +299,14 @@
 72	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	73	mod/m	_	Gloss=Sub=
 73	faːrà	faːràː	VERB	_	_	67	comp:obj	_	Gloss=begin
 74	laːlàːtà	laːlaːt-	NOUN	_	_	73	comp:obj	_	Gloss=spoil
-75	jìki	jìkiː	NOUN	_	Gender=Masc	74	comp:obj	_	Gloss=body.Masc|Poss=Yes|SpaceAfter=No|wordform=jìkin|wordfrom=jìkinsà
+75	jìki	jìkiː	NOUN	_	Gender=Masc	74	comp:obj	_	Gloss=body.Masc|SpaceAfter=No|wordform=jìkin|wordfrom=jìkinsà
 76	-n	na	PART	_	Case=Gen|PartType=Case	75	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 77	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	76	comp:obj/m	_	Gloss=3Masc.Gen
 78	,	,	PUNCT	_	_	81	punct	_	Gloss=PUNCT
 79	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	81	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tà
 80	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	81	mod/m	_	Gloss=Sub=
 81	zama	zama	VERB	_	_	73	conj:coord	_	Gloss=become
-82	ajàli	ajàliː	NOUN	_	Gender=Masc	81	comp:pred	_	Gloss=end_of_life.Masc|Poss=Yes|SpaceAfter=No|wordform=ajàlinsà|wordfrom=ajàlinsà
+82	ajàli	ajàliː	NOUN	_	Gender=Masc	81	comp:pred	_	Gloss=end_of_life.Masc|SpaceAfter=No|wordform=ajàlinsà|wordfrom=ajàlinsà
 83	-n	na	PART	_	Case=Gen|PartType=Case	82	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 84	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	83	comp:obj/m	_	Gloss=3Masc.Gen
 85	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT
@@ -398,7 +398,7 @@
 21	-n	na	PART	_	Case=Gen|PartType=Case	20	udep/m	_	Gloss=Gen.Fem
 22	cùːtâr̃	cùːtaː	NOUN	_	Definite=Def|Gender=Fem	21	comp:obj	_	Gloss=disease.Fem.Def
 23	à	à	ADP	_	_	18	mod	_	Gloss=at
-24	jìki	jìkiː	NOUN	_	Gender=Masc	23	comp:obj	_	Gloss=body.Masc|Poss=Yes|SpaceAfter=No|wordform=jìkinsù
+24	jìki	jìkiː	NOUN	_	Gender=Masc	23	comp:obj	_	Gloss=body.Masc|SpaceAfter=No|wordform=jìkinsù
 25	-n	na	PART	_	Case=Gen|PartType=Case	24	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 26	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	25	comp:obj	_	Gloss=3Plur.Gen
 27	kàmar̃	kàmar̃	ADP	_	_	6	mod	_	Gloss=like
@@ -516,7 +516,7 @@
 16	ƙaːràː	ƙaːr-	VERB	_	_	0	root	_	Gloss=increase
 17	dà	dà	ADP	_	_	16	comp:obl	_	Gloss=with
 18	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	17	comp:obj	_	Gloss=say.Vnoun.Fem
-19	kwàmìtî	kwàmìtîː	NOUN	_	Gender=Masc	23	subj	_	Gloss=committee.Masc|Poss=Yes|SpaceAfter=No|wordform=kwàmìtînsà|wordfrom=kwàmìtînsà
+19	kwàmìtî	kwàmìtîː	NOUN	_	Gender=Masc	23	subj	_	Gloss=committee.Masc|SpaceAfter=No|wordform=kwàmìtînsà|wordfrom=kwàmìtînsà
 20	-n	na	PART	_	Case=Gen|PartType=Case	19	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 21	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	20	comp:obj/m	_	Gloss=3Masc.Gen
 22	ya	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	23	subj/m	_	Gloss=3Masc

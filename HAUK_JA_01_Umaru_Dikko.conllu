@@ -451,7 +451,7 @@
 27	taɓà	taɓ-	VERB	_	_	24	comp:obj	_	ClauseType=Rel|Gloss=have_already
 28	yî	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	27	comp:obj	_	Compound=Yes|Gloss=do.Vnoun.Masc.|SpaceAfter=No|wordform=yîn
 29	-n	na	PART	_	Case=Gen|PartType=Case	28	udep/m	_	Gloss=Gen.Masc/Plur
-30	irì	irìː	NOUN	_	Gender=Masc	29	comp:obj	_	Gloss=kind.Masc|Poss=Yes|RelRole=mod|SpaceAfter=No|wordform=irìnsà|wordfrom=irìnsà
+30	irì	irìː	NOUN	_	Gender=Masc	29	comp:obj	_	Gloss=kind.Masc|RelRole=mod|SpaceAfter=No|wordform=irìnsà|wordfrom=irìnsà
 31	-n	na	PART	_	Case=Gen|PartType=Case	30	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 32	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	31	comp:obj/m	_	Gloss=3Masc.Gen|RelPos=Yes
 33	ba	ba	PART	_	PartType=Neg|Polarity=Neg	27	mod	_	Gloss=Neg
@@ -528,7 +528,7 @@
 3	duk	dukà	DET	_	PronType=Tot	4	det	_	Gloss=all
 4	loːkàci	loːkàciː	NOUN	_	Gender=Masc	2	comp:obj	_	Gloss=time.Masc|SpaceAfter=No|wordform=loːkàcin
 5	-n	na	PART	_	Case=Gen|PartType=Case	4	mod/m	_	Gloss=Gen.Masc/Plur
-6	zama	zama	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	5	comp:obj	_	Gloss=stay.Vnoun.Masc|Poss=Yes|SpaceAfter=No|wordform=zamansà|wordfrom=zamansà
+6	zama	zama	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	5	comp:obj	_	Gloss=stay.Vnoun.Masc|SpaceAfter=No|wordform=zamansà|wordfrom=zamansà
 7	-n	na	PART	_	Case=Gen|PartType=Case	6	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 8	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	7	comp:obj/m	_	Gloss=3Masc.Gen
 9	à	à	ADP	_	_	6	mod	_	Gloss=at
@@ -723,7 +723,7 @@
 24	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	26	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yà
 25	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	26	mod/m	_	Gloss=Sub=
 26	yi	yi	VERB	_	_	23	comp:obj	_	Gloss=do
-27	zama	zama	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	26	comp:pred	_	Gloss=stay.Vnoun.Masc|Poss=Yes|SpaceAfter=No|wordform=zamansà|wordfrom=zamansà
+27	zama	zama	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	26	comp:pred	_	Gloss=stay.Vnoun.Masc|SpaceAfter=No|wordform=zamansà|wordfrom=zamansà
 28	-n	na	PART	_	Case=Gen|PartType=Case	27	udep/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 29	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	28	comp:obj/m	_	Gloss=3Masc.Gen
 30	à	à	ADP	_	_	26	mod	_	Gloss=at

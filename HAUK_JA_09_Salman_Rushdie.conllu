@@ -520,7 +520,7 @@
 25	-	-	PUNCT	_	_	27	punct	_	Gloss=PUNCT|SpaceAfter=No
 26	wàːtòː	wàːtòː	CCONJ	_	_	27	cc	_	Gloss=i.e.
 27	maːkar̃ufôː	maːkar̃ufôː	NOUN	_	Gender=Masc	17	conj:dicto	_	Gloss=microphone.Masc
-28	-	-	PUNCT	_	_	27	punct	_	Gloss=PUNCT|Poss=Yes|SpaceAfter=No
+28	-	-	PUNCT	_	_	27	punct	_	Gloss=PUNCT|SpaceAfter=No
 29-30	ya=	_	_	_	_	_	_	_	_
 29	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	31	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
 30	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	31	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
@@ -567,7 +567,7 @@
 24	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	23	comp:obl	_	Gloss=3Masc.Dat
 25	ankwàː	ankwàː	NOUN	_	Gender=Fem	23	comp:obj	_	Gloss=handcuffs.Fem
 26	à	à	ADP	_	_	23	comp:obl	_	Gloss=at
-27	hannu	hannuː	NOUN	_	Gender=Masc	26	comp:obj	_	Gloss=hand.Masc|Poss=Yes|SpaceAfter=No|wordform=hannunsà|wordfrom=hannunsà
+27	hannu	hannuː	NOUN	_	Gender=Masc	26	comp:obj	_	Gloss=hand.Masc|SpaceAfter=No|wordform=hannunsà|wordfrom=hannunsà
 28	-n	na	PART	_	Case=Gen|PartType=Case	27	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 29	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	28	comp:obj/m	_	Gloss=3Masc.Gen
 30	a-	a	PRON	_	Person=4|PronType=PrsSubj	32	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
@@ -622,7 +622,7 @@
 36	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	38	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tà
 37	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	38	mod/m	_	Gloss=Sub=
 38	tsoːmà	tsoːm-	VERB	_	_	30	comp:obj@agent	_	Gloss=dip_into
-39	bàːki	bàːkiː	NOUN	_	Gender=Masc	38	comp:obj	_	Gloss=mouth.Masc|Poss=Yes|SpaceAfter=No|wordform=bàːkintà|wordfrom=bàːkintà
+39	bàːki	bàːkiː	NOUN	_	Gender=Masc	38	comp:obj	_	Gloss=mouth.Masc|SpaceAfter=No|wordform=bàːkintà|wordfrom=bàːkintà
 40	-n	na	PART	_	Case=Gen|PartType=Case	39	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 41	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	40	comp:obj/m	_	Gloss=3Fem.Gen
 42	cikin	cikin	ADP	_	_	38	comp:obl	_	Gloss=inside
@@ -757,7 +757,7 @@
 23	Gianni	Gianni	PROPN	_	_	22	comp:obj	_	Gloss=Gianni
 24	Palma	Palma	PROPN	_	_	23	flat@name	_	Gloss=Palma
 25	dà	dà	ADP	_	_	22	comp:obl	_	Gloss=with
-26	râ	râi	NOUN	_	Gender=Masc	25	comp:obj	_	Gloss=life.Masc|Poss=Yes|SpaceAfter=No|wordform=rânsà|wordfrom=rânsà
+26	râ	râi	NOUN	_	Gender=Masc	25	comp:obj	_	Gloss=life.Masc|SpaceAfter=No|wordform=rânsà|wordfrom=rânsà
 27	-n	na	PART	_	Case=Gen|PartType=Case	26	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 28	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	27	comp:obj/m	_	Gloss=3Masc.Gen
 29	ba	ba	PART	_	PartType=Neg|Polarity=Neg	22	mod	_	Gloss=Neg|SpaceAfter=No
@@ -771,7 +771,7 @@
 37	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	36	mod/m	_	Gloss=Gen.Fem
 38	Mùsùlmiː	Mùsùlmiː	NOUN	_	Number=Plur	37	comp:obj	_	Gloss=Muslim.Plur
 39	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	38	mod	_	Gloss=mouth.Masc
-40	ɗaya	ɗaya	NUM	_	_	39	mod:num	_	Gloss=one|Poss=Yes|SpaceAfter=No|wordform=ɗayansù
+40	ɗaya	ɗaya	NUM	_	_	39	mod:num	_	Gloss=one|SpaceAfter=No|wordform=ɗayansù
 41	-n	na	PART	_	Case=Gen|PartType=Case	40	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 42	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	41	comp:obj	_	Gloss=3Plur.Gen
 43	.	.	PUNCT	_	_	16	punct	_	Gloss=PUNCT
@@ -798,7 +798,7 @@
 16	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	15	comp:pred	_	Gloss=PreRef|PreRef=Yes
 17	à	à	ADP	_	_	16	mod:appos	_	Gloss=at
 18	kân	kân	ADP	_	_	17	comp:obj	_	Gloss=top
-19	bàka	bàkaː	NOUN	_	Gender=Masc	18	comp:obj	_	Gloss=bow.Masc|Poss=Yes|SpaceAfter=No|wordform=bàkan|wordfrom=bàkansà
+19	bàka	bàkaː	NOUN	_	Gender=Masc	18	comp:obj	_	Gloss=bow.Masc|SpaceAfter=No|wordform=bàkan|wordfrom=bàkansà
 20	-n	na	PART	_	Case=Gen|PartType=Case	19	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 21	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	20	comp:obj/m	_	Gloss=3Masc.Gen
 22	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT

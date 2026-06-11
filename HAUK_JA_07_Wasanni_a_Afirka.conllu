@@ -17,7 +17,7 @@
 3	zaː-	zâː-	PART	_	PartType=TAM|Tense=Fut	5	mod/m	_	Gloss=Fut-|SpaceAfter=No
 4	mù=	mu	PRON	_	Number=Plur|Person=1|PronType=PrsSubj|Tense=Fut	5	subj/m	_	Gloss=1Plur=|wordform=zaːmù
 5	soːmà	soːm-	VERB	_	_	0	root	_	Gloss=start
-6	shirì	shirìː	NOUN	_	Gender=Masc	5	comp:obj	_	Gloss=programme.Masc|Poss=Yes|SpaceAfter=No|wordform=shirìː|wordfrom=shirìnmù
+6	shirì	shirìː	NOUN	_	Gender=Masc	5	comp:obj	_	Gloss=programme.Masc|SpaceAfter=No|wordform=shirìː|wordfrom=shirìnmù
 7	-n	na	PART	_	Case=Gen|PartType=Case	6	mod@poss	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 8	-mù	-mù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	7	comp:obj	_	Gloss=1Plur.Gen
 9	dà	dà	CCONJ	_	_	5	comp:obl	_	Gloss=and

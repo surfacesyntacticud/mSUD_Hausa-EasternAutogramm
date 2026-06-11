@@ -115,7 +115,7 @@
 5	fitoː	fit-	VERB	_	_	2	comp:obj	_	ClauseType=Rel|Gloss=come_out|RelRole=mod
 6	dàgà	dàgà	ADP	_	_	5	comp:obl	_	Gloss=from
 7	cikin	cikin	ADP	_	_	6	mod	_	Gloss=inside
-8	moːtà	moːtàː	NOUN	_	Gender=Fem	7	comp:obj	_	Gloss=car.Fem|Poss=Yes|SpaceAfter=No|wordform=moːtàr̃sù
+8	moːtà	moːtàː	NOUN	_	Gender=Fem	7	comp:obj	_	Gloss=car.Fem|SpaceAfter=No|wordform=moːtàr̃sù
 9	-r̃	na	PART	_	Case=Gen|PartType=Case	8	mod@poss	_	Gloss=Gen.Fem|SpaceAfter=No|wordform=-t
 10	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	9	comp:obj	_	Gloss=3Plur.Gen
 11	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -257,7 +257,7 @@
 18	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	20	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
 19	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	20	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
 20	jeː	jeː	VERB	_	_	17	comp:obj	_	ClauseType=Rel|Gloss=go|RelRole=subj
-21	wuri	wuriː	NOUN	_	Gender=Masc	20	comp:obl	_	Gloss=place.Masc|Poss=Yes|SpaceAfter=No|wordform=wurinsù
+21	wuri	wuriː	NOUN	_	Gender=Masc	20	comp:obl	_	Gloss=place.Masc|SpaceAfter=No|wordform=wurinsù
 22	-n	na	PART	_	Case=Gen|PartType=Case	21	mod@poss	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 23	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	22	comp:obj	_	Gloss=3Plur.Gen
 24	dòːmin	dòːmin	SCONJ	_	_	20	mod	_	Gloss=in_order_to
@@ -409,7 +409,7 @@
 16	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	17	comp:pred	_	Gloss=3Masc.Nom
 17	nèː	neː	AUX	_	Copula=Yes	6	comp:obj	_	Gloss=Equ.Masc/Plur
 18	don	don	SCONJ	_	_	17	dislocated@subj	_	Gloss=because
-19	mutàːne	mùtûm	NOUN	_	Number=Plur	24	subj	_	Gloss=person.Plur|Poss=Yes|SpaceAfter=No|wordform=mutàːnensù
+19	mutàːne	mùtûm	NOUN	_	Number=Plur	24	subj	_	Gloss=person.Plur|SpaceAfter=No|wordform=mutàːnensù
 20	-n	na	PART	_	Case=Gen|PartType=Case	19	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 21	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	20	comp:obj	_	Gloss=3Plur.Gen
 22	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	24	subj/m	_	Gloss=3Plur|SpaceAfter=No|wordform=sun

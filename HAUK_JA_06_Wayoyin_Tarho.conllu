@@ -29,7 +29,7 @@
 10	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj|Tense=Fut	11	subj/m	_	Gloss=3Masc=|wordform=zâi
 11	gabaːtar̃	gabaːt-	VERB	_	_	2	comp:obj	_	Gloss=present
 12	dà	dà	ADP	_	_	11	comp:obl	_	Gloss=with
-13	shìrye-shìrye	shirìː	NOUN	_	Number=Plur	12	comp:obj	_	Gloss=programme.Plur|Poss=Yes|SpaceAfter=No|wordform=shìrye-shìryensà|wordfrom=shìrye-shìryensà
+13	shìrye-shìrye	shirìː	NOUN	_	Number=Plur	12	comp:obj	_	Gloss=programme.Plur|SpaceAfter=No|wordform=shìrye-shìryensà|wordfrom=shìrye-shìryensà
 14	-n	na	PART	_	Case=Gen|PartType=Case	13	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 15	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	14	comp:obj/m	_	Gloss=3Masc.Gen
 16	gà	gà	ADP	_	_	11	comp:obl	_	Gloss=to

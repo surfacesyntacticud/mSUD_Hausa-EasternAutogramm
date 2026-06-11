@@ -41,7 +41,7 @@
 24	zaː-	zâː-	PART	_	PartType=TAM|Tense=Fut	26	mod/m	_	Gloss=Fut-|SpaceAfter=No
 25	sù=	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj|Tense=Fut	26	subj/m	_	Gloss=3Plur=|wordform=zaːsù
 26	rasà	ras-	VERB	_	_	14	comp:obj	_	Gloss=lose
-27	raːyukà	râi	NOUN	_	Number=Plur	26	comp:obj	_	Gloss=life.Plur|Poss=Yes|SpaceAfter=No|wordform=raːyukànsù
+27	raːyukà	râi	NOUN	_	Number=Plur	26	comp:obj	_	Gloss=life.Plur|SpaceAfter=No|wordform=raːyukànsù
 28	-n	na	PART	_	Case=Gen|PartType=Case	27	mod@poss	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 29	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	28	comp:obj	_	Gloss=3Plur.Gen
 30	à	à	ADP	_	_	26	comp:obl	_	Gloss=at
@@ -190,7 +190,7 @@
 19	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	21	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukàn
 20	kàn=	kàn=	PART	_	Aspect=Hab|PartType=TAM	21	mod/m	_	Gloss=Hab=
 21	rasà	ras-	VERB	_	_	10	comp:obj	_	Gloss=lose
-22	raːyukà	râi	NOUN	_	Number=Plur	21	comp:obj	_	Gloss=life.Plur|Poss=Yes|SpaceAfter=No|wordform=raːyukànsù
+22	raːyukà	râi	NOUN	_	Number=Plur	21	comp:obj	_	Gloss=life.Plur|SpaceAfter=No|wordform=raːyukànsù
 23	-n	na	PART	_	Case=Gen|PartType=Case	22	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 24	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	23	comp:obj	_	Gloss=3Plur.Gen
 25	neː	neː	PART	_	PartType=Foc	21	discourse@foc	_	Gloss=Emph
@@ -260,7 +260,7 @@
 21	mutuwàː	mutù	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	19	comp:pred	_	Gloss=die.Vnoun.Fem
 22	neː	neː	PART	_	PartType=Foc	21	discourse@foc	_	Gloss=Emph
 23	sabòːdà	sabòːdà	SCONJ	_	_	21	mod	_	Gloss=because
-24	kwàtangwalò	kwàtangwalòː	NOUN	_	Gender=Masc	29	subj	_	Gloss=pelvis.Masc|Poss=Yes|SpaceAfter=No|wordform=kwàtangwalònsù
+24	kwàtangwalò	kwàtangwalòː	NOUN	_	Gender=Masc	29	subj	_	Gloss=pelvis.Masc|SpaceAfter=No|wordform=kwàtangwalònsù
 25	-n	na	PART	_	Case=Gen|PartType=Case	24	mod@poss	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 26	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	25	comp:obj	_	Gloss=3Plur.Gen
 27	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	29	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
@@ -316,7 +316,7 @@
 31	kàmar̃	kàmar̃	ADP	_	_	18	mod	_	Gloss=like
 32	kùmburi	kùmburiː	NOUN	_	Gender=Masc	31	comp:obj	_	Gloss=swelling.Masc|SpaceAfter=No|wordform=kùmburin
 33	-n	na	PART	_	Case=Gen|PartType=Case	32	mod/m	_	Gloss=Gen.Masc/Plur
-34	ƙafàːfu	ƙafàː	NOUN	_	Number=Plur	33	comp:obj	_	Gloss=leg.Plur|Poss=Yes|SpaceAfter=No|wordform=ƙafàːfunsù
+34	ƙafàːfu	ƙafàː	NOUN	_	Number=Plur	33	comp:obj	_	Gloss=leg.Plur|SpaceAfter=No|wordform=ƙafàːfunsù
 35	-n	na	PART	_	Case=Gen|PartType=Case	34	mod@poss	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 36	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	35	comp:obj	_	Gloss=3Plur.Gen
 37	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	45	subj	_	Gloss=Pron.Masc.Rel|RelPos=Yes|Relz=word
@@ -528,7 +528,7 @@
 11	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	19	subj	_	Gloss=Pron.Fem.Rel|RelPos=Yes|Relz=word
 12	yawà	yawàː	NOUN	_	Gender=Masc	19	subj	_	Gloss=quantity.Masc|SpaceAfter=No|wordform=yawàn
 13	-n	na	PART	_	Case=Gen|PartType=Case	12	mod/m	_	Gloss=Gen.Masc/Plur
-14	jàma'à	jàma'àː	NOUN	_	Gender=Fem	13	comp:obj	_	GenderAf=Fem|Gloss=population.Fem|Poss=Yes|SpaceAfter=No|wordform=jàma'àr̃tà
+14	jàma'à	jàma'àː	NOUN	_	Gender=Fem	13	comp:obj	_	GenderAf=Fem|Gloss=population.Fem|SpaceAfter=No|wordform=jàma'àr̃tà
 15	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	14	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No|wordform=-t
 16	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	15	comp:obj/m	_	Gloss=3Fem.Gen
 17	kashìː	kashìː	NUM	_	Gender=Masc	19	comp:pred	_	Gloss=portion.Masc
@@ -550,7 +550,7 @@
 33	duk	dukà	DET	_	PronType=Tot	34	det	_	Gloss=all
 34	duːniyàː	duːniyàː	NOUN	_	Gender=Fem	32	comp:obj	_	Gloss=world.Fem
 35	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	34	mod	_	Gloss=mouth.Masc
-36	ɗaya	ɗaya	NUM	_	_	35	mod:num	_	Gloss=one.Fem|Poss=Yes|SpaceAfter=No|wordform=ɗayantà|wordfrom=ɗayantà
+36	ɗaya	ɗaya	NUM	_	_	35	mod:num	_	Gloss=one.Fem|SpaceAfter=No|wordform=ɗayantà|wordfrom=ɗayantà
 37	-n	na	PART	_	Case=Gen|PartType=Case	36	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 38	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	37	comp:obj/m	_	Gloss=3Fem.Gen
 39	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT

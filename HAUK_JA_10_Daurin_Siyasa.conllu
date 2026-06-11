@@ -131,7 +131,7 @@
 18	bà	bà	PART	_	PartType=Neg|Polarity=Neg	20	mod	_	Gloss=Neg
 19	tàːre	tàːre	ADV	_	_	20	mod	_	Gloss=together
 20	dà	dà	ADP	_	_	11	mod	_	Gloss=with
-21	tùhumà	tuhum-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	20	comp:obj	_	Gloss=charge.Vnoun.Fem|Poss=Yes|SpaceAfter=No|wordform=tùhumàr̃|wordfrom=tùhumàr̃sà
+21	tùhumà	tuhum-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	20	comp:obj	_	Gloss=charge.Vnoun.Fem|SpaceAfter=No|wordform=tùhumàr̃|wordfrom=tùhumàr̃sà
 22	-r̃	na	PART	_	Case=Gen|PartType=Case	21	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No|wordform=-t
 23	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	22	comp:obj/m	_	Gloss=3Masc.Gen
 24	ba	ba	PART	_	PartType=Neg|Polarity=Neg	20	mod	_	Gloss=Neg|SpaceAfter=No
@@ -227,7 +227,7 @@
 7	Neːmàː	neːm-	VERB	_	_	6	comp:obj	_	Gloss=look_for
 8	wà	mà	ADP	_	Case=Dat	7	comp:obl	_	Gloss=Dat
 9	Jàma'àː	jàma'àː	PROPN	_	_	8	comp:obj	_	Gloss=people
-10	Haƙƙì	haƙƙìː	NOUN	_	Gender=Masc	7	comp:obj	_	Gloss=rights.Masc|Poss=Yes|SpaceAfter=No|wordform=Haƙƙìnsù
+10	Haƙƙì	haƙƙìː	NOUN	_	Gender=Masc	7	comp:obj	_	Gloss=rights.Masc|SpaceAfter=No|wordform=Haƙƙìnsù
 11	-n	na	PART	_	Case=Gen|PartType=Case	10	mod/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 12	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	11	comp:obj	_	Gloss=3Plur.Gen
 13	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	5	mod	_	Gloss=Gen.Fem
@@ -268,7 +268,7 @@
 48	kawài	kawài	ADV	_	_	44	mod	_	Gloss=merely|SpaceAfter=No
 49	,	,	PUNCT	_	_	56	punct	_	Gloss=PUNCT
 50	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	56	subj	_	Gloss=Pron.Plur.Rel|RelPos=Yes|Relz=word|wordform=wadandal
-51	al'amur̃à	àl'amàr̃ìː	NOUN	_	Number=Plur	56	subj	_	Gloss=case.Plur|Poss=Yes|SpaceAfter=No|wordform=al'amur̃ànsù
+51	al'amur̃à	àl'amàr̃ìː	NOUN	_	Number=Plur	56	subj	_	Gloss=case.Plur|SpaceAfter=No|wordform=al'amur̃ànsù
 52	-n	na	PART	_	Case=Gen|PartType=Case	51	mod@poss	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 53	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	52	comp:obj	_	Gloss=3Plur.Gen
 54	bà-	bà-	PART	_	Aspect=Perf|PartType=TAM|Polarity=Neg	56	mod/m	_	Gloss=Neg.Perf-|SpaceAfter=No
@@ -331,7 +331,7 @@
 # text_ortho = Wani kàːkàːkinsù yaː cêː sun sàːmi làːbaːrìː cêːwaː wani mùtûm mài àlaːƙàː dà gwamnatì yaː sâː an kaːmà àboːkin kaːsuwancìnsà an kuma tsarèː shi har̃ tsawon shèːkaràː biyu, bìsàː wannàn dòːkaː ta tsàron laːfiyàr̃ ƙasaː, don kawài bài biyaː shì baːshìn dà yakèː bînsà ba - wàːtòː bài koː saːtar̃ masà wani àbù ba.
 # text = wani kàːkàːki-n-sù y-aː= cêː su-n= sàːmi làːbaːrìː cêːwaː wani mùtûm mài àlaːƙàː dà gwamnatì y-aː= sâː a-n= kaːmà àboːki-n kaːsuwancì-n -sà a-n= kuma tsarèː -shi har̃ tsawo-n shèːkaràː biyu, bìsàː wannàn dòːkaː ta tsàro-n laːfiyà-r̃ ƙasaː, don kawài bà-ì=biyaː -shì baːshìn dà ya-kèː bî-n-sà ba -wàːtòː bà-ì=koː saːtar̃ masà wani àbù ba.
 1	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	2	det	_	Gloss=some.Masc.Spec
-2	kàːkàːki	kàːkàːkiː	NOUN	_	Gender=Masc	7	subj	_	Gloss=spokesman.Masc|Poss=Yes|SpaceAfter=No|wordform=kàːkàːkinsù
+2	kàːkàːki	kàːkàːkiː	NOUN	_	Gender=Masc	7	subj	_	Gloss=spokesman.Masc|SpaceAfter=No|wordform=kàːkàːkinsù
 3	-n	na	PART	_	Case=Gen|PartType=Case	2	mod@poss	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 4	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	3	comp:obj	_	Gloss=3Plur.Gen
 5	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	7	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
@@ -390,7 +390,7 @@
 58	dà	dà	SCONJ	_	_	57	mod@relcl	_	Gloss=CompRel|Relz=Word
 59	ya-	ya-	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	60	subj/m	_	Gloss=3Masc-|SpaceAfter=No
 60	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	58	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|wordform=yakèː
-61	bî	bi	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	60	comp:aux	_	Gloss=owe.Vnoun.Masc|Poss=Yes|RelRole=obj|SpaceAfter=No|wordform=bîn|wordfrom=bînsà
+61	bî	bi	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	60	comp:aux	_	Gloss=owe.Vnoun.Masc|RelRole=obj|SpaceAfter=No|wordform=bîn|wordfrom=bînsà
 62	-n	na	PART	_	Case=Gen|PartType=Case	61	udep/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 63	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	62	comp:obj/m	_	Gloss=3Masc.Gen
 64	ba	ba	PART	_	PartType=Neg|Polarity=Neg	55	mod	_	Gloss=Neg

@@ -20,7 +20,7 @@
 6	Neːmàː	neːm-	VERB	_	_	5	comp:obj	_	Gloss=look_for
 7	wà	mà	ADP	_	Case=Dat	6	comp:obl	_	Gloss=Dat
 8	Jàma'àː	jàma'àː	NOUN	_	Gender=Fem	7	comp:obj	_	Gloss=community.Fem
-9	Haƙƙì	haƙƙìː	NOUN	_	Gender=Masc	6	comp:obj	_	Gloss=rights.Masc|Poss=Yes|SpaceAfter=No|wordform=Haƙƙìnsù
+9	Haƙƙì	haƙƙìː	NOUN	_	Gender=Masc	6	comp:obj	_	Gloss=rights.Masc|SpaceAfter=No|wordform=Haƙƙìnsù
 10	-n	na	PART	_	Case=Gen|PartType=Case	9	mod@poss	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 11	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	10	comp:obj	_	Gloss=3Plur.Gen
 12	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	4	mod	_	Gloss=Gen.Fem
@@ -75,7 +75,7 @@
 59	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	60	mod/m	_	Gloss=Sub=
 60	kasànceː	kasant-	VERB	_	_	57	comp:obj@agent	_	Gloss=be
 61	à	à	ADP	_	_	60	mod	_	Gloss=at
-62	cikin	cikin	ADP	_	_	61	comp:obj	_	Gloss=inside|Poss=Yes|SpaceAfter=No|wordform=cikinsà|wordfrom=cikinsà
+62	cikin	cikin	ADP	_	_	61	comp:obj	_	Gloss=inside|SpaceAfter=No|wordform=cikinsà|wordfrom=cikinsà
 63	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	62	comp:obj	_	Gloss=3Masc.Gen
 64	.	.	PUNCT	_	_	22	punct	_	Gloss=PUNCT
 
@@ -118,7 +118,7 @@
 32	bàːra	bàːra	ADV	_	_	31	comp:obj	_	Gloss=last_year
 33	kaɗai	kaɗai	ADV	_	_	31	mod	_	Gloss=only|SpaceAfter=No
 34	,	,	PUNCT	_	_	47	punct	_	Gloss=PUNCT
-35	yawanci	yawanciː	NOUN	_	Gender=Masc	47	subj	_	Gloss=majority.Masc|Poss=Yes|SpaceAfter=No|wordform=yawancinsù
+35	yawanci	yawanciː	NOUN	_	Gender=Masc	47	subj	_	Gloss=majority.Masc|SpaceAfter=No|wordform=yawancinsù
 36	-n	na	PART	_	Case=Gen|PartType=Case	35	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 37	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	36	comp:obj	_	Gloss=3Plur.Gen
 38	maː	maː	PART	_	PartType=Top	35	discourse@top	_	Gloss=even
@@ -203,7 +203,7 @@
 59	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	60	mod/m	_	Gloss=Sub=
 60	tsayàː	tsay-	VERB	_	_	49	comp:obj	_	ClauseType=Rel|Gloss=stand|RelRole=mod
 61	dà	dà	ADP	_	_	60	mod	_	Gloss=with|wordform=da
-62	ƙafà	ƙafàː	NOUN	_	Gender=Fem	61	comp:obj	_	Gloss=leg.Fem|Poss=Yes|SpaceAfter=No|wordform=ƙafàr̃sù
+62	ƙafà	ƙafàː	NOUN	_	Gender=Fem	61	comp:obj	_	Gloss=leg.Fem|SpaceAfter=No|wordform=ƙafàr̃sù
 63	-r̃	na	PART	_	Case=Gen|PartType=Case	62	mod@poss	_	Gloss=Gen.Fem|SpaceAfter=No|wordform=-t
 64	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	63	comp:obj	_	Gloss=3Plur.Gen
 65	kurùm	kurùm	ADV	_	_	60	mod	_	Gloss=just|SpaceAfter=No
@@ -388,7 +388,7 @@
 21	dà	dà	ADP	_	_	20	comp:obl	_	Gloss=with|wordform=da
 22	gadàːjeː	gadòː	NOUN	_	Number=Plur	21	comp:obj	_	Gloss=bed.Plur
 23	à	à	ADP	_	_	20	mod	_	Gloss=at
-24	cikin	cikin	ADP	_	_	23	comp:obj	_	Gloss=inside|Poss=Yes|SpaceAfter=No|wordform=cikinsà|wordfrom=cikinsà
+24	cikin	cikin	ADP	_	_	23	comp:obj	_	Gloss=inside|SpaceAfter=No|wordform=cikinsà|wordfrom=cikinsà
 25	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	24	comp:obj	_	Gloss=3Masc.Gen
 26	dòːmin	dòːmin	ADP	_	_	20	mod	_	Gloss=because
 27	rashì	ras-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	26	comp:obj	_	Compound=Yes|Gloss=lack.Vnoun.Masc.|SpaceAfter=No|wordform=rashìn
@@ -443,7 +443,7 @@
 4	barcîn	barciː	NOUN	_	Definite=Def|Gender=Masc	3	comp:pred	_	Gloss=sleep.Masc.Def
 5	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	6	subj/m	_	Gloss=3Plur|SpaceAfter=No
 6	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	Gloss=Prog|wordform=sunaː
-7	yî	yi	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	6	comp:pred	_	Gloss=do.Vnoun.Masc|Poss=Yes|SpaceAfter=No|wordform=yînsà|wordfrom=yînsà
+7	yî	yi	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	6	comp:pred	_	Gloss=do.Vnoun.Masc|SpaceAfter=No|wordform=yînsà|wordfrom=yînsà
 8	-n	na	PART	_	Case=Gen|PartType=Case	7	udep/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 9	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	8	comp:obj/m	_	Gloss=3Masc.Gen
 10	neː	neː	PART	_	PartType=Foc	7	discourse@foc	_	Gloss=Emph
@@ -729,7 +729,7 @@
 6	dà	dà	ADP	_	_	5	comp:obl	_	Gloss=with
 7	dàliːlì	dàliːlìː	NOUN	_	Gender=Masc	6	comp:obj	_	Gloss=reason.Masc|SpaceAfter=No|wordform=dàliːlìn
 8	-n	na	PART	_	Case=Gen|PartType=Case	7	udep/m	_	Gloss=Gen.Masc/Plur
-9	mutuwà	mutuwàː	NOUN	_	Gender=Fem	8	comp:obj	_	Gloss=death.Fem|Poss=Yes|SpaceAfter=No|wordform=mutuwàr̃sù
+9	mutuwà	mutuwàː	NOUN	_	Gender=Fem	8	comp:obj	_	Gloss=death.Fem|SpaceAfter=No|wordform=mutuwàr̃sù
 10	-r̃	na	PART	_	Case=Gen|PartType=Case	9	mod@poss	_	Gloss=Gen.Fem|SpaceAfter=No|wordform=-t
 11	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	10	comp:obj	_	Gloss=3Plur.Gen
 12	dà	dà	ADP	_	_	5	comp:obl	_	Gloss=with
@@ -795,7 +795,7 @@
 29	a-	a	PRON	_	Person=4|PronType=PrsSubj	31	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
 30	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	31	mod/m	_	Gloss=Sub=
 31	gyaːrà	gyaːr-	VERB	_	_	28	comp:obj	_	Gloss=improve
-32	haːli	haːliː	NOUN	_	Gender=Masc	31	comp:obj	_	Gloss=character.Masc|Poss=Yes|SpaceAfter=No|wordform=haːlinsù
+32	haːli	haːliː	NOUN	_	Gender=Masc	31	comp:obj	_	Gloss=character.Masc|SpaceAfter=No|wordform=haːlinsù
 33	-n	na	PART	_	Case=Gen|PartType=Case	32	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 34	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	33	comp:obj	_	Gloss=3Plur.Gen
 35	,	,	PUNCT	_	_	39	punct	_	Gloss=PUNCT

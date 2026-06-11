@@ -114,7 +114,7 @@
 37	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	38	mod/m	_	Gloss=Perf.Plur=|wordform=n
 38	daːkatar̃	daːkat-	VERB	_	Voice=Cau	0	root	_	Gloss=stop.Cau
 39	dà	dà	ADP	_	_	38	comp:obl	_	Gloss=with
-40	tàllàce-tàllàce	tàllà	NOUN	_	Number=Plur	39	comp:obj	_	Gloss=hawking.Plur|Poss=Yes|SpaceAfter=No|wordform=tàllàce-tàllàcensù
+40	tàllàce-tàllàce	tàllà	NOUN	_	Number=Plur	39	comp:obj	_	Gloss=hawking.Plur|SpaceAfter=No|wordform=tàllàce-tàllàcensù
 41	-n	na	PART	_	Case=Gen|PartType=Case	40	mod@poss	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 42	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	41	comp:obj	_	Gloss=3Plur.Gen
 43	dòːmin	dòːmin	SCONJ	_	_	38	mod	_	Gloss=in_order_to
@@ -354,7 +354,7 @@
 6	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	5	mod/m	_	Gloss=Gen.Fem
 7	Ànambar̃à	Ànambar̃à	PROPN	_	_	6	comp:obj	_	Gloss=Anambra
 8	dà	da	CCONJ	_	_	9	cc	_	Gloss=and|wordform=da
-9	uwar̃gida	uwar̃gidaː	NOUN	_	Gender=Fem	3	conj:coord	_	Gloss=wife.Fem|Poss=Yes|SpaceAfter=No|wordform=uwar̃gidansà|wordfrom=uwar̃gidansà
+9	uwar̃gida	uwar̃gidaː	NOUN	_	Gender=Fem	3	conj:coord	_	Gloss=wife.Fem|SpaceAfter=No|wordform=uwar̃gidansà|wordfrom=uwar̃gidansà
 10	-n	na	PART	_	Case=Gen|PartType=Case	9	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 11	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	10	comp:obj/m	_	Gloss=3Masc.Gen
 12	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	14	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
@@ -479,7 +479,7 @@
 3	sai	sai	ADV	_	_	12	mod	_	Gloss=then
 4	Yàr̃iːmà	yàr̃iːmà	NOUN	_	Gender=Masc	12	subj	_	Gloss=prince.Masc
 5	dà	dà	CCONJ	_	_	6	cc	_	Gloss=and
-6	uwar̃gida	uwar̃gidaː	NOUN	_	Gender=Fem	4	conj:coord	_	Gloss=wife.Fem|Poss=Yes|SpaceAfter=No|wordform=uwar̃gidansà|wordfrom=uwar̃gidansà
+6	uwar̃gida	uwar̃gidaː	NOUN	_	Gender=Fem	4	conj:coord	_	Gloss=wife.Fem|SpaceAfter=No|wordform=uwar̃gidansà|wordfrom=uwar̃gidansà
 7	-n	na	PART	_	Case=Gen|PartType=Case	6	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 8	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	7	comp:obj/m	_	Gloss=3Masc.Gen
 9	Gimbìyaː	gimbìyaː	NOUN	_	Gender=Fem	6	conj:appos	_	Gloss=princess.Fem
@@ -659,7 +659,7 @@
 39	daːjìn	daːjìː	NOUN	_	Definite=Def|Gender=Masc	38	comp:obj	_	Gloss=bush.Masc.Def
 40	don	don	SCONJ	_	_	32	mod	_	Gloss=in_order_to
 41	kaːrè	kar-	VERB	_	_	40	comp:obj	_	Gloss=protect
-42	laːfiyà	laːfiyàː	NOUN	_	Gender=Fem	41	comp:obj	_	Gloss=security.Fem|Poss=Yes|SpaceAfter=No|wordform=laːfiyàr̃|wordfrom=laːfiyàr̃sà
+42	laːfiyà	laːfiyàː	NOUN	_	Gender=Fem	41	comp:obj	_	Gloss=security.Fem|SpaceAfter=No|wordform=laːfiyàr̃|wordfrom=laːfiyàr̃sà
 43	-r̃	na	PART	_	Case=Gen|PartType=Case	42	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No|wordform=-t
 44	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	43	comp:obj/m	_	Gloss=3Masc.Gen
 45	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT

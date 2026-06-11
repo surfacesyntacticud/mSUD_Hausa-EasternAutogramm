@@ -25,7 +25,7 @@
 10	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	6	comp:obj	_	Gloss=Prog|wordform=yana
 11	tìːƙa	tiːƙ-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	10	comp:aux	_	Gloss=beat.Vnoun.Fem|SpaceAfter=No|wordform=tìːƙar̃
 12	-r̃	na	PART	_	Case=Gen|PartType=Case	11	udep/m	_	Gloss=Gen.Fem
-13	rawa	rawaː	NOUN	_	Gender=Fem	12	comp:obj	_	Gloss=dance.Fem|Poss=Yes|SpaceAfter=No|wordform=rawar̃|wordfrom=rawar̃sà
+13	rawa	rawaː	NOUN	_	Gender=Fem	12	comp:obj	_	Gloss=dance.Fem|SpaceAfter=No|wordform=rawar̃|wordfrom=rawar̃sà
 14	-r̃	na	PART	_	Case=Gen|PartType=Case	13	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No|wordform=-t
 15	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	14	comp:obj/m	_	Gloss=3Masc.Gen
 16	à	à	ADP	_	_	11	comp:obl	_	Gloss=at
@@ -39,7 +39,7 @@
 24	yàr̃da	yar̃d-	VERB	_	_	0	root	_	Gloss=agree
 25	dà	dà	ADP	_	_	24	comp:obl	_	Gloss=with
 26	cêwaː	cêwaː	SCONJ	_	_	25	comp:obj	_	Gloss=COMP
-27	shèːkàru	shèːkaràː	NOUN	_	Number=Plur	31	subj	_	Gloss=year.Plur|Poss=Yes|SpaceAfter=No|wordform=shèːkàrunsà|wordfrom=shèːkàrunsà
+27	shèːkàru	shèːkaràː	NOUN	_	Number=Plur	31	subj	_	Gloss=year.Plur|SpaceAfter=No|wordform=shèːkàrunsà|wordfrom=shèːkàrunsà
 28	-n	na	PART	_	Case=Gen|PartType=Case	27	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 29	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	28	comp:obj/m	_	Gloss=3Masc.Gen
 30	hàmsin	hàmsin	NUM	_	_	31	comp:pred	_	Gloss=fifty
@@ -67,7 +67,7 @@
 12	-shì	-shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	11	comp:obj/m	_	Gloss=-3Masc.Acc|wordform=shì
 13	à	à	ADP	_	_	11	comp:pred	_	Gloss=at
 14	kân	kân	ADP	_	_	13	comp:obj	_	Gloss=top
-15	sànaː'à	sànaː'àː	NOUN	_	Gender=Fem	14	comp:obj	_	Gloss=profession.Fem|Poss=Yes|SpaceAfter=No|wordform=sànaː'àr̃|wordfrom=sànaː'àr̃sà
+15	sànaː'à	sànaː'àː	NOUN	_	Gender=Fem	14	comp:obj	_	Gloss=profession.Fem|SpaceAfter=No|wordform=sànaː'àr̃|wordfrom=sànaː'àr̃sà
 16	-r̃	na	PART	_	Case=Gen|PartType=Case	15	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No|wordform=-t
 17	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	16	comp:obj/m	_	Gloss=3Masc.Gen
 18	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
@@ -172,7 +172,7 @@
 18	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
 19	ya	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	20	subj/m	_	Gloss=3Masc
 20	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	13	parataxis@conj	_	Gloss=Prog|wordform=yana
-21	wàːƙe-wàːƙe	waːƙàː	NOUN	_	Number=Plur	20	comp:pred	_	Gloss=song.Plur|Poss=Yes|SpaceAfter=No|wordform=wàːƙe-wàːƙensà|wordfrom=wàːƙe-wàːƙensà
+21	wàːƙe-wàːƙe	waːƙàː	NOUN	_	Number=Plur	20	comp:pred	_	Gloss=song.Plur|SpaceAfter=No|wordform=wàːƙe-wàːƙensà|wordfrom=wàːƙe-wàːƙensà
 22	-n	na	PART	_	Case=Gen|PartType=Case	21	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 23	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	22	comp:obj/m	_	Gloss=3Masc.Gen
 24	à	à	ADP	_	_	20	mod	_	Gloss=at
@@ -215,7 +215,7 @@
 25	-n	na	PART	_	Case=Gen|PartType=Case	24	mod/m	_	Gloss=Gen.Masc/Plur
 26	makàɗaː	makàɗiː	NOUN	_	Number=Plur	25	comp:obj	_	Gloss=musician.Plur
 27	dà	dà	CCONJ	_	_	28	cc	_	Gloss=and
-28	mawàːƙa	mawàːƙiː	NOUN	_	_	26	conj:coord	_	Gloss=singer|Poss=Yes|SpaceAfter=No|wordform=mawakansà|wordfrom=mawàːƙansà
+28	mawàːƙa	mawàːƙiː	NOUN	_	_	26	conj:coord	_	Gloss=singer|SpaceAfter=No|wordform=mawakansà|wordfrom=mawàːƙansà
 29	-n	na	PART	_	Case=Gen|PartType=Case	28	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 30	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	29	comp:obj/m	_	Gloss=3Masc.Gen
 31	.	.	PUNCT	_	_	23	punct	_	Gloss=PUNCT
@@ -296,7 +296,7 @@
 30	àlgaitàː	àlgaitàː	NOUN	_	Gender=Fem	28	comp:obj	_	Gloss=oboe_sp.Fem
 31	à	à	ADP	_	_	26	comp:pred	_	Gloss=at
 32	ƙar̃ƙashin	ƙar̃ƙashin	ADP	_	_	31	comp:obj	_	Gloss=under
-33	gado	gadoː	NOUN	_	Gender=Masc	32	comp:obj	_	Gloss=bed|Poss=Yes|SpaceAfter=No|wordform=gadoː
+33	gado	gadoː	NOUN	_	Gender=Masc	32	comp:obj	_	Gloss=bed|SpaceAfter=No|wordform=gadoː
 34	-n	na	PART	_	Case=Gen|PartType=Case	33	comp:obj	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 35	-aː	-aː	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	34	comp:obj/m	_	Gloss=1Sing.Gen
 36	,	,	PUNCT	_	_	44	punct	_	Gloss=PUNCT
@@ -304,7 +304,7 @@
 38	ɗaya	ɗaya	NUM	_	_	44	subj	_	Gloss=one
 39	dàgà	dàgà	ADP	_	_	38	mod	_	Gloss=from
 40	cikin	cikin	ADP	_	_	39	comp:obj	_	Gloss=inside
-41	makàɗa	makàɗiː	NOUN	_	Number=Plur	40	comp:obj	_	Gloss=musician|Poss=Yes|SpaceAfter=No|wordform=makàɗaː
+41	makàɗa	makàɗiː	NOUN	_	Number=Plur	40	comp:obj	_	Gloss=musician|SpaceAfter=No|wordform=makàɗaː
 42	-n	na	PART	_	Case=Gen|PartType=Case	41	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 43	-aː	-aː	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	42	comp:obj/m	_	Gloss=1Sing.Gen
 44	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	30	mod@relcl	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|SpaceAfter=No
@@ -547,7 +547,7 @@
 30	-n	na	PART	_	Case=Gen|PartType=Case	29	mod/m	_	Gloss=Gen.Masc/Plur
 31	aːyàr̃i	aːyàr̃iː	NOUN	_	Gender=Masc	30	comp:obj	_	Gloss=group.Masc|SpaceAfter=No|wordform=aːyàr̃in
 32	-n	na	PART	_	Case=Gen|PartType=Case	31	mod/m	_	Gloss=Gen.Masc/Plur
-33	makàɗa	makàɗiː	NOUN	_	Number=Plur	32	comp:obj	_	Gloss=musician.Plur|Poss=Yes|SpaceAfter=No|wordform=makàɗansà|wordfrom=makàɗansà
+33	makàɗa	makàɗiː	NOUN	_	Number=Plur	32	comp:obj	_	Gloss=musician.Plur|SpaceAfter=No|wordform=makàɗansà|wordfrom=makàɗansà
 34	-n	na	PART	_	Case=Gen|PartType=Case	33	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 35	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	34	comp:obj/m	_	Gloss=3Masc.Gen
 36-37	ya=	_	_	_	_	_	_	_	_
@@ -659,7 +659,7 @@
 4	yi	yi	VERB	_	_	0	root	_	Gloss=do
 5	àmfàniː	àmfàniː	NOUN	_	Gender=Masc	4	comp:pred	_	Gloss=using.Masc
 6	dà	dà	ADP	_	_	5	comp:obl	_	Gloss=with
-7	wàːƙe-wàːƙe	waːƙàː	NOUN	_	Number=Plur	6	comp:obj	_	Gloss=song.Plur|Poss=Yes|SpaceAfter=No|wordform=wàːƙe-wàːƙensà|wordfrom=wàːƙe-wàːƙensà
+7	wàːƙe-wàːƙe	waːƙàː	NOUN	_	Number=Plur	6	comp:obj	_	Gloss=song.Plur|SpaceAfter=No|wordform=wàːƙe-wàːƙensà|wordfrom=wàːƙe-wàːƙensà
 8	-n	na	PART	_	Case=Gen|PartType=Case	7	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 9	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	8	comp:obj/m	_	Gloss=3Masc.Gen
 10	wajen	wajen	ADP	_	_	4	comp:obl	_	Gloss=about
@@ -670,7 +670,7 @@
 15	-n	na	PART	_	Case=Gen|PartType=Case	14	mod/m	_	Gloss=Gen.Masc/Plur
 16	matsaloːlîn	màtsalàː	NOUN	_	Definite=Def|Number=Plur	15	comp:obj	_	Gloss=problem.Plur.Def|RelAnt=Yes
 17	dà	dà	SCONJ	_	_	16	mod@relcl	_	Gloss=CompRel|Relz=Word
-18	ƙasa	ƙasaː	NOUN	_	Gender=Fem	22	subj	_	Gloss=country.Fem|Poss=Yes|SpaceAfter=No|wordform=ƙasar̃|wordfrom=ƙasar̃sà
+18	ƙasa	ƙasaː	NOUN	_	Gender=Fem	22	subj	_	Gloss=country.Fem|SpaceAfter=No|wordform=ƙasar̃|wordfrom=ƙasar̃sà
 19	-r̃	na	PART	_	Case=Gen|PartType=Case	18	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No|wordform=-t
 20	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	19	comp:obj/m	_	Gloss=3Masc.Gen
 21	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	18	conj:appos	_	Gloss=Nigeria
@@ -749,7 +749,7 @@
 1	a-	a	PRON	_	Person=4|PronType=PrsSubj	3	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 2	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
 3	ɗàuki	ɗauk-	VERB	_	_	0	root	_	Gloss=take
-4	mahaifìya	mahaifìyaː	NOUN	_	Gender=Fem	3	comp:obj	_	Gloss=mother.Fem|Poss=Yes|SpaceAfter=No|wordform=mahaifìyar̃sà
+4	mahaifìya	mahaifìyaː	NOUN	_	Gender=Fem	3	comp:obj	_	Gloss=mother.Fem|SpaceAfter=No|wordform=mahaifìyar̃sà
 5	-r̃	na	PART	_	Case=Gen|PartType=Case	4	mod@poss	_	Gloss=Gen.Fem|SpaceAfter=No|wordform=-t
 6	-sà	-sà	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	5	comp:obj	_	Gloss=3Masc.Gen
 7	mài	mài	PART	_	Number=Sing|PartType=Der	4	mod	_	Gloss=owner_of.Sing
@@ -861,7 +861,7 @@
 23	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	25	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
 24	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	25	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
 25	kafà	kaf-	VERB	_	_	0	root	_	Gloss=set_up
-26	jaːm'iyyà	jaːm'iyyàː	NOUN	_	Gender=Fem	25	comp:obj	_	Gloss=party.Fem|Poss=Yes|SpaceAfter=No|wordform=jaːm'iyyàr̃|wordfrom=jaːm'iyyàr̃sà
+26	jaːm'iyyà	jaːm'iyyàː	NOUN	_	Gender=Fem	25	comp:obj	_	Gloss=party.Fem|SpaceAfter=No|wordform=jaːm'iyyàr̃|wordfrom=jaːm'iyyàr̃sà
 27	-r̃	na	PART	_	Case=Gen|PartType=Case	26	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No|wordform=-t
 28	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	27	comp:obj/m	_	Gloss=3Masc.Gen
 29	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	26	mod	_	Gloss=Gen.Fem
@@ -901,7 +901,7 @@
 8	manufoːfi	manufaː	NOUN	_	Number=Plur	6	comp:obj	_	Gloss=programme.Plur|SpaceAfter=No|wordform=manufoːfin
 9	-n	na	PART	_	Case=Gen|PartType=Case	8	mod/m	_	Gloss=Gen.Masc/Plur
 10	jàm'iyyàr̃	jàm'iyyàː	NOUN	_	Definite=Def|Gender=Fem	9	comp:obj	_	Gloss=party.Fem.Def
-11	taːsà	taːsà	PRON	_	Case=Gen|Gender=Fem|PronType=Prs	10	mod@poss	_	CaseAf=Gen|GenderAf=Masc|Gloss=Gen.Fem-3MascGen|MSeg=taː-sà|PersonAf=3|Poss=Yes|SpaceAfter=No|wordform=taː
+11	taːsà	taːsà	PRON	_	Case=Gen|Gender=Fem|PronType=Prs	10	mod@poss	_	CaseAf=Gen|GenderAf=Masc|Gloss=Gen.Fem-3MascGen|MSeg=taː-sà|PersonAf=3|SpaceAfter=No|wordform=taː
 12	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
 13	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	19	dislocated	_	Gloss=Pron.Fem.Rel|Relz=word
 14	à	à	ADP	_	_	19	mod	_	Gloss=at
@@ -1027,7 +1027,7 @@
 8	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	9	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
 9	sàki	sak-	VERB	_	_	0	root	_	Gloss=release
 10	goːgân	goːgaː	NOUN	_	Definite=Def|Gender=Masc	9	comp:obj	_	Gloss=hero.Masc.Def
-11	naːkù	naːkù	PRON	_	Case=Gen|Gender=Masc|PronType=Prs	10	mod@poss	_	CaseAf=Gen|Gloss=Gen.Masc-2PlurGen|MSeg=naː-kù|NumberAf=Plur|PersonAf=2|Poss=Yes|SpaceAfter=No|wordform=naː
+11	naːkù	naːkù	PRON	_	Case=Gen|Gender=Masc|PronType=Prs	10	mod@poss	_	CaseAf=Gen|Gloss=Gen.Masc-2PlurGen|MSeg=naː-kù|NumberAf=Plur|PersonAf=2|SpaceAfter=No|wordform=naː
 12	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 13	wàːtòː	wàːtòː	CCONJ	_	_	14	cc	_	Gloss=that_is
 14	baːyan	baːyan	SCONJ	_	_	2	conj:dicto	_	Gloss=after
@@ -1070,7 +1070,7 @@
 21	nèː	neː	AUX	_	Copula=Yes	0	root	_	Gloss=Equ.Masc/Plur
 22	gàme	gam-	VERB	_	ExtPos=ADV|VerbForm=Part	21	dislocated@comp	_	Gloss=gather.Part
 23	dà	dà	ADP	_	_	22	comp:obl	_	Gloss=with
-24	maːta	màːtaː	NOUN	_	Number=Plur	23	comp:obj	_	Gloss=wife.Plur|Poss=Yes|SpaceAfter=No|wordform=maːtansà|wordfrom=maːtansà
+24	maːta	màːtaː	NOUN	_	Number=Plur	23	comp:obj	_	Gloss=wife.Plur|SpaceAfter=No|wordform=maːtansà|wordfrom=maːtansà
 25	-n	na	PART	_	Case=Gen|PartType=Case	24	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 26	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	25	comp:obj/m	_	Gloss=3Masc.Gen
 27	na	na	PART	_	Case=Gen|Number=Plur|PartType=Case	24	mod	_	Gloss=Gen

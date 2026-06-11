@@ -125,7 +125,7 @@
 35	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	37	mod	_	Gloss=Neg
 36	tàːre	tàːre	ADV	_	_	37	mod	_	Gloss=together
 37	dà	dà	ADP	_	_	28	mod	_	Gloss=with
-38	tùhumà	tuhum-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	37	comp:obj	_	Gloss=charge.Vnoun.Fem|Poss=Yes|SpaceAfter=No|wordform=tùhumàr̃|wordfrom=tùhumàr̃sà
+38	tùhumà	tuhum-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	37	comp:obj	_	Gloss=charge.Vnoun.Fem|SpaceAfter=No|wordform=tùhumàr̃|wordfrom=tùhumàr̃sà
 39	-r̃	na	PART	_	Case=Gen|PartType=Case	38	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No|wordform=-t
 40	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	39	comp:obj/m	_	Gloss=3Masc.Gen
 41	ba	ba	PART	_	PartType=Neg|Polarity=Neg	37	mod	_	Gloss=Neg|SpaceAfter=No
@@ -293,7 +293,7 @@
 28	mùsammàn	mùsammàː	ADV	_	_	27	comp:obj	_	Gloss=especially
 29	tàːre	tàːre	ADV	_	_	30	mod	_	Gloss=together
 30	dà	dà	CCONJ	_	_	31	cc	_	Gloss=and
-31	zàrgi	zarg-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	20	conj:coord	_	Gloss=accuse.Vnoun.Masc|Poss=Yes|SpaceAfter=No|wordform=zàrginsà|wordfrom=zàrginsà
+31	zàrgi	zarg-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	20	conj:coord	_	Gloss=accuse.Vnoun.Masc|SpaceAfter=No|wordform=zàrginsà|wordfrom=zàrginsà
 32	-n	na	PART	_	Case=Gen|PartType=Case	31	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 33	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	32	comp:obj/m	_	Gloss=3Masc.Gen
 34	dà	dà	CCONJ	_	_	31	comp:obl	_	Gloss=and
@@ -337,7 +337,7 @@
 14	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	15	mod/m	_	Gloss=Sub=
 15	ji	ji	VERB	_	_	21	discourse	_	Gloss=hear
 16	lauyàn	lauyàː	NOUN	_	Definite=Def|Gender=Masc	15	comp:obj	_	Gloss=lawyer.Masc.Def
-17	naːsà	naːsà	PRON	_	Case=Gen|Gender=Masc|PronType=Prs	16	mod@poss	_	CaseAf=Gen|GenderAf=Masc|Gloss=Gen.Masc-3MascGen|MSeg=naː-sà|PersonAf=3|Poss=Yes|SpaceAfter=No|wordform=naː
+17	naːsà	naːsà	PRON	_	Case=Gen|Gender=Masc|PronType=Prs	16	mod@poss	_	CaseAf=Gen|GenderAf=Masc|Gloss=Gen.Masc-3MascGen|MSeg=naː-sà|PersonAf=3|SpaceAfter=No|wordform=naː
 18	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
 19	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	21	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
 20	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	21	mod/m	_	Gloss=Perf.Sing=|wordform=aː
@@ -408,7 +408,7 @@
 # text_en = His lawyer went on to say that if Chief G.F. os convicted of this crime, he can receive up to five year's imprisonment.
 # text_ortho = Lauyànsà yaː ƙaːràː dà cêːwaː ìdan har̃ akà sàːmi Chief G.F. dà wannàn lâifiː, tòː zâi iyà saːmùn ɗaurìn har̃ shèːkaràː bìyar̃ à gidan yaːrìː.
 # text = lauyàː-n-sà yaː= ƙaːràː dà cêːwaː ìdan har̃ akà= sàːmi Chief G.F. dà wannàn lâifiː, tòː zâi= iyà saːmùn ɗaurìn har̃ shèːkaràː bìyar̃ à gidan yaːrìː.
-1	lauyà	lauyàː	PROPN	_	_	6	subj	_	Gloss=lawyer.Masc|Poss=Yes|SpaceAfter=No|wordform=Lauyànsà|wordfrom=lauyànsà
+1	lauyà	lauyàː	PROPN	_	_	6	subj	_	Gloss=lawyer.Masc|SpaceAfter=No|wordform=Lauyànsà|wordfrom=lauyànsà
 2	-n	na	PART	_	Case=Gen|PartType=Case	1	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 3	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	2	comp:obj/m	_	Gloss=3Masc.Gen
 4	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
@@ -511,7 +511,7 @@
 39	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	40	mod/m	_	Gloss=Perf.Sing=|wordform=aː
 40	yi	yi	VERB	_	_	33	comp:obj	_	Gloss=do
 41	wà	mà	ADP	_	Case=Dat	40	comp:obl	_	Gloss=Dat
-42	màːta	màːtaː	NOUN	_	Gender=Fem	41	comp:obj	_	Gloss=wife.Fem|Poss=Yes|SpaceAfter=No|wordform=màːtar̃|wordfrom=màːtar̃sà
+42	màːta	màːtaː	NOUN	_	Gender=Fem	41	comp:obj	_	Gloss=wife.Fem|SpaceAfter=No|wordform=màːtar̃|wordfrom=màːtar̃sà
 43	-r̃	na	PART	_	Case=Gen|PartType=Case	42	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No|wordform=-t
 44	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	43	comp:obj/m	_	Gloss=3Masc.Gen
 45	fyàːɗeː	fyàːɗeː	NOUN	_	Gender=Masc	40	comp:pred	_	Gloss=rape.Masc|SpaceAfter=No
@@ -570,7 +570,7 @@
 12	yi	yi	VERB	_	_	0	root	_	Gloss=do
 13	sànàdiyyà	sànàdiyyàː	NOUN	_	Gender=Fem	12	comp:pred	_	Gloss=cause.Fem|SpaceAfter=No|wordform=sànàdiyyàr̃
 14	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	13	mod/m	_	Gloss=Gen.Fem
-15	zuwà	zoː	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	14	comp:obj	_	Gloss=go.Vnoun|Poss=Yes|SpaceAfter=No|wordform=zuwànsà|wordfrom=zuwànsà
+15	zuwà	zoː	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	14	comp:obj	_	Gloss=go.Vnoun|SpaceAfter=No|wordform=zuwànsà|wordfrom=zuwànsà
 16	-n	na	PART	_	Case=Gen|PartType=Case	15	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 17	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	16	comp:obj/m	_	Gloss=3Masc.Gen
 18	koːtù	koːtù	NOUN	_	Gender=Fem	15	comp:obj@G	_	Gloss=court.Fem
@@ -587,7 +587,7 @@
 # text_en = His most important case is the one about trying to ensure that two agents of the national Nigerian security be imprisoned for the murder of Dele Giwa, i.e. the journalist who lost his life because of a bomb that he received in a letter in nineteen eighty-six.
 # text_ortho = Zuwànsà koːtùn dà ya fi koːwànneː muhimmancìː shiː nèː neːman yà ga an ɗaurè wasu jàːmìꞌan tsàron ƙasar̃ Nàːjeːr̃iyàː biyu waɗàndà akà zàrgaː dà lâifin kashè Dele Giwa, wàːtòː ɗan jàr̃iːdàr̃ nan dà ya rasà rânsà dàliːlìn wani bâm dà akà aikoː masà ta cikin wàsiːƙàː tun shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà shidà.
 # text = zuwà-n-sà koːtùn dà ya= fi koːwànneː muhimmancìː shiː nèː neːma-n ya-_̀= ga a-n= ɗaurè wasu jàːmìꞌa-n tsàro-n ƙasa-r̃ Nàːjeːr̃iyàː biyu waɗàndà a-kà= zàrgaː dà lâifi-n kashè Dele Giwa, wàːtòː ɗa-n jàr̃iːdàr̃ nan dà ya= rasà râ-n-sà dàliːlìn wani bâm dà a-kà= aikoː masà ta cikin wàsiːƙàː tun shèːkarà-r̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà shidà.
-1	zuwà	zoː	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	12	subj	_	Gloss=go.Vnoun.Masc|Poss=Yes|RelAnt=Yes|SpaceAfter=No|wordform=Zuwànsà|wordfrom=zuwànsà
+1	zuwà	zoː	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	12	subj	_	Gloss=go.Vnoun.Masc|RelAnt=Yes|SpaceAfter=No|wordform=Zuwànsà|wordfrom=zuwànsà
 2	-n	na	PART	_	Case=Gen|PartType=Case	1	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 3	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	2	comp:obj/m	_	Gloss=3Masc.Gen
 4	koːtùn	koːtù	NOUN	_	Definite=Def|Gender=Fem	1	comp:obj@G	_	Gloss=court.Fem.Def
@@ -638,7 +638,7 @@
 47	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	49	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
 48	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	49	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
 49	rasà	ras-	VERB	_	_	46	comp:obj	_	ClauseType=Rel|Gloss=lose|RelRole=subj
-50	râ	râi	NOUN	_	Gender=Masc	49	comp:obj	_	Gloss=life.Masc|Poss=Yes|SpaceAfter=No|wordform=rânsà|wordfrom=rânsà
+50	râ	râi	NOUN	_	Gender=Masc	49	comp:obj	_	Gloss=life.Masc|SpaceAfter=No|wordform=rânsà|wordfrom=rânsà
 51	-n	na	PART	_	Case=Gen|PartType=Case	50	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 52	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	51	comp:obj/m	_	Gloss=3Masc.Gen
 53	dàliːlìn	dàliːlìn	ADP	_	_	49	mod	_	Gloss=because_of
