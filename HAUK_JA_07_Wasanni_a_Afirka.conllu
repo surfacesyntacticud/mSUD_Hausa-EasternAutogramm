@@ -85,7 +85,7 @@
 40	shìga	shig-	VERB	_	_	8	comp:obj	_	Gloss=enter
 41	gàːsâr̃	gàːsâː	NOUN	_	Definite=Def|Gender=Fem	40	comp:obj@G	_	Gloss=competition.Fem.Def
 42	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	41	det	_	Gloss=PreRef|PreRef=Yes
-43	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	51	subj	_	Gloss=Pron.Fem.Rel|RelPos=Yes|Relz=word
+43	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	41	mod@relcl	_	Gloss=Pron.Fem.Rel|Relz=word
 44	ƙungìya	ƙungìyaː	NOUN	_	Gender=Fem	51	subj	_	Gloss=association.Fem|SpaceAfter=No|wordform=ƙungìyar̃
 45	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	44	mod/m	_	Gloss=Gen.Fem
 46	dambe	dambe	NOUN	_	Gender=Masc	45	comp:obj	_	Gloss=boxing.Masc
@@ -94,7 +94,7 @@
 49-50	ta=	_	_	_	_	_	_	_	_
 49	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	51	subj/m	_	Gloss=3Fem-|Relative=Yes|SpaceAfter=No|wordform=ta
 50	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	51	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-51	shiryàː	shir-	VERB	_	_	41	mod@relcl	_	ClauseType=Rel|Gloss=prepare
+51	shiryàː	shir-	VERB	_	_	43	comp	_	ClauseType=Rel|Gloss=prepare|RelRole=subj
 52	don	don	SCONJ	_	_	51	mod	_	Gloss=in_order_to
 53	neːmo	neːm-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	52	comp:obj	_	Gloss=look_for.Vnoun.Masc|SpaceAfter=No|wordform=neːmoː
 54	-n	na	PART	_	Case=Gen|PartType=Case	53	udep/m	_	Gloss=Gen.Masc/Plur

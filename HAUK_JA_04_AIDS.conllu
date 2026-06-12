@@ -327,12 +327,12 @@
 10	-n	na	PART	_	Case=Gen|PartType=Case	9	mod/m	_	Gloss=Gen.Masc/Plur
 11	Aːbir̃ù	Aːbir̃ù	PROPN	_	_	10	comp:obj	_	Gloss=Ivory
 12	Kwâs	Kwâs	PROPN	_	_	11	flat@name	_	Gloss=Coast|SpaceAfter=No
-13	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
-14	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	17	subj	_	Gloss=Pron.Masc.Rel|RelPos=Yes|Relz=word
+13	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
+14	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	4	mod@relcl	_	Gloss=Pron.Masc.Rel|RelPos=Yes|Relz=word
 15-16	ya=	_	_	_	_	_	_	_	_
 15	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	17	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
 16	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	17	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-17	nuːnà	nuːn-	VERB	_	_	4	mod@relcl	_	ClauseType=Rel|Gloss=show
+17	nuːnà	nuːn-	VERB	_	_	14	comp	_	ClauseType=Rel|Gloss=show|RelRole=subj
 18	cêːwaː	cêːwaː	SCONJ	_	_	17	comp:obj	_	Gloss=COMP
 19	rabì	rabìː	NOUN	_	Gender=Masc	33	dislocated@subj	_	Gloss=half.Masc|RelAnt=Yes|SpaceAfter=No|wordform=rabìn
 20	-n	na	PART	_	Case=Gen|PartType=Case	19	udep/m	_	Gloss=Gen.Masc/Plur
@@ -499,9 +499,9 @@
 # text_ortho = Ministàn, wandà shiː nèː shùːgàban kwàmìtî kân cùːtar̃ AIDS, ya ƙaːràː dà cêːwaː kwàmìtînsà yanàː naːnàːtaː wà asibitoːciː sù tabbatar̃ dà kyâun jinîn dà zaː sù ɗuːràː wà maràsaː laːfiyàː, koː dà yakè yaː cêː bàbbar̃ màtsalàː ita cèː rashìn naːꞌur̃oːr̃in duːbà jiniː.
 1	ministàn	ministàː	NOUN	_	Definite=Def|Gender=Masc	16	subj	_	Gloss=minister.Masc.Def|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-3	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	5	subj	_	Gloss=Pron.Masc.Rel|RelPos=Yes|Relz=word
+3	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	1	mod@relcl	_	Gloss=Pron.Masc.Rel|Relz=word
 4	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	5	comp:pred	_	Gloss=3Masc.Nom
-5	nèː	neː	AUX	_	Copula=Yes	1	mod@relcl	_	ClauseType=Rel|Gloss=Equ.Masc/Plur
+5	nèː	neː	AUX	_	Copula=Yes	3	comp	_	ClauseType=Rel|Gloss=Equ.Masc/Plur|RelRole=subj
 6	shùːgàba	shùːgàbaː	NOUN	_	Gender=Masc	5	dislocated@comp	_	Gloss=leader.Masc|SpaceAfter=No|wordform=shùːgàban
 7	-n	na	PART	_	Case=Gen|PartType=Case	6	mod/m	_	Gloss=Gen.Masc/Plur
 8	kwàmìtî	kwàmìtî	NOUN	_	Definite=Def|Gender=Masc	7	comp:obj	_	Gloss=committee.Masc.Def

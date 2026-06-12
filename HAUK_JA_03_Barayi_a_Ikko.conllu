@@ -436,8 +436,8 @@
 43	Lawrence	Lawrence	PROPN	_	_	41	mod	_	Gloss=Lawrence
 44	Anini	Anini	PROPN	_	_	43	flat@name	_	Gloss=Anini|SpaceAfter=No
 45	"	"	PUNCT	_	_	43	punct	_	Gloss=PUNCT|wordform=’
-46	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	47	subj	_	Gloss=Pron.Masc.Rel|RelPos=Yes|Relz=word
-47	kèː	nàː	AUX	_	Copula=Yes	38	mod@relcl	_	ClauseType=Rel|Gloss=bePred.Rel|Relative=Yes
+46	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	38	mod@relcl	_	Gloss=Pron.Masc.Rel|Relz=word
+47	kèː	nàː	AUX	_	Copula=Yes	46	comp	_	ClauseType=Rel|Gloss=bePred.Rel|Relative=Yes|RelRole=subj
 48	dà	dà	ADP	_	_	47	comp:pred	_	Gloss=with
 49	yâraː	yaːròː	NOUN	_	Number=Plur	48	comp:obj	_	Gloss=boy.Plur
 50	ɓàràːyiː	ɓàraːwòː	NOUN	_	Number=Plur	49	mod	_	Gloss=thief.Plur
@@ -465,12 +465,12 @@
 11	soːjì	soːjà	NOUN	_	Number=Plur	10	comp:obj	_	Gloss=soldier.Plur
 12	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	9	mod:num	_	Gloss=Gen.Fem
 13	biyu	biyu	NUM	_	_	12	comp:obj	_	Gloss=two
-14	-	-	PUNCT	_	_	18	punct	_	Gloss=PUNCT|SpaceAfter=No
-15	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	18	subj	_	Gloss=Pron.Fem.Rel|RelPos=Yes|Relz=word
+14	-	-	PUNCT	_	_	15	punct	_	Gloss=PUNCT|SpaceAfter=No
+15	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	9	mod@relcl	_	Gloss=Pron.Fem.Rel|RelPos=Yes|Relz=word
 16-17	ta=	_	_	_	_	_	_	_	_
 16	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	18	subj/m	_	Gloss=3Fem-|Relative=Yes|SpaceAfter=No|wordform=ta
 17	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	18	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-18	baː	baː	VERB	_	_	9	mod@relcl	_	ClauseType=Rel|Gloss=give
+18	baː	baː	VERB	_	_	15	comp	_	ClauseType=Rel|Gloss=give|RelRole=subj
 19	dà	dà	ADP	_	_	18	comp:obl	_	Gloss=with
 20	iːkòː	iːkòː	NOUN	_	Gender=Masc	19	comp:obj	_	Gloss=power.Masc
 21	a-	a	PRON	_	Person=4|PronType=PrsSubj	23	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à

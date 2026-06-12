@@ -410,9 +410,9 @@
 17	irìː	irìː	NOUN	_	Gender=Masc	13	mod	_	Gloss=type.Masc
 18	dàbam	dàbam	ADJ	_	_	17	mod	_	Gloss=different
 19	dàbam	dàbam	ADJ	_	_	18	conj:redup	_	Gloss=different
-20	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	22	dislocated	_	Gloss=Pron.Plur.Rel|Relz=word
+20	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	13	mod@relcl	_	Gloss=Pron.Plur.Rel|Relz=word
 21	manòːmaː	manòːmiː	NOUN	_	Number=Plur	22	subj	_	Gloss=farmer.Plur
-22	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	13	mod@relcl	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|SpaceAfter=No
+22	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	20	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|SpaceAfter=No
 23	àmfàniː	àmfàniː	NOUN	_	Gender=Masc	22	comp:pred	_	Gloss=using.Masc
 24	dà	dà	ADP	_	_	23	comp:obl	_	Gloss=with
 25	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	24	comp:obj	_	Gloss=3Plur.Nom|RelPos=Yes

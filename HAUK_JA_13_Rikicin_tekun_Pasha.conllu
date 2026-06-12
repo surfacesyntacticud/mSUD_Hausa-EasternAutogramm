@@ -200,10 +200,10 @@
 17	à	à	ADP	_	_	14	mod	_	Gloss=at
 18	areːwacin	areːwacin	ADP	_	_	17	comp:obj	_	Gloss=north_of
 19	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	18	comp:obj	_	Gloss=Nigeria
-20	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	23	subj	_	Gloss=Pron.Plur.Rel|RelPos=Yes|Relz=word
+20	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	16	mod@relcl	_	Gloss=Pron.Plur.Rel|Relz=word
 21	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	23	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 22	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	23	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-23	sòːki	soːk-	VERB	_	_	16	mod@relcl	_	ClauseType=Rel|Gloss=concern
+23	sòːki	soːk-	VERB	_	_	20	comp	_	ClauseType=Rel|Gloss=concern|RelRole=subj
 24	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	23	comp:obj	_	Gloss=thing.Masc.Def|RelAnt=Yes
 25	dà	dà	SCONJ	_	_	24	mod@relcl	_	Gloss=CompRel|Relz=Word
 26	ƙasàːshe	ƙasaː	NOUN	_	Number=Plur	30	subj	_	Gloss=country|SpaceAfter=No|wordform=ƙasàːshen

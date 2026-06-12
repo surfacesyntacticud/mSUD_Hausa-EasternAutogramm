@@ -511,9 +511,9 @@
 30	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 
 # sent_id = 14_Miyagun_kwayoyi_12b
-# text_en = On this occasion, the man who was caught, had swallowed the cocaine with the help of gombo sause, which he used to swallow more easily, and which is much eaten in Nigeria.
-# text_ortho = À wannàn karòn shiː mùtumìn dà akà kaːmàː yaː haɗìyeː kòːkên neː tàːre dà yîn àmfàːniː dà miyàr̃ kuɓèːwaː, wàccè ya yi àmfàːniː dà ita dòːmin saːmùn sauƙin hadìyêːwâr̃, wàddà kuma dâː maː anàː cîntà sòːsai à Nàːjeːr̃iyàː.
 # text = à wannàn karòn shiː mùtumìn dà a-kà= kaːmàː y-aː= haɗìyeː kòːkên neː tàːre dà yî-n àmfàːniː dà miyà-r̃ kuɓèːwaː, wàccè ya= yi àmfàːniː dà ita dòːmin saːmù-n sauƙi-n hadìyêːwâr̃, wàddà kuma dâː maː a-nàː cî-n-tà sòːsai à Nàːjeːr̃iyàː.
+# text_en = On this occasion, the man who was caught, had swallowed the cocaine with the help of gombo sauce, which he used to swallow more easily, and which is much eaten in Nigeria.
+# text_ortho = À wannàn karòn shiː mùtumìn dà akà kaːmàː yaː haɗìyeː kòːkên neː tàːre dà yîn àmfàːniː dà miyàr̃ kuɓèːwaː, wàccè ya yi àmfàːniː dà ita dòːmin saːmùn sauƙin hadìyêːwâr̃, wàddà kuma dâː maː anàː cîntà sòːsai à Nàːjeːr̃iyàː.
 1	à	à	ADP	_	_	12	mod	_	Gloss=at|wordform=A
 2	wannàn	nân	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	3	det	_	Gloss=ProxS.Sing
 3	karòn	karòː	NOUN	_	Definite=Def|Gender=Masc	1	comp:obj	_	Gloss=occation.Masc.Def
@@ -554,7 +554,7 @@
 37	hadìyêːwâr̃	hadiy-	VERB	_	Definite=Def|ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	36	comp:obj	_	Gloss=swallow.Vnoun.Fem.Def|SpaceAfter=No
 38	,	,	PUNCT	_	_	44	punct	_	Gloss=PUNCT
 39	wàddà	wandà	PRON	_	Gender=Fem|PronType=Rel	44	subj	_	Gloss=Pron.Fem.Rel|RelPos=Yes|Relz=word
-40	kuma	kuma	PART	_	PartType=Top	44	discourse@top	_	Gloss=also
+40	kuma	kuma	PART	_	PartType=Top	39	discourse@top	_	Gloss=also
 41	dâː	dâː	ADV	_	_	44	mod	_	Gloss=formerly
 42	maː	maː	PART	_	_	41	discourse@top	_	Gloss=even
 43	a-	a-	PRON	_	Person=4|PronType=Prs	44	subj/m	_	Gloss=4|SpaceAfter=No

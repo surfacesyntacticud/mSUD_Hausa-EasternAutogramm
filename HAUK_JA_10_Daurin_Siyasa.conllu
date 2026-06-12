@@ -217,7 +217,7 @@
 # sent_id = 10_Daurin_Siyasa_8
 # text_en = But the lawyers of the Nigerian Civil Liberties Organisation said that they are certain that this second law is used in ways that are improper - that is to say, people are imprisoned because of ordinary crimes whose nature does not concern national security or national economy.
 # text_ortho = Àmmaː suː lauyoːyiː na Ƙungìyar̃ Neːmàː wà Jàma'àː Haƙƙìnsù ta Nàːjeːr̃iyàː sun cêː sun haƙiːƙànceː anàː àmfàːniː dà wannàn Dòːkaː ta Biyu ta hanyàr̃ dà bàtà daːcèː ba - wàːtòː anàː tsarèː mutàneː sabòːdà laifuffukàː na yâu dà kullum kawài, waɗàndà al'amur̃ànsù bàsù shàːfi yîn wata maƙar̃ƙashìyaː gà laːfiyàr̃ ƙasaː koː kuma gà tattalin ar̃zìkin ƙasaː ba.
-# text = àmmaː suː lauyoːyiː na Ƙungìyar̃ Neːmàː wà Jàma'àː Haƙƙì-n-sù ta Nàːjeːr̃iyàː sun= cêː sun= haƙiːƙànceː anàː= àmfàːniː dà wannàn Dòːkaː ta Biyu ta hanyàr̃ dà bàtà= daːcèː ba - wàːtòː anàː= tsarèː mutàneː sabòːdà laifuffukàː na yâu dà kullum kawài, waɗàndà al'amur̃à-n-sù bàsù= shàːfi yîn wata maƙar̃ƙashìyaː gà laːfiyà-r̃ ƙasaː koː kuma gà tattali-n ar̃zìki-n ƙasaː ba.
+# text = àmmaː suː lauyoːyiː na Ƙungìya-r̃ Neːmàː wà Jàma'àː Haƙƙì-n-sù ta Nàːjeːr̃iyàː su-n= cêː su-n= haƙiːƙànceː a-nàː àmfàːniː dà wannàn Dòːkaː ta Biyu ta hanyàr̃ dà bà-tà=daːcèː ba -wàːtòː a-nàː tsarèː mutàneː sabòːdà laifuffukàː na yâu dà kullum kawài, waɗàndà al'amur̃à-n-sù bà-sù=shàːfi yî-n wata maƙar̃ƙashìyaː gà laːfiyà-r̃ ƙasaː koː kuma gà tattali-n ar̃zìki-n ƙasaː ba.
 1	àmmaː	àmmaː	CCONJ	_	_	17	discourse	_	Gloss=but
 2	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	subj	_	Gloss=3Plur.Nom
 3	lauyoːyiː	lauyàː	NOUN	_	Number=Plur	2	conj:appos	_	Gloss=lawyer.Plur
@@ -266,14 +266,14 @@
 46	dà	dà	CCONJ	_	_	47	cc	_	Gloss=and
 47	kullum	kullum	ADV	_	_	45	conj:coord	_	Gloss=always
 48	kawài	kawài	ADV	_	_	44	mod	_	Gloss=merely|SpaceAfter=No
-49	,	,	PUNCT	_	_	56	punct	_	Gloss=PUNCT
-50	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	56	subj	_	Gloss=Pron.Plur.Rel|RelPos=Yes|Relz=word|wordform=wadandal
+49	,	,	PUNCT	_	_	50	punct	_	Gloss=PUNCT
+50	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	43	mod@relcl	_	Gloss=Pron.Plur.Rel|RelPos=Yes|Relz=word|wordform=wadandal
 51	al'amur̃à	àl'amàr̃ìː	NOUN	_	Number=Plur	56	subj	_	Gloss=case.Plur|SpaceAfter=No|wordform=al'amur̃ànsù
 52	-n	na	PART	_	Case=Gen|PartType=Case	51	mod@poss	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
-53	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	52	comp:obj	_	Gloss=3Plur.Gen
+53	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	52	comp:obj	_	Gloss=3Plur.Gen|RelPos=Yes
 54	bà-	bà-	PART	_	Aspect=Perf|PartType=TAM|Polarity=Neg	56	mod/m	_	Gloss=Neg.Perf-|SpaceAfter=No
 55	sù=	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	56	subj/m	_	Gloss=3Plur=|SpaceAfter=No|wordform=bàsù
-56	shàːfi	shàig-	VERB	_	_	43	mod@relcl	_	ClauseType=Rel|Gloss=concern
+56	shàːfi	shàig-	VERB	_	_	50	comp	_	ClauseType=Rel|Gloss=concern
 57	yî	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	56	comp:obj	_	Compound=Yes|Gloss=do.Vnoun.Masc.|SpaceAfter=No|wordform=yîn
 58	-n	na	PART	_	Case=Gen|PartType=Case	57	udep/m	_	Gloss=Gen.Masc/Plur
 59	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	60	det	_	Gloss=some.Fem.Spec
