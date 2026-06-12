@@ -617,10 +617,10 @@
 27	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	26	mod/m	_	Gloss=Gen.Fem
 28	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	27	comp:obj	_	Gloss=Nigeria
 29	biyu	biyu	NUM	_	_	22	mod:num	_	Gloss=two
-30	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	33	comp:obj	_	Gloss=Pron.Plur.Rel|RelPos=Yes|Relz=word
+30	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	22	mod@relcl	_	Gloss=Pron.Plur.Rel|Relz=word
 31	a-	a	PRON	_	Person=4|PronType=PrsSubj	33	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 32	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	33	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-33	zàrgaː	zarg-	VERB	_	_	22	mod@relcl	_	ClauseType=Rel|Gloss=accuse
+33	zàrgaː	zarg-	VERB	_	_	30	comp	_	ClauseType=Rel|Gloss=accuse|RelRole=obj
 34	dà	dà	ADP	_	_	33	comp:obl	_	Gloss=with
 35	lâifi	lâifiː	NOUN	_	Gender=Masc	34	comp:obj	_	Gloss=crime.Masc|SpaceAfter=No|wordform=lâifin
 36	-n	na	PART	_	Case=Gen|PartType=Case	35	mod/m	_	Gloss=Gen.Masc/Plur

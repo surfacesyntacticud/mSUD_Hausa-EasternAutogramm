@@ -88,19 +88,19 @@
 # sent_id = 11_Fela_Kuti_4
 # text_en = Fela indeed is Yoruba from head to toe, who was born in Abeokuta in nineteen thirty-eight, but when he became a young man, he went to Lagos where he became an accountant in a government office.
 # text_ortho = Fela dai bàyar̃abề neː gàba dà baːya, wandà akà hàifaː à gàrin Àbêːkùta à shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàlàːtin dà takwàs, tòː àmmaː dà ya kai matsayin sauràyiː, sai ya koːmàː Ìkko indà ya zama àkàːwu à wani oːfìshin gwamnatì.
-# text = Fela dai bàyar̃aFela dai bàyar̃abề neː gàba dà baːya, wandà akà hàifaː à gàrin Àbêːkùta à shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàlàːtin dà takwàs, tòː àmmaː dà ya kai matsayin sauràyiː, sai ya koːmàː Ìkko indà ya zama àkàːwu à wani oːfìshin gwamnatì.bề neː gàba dà baːya, wandà akà hàifaː à gàrin Àbêːkùta à shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàlàːtin dà takwàs, tòː àmmaː dà ya kai matsayin sauràyiː, sai ya koːmàː Ìkko indà ya zama àkàːwu à wani oːfìshin gwamnatì.
+# text = Fela dai Bàyar̃abèː neː gàba dà baːya, wandà a-kà= hàifaː à gàri-n Àbêːkùta à shèːkarà-r̃ alìf dà ɗàriː tar̃à dà tàlàːtin dà takwàs, tòː àmmaː dà ya= kai matsayi-n sauràyiː, sai ya= koːmàː Ìkko indà ya= zama àkàːwu à wani oːfìshi-n gwamnatì.
 1	Fela	Fela	PROPN	_	_	4	subj	_	Gloss=Fela
 2	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
-3	bàyar̃abề	bàyar̃abề	NOUN	_	Gender=Masc	4	comp:pred	_	Gloss=Yoruba.Masc
+3	Bàyar̃abèː	Bàyar̃abèː	PROPN	_	Gender=Masc	4	comp:pred	_	Gloss=Yoruba.Masc
 4	neː	neː	AUX	_	Copula=Yes	0	root	_	Gloss=Equ.Masc/Plur
 5	gàba	gàba	ADV	_	_	4	mod	_	Gloss=in_front
 6	dà	dà	CCONJ	_	_	7	cc	_	Gloss=and
 7	baːya	baːya	ADV	_	_	5	comp:obj	_	Gloss=back|SpaceAfter=No
-8	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
-9	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	12	comp:obj	_	Gloss=Pron.Masc.Rel|RelPos=Yes|Relz=word
+8	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
+9	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	3	mod@relcl	_	Gloss=Pron.Masc.Rel|RelPos=Yes|Relz=word
 10	a-	a	PRON	_	Person=4|PronType=PrsSubj	12	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 11	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	12	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-12	hàifaː	haif-	VERB	_	_	3	mod@relcl	_	ClauseType=Rel|Gloss=give_birth_to
+12	hàifaː	haif-	VERB	_	_	9	comp	_	ClauseType=Rel|Gloss=give_birth_to|RelRole=obj
 13	à	à	ADP	_	_	12	mod	_	Gloss=at
 14	gàri	gàriː	NOUN	_	Gender=Masc	13	comp:obj	_	Gloss=city.Masc|SpaceAfter=No|wordform=gàrin
 15	-n	na	PART	_	Case=Gen|PartType=Case	14	mod/m	_	Gloss=Gen.Masc/Plur
@@ -866,12 +866,12 @@
 28	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	27	comp:obj/m	_	Gloss=3Masc.Gen
 29	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	26	mod	_	Gloss=Gen.Fem
 30	kânsà	kânsà	PRON	_	Gender=Masc|Person=3|PronType=Prs|Reflex=Yes	29	comp:obj	_	Gloss=3Masc.Reflex
-31	,	,	PUNCT	_	_	35	punct	_	Gloss=PUNCT
-32	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	35	comp:obj	_	Gloss=Pron.Fem.Rel|RelPos=Yes|Relz=word
+31	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT
+32	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	26	mod@relcl	_	Gloss=Pron.Fem.Rel|RelPos=Yes|Relz=word
 33-34	ya=	_	_	_	_	_	_	_	_
 33	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	35	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
 34	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	35	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-35	kiraː	kiraː	VERB	_	_	26	mod@relcl	_	ClauseType=Rel|Gloss=call
+35	kiraː	kiraː	VERB	_	_	32	comp	_	ClauseType=Rel|Gloss=call|RelRole=obj
 36	"	"	PUNCT	_	_	37	punct	_	Gloss=PUNCT
 37	The	The	X	_	_	35	comp:pred	_	Gloss=The
 38	Movement	Movement	X	_	_	37	flat@foreign	_	Gloss=Movement

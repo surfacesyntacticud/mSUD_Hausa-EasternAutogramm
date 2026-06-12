@@ -475,7 +475,7 @@
 
 # sent_id = 07_Wasanni_a_Afirka_11
 # text_en = This crisis made many sports fans to take part in the discussion, so much so that a Nigerian newspaper called 'Sunday Concord' commented the discussin saying that Lasisi should be allowed to take part in the game.
-# text = yànzu dai wannàn rìkiciː yaː=sâː màːsu shà'awà-r̃ wàːsànniː dà daːmaː su-nàː tsoːmà bàːkiː à bàtûn, har̃ maː wata jàr̃iːdàː à Nàːjeːr̃iyàː waddà a-kèː kiràː " Sunday Concord " taː=r̃ubùːtà shar̃hìː à kân bàtûn, ta-nàː cêːwaː yaː=kàmaːtà à=bar̃ Lasisi yà=shìga wàːsân.
+# text = yànzu dai wannàn rìkiciː y-aː= sâː màːsu shà'awà-r̃ wàːsànniː dà daːmaː su-nàː tsoːmà bàːkiː à bàtûn, har̃ maː wata jàr̃iːdàː à Nàːjeːr̃iyàː waddà a-kèː kiràː " Sunday Concord " t-aː= r̃ubùːtà shar̃hìː à kân bàtûn, ta-nàː cêːwaː y-aː= kàmaːtà a-_̀= bar̃ Lasisi ya-_̀= shìga wàːsân.
 # text_ortho = Yànzu dai wannàn rìkiciː yaː sâː màːsu shà’awàr̃ wàːsànniː dà daːmaː sunàː tsoːmà bàːkiː à bàtûn, har̃ maː wata jàr̃iːdàː à Nàːjeːr̃iyàː waddà akèː kiràː 'Sunday Concord' taː r̃ubùːtà shar̃hìː à kân bàtûn, tanàː cêːwaː yaː kàmaːtà à bar̃ Lasisi yà shìga wàːsân.
 1	yànzu	yànzu	ADV	_	_	7	mod	_	Gloss=now
 2	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
@@ -503,10 +503,10 @@
 24	jàr̃iːdàː	jàr̃iːdàː	NOUN	_	Gender=Fem	37	subj	_	Gloss=newspaper.Fem
 25	à	à	ADP	_	_	24	mod	_	Gloss=at
 26	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	25	comp:obj	_	Gloss=Nigeria
-27	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	29	comp:obj	_	Gloss=Pron.Fem.Rel|RelPos=Yes|Relz=word
+27	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	24	mod@relcl	_	Gloss=Pron.Fem.Rel|Relz=word
 28	a-	a-	PRON	_	Person=4|PronType=Prs	29	subj/m	_	Gloss=4|SpaceAfter=No
-29	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	24	mod@relcl	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|wordform=akèː
-30	kiràː	kiraː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	29	comp:pred	_	Gloss=call.Vnoun.Masc
+29	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	27	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|wordform=akèː
+30	kiràː	kiraː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	29	comp:pred	_	Gloss=call.Vnoun.Masc|RelRole=obj
 31	"	"	PUNCT	_	_	32	punct	_	Gloss=PUNCT
 32	Sunday	Sunday	PROPN	_	_	30	comp:pred	_	Gloss=Sunday
 33	Concord	Concord	PROPN	_	_	32	flat@name	_	Gloss=Concord
