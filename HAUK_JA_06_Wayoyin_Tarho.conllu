@@ -426,7 +426,7 @@
 14	àmmaː	àmmaː	CCONJ	_	_	17	cc	_	Gloss=but
 15	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	17	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
 16	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	17	mod/m	_	Gloss=Perf.Sing=|wordform=aː
-17	fi	fi	VERB	_	_	7	parataxis@conj	_	Gloss=exceed
+17	fi	fi	VERB	_	_	7	parataxis:conj	_	Gloss=exceed
 18	sauƙiː	sauƙiː	NOUN	_	Gender=Masc	17	comp:pred	_	Gloss=easiness.Masc
 19	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	21	subj/m	_	Gloss=2Masc-|SpaceAfter=No|wordform=kà
 20	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	21	mod/m	_	Gloss=Sub=
@@ -535,7 +535,7 @@
 29	Afir̃kà	Afir̃kà	PROPN	_	_	28	comp:obj	_	Gloss=Africa
 30	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	32	subj/m	_	Gloss=3Plur|SpaceAfter=No|wordform=sun
 31	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	32	mod/m	_	Gloss=Perf.Plur=|wordform=n
-32	soːmà	soːm-	VERB	_	_	3	parataxis@conj	_	Gloss=start
+32	soːmà	soːm-	VERB	_	_	3	parataxis:conj	_	Gloss=start
 33	ƙaːrà	ƙaːr-	VERB	_	_	32	comp:obj	_	Gloss=increase
 34	dàngàntakàː	dàngànta	NOUN	_	Gender=Fem	33	comp:obj	_	Gloss=relationship.Fem
 35	tsàkaːnin	tsàkaːnin	ADP	_	_	33	comp:obl	_	Gloss=between|SpaceAfter=No|wordform=tsàkaːninsù

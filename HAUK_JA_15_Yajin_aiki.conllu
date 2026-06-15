@@ -101,7 +101,7 @@
 10	a-	a	PRON	_	Person=4|PronType=PrsSubj	13	subj/m	_	Gloss=4|SpaceAfter=No|wordform=an
 11	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	13	mod/m	_	Gloss=Perf.Plur=|wordform=n
 12	kuma	kuma	PART	_	PartType=Top	13	discourse@top	_	Gloss=also
-13	rufèː	ruf-	VERB	_	_	3	parataxis@conj	_	Gloss=close
+13	rufèː	ruf-	VERB	_	_	3	parataxis:conj	_	Gloss=close
 14	shaːgunàː	shaːgunàː	NOUN	_	Number=Plur	13	comp:obj	_	Gloss=shop.Plur|SpaceAfter=No
 15	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 16	yàːyîn	yàːyiː	NOUN	_	Definite=Def	13	mod	_	Gloss=time.Def|RelAnt=Yes

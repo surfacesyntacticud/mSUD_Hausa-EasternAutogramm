@@ -171,7 +171,7 @@
 17	makàɗiː	makàɗiː	NOUN	_	Gender=Masc	16	comp:pred	_	Gloss=musician.Masc|SpaceAfter=No
 18	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
 19	ya	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	20	subj/m	_	Gloss=3Masc
-20	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	13	parataxis@conj	_	Gloss=Prog|wordform=yana
+20	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	13	parataxis:conj	_	Gloss=Prog|wordform=yana
 21	wàːƙe-wàːƙe	waːƙàː	NOUN	_	Number=Plur	20	comp:pred	_	Gloss=song.Plur|SpaceAfter=No|wordform=wàːƙe-wàːƙensà|wordfrom=wàːƙe-wàːƙensà
 22	-n	na	PART	_	Case=Gen|PartType=Case	21	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 23	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	22	comp:obj/m	_	Gloss=3Masc.Gen
@@ -328,13 +328,13 @@
 9-10	na=	_	_	_	_	_	_	_	_
 9	na-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	11	subj/m	_	Gloss=1Sing-|Relative=Yes|SpaceAfter=No|wordform=na
 10	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	11	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-11	sâː	sâː	VERB	_	_	7	parataxis@conj	_	Gloss=put
+11	sâː	sâː	VERB	_	_	7	parataxis:conj	_	Gloss=put
 12	à	à	ADP	_	_	11	comp:obl	_	Gloss=at
 13	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	12	comp:obj	_	Gloss=mouth.Masc
 14-15	na=	_	_	_	_	_	_	_	_
 14	na-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	16	subj/m	_	Gloss=1Sing-|Relative=Yes|SpaceAfter=No|wordform=na
 15	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	16	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-16	faːrà	faːr-	VERB	_	_	11	parataxis@conj	_	Gloss=begin
+16	faːrà	faːr-	VERB	_	_	11	parataxis:conj	_	Gloss=begin
 17	buːsàːwaː	buːs-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	16	comp:obj	_	Gloss=blow.Vnoun.Fem|SpaceAfter=No
 18	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 19	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT
@@ -427,7 +427,7 @@
 29	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT
 30	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	32	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yà
 31	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	32	mod/m	_	Gloss=Sub=
-32	ƙaːroː	ƙaːr-	VERB	_	_	24	parataxis@conj	_	Gloss=increase
+32	ƙaːroː	ƙaːr-	VERB	_	_	24	parataxis:conj	_	Gloss=increase
 33	ilìmi	ilìmiː	NOUN	_	Gender=Masc	32	comp:obj	_	Gloss=science.Masc|SpaceAfter=No|wordform=ilìmin
 34	-n	na	PART	_	Case=Gen|PartType=Case	33	udep/m	_	Gloss=Gen.Masc/Plur
 35	kiɗìː	kiɗìː	NOUN	_	Gender=Masc	34	comp:obj	_	Gloss=music.Masc
@@ -563,7 +563,7 @@
 45-46	ya=	_	_	_	_	_	_	_	_
 45	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	47	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
 46	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	47	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-47	faːrà	faːr-	VERB	_	_	28	parataxis@conj	_	Gloss=begin
+47	faːrà	faːr-	VERB	_	_	28	parataxis:conj	_	Gloss=begin
 48	yî	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	47	comp:obj	_	Compound=Yes|Gloss=do.Vnoun.Masc.|SpaceAfter=No|wordform=yîn
 49	-n	na	PART	_	Case=Gen|PartType=Case	48	udep/m	_	Gloss=Gen.Masc/Plur
 50	fàyàːfàyai	faifai	NOUN	_	Number=Plur	49	comp:obj	_	Gloss=record.Plur
@@ -764,7 +764,7 @@
 16	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
 17	a-	a	PRON	_	Person=4|PronType=PrsSubj	19	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 18	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	19	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-19	jefàː	jef-	VERB	_	_	3	parataxis@conj	_	Gloss=throw
+19	jefàː	jef-	VERB	_	_	3	parataxis:conj	_	Gloss=throw
 20	-ta	-ta	PRON	_	Case=Acc|Gender=Fem|Person=3|PronType=Prs	19	comp:obj/m	_	Gloss=-3Fem.Acc|wordform=ta
 21	ta	ta	ADP	_	_	19	comp:obl	_	Gloss=via
 22	taːgàː	taːgàː	NOUN	_	Gender=Fem	21	comp:obj	_	Gloss=window.Fem|SpaceAfter=No
@@ -974,7 +974,7 @@
 18	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
 19	a-	a	PRON	_	Person=4|PronType=PrsSubj	21	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 20	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	21	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-21	gurfaːnar̃	gurfaːn-	VERB	_	Voice=Cau	16	parataxis@conj	_	Gloss=take_to_court.Cau
+21	gurfaːnar̃	gurfaːn-	VERB	_	Voice=Cau	16	parataxis:conj	_	Gloss=take_to_court.Cau
 22	dà	dà	ADP	_	_	21	comp:obl	_	Gloss=with
 23	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	22	comp:obj	_	Gloss=3Masc.Nom
 24	gàban	gàban	ADP	_	_	21	comp:obl	_	Gloss=in_front_of

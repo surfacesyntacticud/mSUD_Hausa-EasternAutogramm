@@ -389,7 +389,7 @@
 14	Gwamnatì	Gwamnatì	PROPN	_	_	13	comp:obj	_	Gloss=Gwamnatì|SpaceAfter=No
 15	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 16	ya	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	17	subj/m	_	Gloss=3Masc
-17	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	7	parataxis@conj	_	Gloss=Prog|wordform=yanàː
+17	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	7	parataxis:conj	_	Gloss=Prog|wordform=yanàː
 18	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	17	comp:aux	_	Gloss=say.Vnoun.Fem
 19	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	20	subj/m	_	Gloss=3Fem-|SpaceAfter=No
 20	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	18	comp:obj	_	Gloss=Prog|wordform=tanàː

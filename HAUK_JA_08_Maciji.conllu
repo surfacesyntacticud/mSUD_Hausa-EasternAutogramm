@@ -102,7 +102,7 @@
 33	,	,	PUNCT	_	_	36	punct	_	Gloss=PUNCT
 34	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	36	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 35	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	36	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-36	nùfi	nuf-	VERB	_	_	26	parataxis@conj	_	Gloss=head_for
+36	nùfi	nuf-	VERB	_	_	26	parataxis:conj	_	Gloss=head_for
 37	dà	dà	ADP	_	_	36	comp:obl	_	Gloss=with
 38	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	37	comp:obj	_	Gloss=3Masc.Nom
 39	zuwàː	zuwàː	ADP	_	_	36	comp:obl	_	Gloss=towards
@@ -171,7 +171,7 @@
 26	mutàːneː	mùtûm	NOUN	_	Number=Plur	29	subj	_	Gloss=people.Plur
 27	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	29	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 28	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	29	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-29	faːrà	faːràː	VERB	_	_	9	parataxis@conj	_	Gloss=begin
+29	faːrà	faːràː	VERB	_	_	9	parataxis:conj	_	Gloss=begin
 30	jî	ji	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	29	comp:obj	_	Compound=Yes|Gloss=hear.Vnoun.Masc.|SpaceAfter=No|wordform=jîn
 31	-n	na	PART	_	Case=Gen|PartType=Case	30	udep/m	_	Gloss=Gen.Masc/Plur
 32	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	33	det	_	Gloss=some.Masc.Spec
@@ -235,7 +235,7 @@
 28	tàːru	taːr-	VERB	_	_	20	mod@relcl	_	ClauseType=Rel|Gloss=gather
 29	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	31	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 30	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	31	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-31	yi	yi	VERB	_	_	28	parataxis@conj	_	Gloss=do
+31	yi	yi	VERB	_	_	28	parataxis:conj	_	Gloss=do
 32	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	33	mod	_	Gloss=Iter
 33	aikìː	aikìː	NOUN	_	Gender=Masc	31	comp:pred	_	Gloss=work.Masc
 34	har̃	har̃	ADP	_	_	33	mod	_	Gloss=up_to

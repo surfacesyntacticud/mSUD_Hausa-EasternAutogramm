@@ -392,7 +392,7 @@
 45	kuma	kuma	PART	_	PartType=Top	44	discourse@top	_	Gloss=also
 46	a-	a	PRON	_	Person=4|PronType=PrsSubj	48	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 47	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	48	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-48	cinnàː	cinn-	VERB	_	_	39	parataxis@conj	_	Gloss=set_fire
+48	cinnàː	cinn-	VERB	_	_	39	parataxis:conj	_	Gloss=set_fire
 49	wà	mà	ADP	_	Case=Dat	48	comp:obl	_	Gloss=Dat
 50	coːcì-coːcì	coːcì	NOUN	_	Number=Plur	49	comp:obj	_	Gloss=church.Plur
 51	dà	dà	CCONJ	_	_	52	cc	_	Gloss=and
@@ -443,7 +443,7 @@
 37	Jàs	Jàs	PROPN	_	_	36	comp:obj	_	Gloss=Jos
 38	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	40	subj/m	_	Gloss=3Plur|SpaceAfter=No|wordform=sun
 39	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	40	mod/m	_	Gloss=Perf.Plur=|wordform=n
-40	cêː	cêː	VERB	_	_	11	parataxis@conj	_	Gloss=say
+40	cêː	cêː	VERB	_	_	11	parataxis:conj	_	Gloss=say
 41	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	43	subj/m	_	Gloss=3Plur|SpaceAfter=No|wordform=sun
 42	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	43	mod/m	_	Gloss=Perf.Plur=|wordform=n
 43	ga	ganiː	VERB	_	_	40	comp:obj	_	Gloss=see
@@ -747,7 +747,7 @@
 33	kuma	kuma	PART	_	PartType=Top	32	discourse@top	_	Gloss=also
 34	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	36	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 35	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	36	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-36	sàːmi	saːm-	VERB	_	_	24	parataxis@conj	_	Gloss=get
+36	sàːmi	saːm-	VERB	_	_	24	parataxis:conj	_	Gloss=get
 37	raunukàː	ràuniː	NOUN	_	Number=Plur	36	comp:obj	_	Gloss=injury.Plur|SpaceAfter=No
 38	.	.	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 
@@ -820,7 +820,7 @@
 10	Kanòː	Kanòː	PROPN	_	_	9	comp:obj	_	Gloss=Kano|SpaceAfter=No
 11	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 12	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	13	subj/m	_	Gloss=3Plur|SpaceAfter=No
-13	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	5	parataxis@conj	_	Gloss=Prog|wordform=sunàː
+13	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	5	parataxis:conj	_	Gloss=Prog|wordform=sunàː
 14	kunnà	kunn-	VERB	_	_	13	comp:pred	_	Gloss=light
 15	wutaː	wutaː	NOUN	_	Gender=Masc	14	comp:obj	_	Gloss=fire.Masc
 16	gà	gà	ADP	_	_	14	comp:obl	_	Gloss=to

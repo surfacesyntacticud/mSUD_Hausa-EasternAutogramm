@@ -271,7 +271,7 @@
 32	don	don	ADP	_	_	35	mod	_	Gloss=because_of
 33	hakà	hakà	ADV	_	_	32	comp:obj	_	Gloss=thus
 34	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	35	subj/m	_	Gloss=3Plur|SpaceAfter=No
-35	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	19	parataxis@conj	_	Gloss=Prog|wordform=sunàː
+35	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	19	parataxis:conj	_	Gloss=Prog|wordform=sunàː
 36	shâ	shaː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	35	comp:pred	_	Gloss=experience.Vnoun.Masc|SpaceAfter=No|wordform=shân
 37	-n	na	PART	_	Case=Gen|PartType=Case	36	udep/m	_	Gloss=Gen.Masc/Plur
 38	wàhalàː	wàhalàː	NOUN	_	Gender=Fem	37	comp:obj	_	Gloss=trouble.Fem

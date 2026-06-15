@@ -481,7 +481,7 @@
 26	lâifiː	lâifiː	NOUN	_	Gender=Masc	25	comp:obj	_	Gloss=crime.Masc
 27	a-	a	PRON	_	Person=4|PronType=PrsSubj	29	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
 28	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	29	mod/m	_	Gloss=Sub=
-29	tsarèː	tsar-	NOUN	_	_	23	parataxis@conj	_	Gloss=imprison
+29	tsarèː	tsar-	NOUN	_	_	23	parataxis:conj	_	Gloss=imprison
 30	-	-	PUNCT	_	_	31	punct	_	Gloss=PUNCT|SpaceAfter=No
 31	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	9	conj:appos	_	Gloss=3Fem.Nom
 32	maː	maː	PART	_	PartType=Top	31	discourse@top	_	Gloss=even

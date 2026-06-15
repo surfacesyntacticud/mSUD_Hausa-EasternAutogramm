@@ -71,7 +71,7 @@
 24	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	28	comp:obj	_	Gloss=Pron.Masc.Rel|RelPos=Yes|Relz=Word
 25	a-	a	PRON	_	Person=4|PronType=PrsSubj	27	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 26	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	27	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-27	ɗuːràː	ɗuːr-	VERB	_	_	23	parataxis@conj	_	ClauseType=Rel|Gloss=inject
+27	ɗuːràː	ɗuːr-	VERB	_	_	23	parataxis:conj	_	ClauseType=Rel|Gloss=inject
 28	wà	mà	ADP	_	Case=Dat	27	comp:obl	_	Gloss=Dat
 29	jiniː	jiniː	NOUN	_	Gender=Masc	27	comp:obj	_	Gloss=blood.Masc
 30	zâ-	zâː-	PART	_	PartType=TAM|Tense=Fut	32	mod/m	_	Gloss=Fut-|SpaceAfter=No

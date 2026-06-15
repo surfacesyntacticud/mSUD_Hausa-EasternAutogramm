@@ -362,7 +362,7 @@
 30	a-	a	PRON	_	Person=4|PronType=PrsSubj	33	subj/m	_	Gloss=4|SpaceAfter=No|wordform=an
 31	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	33	mod/m	_	Gloss=Perf.Plur=|wordform=n
 32	kuma	kuma	PART	_	PartType=Top	33	discourse@top	_	Gloss=also
-33	tsarèː	tsar-	VERB	_	_	24	parataxis@conj	_	Gloss=imprison
+33	tsarèː	tsar-	VERB	_	_	24	parataxis:conj	_	Gloss=imprison
 34	-shi	-shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	33	comp:obj/m	_	Gloss=-3Masc.Acc|wordform=shi
 35	har̃	har̃	ADP	_	_	33	mod	_	Gloss=up_to
 36	tsawo	tsawoː	NOUN	_	Gender=Masc	35	comp:obj	_	Gloss=length.Masc|SpaceAfter=No|wordform=tsawon

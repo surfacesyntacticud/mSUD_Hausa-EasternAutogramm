@@ -145,7 +145,7 @@
 13	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 14	a-	a	PRON	_	Person=4|PronType=PrsSubj	16	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 15	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	16	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-16	hankàɗaː	hankaɗ-	VERB	_	_	5	parataxis@conj	_	Gloss=push
+16	hankàɗaː	hankaɗ-	VERB	_	_	5	parataxis:conj	_	Gloss=push
 17	-su	-su	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	16	comp:obj/m	_	Gloss=-3Plur.Acc|wordform=su
 18	ta	ta	ADP	_	_	16	comp:obl	_	Gloss=via
 19	indà	indà	ADV	_	PronType=Rel	25	comp:obj@L	_	Gloss=where.Rel|RelPos=Yes|Relz=Word
@@ -160,7 +160,7 @@
 28	kwarìː	kwarìː	NOUN	_	Gender=Masc	27	comp:obj	_	Gloss=valley.Masc
 29	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	31	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 30	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	31	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-31	shìga	shig-	VERB	_	_	16	parataxis@conj	_	Gloss=enter
+31	shìga	shig-	VERB	_	_	16	parataxis:conj	_	Gloss=enter
 32	ƙauyukàː	ƙauyèː	NOUN	_	Number=Plur	31	comp:obj@G	_	Gloss=village.Plur
 33	dà	dà	CCONJ	_	_	34	cc	_	Gloss=and
 34	gòːnàkiː	goːnaː	NOUN	_	Number=Plur	32	conj:coord	_	Gloss=field.Plur|SpaceAfter=No
@@ -438,7 +438,7 @@
 24	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
 25	a-	a	PRON	_	Person=4|PronType=PrsSubj	27	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
 26	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	27	mod/m	_	Gloss=Sub=
-27	fid	fit-	VERB	_	Voice=Cau	12	parataxis@conj	_	Gloss=go_out.Cau
+27	fid	fit-	VERB	_	Voice=Cau	12	parataxis:conj	_	Gloss=go_out.Cau
 28	dà	dà	ADP	_	_	27	comp:obl	_	Gloss=with
 29	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	28	comp:obj	_	Gloss=3Masc.Nom
 30	gàbaː	gàbaː	NOUN	_	Gender=Masc	27	mod	_	Gloss=front.Masc
@@ -642,7 +642,7 @@
 15	taːshì	taːs-	VERB	_	_	12	dislocated@comp	_	Gloss=set_off
 16	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	18	subj/m	_	Gloss=3.Plur-|SpaceAfter=No|wordform=sù
 17	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	18	mod/m	_	Gloss=Sub=
-18	koːmàː	koːm-	VERB	_	_	15	parataxis@conj	_	Gloss=go_(back)_to
+18	koːmàː	koːm-	VERB	_	_	15	parataxis:conj	_	Gloss=go_(back)_to
 19	neːsà	neːsà	ADV	_	_	18	comp:obj@G	_	Gloss=far
 20	ƙwar̃ai	ƙwar̃ai	ADV	_	_	19	mod	_	Gloss=really
 21	dàgà	dàgà	ADP	_	_	19	mod	_	Gloss=from

@@ -130,7 +130,7 @@
 44	gabaːtar̃	gabaːt-	VERB	_	Voice=Cau	41	comp:obj	_	Gloss=present.Cau
 45	dà	dà	ADP	_	_	44	comp:obl	_	Gloss=with
 46	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	45	comp:obj	_	Gloss=3Plur.Nom
-47	nèː	neː	AUX	_	Copula=Yes	21	parataxis@conj	_	Gloss=Equ.Masc/Plur
+47	nèː	neː	AUX	_	Copula=Yes	21	parataxis:conj	_	Gloss=Equ.Masc/Plur
 48	à	à	ADP	_	_	44	comp:obl	_	Gloss=at
 49	gàban	gàban	ADP	_	_	48	comp:obj	_	Gloss=front
 50	koːtù	koːtù	NOUN	_	Gender=Fem	49	mod	_	Gloss=court.Fem|SpaceAfter=No
@@ -177,7 +177,7 @@
 33	wasu	wani	PRON	_	Definite=Spec|Number=Plur|PronType=Ind	36	subj	_	Gloss=some.Plur.Spec
 34	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	36	subj/m	_	Gloss=3.Plur-|SpaceAfter=No|wordform=sù
 35	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	36	mod/m	_	Gloss=Sub=
-36	bâi	baː	VERB	_	_	28	parataxis@conj	_	Gloss=give
+36	bâi	baː	VERB	_	_	28	parataxis:conj	_	Gloss=give
 37	wà	mà	ADP	_	Case=Dat	36	comp:obl	_	Gloss=Dat
 38	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	37	comp:obj	_	Gloss=some.Plur.Spec|SpaceAfter=No
 39	,	,	PUNCT	_	_	40	punct	_	Gloss=PUNCT

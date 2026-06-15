@@ -164,7 +164,7 @@
 32	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	31	comp:obj	_	Gloss=Nigeria
 33	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	35	subj/m	_	Gloss=3Plur|SpaceAfter=No|wordform=sun
 34	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	35	mod/m	_	Gloss=Perf.Plur=|wordform=n
-35	shaː	shaː	VERB	_	_	10	parataxis@conj	_	Gloss=do_plenty
+35	shaː	shaː	VERB	_	_	10	parataxis:conj	_	Gloss=do_plenty
 36	bugà	bug-	VERB	_	_	35	comp:obj	_	Gloss=publish
 37	shar̃hìː	shar̃hìː	NOUN	_	Gender=Masc	36	comp:obj	_	Gloss=criticism.Masc|RelAnt=Yes
 38	dà	dà	SCONJ	_	_	37	mod@relcl	_	Gloss=CompRel|Relz=Word
@@ -263,7 +263,7 @@
 41	tsàye	tsay-	VERB	_	ExtPos=ADV|VerbForm=Part	40	mod	_	Gloss=stand.Part
 42	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	44	subj/m	_	Gloss=3.Plur-|SpaceAfter=No|wordform=sù
 43	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	44	mod/m	_	Gloss=Sub=
-44	bayyànà	bayyan-	VERB	_	_	40	parataxis@conj	_	Gloss=explain
+44	bayyànà	bayyan-	VERB	_	_	40	parataxis:conj	_	Gloss=explain
 45	r̃a'àyi	r̃a'àyin	NOUN	_	Gender=Masc	44	comp:obj	_	Gloss=viewpoint.Masc|SpaceAfter=No|wordform=r̃a'àyinsù
 46	-n	na	PART	_	Case=Gen|PartType=Case	45	mod@poss	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 47	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	46	comp:obj	_	Gloss=3Plur.Gen
@@ -592,7 +592,7 @@
 16	jaːmi'àr̃	jaːmi'àː	NOUN	_	Definite=Def|Gender=Fem	15	comp:obj	_	Gloss=university.Fem.Def
 17	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	19	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 18	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	19	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-19	yi	yi	VERB	_	_	13	parataxis@conj	_	Gloss=do
+19	yi	yi	VERB	_	_	13	parataxis:conj	_	Gloss=do
 20	wà	mà	ADP	_	Case=Dat	19	comp:obl	_	Gloss=Dat
 21	wurîn	wurîː	NOUN	_	Definite=Def|Gender=Masc	20	comp:obj	_	Gloss=place.Masc.Def
 22	ƙawanyàː	ƙawanyàː	NOUN	_	Gender=Fem	19	comp:pred	_	Gloss=circle.Fem|SpaceAfter=No
@@ -601,7 +601,7 @@
 25	kuma	kuma	PART	_	PartType=Top	24	discourse@top	_	Gloss=also
 26	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	28	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 27	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	28	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-28	kullèː	kull-	VERB	_	_	19	parataxis@conj	_	Gloss=lock
+28	kullèː	kull-	VERB	_	_	19	parataxis:conj	_	Gloss=lock
 29	duk	dukà	DET	_	PronType=Tot	30	det	_	Gloss=all
 30	ƙoːfoːfîn	ƙoːfàː	NOUN	_	Definite=Def|Number=Plur	28	comp:obj	_	Gloss=door.Plur.Def
 31	dà	dà	ADP	_	_	28	comp:obl	_	Gloss=with
@@ -642,7 +642,7 @@
 27	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	26	comp:obj	_	Gloss=3Plur.Gen
 28	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	30	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 29	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	30	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-30	rinƙà	rinƙ-	VERB	_	_	23	parataxis@conj	_	Gloss=keep_on
+30	rinƙà	rinƙ-	VERB	_	_	23	parataxis:conj	_	Gloss=keep_on
 31	jiːfà	jeːf-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	30	comp:obj	_	Compound=Yes|Gloss=throw.Vnoun.Masc.|SpaceAfter=No|wordform=jiːfàn
 32	-n	na	PART	_	Case=Gen|PartType=Case	31	comp:obj/m	_	Gloss=Gen.Masc/Plur
 33	'ya	ɗaː	NOUN	_	Number=Plur	32	comp:obj	_	Compound=Yes|Gloss=child.Plur|SpaceAfter=No|wordform='yan
@@ -695,7 +695,7 @@
 9	baːya	baːya	ADV	_	_	8	comp:obj	_	Gloss=back
 10	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	12	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 11	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	12	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-12	koːmàː	koːm-	VERB	_	_	7	parataxis@conj	_	Gloss=go_back
+12	koːmàː	koːm-	VERB	_	_	7	parataxis:conj	_	Gloss=go_back
 13	cikin	cikin	ADP	_	_	12	comp:obl	_	Gloss=inside
 14	hàr̃aːbà	hàr̃aːbàː	NOUN	_	Gender=Fem	13	comp:obj	_	Gloss=campus.Fem|SpaceAfter=No|wordform=hàr̃aːbàr̃
 15	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	14	mod/m	_	Gloss=Gen.Fem

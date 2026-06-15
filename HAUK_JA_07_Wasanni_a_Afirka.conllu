@@ -342,7 +342,7 @@
 18-19	ya=	_	_	_	_	_	_	_	_
 18	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	20	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
 19	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	20	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-20	gayàː	gay-	VERB	_	_	14	parataxis@conj	_	Gloss=tell
+20	gayàː	gay-	VERB	_	_	14	parataxis:conj	_	Gloss=tell
 21	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	20	comp:obl	_	Gloss=3Masc.Dat
 22	kadà	kaɗà	PART	_	PartType=Neg	25	mod	_	Gloss=Neg
 23	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	25	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yà
@@ -350,7 +350,7 @@
 25	kùskurà	kùskurà	NOUN	_	_	20	comp:obj	_	Gloss=make_mistake
 26	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	28	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yà
 27	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	28	mod/m	_	Gloss=Sub=
-28	shìga	shig-	VERB	_	_	25	parataxis@conj	_	Gloss=enter
+28	shìga	shig-	VERB	_	_	25	parataxis:conj	_	Gloss=enter
 29	wannàn	nân	DET	_	Deixis=ProxS|Gender=Fem|PronType=Dem	30	det	_	Gloss=ProxS.Fem
 30	gàːsaː	gàːsaː	NOUN	_	Gender=Fem	28	comp:obj@G	_	Gloss=competition.Fem|SpaceAfter=No
 31	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
@@ -387,14 +387,14 @@
 26	-n	na	PART	_	Case=Gen|PartType=Case	25	mod/m	_	Gloss=Gen.Masc/Plur
 27	Ìkko	Ìkko	PROPN	_	_	26	comp:obj	_	Gloss=Lagos
 28	ya	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	29	subj/m	_	Gloss=3Masc
-29	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	21	parataxis@conj	_	Gloss=Prog|wordform=yanàː
+29	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	21	parataxis:conj	_	Gloss=Prog|wordform=yanàː
 30	ƙaryàtà	ƙaryat-	VERB	_	_	29	comp:aux	_	Gloss=contradict
 31	shùːgàba	shùːgàbaː	NOUN	_	Gender=Masc	30	comp:obj	_	Gloss=leader.Masc|SpaceAfter=No|wordform=shùːgàban
 32	-n	na	PART	_	Case=Gen|PartType=Case	31	mod/m	_	Gloss=Gen.Masc/Plur
 33	hùkuːmàr̃	hùkuːmàː	NOUN	_	Definite=Def|Gender=Fem	32	comp:obj	_	Gloss=authority.Fem.Def|SpaceAfter=No
 34	,	,	PUNCT	_	_	36	punct	_	Gloss=PUNCT
 35	ya	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	36	subj/m	_	Gloss=3Masc
-36	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	29	parataxis@conj	_	Gloss=Prog|wordform=yanàː
+36	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	29	parataxis:conj	_	Gloss=Prog|wordform=yanàː
 37	ròːƙo	roːƙ-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	36	comp:aux	_	Gloss=request.Vnoun.Masc|SpaceAfter=No|wordform=ròːƙon
 38	-n	na	PART	_	Case=Gen|PartType=Case	37	udep/m	_	Gloss=Gen.Masc/Plur
 39	jàma'àː	jàma'àː	NOUN	_	Gender=Fem	38	comp:obj	_	Gloss=people.Fem
@@ -468,7 +468,7 @@
 43	Kudù	Kudù	PROPN	_	_	42	comp:obj	_	Gloss=Kudù
 44	zaː-	zâː-	PART	_	PartType=TAM|Tense=Fut	46	mod/m	_	Gloss=Fut-|SpaceAfter=No
 45	'à=	a	PRON	_	Person=4|PronType=PrsSubj|Tense=Fut	46	subj/m	_	Gloss=4=|wordform=zaː'à
-46	yi	yi	VERB	_	_	40	parataxis@conj	_	Gloss=do
+46	yi	yi	VERB	_	_	40	parataxis:conj	_	Gloss=do
 47	dambên	dambe	NOUN	_	Definite=Def|Gender=Masc	46	comp:pred	_	Gloss=boxing.Masc.Def
 48	ba	ba	PART	_	PartType=Neg|Polarity=Neg	40	mod	_	Gloss=Neg|SpaceAfter=No
 49	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
@@ -520,7 +520,7 @@
 41	bàtûn	bàtuː	NOUN	_	Definite=Def|Gender=Masc	40	comp:obj	_	Gloss=discussion.Masc.Def|SpaceAfter=No
 42	,	,	PUNCT	_	_	44	punct	_	Gloss=PUNCT
 43	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	44	subj/m	_	Gloss=3Fem-|SpaceAfter=No
-44	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	37	parataxis@conj	_	Gloss=Prog|wordform=tanàː
+44	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	37	parataxis:conj	_	Gloss=Prog|wordform=tanàː
 45	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	44	comp:pred	_	Gloss=say.Vnoun.Fem
 46	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	48	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
 47	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	48	mod/m	_	Gloss=Perf.Sing=|wordform=aː
@@ -553,7 +553,7 @@
 12	barìː	barìː	VERB	_	_	9	comp:obj	_	Gloss=leave
 13	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	15	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yà
 14	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	15	mod/m	_	Gloss=Sub=
-15	yi	yi	VERB	_	_	12	parataxis@mod	_	Gloss=do
+15	yi	yi	VERB	_	_	12	parataxis:mod	_	Gloss=do
 16	wàːsân	wàːsaː	NOUN	_	Definite=Def|Gender=Masc	15	comp:pred	_	Gloss=game.Masc.Def|SpaceAfter=No
 17	.	.	PUNCT	_	_	7	comp:obj	_	Gloss=PUNCT
 
