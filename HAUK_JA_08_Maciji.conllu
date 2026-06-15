@@ -228,7 +228,7 @@
 21	-n	na	PART	_	Case=Gen|PartType=Case	20	mod/m	_	Gloss=Gen.Masc/Plur
 22	Gboko	Gboko	PROPN	_	_	21	comp:obj	_	Gloss=Gboko|SpaceAfter=No
 23	,	,	PUNCT	_	_	28	punct	_	Gloss=PUNCT
-24	indà	indà	PRON	_	PronType=Rel	28	mod	_	Gloss=where.Rel|RelPos=Yes|Relz=word
+24	indà	indà	PRON	_	PronType=Rel	28	mod	_	Gloss=where.Rel|RelPos=Yes|Relz=Word
 25	likitoːciː	likitoːciː	NOUN	_	Number=Plur	28	subj	_	Gloss=doctor.Plur
 26	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	28	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 27	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	28	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
@@ -410,7 +410,7 @@
 17	irìː	irìː	NOUN	_	Gender=Masc	13	mod	_	Gloss=type.Masc
 18	dàbam	dàbam	ADJ	_	_	17	mod	_	Gloss=different
 19	dàbam	dàbam	ADJ	_	_	18	conj:redup	_	Gloss=different
-20	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	13	mod@relcl	_	Gloss=Pron.Plur.Rel|Relz=word
+20	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	13	mod@relcl	_	Gloss=Pron.Plur.Rel|Relz=Word
 21	manòːmaː	manòːmiː	NOUN	_	Number=Plur	22	subj	_	Gloss=farmer.Plur
 22	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	20	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|SpaceAfter=No
 23	àmfàniː	àmfàniː	NOUN	_	Gender=Masc	22	comp:pred	_	Gloss=using.Masc

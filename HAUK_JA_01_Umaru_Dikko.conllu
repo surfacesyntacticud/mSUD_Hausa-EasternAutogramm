@@ -295,11 +295,11 @@
 8	a-	a	PRON	_	Person=4|PronType=PrsSubj	10	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
 9	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	10	mod/m	_	Gloss=Sub=
 10	r̃ubùːtà	r̃ubuːt-	NOUN	_	_	7	comp:obj@agent	_	Gloss=write|RelRole=L
-11	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	14	subj	_	Gloss=Pron.Masc.Rel|RelPos=Yes|Relz=Word
+11	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	10	comp:obj	_	ClauseType=Rel|Gloss=Pron.Masc.Rel|Relz=Word
 12-13	ya=	_	_	_	_	_	_	_	_
 12	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	14	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
 13	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	14	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-14	aikàː	aik-	VERB	_	_	10	comp:obj	_	ClauseType=Rel|Gloss=send
+14	aikàː	aik-	VERB	_	_	11	mod@relcl	_	Gloss=send|RelRole=obj
 15	dà	dà	ADP	_	_	14	comp:obl	_	Gloss=with
 16	àkwàːtìn	àkwàːtì	NOUN	_	Definite=Def|Gender=Masc	15	comp:obj	_	Gloss=box.Masc.Def
 17	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also|SpaceAfter=No

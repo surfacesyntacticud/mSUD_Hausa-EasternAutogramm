@@ -245,7 +245,7 @@
 6	nèː	neː	PART	_	PartType=Foc	5	discourse@foc	_	Gloss=Emph
 7	ƙanaːnàː	ƙàramiː	ADJ	_	Number=Plur	5	mod	_	Gloss=small.Plur|SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
-9	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	1	mod@relcl	_	Gloss=Pron.Plur.Rel|RelPos=Yes|Relz=word
+9	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	1	mod@relcl	_	Gloss=Pron.Plur.Rel|RelPos=Yes|Relz=Word
 10	bà-	bà-	PART	_	Aspect=Perf|PartType=TAM|Polarity=Neg	12	mod/m	_	Gloss=Neg.Perf-|SpaceAfter=No
 11	sù=	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	12	subj/m	_	Gloss=3Plur=|SpaceAfter=No|wordform=bàsù
 12	kai	kai	VERB	_	_	9	comp	_	ClauseType=Rel|Gloss=reach/carry_to|RelRole=subj
@@ -319,7 +319,7 @@
 34	ƙafàːfu	ƙafàː	NOUN	_	Number=Plur	33	comp:obj	_	Gloss=leg.Plur|SpaceAfter=No|wordform=ƙafàːfunsù
 35	-n	na	PART	_	Case=Gen|PartType=Case	34	mod@poss	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 36	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	35	comp:obj	_	Gloss=3Plur.Gen
-37	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	45	subj	_	Gloss=Pron.Masc.Rel|RelPos=Yes|Relz=word
+37	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	45	subj	_	Gloss=Pron.Masc.Rel|RelPos=Yes|Relz=Word
 38	a-	a-	PRON	_	Person=4|PronType=Prs	39	subj/m	_	Gloss=4|SpaceAfter=No
 39	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	32	mod@relcl	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|wordform=akèː
 40	gani	ganiː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	39	comp:pred	_	Gloss=seen.Vnoun.Masc|SpaceAfter=No|wordform=ganin
@@ -499,7 +499,7 @@
 17	-n	na	PART	_	Case=Gen|PartType=Case	16	mod/m	_	Gloss=Gen.Masc/Plur
 18	iyàːyeː	uwaː	NOUN	_	Number=Plur	17	comp:obj	_	Gloss=mother.Plur
 19	maːtaː	tamàːta	ADJ	_	Number=Plur	18	mod	_	Gloss=female.Plur
-20	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	18	mod@relcl	_	Gloss=Pron.Plur.Rel|Relz=word
+20	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	18	mod@relcl	_	Gloss=Pron.Plur.Rel|Relz=Word
 21	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	22	subj/m	_	Gloss=3Plur|SpaceAfter=No
 22	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	20	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|RelRole=subj|wordform=sukèː
 23	mutuwàː	mutù	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	22	comp:pred	_	Gloss=die.Vnoun.Fem
@@ -525,7 +525,7 @@
 8	nèː	neː	AUX	_	Copula=Yes	0	root	_	Gloss=Equ.Masc/Plur
 9	gà	gà	ADP	_	_	5	mod	_	Gloss=to
 10	ƙasaː	ƙasaː	NOUN	_	Gender=Fem	9	comp:obj	_	Gloss=country.Fem
-11	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	10	mod@relcl	_	Gloss=Pron.Fem.Rel|Relz=word
+11	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	10	mod@relcl	_	Gloss=Pron.Fem.Rel|Relz=Word
 12	yawà	yawàː	NOUN	_	Gender=Masc	19	subj	_	Gloss=quantity.Masc|SpaceAfter=No|wordform=yawàn
 13	-n	na	PART	_	Case=Gen|PartType=Case	12	mod/m	_	Gloss=Gen.Masc/Plur
 14	jàma'à	jàma'àː	NOUN	_	Gender=Fem	13	comp:obj	_	GenderAf=Fem|Gloss=population.Fem|SpaceAfter=No|wordform=jàma'àr̃tà
@@ -651,7 +651,7 @@
 16	kafà	kaf-	VERB	_	_	13	comp:obj	_	ClauseType=Rel|Gloss=set_up|RelRole=mod
 17	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	18	det	_	Gloss=some.Masc.Spec
 18	kwàmìtî	kwàmìtî	NOUN	_	Gender=Masc	16	comp:obj	_	Gloss=committee.Masc
-19	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	18	mod@relcl	_	Gloss=Pron.Masc.Rel|Relz=word
+19	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	18	mod@relcl	_	Gloss=Pron.Masc.Rel|Relz=Word
 20	zâ-	zâː-	PART	_	PartType=TAM|Tense=Fut	22	mod/m	_	Gloss=Fut-|SpaceAfter=No
 21	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj|Tense=Fut	22	subj/m	_	Gloss=3Masc=|wordform=zâi
 22	tabbatar̃	tabbat-	VERB	_	Voice=Cau	19	comp	_	ClauseType=Rel|Gloss=be_sure.Cau|RelRole=subj
@@ -664,7 +664,7 @@
 29	sàuka	sauk-	VERB	_	_	23	comp:obj	_	Gloss=give_birth
 30	laːfiyàː	laːfiyàː	NOUN	_	Gender=Fem	29	comp:obj	_	Gloss=health.Fem|SpaceAfter=No
 31	,	,	PUNCT	_	_	36	punct	_	Gloss=PUNCT
-32	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	36	subj	_	Gloss=Pron.Masc.Rel|RelPos=Yes|Relz=word
+32	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	36	subj	_	Gloss=Pron.Masc.Rel|RelPos=Yes|Relz=Word
 33	kuma	kuma	PART	_	PartType=Top	36	discourse@top	_	Gloss=also
 34	zâ-	zâː-	PART	_	PartType=TAM|Tense=Fut	36	mod/m	_	Gloss=Fut-|SpaceAfter=No
 35	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj|Tense=Fut	36	subj/m	_	Gloss=3Masc=|wordform=zâi

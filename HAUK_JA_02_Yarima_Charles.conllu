@@ -158,7 +158,7 @@
 18	kèː	nàː	AUX	_	Copula=Yes	17	comp:obj	_	ClauseType=Rel|Gloss=bePred.Rel|Relative=Yes|RelRole=subj
 19	Ìkko	Ìkko	PROPN	_	_	18	comp:pred	_	Gloss=Lagos|SpaceAfter=No
 20	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
-21	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	14	mod@relcl	_	Gloss=Pron.Masc.Rel|RelPos=Yes|Relz=word
+21	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	14	mod@relcl	_	Gloss=Pron.Masc.Rel|RelPos=Yes|Relz=Word
 22	à	à	ADP	_	_	25	mod	_	Gloss=at
 23	dâː	dâː	ADV	_	_	22	comp:obj	_	Gloss=formerly
 24	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	25	comp:pred	_	Gloss=3Masc.Nom
@@ -398,7 +398,7 @@
 19	gida	gidaː	NOUN	_	Gender=Masc	18	mod	_	Gloss=house.Masc|SpaceAfter=No|wordform=gidan
 20	-n	na	PART	_	Case=Gen|PartType=Case	19	mod/m	_	Gloss=Gen.Masc/Plur
 21	Gwamnàn	gwamnàː	PROPN	_	Gender=Masc	20	comp:obj	_	Gloss=governor.Masc
-22	indà	indà	PRON	_	PronType=Rel	25	mod	_	Gloss=where.Rel|RelPos=Yes|Relz=word
+22	indà	indà	PRON	_	PronType=Rel	25	mod	_	Gloss=where.Rel|RelPos=Yes|Relz=Word
 23	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	25	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 24	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	25	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
 25	ci	ci	VERB	_	_	19	mod@relcl	_	ClauseType=Rel|Gloss=eat
@@ -509,7 +509,7 @@
 11	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	8	mod	_	Gloss=Gen
 12	Korup	Korup	PROPN	_	_	11	comp:obj	_	Gloss=Korup|SpaceAfter=No
 13	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
-14	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	8	mod@relcl	_	Gloss=Pron.Masc.Rel|RelPos=Yes|Relz=word
+14	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	8	mod@relcl	_	Gloss=Pron.Masc.Rel|RelPos=Yes|Relz=Word
 15	kuma	kuma	PART	_	PartType=Top	14	discourse@top	_	Gloss=also
 16	wataƙiːlà	wataƙiːlà	ADV	_	_	18	mod	_	Gloss=maybe
 17	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	18	comp:pred	_	Gloss=3Masc.Nom
@@ -557,7 +557,7 @@
 8	irì	irìː	NOUN	_	Gender=Masc	6	comp:obj	_	Gloss=type_of.Masc|SpaceAfter=No|wordform=irìn
 9	-n	na	PART	_	Case=Gen|PartType=Case	8	udep/m	_	Gloss=Gen.Masc/Plur
 10	gadàː	gadàː	NOUN	_	Gender=Fem	9	comp:obj	_	Gloss=bridge.Fem
-11	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	8	mod@relcl	_	Gloss=Pron.Fem.Rel|Relz=word
+11	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	8	mod@relcl	_	Gloss=Pron.Fem.Rel|Relz=Word
 12	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	11	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|RelRole=subj
 13	reːtòː	rētòː	NOUN	_	Gender=Masc	12	comp:pred	_	Gloss=hanging.Masc
 14	dàgà	dàgà	ADP	_	_	13	comp:obl	_	Gloss=from

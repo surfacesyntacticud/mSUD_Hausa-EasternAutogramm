@@ -155,7 +155,7 @@
 30	zuwàː	zuwàː	ADP	_	_	26	conj:coord	_	Gloss=towards
 31	Japananciː	Japananciː	PROPN	_	Gender=Masc	30	comp:obj	_	Gloss=Japanese|SpaceAfter=No
 32	,	,	PUNCT	_	_	35	punct	_	Gloss=PUNCT
-33	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	36	comp	_	Gloss=Pron.Masc.Rel|RelPos=Yes|Relz=word
+33	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	36	comp	_	Gloss=Pron.Masc.Rel|RelPos=Yes|Relz=Word
 34	a-	a-	PRON	_	Person=4|PronType=Prs	35	subj/m	_	Gloss=4|SpaceAfter=No
 35	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	12	mod@relcl	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|wordform=akèː
 36	kiràː	kiraː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	35	comp:pred	_	Gloss=call.Vnoun.Masc
@@ -302,7 +302,7 @@
 11	harìː	harìː	NOUN	_	Gender=Masc	9	comp:obj	_	Gloss=attack.Masc
 12	dà	dà	ADP	_	_	9	comp:obl	_	Gloss=with|wordform=da
 13	sùkùddìr̃eːbàː	sùkùddìr̃eːbàː	NOUN	_	Gender=Fem	12	comp:obj	_	Gloss=screwdriver.Fem
-14	indà	indà	PRON	_	PronType=Rel	17	mod	_	Gloss=where.Rel|RelPos=Yes|Relz=word
+14	indà	indà	PRON	_	PronType=Rel	17	mod	_	Gloss=where.Rel|RelPos=Yes|Relz=Word
 15-16	ya=	_	_	_	_	_	_	_	_
 15	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	17	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
 16	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	17	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE

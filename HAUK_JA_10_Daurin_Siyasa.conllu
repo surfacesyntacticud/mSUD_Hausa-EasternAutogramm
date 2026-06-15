@@ -267,7 +267,7 @@
 47	kullum	kullum	ADV	_	_	45	conj:coord	_	Gloss=always
 48	kawài	kawài	ADV	_	_	44	mod	_	Gloss=merely|SpaceAfter=No
 49	,	,	PUNCT	_	_	50	punct	_	Gloss=PUNCT
-50	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	43	mod@relcl	_	Gloss=Pron.Plur.Rel|RelPos=Yes|Relz=word|wordform=wadandal
+50	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	43	mod@relcl	_	Gloss=Pron.Plur.Rel|RelPos=Yes|Relz=Word|wordform=wadandal
 51	al'amur̃à	àl'amàr̃ìː	NOUN	_	Number=Plur	56	subj	_	Gloss=case.Plur|SpaceAfter=No|wordform=al'amur̃ànsù
 52	-n	na	PART	_	Case=Gen|PartType=Case	51	mod@poss	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 53	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	52	comp:obj	_	Gloss=3Plur.Gen|RelPos=Yes
@@ -310,7 +310,7 @@
 11	Koːt	koːtù	NOUN	_	Gender=Fem	9	comp:obj	_	Gloss=court.Fem|SpaceAfter=No|wordform=Koːtùn
 12	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	11	mod/m	_	Gloss=Gen.Fem
 13	Ìkko	Ìkko	PROPN	_	_	12	comp:obj	_	Gloss=Lagos
-14	indà	indà	PRON	_	PronType=Rel	16	mod	_	Gloss=where.Rel|RelPos=Yes|Relz=word
+14	indà	indà	PRON	_	PronType=Rel	16	mod	_	Gloss=where.Rel|RelPos=Yes|Relz=Word
 15	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	16	subj/m	_	Gloss=3Plur|SpaceAfter=No
 16	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	11	mod@relcl	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|wordform=sukèː
 17	neːma	neːm-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	16	comp:pred	_	Compound=Yes|Gloss=seek.Vnoun.Masc|SpaceAfter=No|wordform=neːman

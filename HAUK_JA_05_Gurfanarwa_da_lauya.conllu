@@ -104,7 +104,7 @@
 16	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	15	mod	_	Gloss=Gen.Fem
 17	Biyu	Biyu	PROPN	_	_	16	comp:obj	_	Gloss=Biyu
 18	-	-	PUNCT	_	_	15	punct	_	Gloss=PUNCT|SpaceAfter=No
-19	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	15	mod@relcl	_	Gloss=Pron.Fem.Rel|Relz=word
+19	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	15	mod@relcl	_	Gloss=Pron.Fem.Rel|Relz=Word
 20-21	ta=	_	_	_	_	_	_	_	_
 20	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	22	subj/m	_	Gloss=3Fem-|Relative=Yes|SpaceAfter=No|wordform=ta
 21	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	22	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
@@ -345,7 +345,7 @@
 22	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	23	det	_	Gloss=some.Fem.Spec
 23	takàr̃daː	takàr̃daː	NOUN	_	Gender=Fem	21	comp:obj	_	Gloss=paper.Fem
 24	cèː	neː	PART	_	Gender=Fem	23	discourse@foc	_	Gloss=Emph.Fem
-25	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	23	mod@relcl	_	Gloss=Pron.Fem.Rel|Relz=word
+25	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	23	mod@relcl	_	Gloss=Pron.Fem.Rel|Relz=Word
 26	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	31	subj	_	Gloss=3Masc.Nom
 27	Chief	Chief	PROPN	_	_	26	conj:appos	_	Gloss=Chief
 28	G.F.	G.F.	PROPN	_	_	27	mod@appos	_	Gloss=G.F.
@@ -617,7 +617,7 @@
 27	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	26	mod/m	_	Gloss=Gen.Fem
 28	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	27	comp:obj	_	Gloss=Nigeria
 29	biyu	biyu	NUM	_	_	22	mod:num	_	Gloss=two
-30	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	22	mod@relcl	_	Gloss=Pron.Plur.Rel|Relz=word
+30	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	22	mod@relcl	_	Gloss=Pron.Plur.Rel|Relz=Word
 31	a-	a	PRON	_	Person=4|PronType=PrsSubj	33	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 32	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	33	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
 33	zàrgaː	zarg-	VERB	_	_	30	comp	_	ClauseType=Rel|Gloss=accuse|RelRole=obj
@@ -690,7 +690,7 @@
 19	-n	na	PART	_	Case=Gen|PartType=Case	18	udep/m	_	Gloss=Gen.Masc/Plur
 20	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	21	det	_	Gloss=some.Masc.Spec
 21	tàːroː	tàːroː	NOUN	_	Gender=Masc	19	comp:obj	_	Gloss=meeting.Masc
-22	indà	indà	PRON	_	PronType=Rel	25	mod	_	Gloss=where.Rel|RelPos=Yes|Relz=word
+22	indà	indà	PRON	_	PronType=Rel	25	mod	_	Gloss=where.Rel|RelPos=Yes|Relz=Word
 23-24	ya=	_	_	_	_	_	_	_	_
 23	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	25	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
 24	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	25	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE

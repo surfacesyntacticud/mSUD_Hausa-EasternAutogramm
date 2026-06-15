@@ -68,7 +68,7 @@
 21	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 22	tòː	tòː	INTJ	_	_	32	discourse	_	Gloss=well
 23	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	32	subj	_	Gloss=3Masc.Nom
-24	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	28	comp:obj	_	Gloss=Pron.Masc.Rel|RelPos=Yes|Relz=word
+24	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	28	comp:obj	_	Gloss=Pron.Masc.Rel|RelPos=Yes|Relz=Word
 25	a-	a	PRON	_	Person=4|PronType=PrsSubj	27	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 26	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	27	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
 27	ɗuːràː	ɗuːr-	VERB	_	_	23	parataxis@conj	_	ClauseType=Rel|Gloss=inject
@@ -328,7 +328,7 @@
 11	Aːbir̃ù	Aːbir̃ù	PROPN	_	_	10	comp:obj	_	Gloss=Ivory
 12	Kwâs	Kwâs	PROPN	_	_	11	flat@name	_	Gloss=Coast|SpaceAfter=No
 13	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
-14	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	4	mod@relcl	_	Gloss=Pron.Masc.Rel|RelPos=Yes|Relz=word
+14	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	4	mod@relcl	_	Gloss=Pron.Masc.Rel|RelPos=Yes|Relz=Word
 15-16	ya=	_	_	_	_	_	_	_	_
 15	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	17	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
 16	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	17	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
@@ -483,12 +483,12 @@
 6	maːtaː	màːtaː	NOUN	_	Number=Plur	5	comp:obj	_	Gloss=woman.Plur
 7	yawàː	yawàː	NOUN	_	Gender=Masc	5	mod	_	Gloss=quantity.Masc
 8	à	à	ADP	_	_	5	mod	_	Gloss=at
-9	cikin	cikin	ADP	_	_	8	comp:obj	_	Gloss=inside
-10	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	13	comp:obj	_	Gloss=Pron.Plur.Rel|RelPos=Yes|Relz=Word
+9	cikin	cikin	ADP	_	_	8	comp:obj	_	Gloss=inside|RelRole=obj
+10	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	9	comp:obj	_	ClauseType=Rel|Gloss=Pron.Plur.Rel|Relz=Word
 11-12	ta=	_	_	_	_	_	_	_	_
 11	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	13	subj/m	_	Gloss=3Fem-|Relative=Yes|SpaceAfter=No|wordform=ta
 12	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	13	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-13	kashèː	kas-	VERB	_	_	9	comp:obj	_	ClauseType=Rel|Gloss=kill
+13	kashèː	kas-	VERB	_	_	10	mod@relcl	_	Gloss=kill|RelRole=obj
 14	à	à	ADP	_	_	13	mod	_	Gloss=at
 15	ƙasâr̃	ƙasaː	VERB	_	Definite=Def|Gender=Fem	14	comp:obj	_	Gloss=country.Fem.Def|SpaceAfter=No
 16	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
@@ -499,7 +499,7 @@
 # text_ortho = Ministàn, wandà shiː nèː shùːgàban kwàmìtî kân cùːtar̃ AIDS, ya ƙaːràː dà cêːwaː kwàmìtînsà yanàː naːnàːtaː wà asibitoːciː sù tabbatar̃ dà kyâun jinîn dà zaː sù ɗuːràː wà maràsaː laːfiyàː, koː dà yakè yaː cêː bàbbar̃ màtsalàː ita cèː rashìn naːꞌur̃oːr̃in duːbà jiniː.
 1	ministàn	ministàː	NOUN	_	Definite=Def|Gender=Masc	16	subj	_	Gloss=minister.Masc.Def|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-3	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	1	mod@relcl	_	Gloss=Pron.Masc.Rel|Relz=word
+3	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	1	mod@relcl	_	Gloss=Pron.Masc.Rel|Relz=Word
 4	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	5	comp:pred	_	Gloss=3Masc.Nom
 5	nèː	neː	AUX	_	Copula=Yes	3	comp	_	ClauseType=Rel|Gloss=Equ.Masc/Plur|RelRole=subj
 6	shùːgàba	shùːgàbaː	NOUN	_	Gender=Masc	5	dislocated@comp	_	Gloss=leader.Masc|SpaceAfter=No|wordform=shùːgàban
@@ -667,7 +667,7 @@
 44	cùːtâr̃	cùːtaː	NOUN	_	Definite=Def|Gender=Fem	43	compound	_	Gloss=disease.Fem.Def
 45	koː	koː	CCONJ	_	_	51	cc	_	Gloss=or
 46	kùwa	kùwa	PART	_	PartType=Top	45	discourse@top	_	Gloss=in_fact
-47	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	51	comp:obj	_	Gloss=Pron.Plur.Rel|RelPos=Yes|Relz=word
+47	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	51	comp:obj	_	Gloss=Pron.Plur.Rel|RelPos=Yes|Relz=Word
 48	cùːtâr̃	cùːtaː	NOUN	_	Definite=Def|Gender=Fem	51	subj	_	Gloss=disease.Fem.Def
 49-50	ta=	_	_	_	_	_	_	_	_
 49	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	51	subj/m	_	Gloss=3Fem-|Relative=Yes|SpaceAfter=No|wordform=ta

@@ -211,7 +211,7 @@
 47	dà	dà	CCONJ	_	_	48	cc	_	Gloss=and
 48	Kir̃istoːciː	Kir̃istàː	NOUN	_	Number=Plur	46	conj:coord	_	Gloss=Christian.Plur|SpaceAfter=No
 49	,	,	PUNCT	_	_	57	punct	_	Gloss=PUNCT
-50	indà	indà	PRON	_	PronType=Rel	57	mod	_	Gloss=where.Rel|RelPos=Yes|Relz=word
+50	indà	indà	PRON	_	PronType=Rel	57	mod	_	Gloss=where.Rel|RelPos=Yes|Relz=Word
 51	mutàːneː	mùtûm	NOUN	_	Number=Plur	57	subj	_	Gloss=people.Plur
 52	goːmà	goːmà	NUM	_	_	51	mod:num	_	Gloss=ten
 53	shâː	shâː	NUM	_	_	52	flat@num	_	Gloss=plus
@@ -248,7 +248,7 @@
 21	àddiːnìː	àddiːnìː	NOUN	_	Gender=Masc	20	comp:obj	_	Gloss=religion.Masc
 22	à	à	ADP	_	_	17	mod	_	Gloss=at
 23	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	22	comp:obj	_	Gloss=Nigeria
-24	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	15	mod@relcl	_	Gloss=Pron.Masc.Rel|Relz=word
+24	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	15	mod@relcl	_	Gloss=Pron.Masc.Rel|Relz=Word
 25-26	ya=	_	_	_	_	_	_	_	_
 25	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	27	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
 26	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	27	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
@@ -374,7 +374,7 @@
 27	-n	na	PART	_	Case=Gen|PartType=Case	26	mod/m	_	Gloss=Gen.Masc/Plur
 28	jihàr̃	jihàr̃	NOUN	_	Definite=Def|Gender=Fem	27	comp:obj	_	Gloss=state.Fem.Def|SpaceAfter=No
 29	,	,	PUNCT	_	_	30	punct	_	Gloss=PUNCT
-30	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	26	mod@relcl	_	Gloss=Pron.Masc.Rel|Relz=word
+30	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	26	mod@relcl	_	Gloss=Pron.Masc.Rel|Relz=Word
 31	dàgà	dàgà	ADP	_	_	39	mod	_	Gloss=from
 32	bìsaːniː	bìsaːniː	ADV	_	_	31	comp:obj	_	Gloss=later
 33	kìːmaːnì	kìːmaːnìː	NOUN	_	Gender=Masc	39	subj	_	Gloss=total.Masc|SpaceAfter=No|wordform=kìːmaːnìn
@@ -490,7 +490,7 @@
 26	yawàː	yawàː	NOUN	_	Gender=Masc	25	compound	_	Gloss=quantity.Masc
 27	Kir̃istoːciː	kir̃istàː	NOUN	_	Number=Plur	25	comp:pred	_	Gloss=Christian.Plur|SpaceAfter=No
 28	,	,	PUNCT	_	_	29	punct	_	Gloss=PUNCT
-29	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	27	mod@relcl	_	Gloss=Pron.Plur.Rel|RelPos=Yes|Relz=word
+29	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	27	mod@relcl	_	Gloss=Pron.Plur.Rel|RelPos=Yes|Relz=Word
 30	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	32	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 31	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	32	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
 32	bar̃	bariː	VERB	_	_	29	comp	_	ClauseType=Rel|Gloss=leave|RelRole=subj
@@ -568,7 +568,7 @@
 12	kudancin	kudancin	ADP	_	_	11	comp:obj	_	Gloss=south_of
 13	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	12	comp:obj	_	Gloss=Nigeria|SpaceAfter=No
 14	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
-15	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	10	mod@relcl	_	Gloss=Pron.Plur.Rel|Relz=word
+15	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	10	mod@relcl	_	Gloss=Pron.Plur.Rel|Relz=Word
 16	akasàr̃i	akasàr̃iː	NOUN	_	Gender=Masc	23	subj	_	Gloss=majority.Masc|SpaceAfter=No|wordform=akasàr̃insù
 17	-n	na	PART	_	Case=Gen|PartType=Case	16	mod@poss	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 18	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	17	comp:obj	_	Gloss=3Plur.Gen|RelPos=Yes
@@ -585,7 +585,7 @@
 29	areːwacin	areːwacin	ADP	_	_	28	comp:obj	_	Gloss=north_of
 30	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	29	comp:obj	_	Gloss=country.Fem.Def|SpaceAfter=No
 31	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT
-32	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	27	mod@relcl	_	Gloss=Pron.Plur.Rel|RelPos=Yes|Relz=word
+32	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	27	mod@relcl	_	Gloss=Pron.Plur.Rel|RelPos=Yes|Relz=Word
 33	mafìː	mafìː	PART	_	PartType=Der	38	subj	_	Gloss=exceeding_in
 34	yawà	yawàː	NOUN	_	Gender=Masc	33	compound	_	Gloss=quantity.Masc|SpaceAfter=No|wordform=yawànsù
 35	-n	na	PART	_	Case=Gen|PartType=Case	34	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
@@ -732,7 +732,7 @@
 18	-n	na	PART	_	Case=Gen|PartType=Case	17	udep/m	_	Gloss=Gen.Masc/Plur
 19	Kanòː	Kanòː	PROPN	_	_	18	comp:obj	_	Gloss=Kano|SpaceAfter=No
 20	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
-21	indà	indà	PRON	_	PronType=Rel	24	mod	_	Gloss=where.Rel|RelPos=Yes|Relz=word
+21	indà	indà	PRON	_	PronType=Rel	24	mod	_	Gloss=where.Rel|RelPos=Yes|Relz=Word
 22	a-	a	PRON	_	Person=4|PronType=PrsSubj	24	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 23	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	24	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
 24	kashè	kas-	VERB	_	_	17	mod@relcl	_	ClauseType=Rel|Gloss=kill

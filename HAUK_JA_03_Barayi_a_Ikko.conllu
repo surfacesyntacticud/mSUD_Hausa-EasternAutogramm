@@ -436,7 +436,7 @@
 43	Lawrence	Lawrence	PROPN	_	_	41	mod	_	Gloss=Lawrence
 44	Anini	Anini	PROPN	_	_	43	flat@name	_	Gloss=Anini|SpaceAfter=No
 45	"	"	PUNCT	_	_	43	punct	_	Gloss=PUNCT|wordform=’
-46	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	38	mod@relcl	_	Gloss=Pron.Masc.Rel|Relz=word
+46	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	38	mod@relcl	_	Gloss=Pron.Masc.Rel|Relz=Word
 47	kèː	nàː	AUX	_	Copula=Yes	46	comp	_	ClauseType=Rel|Gloss=bePred.Rel|Relative=Yes|RelRole=subj
 48	dà	dà	ADP	_	_	47	comp:pred	_	Gloss=with
 49	yâraː	yaːròː	NOUN	_	Number=Plur	48	comp:obj	_	Gloss=boy.Plur
@@ -466,7 +466,7 @@
 12	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	9	mod:num	_	Gloss=Gen.Fem
 13	biyu	biyu	NUM	_	_	12	comp:obj	_	Gloss=two
 14	-	-	PUNCT	_	_	15	punct	_	Gloss=PUNCT|SpaceAfter=No
-15	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	9	mod@relcl	_	Gloss=Pron.Fem.Rel|RelPos=Yes|Relz=word
+15	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	9	mod@relcl	_	Gloss=Pron.Fem.Rel|RelPos=Yes|Relz=Word
 16-17	ta=	_	_	_	_	_	_	_	_
 16	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	18	subj/m	_	Gloss=3Fem-|Relative=Yes|SpaceAfter=No|wordform=ta
 17	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	18	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE

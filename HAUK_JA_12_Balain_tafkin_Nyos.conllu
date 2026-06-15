@@ -231,7 +231,7 @@
 10	yaddà	yaddà	ADV	_	ExtPos=SCONJ|PronType=Rel	9	comp:obj	_	ClauseType=Rel|Gloss=how.Rel|Relz=Word
 11	jikunkunàn	jìkiː	NOUN	_	Definite=Def|Number=Plur	19	subj	_	Gloss=body.Plur.Def
 12	-n	na	PART	_	Case=Gen|Number=Plur|PartType=Case	11	mod/m	_	Gloss=Gen.Masc/Plur
-13	waɗàndà	wandà	PRON	_	ExtPos=SCONJ|Number=Plur|PronType=Rel	12	mod:obj	_	ClauseType=Rel|Gloss=Pron.Plur.Rel|Relz=word
+13	waɗàndà	wandà	PRON	_	ExtPos=SCONJ|Number=Plur|PronType=Rel	12	mod:obj	_	ClauseType=Rel|Gloss=Pron.Plur.Rel|Relz=Word
 14	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	16	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 15	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	16	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
 16	tsiːrân	tsiːr-	VERB	_	Definite=Def	13	mod@relcl	_	ClauseType=Rel|Gloss=escape.Def|RelRole=subj
@@ -361,7 +361,7 @@
 # sent_id = 12_Bala'in_tafkin_Nyos_10b
 # text_en = He discovered too that there existed up to sixty lakes like this in an area between Cameroon and Nigeria, where, because of the nature of stones there, this type gas leaking could happen at any time.
 # text_ortho = Hakà nan kuma yaː gaːnoː cêːwaː àkwai irìn waɗànnân tafkunàː har̃ sìttin à wannàn yankìː à cikin Kàmàr̃u dà Nàːjeːr̃iyàː, indà sabòːdà yanàyin duwàːtsun wurîn anàː iyà saːmùn irìn wannàn aman gâs à koːwànè loːkàciː .
-# text = hakà nan kuma yaː gaːnoː cêːwaː àkwai irìn waɗànnân tafkunàː har̃ sìttin à wannàn yankìː à cikin Kàmàr̃u dà Nàːjeːr̃iyàː, indà sabòːdà yanàyin duwàːtsun wurîn anàː iyà saːmùn irìn wannàn aman gâs à koːwànè loːkàciː .
+# text = hakà nan kuma y-aː= gaːnoː cêːwaː àkwai irì-n waɗànnân tafkunàː har̃ sìttin à wannàn yankìː à cikin Kàmàr̃u dà Nàːjeːr̃iyàː, indà sabòːdà yanàyi-n duwàːtsu-n wurîn a-nàː iyà saːmù-n irì-n wannàn ama-n gâs à koːwànè loːkàciː .
 1	hakà	hakà	ADV	_	_	6	mod	_	Gloss=thus
 2	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	1	det	_	Gloss=PreRef|PreRef=Yes
 3	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
@@ -384,8 +384,8 @@
 20	Kàmàr̃u	Kàmàr̃u	PROPN	_	_	19	comp:obj	_	Gloss=Cameroon
 21	dà	dà	CCONJ	_	_	22	cc	_	Gloss=and
 22	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	20	conj:coord	_	Gloss=Nigeria|SpaceAfter=No
-23	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT
-24	indà	indà	PRON	_	PronType=Rel	34	mod	_	Gloss=where.Rel|RelPos=Yes|Relz=word
+23	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
+24	indà	indà	ADV	_	PronType=Rel	22	mod@relcl	_	Gloss=where.Rel|Relz=Word
 25	sabòːdà	sabòːdà	ADP	_	_	32	mod	_	Gloss=because_of
 26	yanàyi	yanàyiː	NOUN	_	Gender=Masc	25	comp:obj	_	Gloss=nature.Masc|SpaceAfter=No|wordform=yanàyin
 27	-n	na	PART	_	Case=Gen|PartType=Case	26	mod/m	_	Gloss=Gen.Masc/Plur
@@ -393,9 +393,9 @@
 29	-n	na	PART	_	Case=Gen|PartType=Case	28	mod/m	_	Gloss=Gen.Masc/Plur
 30	wurîn	wuriː	NOUN	_	Definite=Def|Gender=Masc	29	comp:obj	_	Gloss=place.Masc.Def
 31	a-	a-	PRON	_	Person=4|PronType=Prs	32	subj/m	_	Gloss=4|SpaceAfter=No
-32	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	22	mod@relcl	_	ClauseType=Rel|Gloss=Prog|wordform=anàː
+32	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	24	comp:obj	_	ClauseType=Rel|Gloss=Prog|wordform=anàː
 33	iyà	iy-	VERB	_	_	32	comp:pred	_	Gloss=be_able_to
-34	saːmù	saːmùː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	33	comp:obj	_	Gloss=get.Vnoun.Masc|SpaceAfter=No|wordform=saːmùn
+34	saːmù	saːmùː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	33	comp:obj	_	Gloss=get.Vnoun.Masc|RelRole=mod|SpaceAfter=No|wordform=saːmùn
 35	-n	na	PART	_	Case=Gen|PartType=Case	34	udep/m	_	Gloss=Gen.Masc/Plur
 36	irì	irìː	NOUN	_	Gender=Masc	35	comp:obj	_	Compound=Yes|Gloss=type_of.Masc.|SpaceAfter=No|wordform=irìn
 37	-n	na	PART	_	Case=Gen|PartType=Case	36	udep/m	_	Gloss=Gen.Masc/Plur
@@ -412,7 +412,7 @@
 # text_en = The way to remove the gas is to pump the water that has carbon dioxide out of the lake and remove it altogether.
 # text_ortho = Yaddà zaː'à iyà cirèː gâs ɗîn shiː nèː à yi famfòn ruwân dà kèː dà carbon dioxide dàgà cikin tafkìn, à fid dà shiː gàbaː ɗayansà .
 # text = yaddà zaː'à= iyà cirèː gâs ɗîn shiː nèː à= yi famfò-n ruwân dà kèː= dà carbon dioxide dàgà cikin tafkìn, à= fid dà shiː gàbaː ɗaya-n-sà .
-1	yaddà	yaddà	ADV	_	ExtPos=SCONJ|PronType=Rel	9	subj	_	ClauseType=Rel|Gloss=how.Rel|Relz=word
+1	yaddà	yaddà	ADV	_	ExtPos=SCONJ|PronType=Rel	9	subj	_	ClauseType=Rel|Gloss=how.Rel|Relz=Word
 2	zaː-	zâː-	PART	_	PartType=TAM|Tense=Fut	4	mod/m	_	Gloss=Fut-|SpaceAfter=No
 3	'à=	a	PRON	_	Person=4|PronType=PrsSubj|Tense=Fut	4	subj/m	_	Gloss=4=|wordform=zaː'à
 4	iyà	iy-	VERB	_	_	1	mod@relcl	_	ClauseType=Rel|Gloss=be_able_to
@@ -480,21 +480,21 @@
 # sent_id = 12_Bala'in_tafkin_Nyos_13a
 # text_en = Reducing the weight of the water, which the researchers think will stop the gas leak, may cause another serious danger.
 # text_ortho = Ragè nauyin ruwân, wandà manàzàr̃tân sukèː ganin zâi tsai dà aman gâs ɗîn, mài yìwuwaː nèː kuma zâi jaːwoː wani mùmmuːnan haɗàr̃iː .
-# text = ragè nauyi-n ruwân, wandà manàzàr̃tân sukèː= gani-n zâi= tsai dà ama-n gâs ɗîn, mài yìwuwaː nèː kuma zâi= jaːwoː wani mùmmuːnan haɗàr̃iː .
-1	ragè	Ragè	VERB	_	_	27	subj	_	Gloss=Ragè
+# text = ragè nauyi-n ruwân, wandà manàzàr̃tân su-kèː gani-n zâ-i= tsai dà ama-n gâs ɗîn, mài yìwuwaː nèː kuma zâ-i= jaːwoː wani mùmmuːnan haɗàr̃iː .
+1	ragè	Ragè	VERB	_	_	27	subj	_	Gloss=Ragè|RelAnt=Yes
 2	nauyi	nauyiː	NOUN	_	Gender=Masc	1	comp:obj	_	Gloss=weight.Masc|SpaceAfter=No|wordform=nauyin
 3	-n	na	PART	_	Case=Gen|PartType=Case	2	mod/m	_	Gloss=Gen.Masc/Plur
 4	ruwân	ruwaː	NOUN	_	Definite=Def|Gender=Masc	3	comp:obj	_	Gloss=water.Masc.Def|SpaceAfter=No
-5	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
-6	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	14	subj	_	Gloss=Pron.Masc.Rel|RelPos=Yes|Relz=word
+5	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
+6	wandà	wandà	PRON	_	ExtPos=SCONJ|Gender=Masc|PronType=Rel	1	mod@relcl	_	Gloss=Pron.Masc.Rel|Relz=Word
 7	manàzàr̃tân	manàzàr̃ciː	NOUN	_	Definite=Def|Number=Plur	9	subj	_	Gloss=investigator.Plur.Def
 8	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	9	subj/m	_	Gloss=3Plur|SpaceAfter=No
-9	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	1	mod@relcl	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|wordform=sukèː
+9	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	6	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|wordform=sukèː
 10	gani	ganiː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	9	comp:pred	_	Compound=Yes|Gloss=see.Vnoun.Masc.|SpaceAfter=No|wordform=ganin
 11	-n	na	PART	_	Case=Gen|PartType=Case	10	udep/m	_	Gloss=Gen.Masc/Plur
 12	zâ-	zâː-	PART	_	PartType=TAM|Tense=Fut	14	mod/m	_	Gloss=Fut-|SpaceAfter=No
 13	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj|Tense=Fut	14	subj/m	_	Gloss=3Masc=|wordform=zâi
-14	tsai	tsay-	VERB	_	Voice=Cau	11	comp:obj	_	Gloss=stand/stay.Cau
+14	tsai	tsay-	VERB	_	Voice=Cau	11	udep/m	_	Gloss=stand/stay.Cau|RelRole=subj
 15	dà	dà	ADP	_	_	14	comp:obl	_	Gloss=with
 16	ama	amai	NOUN	_	Gender=Masc	15	comp:obj	_	Gloss=explosion.Masc|SpaceAfter=No|wordform=aman
 17	-n	na	PART	_	Case=Gen|PartType=Case	16	udep/m	_	Gloss=Gen.Masc/Plur
@@ -655,7 +655,7 @@
 # sent_id = 12_Bala'in_tafkin_Nyos_17
 # text_en = In nineteen eighty-six indeed, more than one thousand seven hundred people died, and only God knows how many will die if the lake produces that kind of gas leak again.
 # text_ortho = À shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà shidà dai mutàneː fìye dà dubuː dà ɗàriː bakwài neː sukà mutù, kuma Allàh neː kawài ya san yawàn waɗàndà zaːsù mutù ìdan tafkìn ya saːkè yîn wani aman gâs ɗîn.
-# text = à shèːkarà-r̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà shidà dai mutàneː fìye dà dubuː dà ɗàriː bakwài neː sukà= mutù, kuma Allàh neː kawài ya= san yawà-n waɗàndà zaːsù= mutù ìdan tafkìn ya= saːkè yî-n wani ama-n gâs ɗîn.
+# text = à shèːkarà-r̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà shidà dai mutàneː fìye dà dubuː dà ɗàriː bakwài neː su-kà= mutù, kuma Allàh neː kawài ya= san yawà-n waɗàndà zaː-sù= mutù ìdan tafkìn ya= saːkè yî-n wani ama-n gâs ɗîn.
 1	à	à	ADP	_	_	23	mod	_	Gloss=at
 2	shèːkarà	shèːkaràː	NOUN	_	Gender=Fem	1	comp:obj	_	Gloss=year.Fem|SpaceAfter=No|wordform=shèːkaràr̃
 3	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	2	mod/m	_	Gloss=Gen.Fem
@@ -690,10 +690,10 @@
 31	san	sanìː	VERB	_	_	26	comp:cleft	_	Gloss=know
 32	yawà	yawàn	NOUN	_	Gender=Masc	31	comp:obj	_	Gloss=quantity.Masc|SpaceAfter=No|wordform=yawàn
 33	-n	na	PART	_	Case=Gen|PartType=Case	32	mod/m	_	Gloss=Gen.Masc/Plur
-34	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	37	subj	_	Gloss=Pron.Plur.Rel|RelPos=Yes|Relz=Word|wordform=wadandal
+34	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	33	comp:obj	_	Gloss=Pron.Plur.Rel|Relz=Word|wordform=wadandal
 35	zaː-	zâː-	PART	_	PartType=TAM|Tense=Fut	37	mod/m	_	Gloss=Fut-|SpaceAfter=No
 36	sù=	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj|Tense=Fut	37	subj/m	_	Gloss=3Plur=|wordform=zaːsù
-37	mutù	mutù	VERB	_	_	33	comp:obj	_	ClauseType=Rel|Gloss=die
+37	mutù	mutù	VERB	_	_	34	mod@relcl	_	ClauseType=Rel|Gloss=die|RelRole=subj
 38	ìdan	ìdan	SCONJ	_	_	37	mod	_	Gloss=if
 39	tafkìn	tafkìn	NOUN	_	Definite=Def|Gender=Masc	42	subj	_	Gloss=river.Masc.Def
 40-41	ya=	_	_	_	_	_	_	_	_
