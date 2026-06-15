@@ -226,10 +226,10 @@
 # text = kàmar̃ yaddà akà sanìː, cùːtar̃ AIDS bâː ta dà maːgàniː, kuma mài ɗàuke dà ƙwaːyoːyin cùːtâr̃ à jininsà, bàː zaː'à ga wata àlaːmàː ta cùːtâr̃ à jìkinsàba, sai dai à jininsà, kuma yanàː iyà bazà cùːtâr̃ ta jininsàdà màniyyìnsàhar̃ shèːkaràː takwàs koː tar̃à kàːfin ainihin cùːtâr̃ tà faːrà laːlàːtà jìkinsà, tà zama ajàlinsà.
 # text_ortho = Kàmar̃ yaddà akà sanìː, cùːtar̃ AIDS bâː ta dà maːgàniː, kuma mài ɗàuke dà ƙwaːyoːyin cùːtâr̃ à jininsà, bàː zaː à ga wata àlaːmàː ta cùːtâr̃ à jìkinsà ba, sai dai à jininsà, kuma yanàː iyà bazà cùːtâr̃ ta jininsà dà màniyyìnsà har̃ shèːkaràː takwàs koː tar̃a kàːfin ainihin cùːtâr̃ tà faːrà laːlàːtà jìkinsà, tà zama ajàlinsà.
 1	kàmar̃	kàmar̃	ADP	_	_	10	mod	_	Gloss=like
-2	yaddà	yaddà	ADV	_	PronType=Rel	5	mod	_	Gloss=how.Rel|RelPos=Yes|Relz=Word
+2	yaddà	yaddà	ADV	_	PronType=Rel	1	comp:obj	_	ClauseType=Rel|Gloss=how.Rel|Relz=Word
 3	a-	a	PRON	_	Person=4|PronType=PrsSubj	5	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 4	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-5	sanìː	sanìː	VERB	_	_	1	comp:obj	_	ClauseType=Rel|Gloss=know|SpaceAfter=No
+5	sanìː	sanìː	VERB	_	_	2	mod@relcl	_	Gloss=know|RelRole=mod|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	cùːta	cùːtaː	NOUN	_	Gender=Fem	10	dislocated@subj	_	Gloss=disease.Fem|SpaceAfter=No|wordform=cùːtar̃
 8	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	7	mod/m	_	Gloss=Gen.Fem
@@ -402,10 +402,10 @@
 25	-n	na	PART	_	Case=Gen|PartType=Case	24	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 26	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	25	comp:obj	_	Gloss=3Plur.Gen
 27	kàmar̃	kàmar̃	ADP	_	_	6	mod	_	Gloss=like
-28	yaddà	yaddà	ADV	_	PronType=Rel	31	mod	_	Gloss=how.Rel|RelPos=Yes|Relz=Word
+28	yaddà	yaddà	ADV	_	PronType=Rel	27	comp:obj	_	ClauseType=Rel|Gloss=how.Rel|Relz=Word
 29	a-	a	PRON	_	Person=4|PronType=PrsSubj	31	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 30	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	31	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-31	yi	yi	VERB	_	_	27	comp:obj	_	ClauseType=Rel|Gloss=do
+31	yi	yi	VERB	_	_	28	mod@relcl	_	Gloss=do|RelRole=mod
 32	à	à	ADP	_	_	31	mod	_	Gloss=at
 33	Àbìjân	Àbìjân	PROPN	_	_	32	comp:obj	_	Gloss=Abijan|SpaceAfter=No
 34	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT

@@ -291,12 +291,12 @@
 # text_ortho = Kàmar̃ yaddà Hùkuːmàr̃ ta cèː, an sàːmu nasar̃àr̃ kaːmà mutàːnên neː sabòːdà binciken àsiːr̃iː dà akà yi ta yîː bâː jîː bâː ganiː, wàndà har̃ ya yi sànàdiyyàr̃ ƙòːƙarîn dà ma'àikàtan Hùkuːmàr̃ sukà yi à fiːlin jirgin samàn Ìkko.
 # text = kàmar̃ yaddà Hùkuːmàr̃ ta= cèː, a-n= sàːmu nasar̃à-r̃ kaːmà mutàːnên neː sabòːdà bincike-n àsiːr̃iː dà a-kà= yi ta yîː bâː jîː bâː ganiː, wàndà har̃ ya= yi sànàdiyyà-r̃ ƙòːƙarîn dà ma'àikàta-n Hùkuːmàr̃ su-kà= yi à fiːli-n jirgi-n samà -n Ìkko.
 1	kàmar̃	kàmar̃	ADP	_	_	10	mod	_	Gloss=like|wordform=Kàmar
-2	yaddà	yaddà	ADV	_	PronType=Rel	6	mod	_	Gloss=how.Rel|RelPos=Yes|Relz=Word
+2	yaddà	yaddà	ADV	_	ExtPos=SCONJ|PronType=Rel	1	comp:obj	_	ClauseType=Rel|Gloss=how.Rel|Relz=Word
 3	Hùkuːmàr̃	hùkuːmàː	NOUN	_	Definite=Def|Gender=Fem	6	subj	_	Gloss=agency.Fem.Def
 4-5	ta=	_	_	_	_	_	_	_	_
 4	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=3Fem-|Relative=Yes|SpaceAfter=No|wordform=ta
 5	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	6	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-6	cèː	cêː	VERB	_	Gender=Fem	1	comp:obj	_	ClauseType=Rel|Gloss=be.Fem|SpaceAfter=No
+6	cèː	cêː	VERB	_	Gender=Fem	2	mod@relcl	_	Gloss=be.Fem|RelRole=mod|SpaceAfter=No
 7	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 8	a-	a	PRON	_	Person=4|PronType=PrsSubj	10	subj/m	_	Gloss=4|SpaceAfter=No|wordform=an
 9	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	10	mod/m	_	Gloss=Perf.Plur=|wordform=n
@@ -962,7 +962,7 @@
 # sent_id = 14_Miyagun_kwayoyi_24
 # text_en = An explanation recently came out from Mr Oyakhilome's wife when she rejected the innuendos that concerned a relationship between her husband and Miss Madike.
 # text_ortho = Wani bàyaːnìn baːya-baːya yaː fitoː dàgà bàːkin uwargidan Mr Oyakhilome, ìndà ta yi tir̃ dà shàːgùɓeː dà sukà shàːfi wata dàngàntakàː tsàkaːnin mijìn naːtà dà Miss Madike.
-# text = wani bàyaːnìn baːya-baːya yaː fitoː dàgà bàːkin uwargidan Mr Oyakhilome, ìndà ta yi tir̃ dà shàːgùɓeː dà sukà shàːfi wata dàngàntakàː tsàkaːnin mijìn naːtà dà Miss Madike.
+# text = wani bàyaːnì-n baːya-baːya y-aː= fitoː dàgà bàːki-n uwargid-r̃ Mr Oyakhilome, ìndà ta= yi tir̃ dà shàːgùɓeː dà su-kà= shàːfi wata dàngàntakàː tsàkaːnin mijìn naːtà dà Miss Madike.
 1	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	2	det	_	Gloss=some.Masc.Spec
 2	bàyaːnì	bàyaːnìː	NOUN	_	Gender=Masc	7	subj	_	Gloss=explanation|SpaceAfter=No|wordform=bàyaːnìn
 3	-n	na	PART	_	Case=Gen|PartType=Case	2	mod/m	_	Gloss=Gen.Masc/Plur
@@ -977,12 +977,12 @@
 12	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	11	mod/m	_	Gloss=Gen.Fem
 13	Mr	Mr	PROPN	_	_	12	comp:obj	_	Gloss=Mr
 14	Oyakhilome	Oyakhilome	PROPN	_	_	13	mod@appos	_	Gloss=Oyakhilome|SpaceAfter=No
-15	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
-16	ìndà	indà	ADV	_	PronType=Rel	19	mod	_	Gloss=where.Rel|RelPos=Yes|Relz=Word
+15	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
+16	ìndà	indà	SCONJ	_	_	7	mod	_	Gloss=when
 17-18	ta=	_	_	_	_	_	_	_	_
 17	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	19	subj/m	_	Gloss=3Fem-|Relative=Yes|SpaceAfter=No|wordform=ta
 18	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	19	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-19	yi	yi	VERB	_	_	9	conj:appos	_	ClauseType=Rel|Gloss=do
+19	yi	yi	VERB	_	_	16	mod@relcl	_	Gloss=do
 20	tir̃	tir̃	IDEO	_	_	19	comp:pred	_	Gloss=reject
 21	dà	dà	ADP	_	_	19	comp:obl	_	Gloss=with
 22	shàːgùɓeː	shàːgùɓeː	NOUN	_	Gender=Masc	21	comp:obj	_	Gloss=innuendo.Masc|RelAnt=Yes

@@ -270,31 +270,31 @@
 22	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
 23	Ìkko	Ìkko	PROPN	_	_	17	mod	_	Gloss=Lagos|SpaceAfter=No
 24	"	"	PUNCT	_	_	9	punct	_	Gloss=PUNCT|SpaceAfter=No
-25	,	,	PUNCT	_	_	30	punct	_	Gloss=PUNCT
-26	wàːtòː	wàːtòː	CCONJ	_	_	30	cc	_	Gloss=i.e.
-27	indà	indà	ADV	_	PronType=Rel	30	mod	_	Gloss=where.Rel|RelPos=Yes|Relz=Word
+25	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
+26	wàːtòː	wàːtòː	CCONJ	_	_	27	cc	_	Gloss=i.e.
+27	indà	indà	ADV	_	PronType=Rel	11	conj:appos	_	ClauseType=Rel|Gloss=where.Rel|Relz=Word
 28	zaː-	zâː-	PART	_	PartType=TAM|Tense=Fut	30	mod/m	_	Gloss=Fut-|SpaceAfter=No
 29	'à=	a	PRON	_	Person=4|PronType=PrsSubj|Tense=Fut	30	subj/m	_	Gloss=4=|wordform=à
-30	kai	kai	VERB	_	_	11	conj:appos	_	ClauseType=Rel|Gloss=reach/carry_to
+30	kai	kai	VERB	_	_	27	mod@relcl	_	Gloss=reach/carry_to|RelRole=G
 31	-shì	-shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	30	comp:obj/m	_	Gloss=-3Masc.Acc|wordform=shì
 32	kèːnan	neː	PART	_	PartType=Foc	30	discourse@foc	_	Gloss=Emph|SpaceAfter=No
 33	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
 # sent_id = 01_Umaru_Dikko_9
 # text_en = Where one should write who was sending the box, they had written office of the Nigerian ambassador, "London".
-# text = à wajen indà ya kàmaːtà à r̃ubùːtà wandà ya aikàː dà àkwàːtìn kuma, sai akà r̃ubùːtà oːfishin jàkaːdàn Nàjeːr̃iyàː, " Landàn".
+# text = à waje-n indà ya= kàmaːtà a-_̀= r̃ubùːtà wandà ya= aikàː dà àkwàːtìn kuma, sai a-kà= r̃ubùːtà oːfishi-n jàkaːdà-n Nàjeːr̃iyàː, " Landàn".
 # text_ortho = À wajen indà ya kàmaːtà à r̃ubùːtà wandà ya aikàː dà àkwàːtìn kuma, sai akà r̃ubùːtà ꞌOːfishin Jàkaːdàn Nàjeːr̃iyàː, Landàn’.
 1	à	à	ADP	_	_	22	dislocated@top	_	Gloss=at
 2	waje	wajeː	NOUN	_	Gender=Masc	1	comp:obj	_	Gloss=place.Masc|SpaceAfter=No|wordform=wajen
 3	-n	na	PART	_	Case=Gen|PartType=Case	2	mod/m	_	Gloss=Gen.Masc/Plur
-4	indà	indà	ADV	_	PronType=Rel	7	mod	_	Gloss=where.Rel|RelPos=Yes|Relz=Word
+4	indà	indà	ADV	_	PronType=Rel	3	comp:obj	_	ClauseType=Rel|Gloss=where.Rel|Relz=Word
 5-6	ya=	_	_	_	_	_	_	_	_
 5	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	7	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
 6	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-7	kàmaːtà	kamaːt-	VERB	_	_	3	comp:obj	_	ClauseType=Rel|Gloss=be_appropriate
+7	kàmaːtà	kamaːt-	VERB	_	_	4	mod@relcl	_	Gloss=be_appropriate
 8	a-	a	PRON	_	Person=4|PronType=PrsSubj	10	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
 9	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	10	mod/m	_	Gloss=Sub=
-10	r̃ubùːtà	r̃ubuːt-	NOUN	_	_	7	comp:obj@agent	_	Gloss=write
+10	r̃ubùːtà	r̃ubuːt-	NOUN	_	_	7	comp:obj@agent	_	Gloss=write|RelRole=L
 11	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	14	subj	_	Gloss=Pron.Masc.Rel|RelPos=Yes|Relz=Word
 12-13	ya=	_	_	_	_	_	_	_	_
 12	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	14	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
@@ -323,12 +323,12 @@
 # text = indà Allàh ya ɗigàː wà gàːrin Ùmar̃ù Dikkò noːnòː shiː nèː wannàn àkwàːtì dai bài sàːmi taːshìː samà à cikin jirgiː ba.
 # text_en = Where Allah was kind to Umaru Dikko is that the box did not take off in the plane.
 # text_ortho = Indà Allàh ya ɗigàː wà gàːrin Ùmar̃ù Dikkò noːnòː shiː nèː wannàn àkwàːtì dai bài sàːmi taːshìː samà à cikin jirgiː ba.
-1	indà	indà	ADV	_	PronType=Rel	5	mod	_	Gloss=where.Rel|RelPos=Yes|Relz=Word
+1	indà	indà	ADV	_	PronType=Rel	13	subj	_	ClauseType=Rel|Gloss=where.Rel|Relz=Word
 2	Allàh	Allàh	PROPN	_	_	5	subj	_	Gloss=Allàh
 3-4	ya=	_	_	_	_	_	_	_	_
 3	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	5	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
 4	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-5	ɗigàː	ɗig-	VERB	_	_	13	subj	_	ClauseType=Rel|Gloss=pour
+5	ɗigàː	ɗig-	VERB	_	_	1	mod@relcl	_	Gloss=pour|RelRole=mod
 6	wà	mà	ADP	_	Case=Dat	5	comp:obl	_	Gloss=Dat
 7	gàːri	gàːriː	NOUN	_	Gender=Masc	6	comp:obj	_	Gloss=cassava_flour.Masc|SpaceAfter=No|wordform=gàːrin
 8	-n	na	PART	_	Case=Gen|PartType=Case	7	udep/m	_	Gloss=Gen.Masc/Plur

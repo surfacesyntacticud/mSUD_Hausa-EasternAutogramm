@@ -244,11 +244,11 @@
 16	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	5	comp:cleft	_	Gloss=Prog.Rel|Relative=Yes
 17	aikìː	aikìː	NOUN	_	Gender=Masc	16	comp:pred	_	Gloss=work.Masc
 18	kàmar̃	kàmar̃	ADP	_	_	17	mod	_	Gloss=like
-19	yaddà	yaddà	ADV	_	PronType=Rel	22	mod	_	Gloss=how.Rel|RelPos=Yes|Relz=Word
+19	yaddà	yaddà	ADV	_	PronType=Rel	18	comp:obj	_	ClauseType=Rel|Gloss=how.Rel|Relz=Word
 20-21	ya=	_	_	_	_	_	_	_	_
 20	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	22	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
 21	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	22	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-22	kàmaːtà	kamaːt-	VERB	_	_	18	comp:obj	_	ClauseType=Rel|Gloss=be_appropriate
+22	kàmaːtà	kamaːt-	VERB	_	_	19	mod@relcl	_	Gloss=be_appropriate|RelRole=mod
 23	ba	ba	PART	_	PartType=Neg|Polarity=Neg	5	mod	_	Gloss=Neg|SpaceAfter=No
 24	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 

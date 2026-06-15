@@ -218,7 +218,7 @@
 # sent_id = 12_Bala'in_tafkin_Nyos_7
 # text_en = The investigating chemists did not explain how the bodies of those who escaped were burnt, but their faces and torsoes were all covered in blisters.
 # text_ortho = Manàzàr̃taː kìːmiyyàː dai bàsù baː dà bàyaːnìn yaddà jikunkunàn waɗàndà sukà tsiːrân sukà sassaːɓùːleː ba, àmmaː gàː fuskoːkinsù dà ƙiràːjansù nan duk à sàːle.
-# text = manàzàr̃taː kìːmiyyàː dai bà-sù=baː dà bàyaːnì-n yaddà jikunkunàn waɗàndà su-kà= tsiːrân su-kà= sassaːɓùːleː ba, àmmaː gàː fuskoːki-n-sù dà ƙiràːja-n-sù nan duk à sàːle.
+# text = manàzàr̃taː kìːmiyyàː dai bà-sù=baː dà bàyaːnì-n yaddà jikunkunàn -n waɗàndà su-kà= tsiːrân su-kà= sassaːɓùːleː ba, àmmaː gàː fuskoːki-n-sù dà ƙiràːja-n-sù nan duk à sàːle.
 1	manàzàr̃taː	manàzàr̃ciː	NOUN	_	Number=Plur	6	subj	_	Gloss=researcher.Plur
 2	kìːmiyyàː	kìːmiyyàː	NOUN	_	Gender=Fem	1	comp:obj	_	Gloss=science.Fem
 3	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
@@ -228,31 +228,32 @@
 7	dà	dà	ADP	_	_	6	comp:obl	_	Gloss=with
 8	bàyaːnì	bàyaːnìː	NOUN	_	Gender=Masc	7	comp:obj	_	Gloss=explanation.Masc|SpaceAfter=No|wordform=bàyaːnìn
 9	-n	na	PART	_	Case=Gen|PartType=Case	8	udep/m	_	Gloss=Gen.Masc/Plur
-10	yaddà	yaddà	ADV	_	PronType=Rel	18	mod	_	Gloss=how.Rel|RelPos=Yes|Relz=Word
-11	jikunkunàn	jìkiː	NOUN	_	Definite=Def|Number=Plur	18	subj	_	Gloss=body.Plur.Def
-12	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	11	mod@relcl	_	Gloss=Pron.Plur.Rel|Relz=word
-13	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	15	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
-14	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	15	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-15	tsiːrân	tsiːr-	VERB	_	Definite=Def	12	comp	_	ClauseType=Rel|Gloss=escape.Def|RelRole=subj
-16	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	18	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
-17	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	18	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-18	sassaːɓùːleː	sassaːɓuːl-	VERB	_	_	9	comp:obj	_	ClauseType=Rel|Gloss=blister
-19	ba	ba	PART	_	PartType=Neg|Polarity=Neg	6	mod	_	Gloss=Neg|SpaceAfter=No
-20	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
-21	àmmaː	àmmaː	CCONJ	_	_	22	cc	_	Gloss=but
-22	gàː	gàː	PART	_	PartType=Pred	6	conj:coord	_	Gloss=here_is
-23	fuskoːki	fuskàː	NOUN	_	Number=Plur	22	subj	_	Gloss=face.Plur|SpaceAfter=No|wordform=fuskoːkinsù
-24	-n	na	PART	_	Case=Gen|PartType=Case	23	mod@poss	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
-25	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	24	comp:obj	_	Gloss=3Plur.Gen
-26	dà	dà	CCONJ	_	_	27	cc	_	Gloss=and|wordform=da
-27	ƙiràːja	ƙìrjiː	NOUN	_	Number=Plur	23	conj:coord	_	Gloss=chest.Plur|SpaceAfter=No|wordform=ƙiràːjansù
-28	-n	na	PART	_	Case=Gen|PartType=Case	27	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
-29	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	28	comp:obj	_	Gloss=3Plur.Gen
-30	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	22	comp:pred	_	Gloss=PreRef|PreRef=Yes
-31	duk	dukà	ADV	_	PronType=Tot	32	mod	_	Gloss=all
-32	à	à	ADP	_	_	22	mod	_	Gloss=at
-33	sàːle	saːl-	VERB	_	ExtPos=ADV|VerbForm=Part	32	comp:obj	_	Gloss=blister.Part|SpaceAfter=No
-34	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
+10	yaddà	yaddà	ADV	_	ExtPos=SCONJ|PronType=Rel	9	comp:obj	_	ClauseType=Rel|Gloss=how.Rel|Relz=Word
+11	jikunkunàn	jìkiː	NOUN	_	Definite=Def|Number=Plur	19	subj	_	Gloss=body.Plur.Def
+12	-n	na	PART	_	Case=Gen|Number=Plur|PartType=Case	11	mod/m	_	Gloss=Gen.Masc/Plur
+13	waɗàndà	wandà	PRON	_	ExtPos=SCONJ|Number=Plur|PronType=Rel	12	mod:obj	_	ClauseType=Rel|Gloss=Pron.Plur.Rel|Relz=word
+14	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	16	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
+15	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	16	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
+16	tsiːrân	tsiːr-	VERB	_	Definite=Def	13	mod@relcl	_	ClauseType=Rel|Gloss=escape.Def|RelRole=subj
+17	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	19	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
+18	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	19	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
+19	sassaːɓùːleː	sassaːɓuːl-	VERB	_	_	10	mod@relcl	_	Gloss=blister|RelRole=mod
+20	ba	ba	PART	_	PartType=Neg|Polarity=Neg	6	mod	_	Gloss=Neg|SpaceAfter=No
+21	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
+22	àmmaː	àmmaː	CCONJ	_	_	23	cc	_	Gloss=but
+23	gàː	gàː	PART	_	PartType=Pred	6	conj:coord	_	Gloss=here_is
+24	fuskoːki	fuskàː	NOUN	_	Number=Plur	23	subj	_	Gloss=face.Plur|SpaceAfter=No|wordform=fuskoːkinsù
+25	-n	na	PART	_	Case=Gen|PartType=Case	24	mod@poss	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
+26	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	25	comp:obj	_	Gloss=3Plur.Gen
+27	dà	dà	CCONJ	_	_	28	cc	_	Gloss=and|wordform=da
+28	ƙiràːja	ƙìrjiː	NOUN	_	Number=Plur	24	conj:coord	_	Gloss=chest.Plur|SpaceAfter=No|wordform=ƙiràːjansù
+29	-n	na	PART	_	Case=Gen|PartType=Case	28	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
+30	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	29	comp:obj	_	Gloss=3Plur.Gen
+31	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	23	comp:pred	_	Gloss=PreRef|PreRef=Yes
+32	duk	dukà	ADV	_	PronType=Tot	33	mod	_	Gloss=all
+33	à	à	ADP	_	_	23	mod	_	Gloss=at
+34	sàːle	saːl-	VERB	_	ExtPos=ADV|VerbForm=Part	33	comp:obj	_	Gloss=blister.Part|SpaceAfter=No
+35	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
 # sent_id = 12_Bala'in_tafkin_Nyos_8
 # text_en = Well, this made people doubt about what their research discovered, i.e. the gas that caused the explosion was just carbon dioxide.
@@ -411,11 +412,11 @@
 # text_en = The way to remove the gas is to pump the water that has carbon dioxide out of the lake and remove it altogether.
 # text_ortho = Yaddà zaː'à iyà cirèː gâs ɗîn shiː nèː à yi famfòn ruwân dà kèː dà carbon dioxide dàgà cikin tafkìn, à fid dà shiː gàbaː ɗayansà .
 # text = yaddà zaː'à= iyà cirèː gâs ɗîn shiː nèː à= yi famfò-n ruwân dà kèː= dà carbon dioxide dàgà cikin tafkìn, à= fid dà shiː gàbaː ɗaya-n-sà .
-1	yaddà	yaddà	ADV	_	PronType=Rel	5	mod	_	Gloss=how.Rel|RelPos=Yes|Relz=word
+1	yaddà	yaddà	ADV	_	ExtPos=SCONJ|PronType=Rel	9	subj	_	ClauseType=Rel|Gloss=how.Rel|Relz=word
 2	zaː-	zâː-	PART	_	PartType=TAM|Tense=Fut	4	mod/m	_	Gloss=Fut-|SpaceAfter=No
 3	'à=	a	PRON	_	Person=4|PronType=PrsSubj|Tense=Fut	4	subj/m	_	Gloss=4=|wordform=zaː'à
-4	iyà	iy-	VERB	_	_	9	subj	_	ClauseType=Rel|Gloss=be_able_to
-5	cirèː	cir-	VERB	_	_	4	comp:obj	_	Gloss=pull
+4	iyà	iy-	VERB	_	_	1	mod@relcl	_	ClauseType=Rel|Gloss=be_able_to
+5	cirèː	cir-	VERB	_	_	4	comp:obj	_	Gloss=pull|RelRole=mod
 6	gâs	gâs	NOUN	_	Gender=Masc	5	comp:obj	_	Gloss=gas.Masc
 7	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	6	det	_	Gloss=Def
 8	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	9	comp:pred	_	Gloss=3Masc.Nom
@@ -645,10 +646,10 @@
 19	neːsà	neːsà	ADV	_	_	18	comp:obj@G	_	Gloss=far
 20	ƙwar̃ai	ƙwar̃ai	ADV	_	_	19	mod	_	Gloss=really
 21	dàgà	dàgà	ADP	_	_	19	mod	_	Gloss=from
-22	indà	indà	ADV	_	PronType=Rel	25	comp:pred	_	Gloss=where
+22	indà	indà	ADV	_	PronType=Rel	21	comp:obj	_	ClauseType=Rel|Gloss=where.Rel|Relz=Word
 23	tafkìn	tafkìː	NOUN	_	Definite=Def|Gender=Masc	25	subj	_	Gloss=lake.Masc.Def|wordform=tar̃kin
 24	ya-	ya-	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	25	subj/m	_	Gloss=3Masc-|SpaceAfter=No
-25	kè	nàː	AUX	_	Copula=Yes	21	comp:obj	_	Gloss=bePred.Rel2|Relative=Variant|SpaceAfter=No|wordform=yakè
+25	kè	nàː	AUX	_	Copula=Yes	22	mod@relcl	_	Gloss=bePred.Rel2|Relative=Variant|RelRole=pred|Relz=Affix|SpaceAfter=No|wordform=yakè
 26	.	.	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 
 # sent_id = 12_Bala'in_tafkin_Nyos_17
