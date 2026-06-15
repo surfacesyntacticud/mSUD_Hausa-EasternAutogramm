@@ -483,7 +483,7 @@
 6	maːtaː	màːtaː	NOUN	_	Number=Plur	5	comp:obj	_	Gloss=woman.Plur
 7	yawàː	yawàː	NOUN	_	Gender=Masc	5	mod	_	Gloss=quantity.Masc
 8	à	à	ADP	_	_	5	mod	_	Gloss=at
-9	cikin	cikin	ADP	_	_	8	comp:obj	_	Gloss=inside|RelRole=obj
+9	cikin	cikin	ADP	_	_	8	comp:obj	_	Gloss=inside
 10	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	9	comp:obj	_	ClauseType=Rel|Gloss=Pron.Plur.Rel|Relz=Word
 11-12	ta=	_	_	_	_	_	_	_	_
 11	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	13	subj/m	_	Gloss=3Fem-|Relative=Yes|SpaceAfter=No|wordform=ta
