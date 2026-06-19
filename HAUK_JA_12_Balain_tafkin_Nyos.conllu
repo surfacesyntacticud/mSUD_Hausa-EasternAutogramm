@@ -690,7 +690,7 @@
 31	san	sanìː	VERB	_	_	26	comp:cleft	_	Gloss=know
 32	yawà	yawàn	NOUN	_	Gender=Masc	31	comp:obj	_	Gloss=quantity.Masc|SpaceAfter=No|wordform=yawàn
 33	-n	na	PART	_	Case=Gen|PartType=Case	32	mod/m	_	Gloss=Gen.Masc/Plur
-34	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	33	comp:obj	_	Gloss=Pron.Plur.Rel|Relz=Word|wordform=wadandal
+34	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	33	comp:obj	_	ClauseType=Rel|Gloss=Pron.Plur.Rel|Relz=Word|wordform=wadandal
 35	zaː-	zâː-	PART	_	PartType=TAM|Tense=Fut	37	mod/m	_	Gloss=Fut-|SpaceAfter=No
 36	sù=	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj|Tense=Fut	37	subj/m	_	Gloss=3Plur=|wordform=zaːsù
 37	mutù	mutù	VERB	_	_	34	mod@relcl	_	ClauseType=Rel|Gloss=die|RelRole=subj

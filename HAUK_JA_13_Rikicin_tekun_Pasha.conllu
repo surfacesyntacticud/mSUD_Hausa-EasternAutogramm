@@ -395,13 +395,13 @@
 50	wà	mà	ADP	_	Case=Dat	49	comp:obl	_	Gloss=Dat
 51	Ìr̃aːƙì	Ìr̃aːƙì	PROPN	_	_	50	comp:obj	_	Gloss=Irak
 52	,	,	PUNCT	_	_	53	punct	_	Gloss=PUNCT
-53	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	44	conj:coord	_	Gloss=Pron.Masc.Rel|Relz=Word
+53	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	44	conj:coord	_	ClauseType=Rel|Gloss=Pron.Masc.Rel|Relz=Word
 54	a-	a	PRON	_	Person=4|PronType=PrsSubj	56	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=aka
 55	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	56	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-56	yi	yi	VERB	_	_	53	mod@relcl	_	ClauseType=Rel|Gloss=do
+56	yi	yi	VERB	_	_	53	mod@relcl	_	Gloss=do
 57	hanzari	hanzariː	NOUN	_	Gender=Masc	56	comp:pred	_	Gloss=haste.Masc|SpaceAfter=No|wordform=hanzarin
 58	-n	na	PART	_	Case=Gen|PartType=Case	57	udep/m	_	Gloss=Gen.Masc/Plur
-59	kâiwaː	kai	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	58	comp:obj	_	Gloss=carry.Vnoun.Fem|RelRole=obj
+59	kâiwaː	kai	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	58	comp:obj	_	Gloss=carry.Vnoun.Fem|RelRole=obl
 60	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	62	mod	_	Gloss=Neg
 61	tàːre	tàːre	ADV	_	_	62	mod	_	Gloss=together
 62	dà	dà	ADP	_	_	56	mod	_	Gloss=with|wordform=ɗà

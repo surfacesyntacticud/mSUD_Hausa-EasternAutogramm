@@ -281,7 +281,7 @@
 23	-n	na	PART	_	Case=Gen|PartType=Case	22	udep/m	_	Gloss=Gen.Masc/Plur
 24	cêːwaː	cêːwaː	SCONJ	_	_	23	comp:obj	_	Gloss=COMP
 25	ya-	ya-	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=PrsSubj	26	subj/m	_	Gloss=3Masc-|SpaceAfter=No
-26	nàː	nàː	AUX	_	Copula=Yes	24	comp:obj	_	Gloss=be.Pred|RelRole=obj|wordform=yanaː
+26	nàː	nàː	AUX	_	Copula=Yes	24	comp:obj	_	Gloss=be.Pred|RelRole=subj|wordform=yanaː
 27	Amìr̃kà	Amìr̃kà	PROPN	_	_	26	comp:pred	_	Gloss=America
 28	yànzu	yànzu	ADV	_	_	26	mod	_	Gloss=now|SpaceAfter=No|wordform=yanzu
 29	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
@@ -494,8 +494,8 @@
 13	cikin	cikin	ADP	_	_	12	comp:obj	_	Gloss=inside
 14	cikì	cikìː	NOUN	_	Gender=Masc	13	comp:obj	_	Gloss=belly.Masc|SpaceAfter=No|wordform=cikìn
 15	-n	na	PART	_	Case=Gen|PartType=Case	14	udep/m	_	Gloss=Gen.Masc/Plur
-16	wàɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	15	comp:obj	_	Gloss=Pron.Plur.Rel|Relz=Word|wordform=wadandal
-17	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	16	mod@relcl	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|RelRole=subj
+16	wàɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	15	comp:obj	_	ClauseType=Rel|Gloss=Pron.Plur.Rel|Relz=Word|wordform=wadandal
+17	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	16	mod@relcl	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj
 18	ɗàuke	ɗauk-	VERB	_	ExtPos=ADV|VerbForm=Part	17	comp:pred	_	Gloss=take.Part
 19	dà	dà	CCONJ	_	_	18	comp:obl	_	Gloss=and|wordform=da
 20	ƙwaːyoːyîn	ƙwàːyaː	NOUN	_	Definite=Def|Number=Plur	19	comp:obj	_	Gloss=drug.Plur.Def|SpaceAfter=No
