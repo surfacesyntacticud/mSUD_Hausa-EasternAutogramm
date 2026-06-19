@@ -379,11 +379,11 @@
 # sent_id = 15_Yajin_aiki_10
 # text_en = Those who died during the crisis, according the country authorities, are just three, although some student sources and hospital workers said that more than ten people died.
 # text_ortho = Waɗàndà sukà ràsu à loːkàcin rìkicîn dai, kàmar̃ yaddà mahùkùntan ƙasâr̃ sukà cêː, suː ukù neː kaɗai, koː dà yakèː wasu kafoːfin ɗàːlìban ƙasâr ̃dà ma'àikàtan asìbitì sun cêː fìye dà mutàneː goːmà neː sukà mutù.
-# text = waɗàndà sukà= ràsu à loːkàci-n rìkicîn dai, kàmar̃ yaddà mahùkùnta-n ƙasâr̃ sukà= cêː, suː ukù neː kaɗai, koː dà ya- kè wasu kafoːfi-n ɗàːlìba-n ƙasâr̃ dà ma'àikàta-n asìbitì sun= cêː fìye dà mutàneː goːmà neː sukà= mutù.
-1	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	4	subj	_	Gloss=who.Plur.Rel|RelPos=Yes|Relz=Word
+# text = waɗàndà su-kà= ràsu à loːkàci-n rìkicîn dai, kàmar̃ yaddà mahùkùnta-n ƙasâr̃ su-kà= cêː, suː ukù neː kaɗai, koː dà ya-kè wasu kafoːfi-n ɗàːlìba-n ƙasâr̃ dà ma'àikàta-n asìbitì su-n= cêː fìye dà mutàneː goːmà neː su-kà= mutù.
+1	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	22	dislocated@subj	_	ClauseType=Rel|Gloss=who.Plur.Rel|Relz=Word
 2	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 3	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-4	ràsu	ràsu	VERB	_	_	22	dislocated@subj	_	ClauseType=Rel|Gloss=die
+4	ràsu	ràsu	VERB	_	_	1	mod@relcl	_	Gloss=die|RelRole=subj
 5	à	à	ADP	_	_	4	mod	_	Gloss=at
 6	loːkàci	loːkàciː	NOUN	_	Gender=Masc	5	comp:obj	_	Gloss=time.Masc|SpaceAfter=No|wordform=loːkàcin
 7	-n	na	PART	_	Case=Gen|PartType=Case	6	mod/m	_	Gloss=Gen.Masc/Plur

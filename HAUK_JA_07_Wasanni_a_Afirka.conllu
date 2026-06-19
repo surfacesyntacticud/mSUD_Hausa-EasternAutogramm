@@ -41,7 +41,7 @@
 
 # sent_id = 07_Wasanni_a_Afirka_3
 # text_en = The crisis arose when the boxer named 'Joe Lasisi' who is the lightweight champion of Nigeria and Africa will enter the competition that the world boxing association has organised to determine who will get the title of world champion of the lightweight category.
-# text = rìkicîn yaː taːsoː nèː gàme dà koː ɗan dambên nan mài suːnaː " Joe Lasisi ", wàndà kuma shiː nèː zàkaràn ajìn maràsaː nauyiː na Nàːjeːr̃iyàː dà kuma Afir̃kà bàːkiː ɗaya, zâi shìga gàːsâr̃ nan waddà ƙungìyar̃ dambe ta duːniyàː ta shiryàː don neːmoː wani wàndà zâi ɗàuki kambin duːniyàː na ajìn maràsaː nauyiː.
+# text = rìkicîn y-aː= taːsoː nèː gàme dà koː ɗa-n dambên nan mài suːnaː " Joe Lasisi ", wàndà kuma shiː nèː zàkarà-n ajì-n maràsaː nauyiː na Nàːjeːr̃iyàː dà kuma Afir̃kà bàːkiː ɗaya, zâ-i= shìga gàːsâr̃ nan waddà ƙungìya-r̃ dambe ta duːniyàː ta= shiryàː don neːmo-n wani wàndà zâ-i= ɗàuki kambi-n duːniyàː na ajì-n maràsaː nauyiː.
 # text_ortho = Rìkicîn yaː taːsoː nèː gàme dà koː ɗan dambên nan mài suːnaː 'Joe Lasisi', wàndà kuma shiː nèː zàkaràn ajìn maràsaː nauyiː na Nàːjeːr̃iyàː dà kuma Afir̃kà bàːkiː ɗaya, zâi shìga gàːsâr̃ nan waddà Ƙungìyar̃ Dambe ta Duːniyàː ta shiryàː don neːmoː wani wàndà zâi ɗàuki kambin duːniyàː na ajìn maràsaː nauyiː.
 1	rìkicîn	rìkiciː	NOUN	_	Definite=Def|Gender=Masc	4	subj	_	Gloss=crisis.Masc.Def
 2	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
@@ -61,12 +61,12 @@
 16	Joe	Joe	PROPN	_	_	14	conj:appos	_	Gloss=Joe
 17	Lasisi	Lasisi	PROPN	_	_	16	flat@name	_	Gloss=Lasisi
 18	"	"	PUNCT	_	_	16	punct	_	Gloss=PUNCT|SpaceAfter=No
-19	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
-20	wàndà	wandà	PRON	_	Gender=Masc|PronType=Rel	23	subj	_	Gloss=Pron.Masc.Rel|RelPos=Yes|Relz=Word
-21	kuma	kuma	PART	_	PartType=Top	23	discourse@top	_	Gloss=also
-22	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	23	comp:pred	_	Gloss=3Masc.Nom
-23	nèː	neː	AUX	_	Copula=Yes	9	mod@relcl	_	ClauseType=Rel|Gloss=Equ.Masc/Plur
-24	zàkarà	zàkaràː	NOUN	_	Gender=Masc	23	dislocated@comp	_	Gloss=champion.Masc|SpaceAfter=No|wordform=zàkaràn
+19	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
+20	wàndà	wandà	PRON	_	ExtPos=SCONJ|Gender=Masc|PronType=Rel	9	mod:appos@relcl	_	Gloss=Pron.Masc.Rel|Relz=Word
+21	kuma	kuma	PART	_	PartType=Top	20	discourse@top	_	Gloss=also
+22	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	20	comp:obj	_	Gloss=3Masc.Nom
+23	nèː	neː	PART	_	PartType=Foc	22	discourse@foc	_	Gloss=Emph.Masc/Plur
+24	zàkarà	zàkaràː	NOUN	_	Gender=Masc	22	comp:cleft	_	Gloss=champion.Masc|RelRole=subj|SpaceAfter=No|wordform=zàkaràn
 25	-n	na	PART	_	Case=Gen|PartType=Case	24	mod/m	_	Gloss=Gen.Masc/Plur
 26	ajì	ajìː	NOUN	_	Gender=Masc	25	comp:obj	_	Gloss=category.Masc|SpaceAfter=No|wordform=ajìn
 27	-n	na	PART	_	Case=Gen|PartType=Case	26	mod/m	_	Gloss=Gen.Masc/Plur
@@ -99,10 +99,10 @@
 53	neːmo	neːm-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	52	comp:obj	_	Gloss=look_for.Vnoun.Masc|SpaceAfter=No|wordform=neːmoː
 54	-n	na	PART	_	Case=Gen|PartType=Case	53	udep/m	_	Gloss=Gen.Masc/Plur
 55	wani	wani	PRON	_	Definite=Spec|Gender=Masc|PronType=Ind	54	comp:obj	_	Gloss=some.Masc.Spec
-56	wàndà	wandà	PRON	_	Gender=Masc|PronType=Rel	59	subj	_	Gloss=Pron.Masc.Rel|RelPos=Yes|Relz=Word
+56	wàndà	wandà	PRON	_	Gender=Masc|PronType=Rel	55	subj	_	ClauseType=Rel|Gloss=Pron.Masc.Rel|Relz=Word
 57	zâ-	zâː-	PART	_	PartType=TAM|Tense=Fut	59	mod/m	_	Gloss=Fut-|SpaceAfter=No
 58	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj|Tense=Fut	59	subj/m	_	Gloss=3Masc=|wordform=zâi
-59	ɗàuki	ɗauk-	VERB	_	_	55	mod@relcl	_	ClauseType=Rel|Gloss=take
+59	ɗàuki	ɗauk-	VERB	_	_	56	mod@relcl	_	Gloss=take|RelRole=subj
 60	kambi	kambiː	NOUN	_	Gender=Masc	59	comp:obj	_	Compound=Yes|Gloss=crown.Masc|SpaceAfter=No|wordform=kambin
 61	-n	na	PART	_	Case=Gen|PartType=Case	60	udep/m	_	Gloss=Gen.Fem
 62	duːniyàː	duːniyàː	NOUN	_	Gender=Fem	61	comp:obj	_	Gloss=world.Fem

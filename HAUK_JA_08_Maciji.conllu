@@ -279,11 +279,11 @@
 21	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	23	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 22	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	23	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
 23	cînyeː	cînyeː	VERB	_	_	18	comp:obj	_	ClauseType=Rel|Gloss=eat|RelRole=obj
-24	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	28	subj	_	Gloss=Pron.Masc.Rel|RelPos=Yes|Relz=Word
+24	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	17	mod:appos@relcl	_	Gloss=Pron.Masc.Rel|Relz=Word
 25	kuma	kuma	PART	_	PartType=Top	24	discourse@top	_	Gloss=also
 26	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	28	subj/m	_	Gloss=3Masc|SpaceAfter=No
 27	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	28	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=_=
-28	kusa	kusa	VERB	_	_	17	conj:coord	_	ClauseType=Rel|Gloss=be_almost
+28	kusa	kusa	VERB	_	_	24	comp:obj	_	ClauseType=Rel|Gloss=be_almost|RelRole=subj
 29	zamaː	zama	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	28	comp:obj	_	Gloss=become.Vnoun.Masc
 30	sanàdi	sanàdiː	NOUN	_	Gender=Masc	29	comp:pred	_	Gloss=cause.Masc|SpaceAfter=No|wordform=sanàdin
 31	-n	na	PART	_	Case=Gen|PartType=Case	30	mod/m	_	Gloss=Gen.Masc/Plur

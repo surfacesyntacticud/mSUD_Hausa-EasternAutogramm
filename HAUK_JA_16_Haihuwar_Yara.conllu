@@ -651,7 +651,7 @@
 16	kafà	kaf-	VERB	_	_	13	comp:obj	_	ClauseType=Rel|Gloss=set_up|RelRole=mod
 17	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	18	det	_	Gloss=some.Masc.Spec
 18	kwàmìtî	kwàmìtî	NOUN	_	Gender=Masc	16	comp:obj	_	Gloss=committee.Masc
-19	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	18	mod@relcl	_	Gloss=Pron.Masc.Rel|Relz=Word
+19	wandà	wandà	PRON	_	ExtPos=SCONJ|Gender=Masc|PronType=Rel	18	mod@relcl	_	Gloss=Pron.Masc.Rel|Relz=Word
 20	zâ-	zâː-	PART	_	PartType=TAM|Tense=Fut	22	mod/m	_	Gloss=Fut-|SpaceAfter=No
 21	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj|Tense=Fut	22	subj/m	_	Gloss=3Masc=|wordform=zâi
 22	tabbatar̃	tabbat-	VERB	_	Voice=Cau	19	comp	_	ClauseType=Rel|Gloss=be_sure.Cau|RelRole=subj
@@ -663,12 +663,12 @@
 28	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	29	mod/m	_	Gloss=Perf.Plur=|wordform=n
 29	sàuka	sauk-	VERB	_	_	23	comp:obj	_	Gloss=give_birth
 30	laːfiyàː	laːfiyàː	NOUN	_	Gender=Fem	29	comp:obj	_	Gloss=health.Fem|SpaceAfter=No
-31	,	,	PUNCT	_	_	36	punct	_	Gloss=PUNCT
-32	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	36	subj	_	Gloss=Pron.Masc.Rel|RelPos=Yes|Relz=Word
-33	kuma	kuma	PART	_	PartType=Top	36	discourse@top	_	Gloss=also
+31	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT
+32	wandà	wandà	PRON	_	ExtPos=SCONJ|Gender=Masc|PronType=Rel	19	conj:coord	_	Gloss=Pron.Masc.Rel|Relz=Word
+33	kuma	kuma	PART	_	PartType=Top	32	discourse@top	_	Gloss=also
 34	zâ-	zâː-	PART	_	PartType=TAM|Tense=Fut	36	mod/m	_	Gloss=Fut-|SpaceAfter=No
 35	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj|Tense=Fut	36	subj/m	_	Gloss=3Masc=|wordform=zâi
-36	ƙaːrà	ƙaːr-	VERB	_	_	22	conj:coord	_	ClauseType=Rel|Gloss=increase
+36	ƙaːrà	ƙaːr-	VERB	_	_	32	comp:obj	_	ClauseType=Rel|Gloss=increase|RelRole=subj
 37	muhimmancì	muhimmancìː	NOUN	_	Gender=Masc	36	comp:obj	_	Gloss=importance|SpaceAfter=No|wordform=muhimmancìn
 38	-n	na	PART	_	Case=Gen|PartType=Case	37	udep/m	_	Gloss=Gen.Masc/Plur
 39	kafà	kaf-	VERB	_	_	38	comp:obj	_	Gloss=set_up

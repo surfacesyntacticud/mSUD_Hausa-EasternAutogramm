@@ -236,11 +236,11 @@
 25	-n	na	PART	_	Case=Gen|PartType=Case	24	udep/m	_	Gloss=Gen.Masc/Plur
 26	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	27	det	_	Gloss=some.Masc.Spec
 27	mùtûm	mùtûm	NOUN	_	Gender=Masc	25	comp:obj	_	Gloss=man.Masc
-28	wàndà	wandà	PRON	_	Gender=Masc|PronType=Rel	31	subj	_	Gloss=Pron.Masc.Rel|RelPos=Yes|Relz=Word|wordform=wanda
+28	wàndà	wandà	PRON	_	ExtPos=SCONJ|Gender=Masc|PronType=Rel	27	mod@relcl	_	Gloss=Pron.Masc.Rel|Relz=Word|wordform=wanda
 29-30	ya=	_	_	_	_	_	_	_	_
 29	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	31	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
 30	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	31	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-31	bayyànà	bayyan-	VERB	_	_	27	mod@relcl	_	ClauseType=Rel|Gloss=explain
+31	bayyànà	bayyan-	VERB	_	_	28	comp:obj	_	ClauseType=Rel|Gloss=explain|RelRole=subj
 32	kânsà	kânsà	PRON	_	Gender=Masc|Person=3|PronType=Prs|Reflex=Yes	31	comp:obj	_	Gloss=3Masc.Reflex
 33	dà	dà	ADP	_	_	31	comp:obl	_	Gloss=with
 34	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	33	comp:obj	_	Gloss=say.Vnoun.Fem|wordform=cêwaː
@@ -320,13 +320,13 @@
 27	jîː	ji	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	26	subj	_	Gloss=hear.Vnoun.Masc
 28	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	26	conj:coord	_	Gloss=there_is.Neg
 29	ganiː	ganiː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	28	subj	_	Gloss=see.Vnoun.Masc|SpaceAfter=No
-30	,	,	PUNCT	_	_	35	punct	_	Gloss=PUNCT
-31	wàndà	wandà	PRON	_	Gender=Masc|PronType=Rel	35	subj	_	Gloss=Pron.Masc.Rel|RelPos=Yes|Relz=Word
+30	,	,	PUNCT	_	_	31	punct	_	Gloss=PUNCT
+31	wàndà	wandà	PRON	_	ExtPos=SCONJ|Gender=Masc|PronType=Rel	20	conj:coord	_	Gloss=Pron.Masc.Rel|Relz=Word
 32	har̃	har̃	ADV	_	_	35	mod	_	Gloss=even
 33-34	ya=	_	_	_	_	_	_	_	_
 33	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	35	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
 34	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	35	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-35	yi	yi	VERB	_	_	17	mod@relcl	_	ClauseType=Rel|Gloss=do
+35	yi	yi	VERB	_	_	31	comp:obj	_	ClauseType=Rel|Gloss=do|RelRole=subj
 36	sànàdiyyà	sànàdiyyàː	NOUN	_	Gender=Fem	35	comp:pred	_	Gloss=cause.Fem|SpaceAfter=No|wordform=sànàdiyyàr̃
 37	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	36	mod/m	_	Gloss=Gen.Fem
 38	ƙòːƙarîn	ƙòːƙariː	NOUN	_	Definite=Def|Gender=Masc	37	comp:obj	_	Gloss=effort.Masc.Def|RelAnt=Yes
@@ -537,12 +537,12 @@
 21	miyà	miyàː	NOUN	_	Gender=Fem	20	comp:obj	_	Gloss=sauce.Fem|SpaceAfter=No|wordform=miyàr̃
 22	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	21	mod/m	_	Gloss=Gen.Fem
 23	kuɓèːwaː	kuɓèːwaː	NOUN	_	Gender=Fem	22	comp:obj	_	Gloss=gombo.Fem|SpaceAfter=No
-24	,	,	PUNCT	_	_	28	punct	_	Gloss=PUNCT
-25	wàccè	wandà	PRON	_	Gender=Fem|PronType=Rel	28	dislocated	_	Gloss=which.Fem.Rel|Relz=Word
+24	,	,	PUNCT	_	_	25	punct	_	Gloss=PUNCT
+25	wàccè	wànè	PRON	_	ExtPos=SCONJ|Gender=Fem|PronType=Rel	21	mod:appos@relcl	_	Gloss=which.Fem.Rel|Relz=Word
 26-27	ya=	_	_	_	_	_	_	_	_
 26	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	28	subj/m	_	Gloss=3Masc-|Relative=Yes|SpaceAfter=No|wordform=ya
 27	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	28	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-28	yi	yi	VERB	_	_	21	mod@relcl	_	ClauseType=Rel|Gloss=do
+28	yi	yi	VERB	_	_	25	comp:obj	_	ClauseType=Rel|Gloss=do
 29	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	28	comp:pred	_	Gloss=use.Masc
 30	dà	dà	ADP	_	_	29	comp:obl	_	Gloss=with
 31	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	30	comp:obj	_	Gloss=3Fem.Nom|RelPos=Yes
@@ -552,20 +552,20 @@
 35	sauƙi	sauƙiː	NOUN	_	Gender=Masc	34	comp:obj	_	Gloss=facility.Masc|SpaceAfter=No|wordform=sauƙin
 36	-n	na	PART	_	Case=Gen|PartType=Case	35	mod/m	_	Gloss=Gen.Masc/Plur
 37	hadìyêːwâr̃	hadiy-	VERB	_	Definite=Def|ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	36	comp:obj	_	Gloss=swallow.Vnoun.Fem.Def|SpaceAfter=No
-38	,	,	PUNCT	_	_	44	punct	_	Gloss=PUNCT
-39	wàddà	wandà	PRON	_	Gender=Fem|PronType=Rel	44	subj	_	Gloss=Pron.Fem.Rel|RelPos=Yes|Relz=Word
+38	,	,	PUNCT	_	_	39	punct	_	Gloss=PUNCT
+39	wàddà	wandà	PRON	_	ExtPos=SCONJ|Gender=Fem|PronType=Rel	25	conj:coord	_	Gloss=Pron.Fem.Rel|Relz=Word
 40	kuma	kuma	PART	_	PartType=Top	39	discourse@top	_	Gloss=also
 41	dâː	dâː	ADV	_	_	44	mod	_	Gloss=formerly
 42	maː	maː	PART	_	_	41	discourse@top	_	Gloss=even
 43	a-	a-	PRON	_	Person=4|PronType=Prs	44	subj/m	_	Gloss=4|SpaceAfter=No
-44	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	28	conj:coord	_	ClauseType=Rel|Gloss=Prog|wordform=and
+44	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	39	comp:obj	_	ClauseType=Rel|Gloss=Prog
 45	cî	ci	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	44	comp:pred	_	Gloss=consume.Vnoun.Masc|SpaceAfter=No|wordform=cîntà|wordfrom=cîntà
 46	-n	na	PART	_	Case=Gen|PartType=Case	45	udep/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
-47	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	46	comp:obj/m	_	Gloss=3Fem.Gen
+47	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	46	comp:obj/m	_	Gloss=3Fem.Gen|RelPos=Yes
 48	sòːsai	sòːsai	ADV	_	_	45	mod	_	Gloss=really
 49	à	à	ADP	_	_	45	mod	_	Gloss=at
 50	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	49	comp:obj	_	Gloss=Nigeria|SpaceAfter=No
-51	.	.	PUNCT	_	_	28	punct	_	Gloss=PUNCT
+51	.	.	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 
 # sent_id = 14_Miyagun_kwayoyi_13
 # text_en = The Agency declared that this recent capture has increased the number of gangs of drug dealers that have been dismantled to five, since when the agency was created at the beginning of last year.
