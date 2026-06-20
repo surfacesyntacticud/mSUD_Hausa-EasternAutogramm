@@ -48,7 +48,7 @@
 32	àbincîn	àbinciː	NOUN	_	Definite=Def|Gender=Masc	31	comp:obj	_	Gloss=food.Masc.Def|RelAnt=Yes
 33	dà	dà	SCONJ	_	_	32	mod@relcl	_	Gloss=CompRel|Relz=Word
 34	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	36	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
-35	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	36	mod/m	_	Gloss=Perf.Rel.Plur=|wordform=kà
+35	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	36	mod/m	_	Gloss=Perf.Rel.Plur=|Relz=Affix|wordform=kà
 36	yi	yi	VERB	_	_	33	comp:obj	_	ClauseType=Rel|Gloss=do
 37	miyà	miyàː	NOUN	_	Gender=Fem	36	comp:obj	_	Gloss=sauce.Fem|RelRole=mod|SpaceAfter=No|wordform=miyàr̃|wordfrom=miyàr̃sà
 38	-r̃	na	PART	_	Case=Gen|PartType=Case	37	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No|wordform=-t
@@ -70,7 +70,7 @@
 3	àl'amàr̃iː	àl'amàr̃iː	NOUN	_	Gender=Masc	6	subj	_	Gloss=matter.Masc
 4-5	ya=	_	_	_	_	_	_	_	_
 4	ya-	ya	PRON	_	Gender=Fem|Mood=Rel|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
-5	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	6	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=UNDERSCORE
+5	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	6	mod/m	_	Gloss=Perf.Rel.Sing=|Relz=Affix|wordform=UNDERSCORE
 6	fàːru	faːr-	VERB	_	_	1	mod@relcl	_	Gloss=begin|RelRole=mod
 7	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	8	comp:pred	_	Gloss=3Masc.Nom
 8	nèː	neː	AUX	_	Copula=Yes	0	root	_	Gloss=Equ.Masc/Plur
@@ -147,7 +147,7 @@
 3	màtsalàr̃	màtsalaː	NOUN	_	Definite=Def|Gender=Fem	6	subj	_	Gloss=problem.Fem.Def
 4-5	ta=	_	_	_	_	_	_	_	_
 4	ta-	ta	PRON	_	Gender=Fem|Mood=Rel|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=ta
-5	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	6	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=UNDERSCORE
+5	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	6	mod/m	_	Gloss=Perf.Rel.Sing=|Relz=Affix|wordform=UNDERSCORE
 6	faːrà	faːràː	VERB	_	_	2	mod@relcl	_	Gloss=begin
 7	taːshìː	taːs-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:obj	_	Gloss=rise.Vnoun.Masc|RelRole=mod
 8	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	9	comp:pred	_	Gloss=3Masc.Nom
@@ -160,7 +160,7 @@
 15	macìːjîn	macìːjiː	NOUN	_	Definite=Def|Number=Plur	14	comp:obj	_	Gloss=snake.Plur.Def|RelAnt=Yes
 16	dà	dà	SCONJ	_	_	15	mod@relcl	_	Gloss=CompRel|Relz=Word
 17	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	19	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
-18	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	19	mod/m	_	Gloss=Perf.Rel.Plur=|wordform=kà
+18	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	19	mod/m	_	Gloss=Perf.Rel.Plur=|Relz=Affix|wordform=kà
 19	dafàn	daf-	VERB	_	Definite=Def|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	16	comp:obj	_	ClauseType=Rel|Gloss=cook.Vnoun.Masc.Def|RelRole=obj|SpaceAfter=No
 20	,	,	PUNCT	_	_	29	punct	_	Gloss=PUNCT
 21	nan	nan	ADV	_	Deixis=ProxH|ExtPos=ADV|PronType=Dem	29	mod	_	Gloss=PreRef|PreRef=Yes
@@ -217,7 +217,7 @@
 10	mutàːnên	mùtûm	NOUN	_	Definite=Def|Number=Plur	8	comp:obj	_	Gloss=people.Plur.Def|RelAnt=Yes
 11	dà	dà	SCONJ	_	_	10	mod@relcl	_	Gloss=CompRel|Relz=Word
 12	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	14	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
-13	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	14	mod/m	_	Gloss=Perf.Rel.Plur=|wordform=kà
+13	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	14	mod/m	_	Gloss=Perf.Rel.Plur=|Relz=Affix|wordform=kà
 14	shaː	shaː	VERB	_	_	11	comp:obj	_	ClauseType=Rel|Gloss=drink|RelRole=subj
 15	gaːra	gaːraː	NOUN	_	Gender=Fem	14	comp:obj	_	Compound=Yes|Gloss=food_sp.Fem.|SpaceAfter=No|wordform=gaːrar̃
 16	-r̃	na	PART	_	Case=Gen|PartType=Case	15	mod/m	_	Gloss=Gen.Fem
@@ -231,7 +231,7 @@
 24	indà	indà	ADV	_	ExtPos=SCONJ|PronType=Rel	20	mod:appos@relcl	_	Gloss=where.Rel|Relz=Word
 25	likitoːciː	likitoːciː	NOUN	_	Number=Plur	28	subj	_	Gloss=doctor.Plur
 26	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	28	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
-27	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	28	mod/m	_	Gloss=Perf.Rel.Plur=|wordform=kà
+27	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	28	mod/m	_	Gloss=Perf.Rel.Plur=|Relz=Affix|wordform=kà
 28	tàːru	taːr-	VERB	_	_	24	comp:obj	_	ClauseType=Rel|Gloss=gather|RelRole=mod
 29	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	31	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 30	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	31	mod/m	_	Gloss=Perf.Rel.Plur=|wordform=kà
@@ -277,12 +277,12 @@
 19	waɗànnân	nân	DET	_	Deixis=ProxS|Number=Plur|PronType=Dem	20	det	_	Gloss=ProxS.Plur
 20	mutàːnên	mùtûm	NOUN	_	Definite=Def|Number=Plur	23	subj	_	Gloss=people.Plur.Def
 21	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	23	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
-22	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	23	mod/m	_	Gloss=Perf.Rel.Plur=|wordform=kà
+22	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	23	mod/m	_	Gloss=Perf.Rel.Plur=|Relz=Affix|wordform=kà
 23	cînyeː	cînyeː	VERB	_	_	18	comp:obj	_	ClauseType=Rel|Gloss=eat|RelRole=obj
 24	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	17	mod:appos@relcl	_	Gloss=Pron.Masc.Rel|Relz=Word
 25	kuma	kuma	PART	_	PartType=Top	24	discourse@top	_	Gloss=also
 26	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	28	subj/m	_	Gloss=3Masc|SpaceAfter=No
-27	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	28	mod/m	_	Gloss=Perf.Rel.Sing|wordform=_=
+27	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	28	mod/m	_	Gloss=Perf.Rel.Sing|Relz=Affix|wordform=_=
 28	kusa	kusa	VERB	_	_	24	comp:obj	_	ClauseType=Rel|Gloss=be_almost|RelRole=subj
 29	zamaː	zama	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	28	comp:obj	_	Gloss=become.Vnoun.Masc
 30	sanàdi	sanàdiː	NOUN	_	Gender=Masc	29	comp:pred	_	Gloss=cause.Masc|SpaceAfter=No|wordform=sanàdin
@@ -333,7 +333,7 @@
 20	kwàːnàkîn	kwaːnaː	NOUN	_	Definite=Def|Number=Plur	19	comp:obj	_	Gloss=day.Plur.Def
 21	dà	dà	SCONJ	_	_	18	mod@relcl	_	Gloss=CompRel|Relz=Word
 22	a-	a	PRON	_	Person=4|PronType=PrsSubj	24	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
-23	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	24	mod/m	_	Gloss=Perf.Rel.Plur=|wordform=kà
+23	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	24	mod/m	_	Gloss=Perf.Rel.Plur=|Relz=Affix|wordform=kà
 24	ɗaukàː	ɗauk-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	21	comp:obj	_	ClauseType=Rel|Gloss=take|RelRole=obj
 25	a-	a-	PRON	_	Person=4|PronType=Prs	26	subj/m	_	Gloss=4|SpaceAfter=No
 26	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	24	mod	_	Gloss=Prog|wordform=anàː

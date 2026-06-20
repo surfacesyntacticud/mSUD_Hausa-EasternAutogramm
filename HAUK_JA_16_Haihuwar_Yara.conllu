@@ -70,7 +70,7 @@
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=CompRel|Relz=Word
 4	likitoːciː	likitoːciː	NOUN	_	Number=Plur	7	subj	_	Gloss=doctor.Plur
 5	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	7	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
-6	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Plur=|wordform=kà
+6	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Plur=|Relz=Affix|wordform=kà
 7	yi	yi	VERB	_	_	3	comp:obj	_	ClauseType=Rel|Gloss=do|RelRole=mod
 8	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	9	det	_	Gloss=some.Masc.Spec
 9	tàːroː	tàːroː	NOUN	_	Gender=Masc	7	comp:pred	_	Gloss=meeting.Masc
@@ -371,7 +371,7 @@
 22	naːƙudàː	naːƙudàː	NOUN	_	Gender=Fem	25	subj	_	Gloss=labour_pains.Fem
 23-24	ta=	_	_	_	_	_	_	_	_
 23	ta-	ta	PRON	_	Gender=Fem|Mood=Rel|Person=3|PronType=PrsSubj	25	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=ta
-24	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	25	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=UNDERSCORE
+24	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	25	mod/m	_	Gloss=Perf.Rel.Sing=|Relz=Affix|wordform=UNDERSCORE
 25	kaːmàː	kaːm-	VERB	_	_	21	comp:obj	_	ClauseType=Rel|Gloss=catch|RelRole=mod
 26	-su	-su	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	25	comp:obj/m	_	Gloss=-3Plur.Acc|SpaceAfter=No|wordform=su
 27	,	,	PUNCT	_	_	33	punct	_	Gloss=PUNCT
@@ -419,7 +419,7 @@
 9	yàːyîn	yàːyiː	NOUN	_	Definite=Def	8	comp:obj	_	Gloss=time.Def|RelAnt=Yes
 10	dà	dà	SCONJ	_	_	9	mod@relcl	_	Gloss=CompRel|Relz=Word
 11	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	13	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
-12	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	13	mod/m	_	Gloss=Perf.Rel.Plur=|wordform=kà
+12	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	13	mod/m	_	Gloss=Perf.Rel.Plur=|Relz=Affix|wordform=kà
 13	yi	yi	VERB	_	_	10	comp:obj	_	ClauseType=Rel|Gloss=do|RelRole=mod
 14	ƙòːƙari	ƙòːƙariː	NOUN	_	Gender=Masc	13	comp:pred	_	Gloss=effort.Masc|SpaceAfter=No|wordform=ƙòːƙarin
 15	-n	na	PART	_	Case=Gen|PartType=Case	14	udep/m	_	Gloss=Gen.Masc/Plur
@@ -443,7 +443,7 @@
 9	dòːkaː	dòːkaː	NOUN	_	Gender=Fem	12	subj	_	Gloss=law.Fem
 10-11	ta=	_	_	_	_	_	_	_	_
 10	ta-	ta	PRON	_	Gender=Fem|Mood=Rel|Person=3|PronType=PrsSubj	12	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=ta=
-11	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	12	mod/m	_	Gloss=Perf.Rel.Sing|wordform=UNDERSCORE
+11	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	12	mod/m	_	Gloss=Perf.Rel.Sing|Relz=Affix|wordform=UNDERSCORE
 12	har̃àmtaː	har̃amt-	VERB	_	_	8	comp:obj	_	ClauseType=Rel|Gloss=forbid|RelRole=obj
 13	à	à	ADP	_	_	12	mod	_	Gloss=at
 14	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	13	comp:obj	_	Gloss=Nigeria|SpaceAfter=No
@@ -564,7 +564,7 @@
 3	àbù	àbù	NOUN	_	Gender=Masc	28	subj	_	Gloss=thing.Masc|RelAnt=Yes
 4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=CompRel|Relz=Word
 5	a-	a	PRON	_	Person=4|PronType=PrsSubj	7	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
-6	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Plur=|wordform=kà
+6	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Plur=|Relz=Affix|wordform=kà
 7	fi	fi	VERB	_	_	4	comp:obj	_	ClauseType=Rel|Gloss=exceed
 8	dàːmuwaː	daːm-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	7	comp:obj	_	Gloss=worry.Vnoun.Fem|RelRole=obl
 9	dà	dà	ADP	_	_	8	comp:obl	_	Gloss=with|RelRole=obj
