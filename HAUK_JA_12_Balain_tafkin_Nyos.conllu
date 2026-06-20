@@ -128,7 +128,7 @@
 # sent_id = 12_Bala'in_tafkin_Nyos_4
 # text_en = Then the water turned into mist, mixed with gas, it was pushed to where the river ran into a valley, and entered villages and fields.
 # text_ortho = Sai ruwân ya zama kàmar̃ hazoː, hàɗe kuma dà iskàr̃, akà hankàɗaː su ta indà ruwan kòːgiː yakèː bîː zuwàː cikin kwarìː sukà shìga ƙauyukàː dà gòːnàkiː.
-# text = sai ruwân ya zama kàmar̃ hazoː, hàɗe kuma dà iskàr̃, akà hankàɗaː su ta indà ruwan kòːgiː yakèː bîː zuwàː cikin kwarìː sukà shìga ƙauyukàː dà gòːnàkiː.
+# text = sai ruwân ya= zama kàmar̃ hazoː, hàɗe kuma dà iskàr̃, a-kà= hankàɗaː -su ta indà ruwa-n kòːgiː ya-kèː bîː zuwàː cikin kwarìː su-kà= shìga ƙauyukàː dà gòːnàkiː.
 1	sai	sai	ADV	_	_	5	mod	_	Gloss=then
 2	ruwân	ruwaː	NOUN	_	Definite=Def|Gender=Masc	5	subj	_	Gloss=water.Masc.Def
 3-4	ya=	_	_	_	_	_	_	_	_
@@ -148,13 +148,13 @@
 16	hankàɗaː	hankaɗ-	VERB	_	_	5	parataxis:conj	_	Gloss=push
 17	-su	-su	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	16	comp:obj/m	_	Gloss=-3Plur.Acc|wordform=su
 18	ta	ta	ADP	_	_	16	comp:obl	_	Gloss=via
-19	indà	indà	ADV	_	PronType=Rel	25	comp:obj@L	_	Gloss=where.Rel|RelPos=Yes|Relz=Word
+19	indà	indà	ADV	_	PronType=Rel	18	comp:obj	_	ClauseType=Rel|Gloss=where.Rel|Relz=Word
 20	ruwa	ruwaː	NOUN	_	Gender=Masc	24	subj	_	Gloss=water.Masc|SpaceAfter=No|wordform=ruwan
 21	-n	na	PART	_	Case=Gen|PartType=Case	20	udep/m	_	Gloss=Gen.Masc/Plur
 22	kòːgiː	kòːgiː	NOUN	_	Gender=Masc	21	comp:obj	_	Gloss=river.Masc
 23	ya-	ya-	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	24	subj/m	_	Gloss=3Masc-|SpaceAfter=No
-24	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	18	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|wordform=yakèː
-25	bîː	bi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	24	comp:aux	_	Gloss=follow.Vnoun.Masc
+24	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	19	mod@relcl	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|wordform=yakèː
+25	bîː	bi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	24	comp:pred	_	Gloss=follow.Vnoun.Masc|RelRole=mod
 26	zuwàː	zuwàː	ADP	_	_	16	comp:obl	_	Gloss=towards
 27	cikin	cikin	ADP	_	_	26	comp:obj	_	Gloss=inside
 28	kwarìː	kwarìː	NOUN	_	Gender=Masc	27	comp:obj	_	Gloss=valley.Masc

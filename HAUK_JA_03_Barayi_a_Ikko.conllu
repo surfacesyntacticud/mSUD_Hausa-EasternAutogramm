@@ -315,10 +315,10 @@
 34	fi	fi	VERB	_	_	19	comp:obj	_	Gloss=exceed
 35	irì	irìː	NOUN	_	Gender=Masc	34	comp:obj	_	Gloss=type_of.Masc|SpaceAfter=No|wordform=irìn
 36	-n	na	PART	_	Case=Gen|PartType=Case	35	udep/m	_	Gloss=Gen.Masc/Plur
-37	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	40	comp:pred	_	Gloss=Pron.Plur.Rel|RelPos=Yes|Relz=Word
+37	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	36	comp:obj	_	ClauseType=Rel|Gloss=Pron.Plur.Rel|Relz=Word
 38	a-	a	PRON	_	Person=4|PronType=PrsSubj	40	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 39	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	40	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-40	yi	yi	VERB	_	_	36	mod	_	ClauseType=Rel|Gloss=do
+40	yi	yi	VERB	_	_	37	mod@relcl	_	Gloss=do|RelRole=pred
 41	cikin	cikin	ADP	_	_	40	mod	_	Gloss=inside
 42	shèːkàruː	shèːkaràː	NOUN	_	Number=Plur	41	comp:obj	_	Gloss=year.Plur|RelAnt=Yes
 43	biyûn	biyu	NOUN	_	Definite=Def	42	mod:num	_	Gloss=two.Def

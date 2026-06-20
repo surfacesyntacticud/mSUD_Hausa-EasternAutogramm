@@ -143,13 +143,13 @@
 # text_ortho = Tòː indà màtsalàr̃ ta faːrà taːshìː shiː nèː baːyân dà sukà cînyeː macìːjîn dà sukà dafàn, nan dà nan sai waɗànnân mutàːneː sukà faːrà jîn wani àbù nàː mur̃ɗàː musù cikin cikkunànsù .
 # text = tòː indà màtsalàr̃ ta= faːrà taːshìː shiː nèː baːyân dà su-kà= cînyeː macìːjîn dà su-kà= dafàn, nan dà nan sai waɗànnân mutàːneː su-kà= faːrà jî-n wani àbù nàːmur̃ɗàː musù cikin cikkunà-n-sù .
 1	tòː	tòː	INTJ	_	_	9	discourse	_	Gloss=well
-2	indà	indà	ADV	_	PronType=Rel	7	comp:obj@L	_	Gloss=where.Rel|RelPos=Yes|Relz=Word
+2	indà	indà	ADV	_	PronType=Rel	9	dislocated@mod	_	ClauseType=Rel|Gloss=where.Rel|Relz=Word
 3	màtsalàr̃	màtsalaː	NOUN	_	Definite=Def|Gender=Fem	6	subj	_	Gloss=problem.Fem.Def
 4-5	ta=	_	_	_	_	_	_	_	_
 4	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=3Fem-|Relative=Yes|SpaceAfter=No|wordform=ta
 5	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	6	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-6	faːrà	faːràː	VERB	_	_	9	subj	_	ClauseType=Rel|Gloss=begin
-7	taːshìː	taːs-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:obj	_	Gloss=rise.Vnoun.Masc
+6	faːrà	faːràː	VERB	_	_	2	mod@relcl	_	Gloss=begin
+7	taːshìː	taːs-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:obj	_	Gloss=rise.Vnoun.Masc|RelRole=mod
 8	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	9	comp:pred	_	Gloss=3Masc.Nom
 9	nèː	neː	AUX	_	Copula=Yes	0	root	_	Gloss=Equ.Masc/Plur
 10	baːyân	baːyân	SCONJ	_	ExtPos=SCONJ	9	dislocated@comp	_	Gloss=after.Def|Idiom=Yes
