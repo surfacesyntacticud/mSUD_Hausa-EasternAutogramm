@@ -47,9 +47,9 @@
 32	-n	na	PART	_	Case=Gen|PartType=Case	31	mod/m	_	Gloss=Gen.Masc/Plur
 33	tsàr̃oː	tsàr̃oː	NOUN	_	Gender=Masc	32	comp:obj	_	Gloss=security.Masc|SpaceAfter=No
 34	,	,	PUNCT	_	_	35	punct	_	Gloss=PUNCT
-35	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	23	mod@relcl	_	Gloss=Pron.Masc.Rel|RelPos=Yes|Relz=Word
-36	kuma	kuma	PART	_	PartType=Top	37	discourse@top	_	Gloss=also
-37	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	35	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|RelRole=subj
+35	wandà	wandà	PRON	_	ExtPos=SCONJ|Gender=Masc|PronType=Rel	23	mod:appos@relcl	_	Gloss=Pron.Masc.Rel|Relz=Word
+36	kuma	kuma	PART	_	PartType=Top	35	discourse@top	_	Gloss=also
+37	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	35	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|RelRole=subj
 38	can	can	ADV	_	Deixis=Remt|PronType=Dem	37	comp:pred	_	Gloss=Remt
 39	bir̃ni	bir̃niː	NOUN	_	Gender=Masc	38	conj:appos	_	Gloss=city.Masc|SpaceAfter=No|wordform=bir̃nin
 40	-n	na	PART	_	Case=Gen|PartType=Case	39	mod/m	_	Gloss=Gen.Masc/Plur

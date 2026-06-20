@@ -64,11 +64,11 @@
 35	tàmàːnin	tàmàːnin	NUM	_	_	33	conj:coord	_	Gloss=eighty
 36	dà	dà	CCONJ	_	_	37	cc	_	Gloss=and
 37	ukù	ukù	NUM	_	_	35	conj:coord	_	Gloss=three|SpaceAfter=No
-38	,	,	PUNCT	_	_	42	punct	_	Gloss=PUNCT
-39	indà	indà	PRON	_	PronType=Rel	42	mod	_	Gloss=where.Rel|RelPos=Yes|Relz=Word
+38	,	,	PUNCT	_	_	39	punct	_	Gloss=PUNCT
+39	indà	indà	ADV	_	ExtPos=SCONJ|PronType=Rel	24	mod:appos@relcl	_	Gloss=where.Rel|Relz=Word
 40	a-	a	PRON	_	Person=4|PronType=PrsSubj	42	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 41	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	42	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-42	hamɓarar̃	hamɓar-	VERB	_	Voice=Cau	24	mod@appos	_	ClauseType=Rel|Gloss=overthrow.Cau
+42	hamɓarar̃	hamɓar-	VERB	_	Voice=Cau	39	comp:obj	_	ClauseType=Rel|Gloss=overthrow.Cau|RelRole=mod
 43	dà	dà	ADP	_	_	42	comp:obl	_	Gloss=with
 44	gwamnat	gwamnatì	NOUN	_	Gender=Fem	43	comp:obj	_	Gloss=government.Fem|SpaceAfter=No|wordform=gwamnatìn
 45	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	44	mod/m	_	Gloss=Gen.Fem

@@ -595,10 +595,10 @@
 21	-n	na	PART	_	Case=Gen|PartType=Case	20	udep/m	_	Gloss=Gen.Masc/Plur
 22	miyàːgun	muːgùː	ADJ	_	Number=Plur	23	mod	_	Gloss=bad.Plur
 23	ƙwaːyoːyiː	ƙwàːyaː	NOUN	_	Number=Plur	21	comp:obj	_	Gloss=drug.Plur
-24	wàɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	27	comp:obj	_	Gloss=Pron.Plur.Rel|RelPos=Yes|Relz=Word|wordform=wadandal
+24	wàɗàndà	wandà	PRON	_	ExtPos=SCONJ|Number=Plur|PronType=Rel	17	mod:appos@relcl	_	Gloss=Pron.Plur.Rel|Relz=Word|wordform=wadandal
 25	a-	a	PRON	_	Person=4|PronType=PrsSubj	27	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=aka
 26	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	27	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-27	tar̃wàtsaː	tar̃wats-	VERB	_	_	17	mod@relcl	_	ClauseType=Rel|Gloss=dismantle
+27	tar̃wàtsaː	tar̃wats-	VERB	_	_	24	comp:obj	_	ClauseType=Rel|Gloss=dismantle|RelRole=obj
 28	har̃	har̃	ADP	_	_	27	mod	_	Gloss=up_to
 29	yà	yà	ADP	_	_	28	comp:obj	_	Gloss=like
 30	zuwàː	zuwàː	ADP	_	_	29	comp:obj	_	Gloss=to
@@ -699,10 +699,10 @@
 31	Jennifer	Jennifer	PROPN	_	_	29	mod	_	Gloss=Jennifer
 32	Madike	Madike	PROPN	_	_	31	flat@name	_	Gloss=Madike
 33	"	"	PUNCT	_	_	31	punct	_	Gloss=PUNCT
-34	wàddà	wandà	PRON	_	Gender=Fem|PronType=Rel	37	comp:obj	_	Gloss=Pron.Fem.Rel|RelPos=Yes|Relz=Word
+34	wàddà	wandà	PRON	_	ExtPos=SCONJ|Gender=Fem|PronType=Rel	27	mod:appos@relcl	_	Gloss=Pron.Fem.Rel|Relz=Word
 35	a-	a	PRON	_	Person=4|PronType=PrsSubj	37	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=aka
 36	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	37	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-37	tsarèː	tsar-	VERB	_	Gender=Masc	27	mod@relcl	_	ClauseType=Rel|Gloss=imprison
+37	tsarèː	tsar-	VERB	_	Gender=Masc	34	comp:obj	_	ClauseType=Rel|Gloss=imprison|RelRole=obj
 38	sabòːdà	sabòːdà	ADP	_	_	37	mod	_	Gloss=because_of
 39	lâifi	lâifiː	NOUN	_	Gender=Masc	38	comp:obj	_	Gloss=charge.Masc|SpaceAfter=No|wordform=lâifin
 40	-n	na	PART	_	Case=Gen|PartType=Case	39	mod/m	_	Gloss=Gen.Masc/Plur

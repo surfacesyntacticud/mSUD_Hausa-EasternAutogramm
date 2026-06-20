@@ -158,11 +158,11 @@
 18	kèː	nàː	AUX	_	Copula=Yes	17	comp:obj	_	ClauseType=Rel|Gloss=bePred.Rel|Relative=Yes|RelRole=subj
 19	Ìkko	Ìkko	PROPN	_	_	18	comp:pred	_	Gloss=Lagos|SpaceAfter=No
 20	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
-21	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	14	mod@relcl	_	Gloss=Pron.Masc.Rel|RelPos=Yes|Relz=Word
+21	wandà	wandà	PRON	_	ExtPos=SCONJ|Gender=Masc|PronType=Rel	17	conj:coord	_	Gloss=Pron.Masc.Rel|Relz=Word
 22	à	à	ADP	_	_	25	mod	_	Gloss=at
 23	dâː	dâː	ADV	_	_	22	comp:obj	_	Gloss=formerly
 24	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	25	comp:pred	_	Gloss=3Masc.Nom
-25	nèː	neː	AUX	_	Copula=Yes	21	comp	_	ClauseType=Rel|Gloss=Equ.Masc/Plur|RelRole=subj
+25	nèː	neː	AUX	_	Copula=Yes	21	comp:obj	_	ClauseType=Rel|Gloss=Equ.Masc/Plur|RelRole=subj
 26	gida	gidaː	NOUN	_	Gender=Masc	25	dislocated@comp	_	Gloss=house.Masc|SpaceAfter=No|wordform=gidan
 27	-n	na	PART	_	Case=Gen|PartType=Case	26	mod/m	_	Gloss=Gen.Masc/Plur
 28	gwamnà	gwamnà	NOUN	_	Gender=Masc	27	comp:obj	_	Gloss=governor.Masc
@@ -323,11 +323,11 @@
 26	saːbàː	saːb-	VERB	_	_	23	comp:obj	_	ClauseType=Rel|Gloss=be_familiar|RelRole=obl
 27	dà	dà	ADP	_	_	26	comp:obl	_	Gloss=with
 28	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	27	comp:obj	_	Gloss=3Masc.Nom|RelPos=Yes|SpaceAfter=No
-29	,	,	PUNCT	_	_	33	punct	_	Gloss=PUNCT
-30	indà	indà	PRON	_	PronType=Rel	33	mod	_	Gloss=where.Rel|RelPos=Yes|Relz=Word
+29	,	,	PUNCT	_	_	30	punct	_	Gloss=PUNCT
+30	indà	indà	ADV	_	ExtPos=SCONJ|PronType=Rel	22	mod:appos@relcl	_	Gloss=where.Rel|Relz=Word
 31	zaː-	zâː-	PART	_	PartType=TAM|Tense=Fut	33	mod/m	_	Gloss=Fut-|SpaceAfter=No
 32	sù=	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj|Tense=Fut	33	subj/m	_	Gloss=3Plur=|wordform=sù
-33	iyà	iy-	VERB	_	_	22	mod@relcl	_	ClauseType=Rel|Gloss=be_able_to
+33	iyà	iy-	VERB	_	_	30	comp:obj	_	ClauseType=Rel|Gloss=be_able_to|RelRole=mod
 34	raːmà	raːm-	VERB	_	_	33	comp:obj	_	Gloss=return
 35	irì	irìː	NOUN	_	Gender=Masc	34	comp:obj	_	Gloss=type_of.Masc|RelAnt=Yes|SpaceAfter=No|wordform=irìn
 36	-n	na	PART	_	Case=Gen|PartType=Case	35	udep/m	_	Gloss=Gen.Masc/Plur
@@ -398,10 +398,10 @@
 19	gida	gidaː	NOUN	_	Gender=Masc	18	mod	_	Gloss=house.Masc|SpaceAfter=No|wordform=gidan
 20	-n	na	PART	_	Case=Gen|PartType=Case	19	mod/m	_	Gloss=Gen.Masc/Plur
 21	Gwamnàn	gwamnàː	PROPN	_	Gender=Masc	20	comp:obj	_	Gloss=governor.Masc
-22	indà	indà	PRON	_	PronType=Rel	25	mod	_	Gloss=where.Rel|RelPos=Yes|Relz=Word
+22	indà	indà	ADV	_	ExtPos=SCONJ|PronType=Rel	19	mod:appos@relcl	_	Gloss=where.Rel|Relz=Word
 23	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	25	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 24	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	25	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes|wordform=kà
-25	ci	ci	VERB	_	_	19	mod@relcl	_	ClauseType=Rel|Gloss=eat
+25	ci	ci	VERB	_	_	22	comp:obj	_	ClauseType=Rel|Gloss=eat|RelRole=mod
 26	àbinci	àbinciː	NOUN	_	Gender=Masc	25	comp:obj	_	Gloss=food.Masc|SpaceAfter=No|wordform=àbincin
 27	-n	na	PART	_	Case=Gen|PartType=Case	26	udep/m	_	Gloss=Gen.Masc/Plur
 28	raːna	raːna	ADV	_	_	27	comp:obj	_	Gloss=day|SpaceAfter=No
@@ -494,7 +494,7 @@
 
 # sent_id = 02_Yarima_Charles_14
 # text_en = Theren the Price visited the Wild life reserve Korup, which is probably the largest reserve, and contains the most diverse things in the world.
-# text = à can kuma Yàr̃iːmà yaː zìyàr̃ci gandun daːjìː na Korup, wandà kuma wataƙiːlà shiː nèː gandun daːjìn dà ya fi koːwànneː girmaː, sànnan kuma ya fi koːwànneː yawàn itaːtuwàː irìː-irìː à duk faːɗin duːniyàː.
+# text = à can kuma Yàr̃iːmà y-aː= zìyàr̃ci gandu-n daːjìː na Korup, wandà kuma wataƙiːlà shiː nèː gandu-n daːjìn dà ya= fi koːwànneː girmaː, sànnan kuma ya= fi koːwànneː yawà-n itaːtuwàː irìː-irìː à duk faːɗi-n duːniyàː.
 # text_ortho = À can kuma Yàr̃iːmà yaː zìyàr̃ci gandun daːjìː na Korup, wandà kuma wataƙiːlà shiː nèː gandun daːjìn dà ya fi koːwànneː girmaː, sànnan kuma ya fi koːwànneː yawàn itaːtuwàː irìː-irìː à duk faːɗin dūniyàː.
 1	à	à	ADP	_	_	7	mod	_	Gloss=at
 2	can	can	ADV	_	Deixis=Remt|PronType=Dem	1	comp:obj	_	Gloss=Remt
@@ -509,11 +509,11 @@
 11	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	8	mod	_	Gloss=Gen
 12	Korup	Korup	PROPN	_	_	11	comp:obj	_	Gloss=Korup|SpaceAfter=No
 13	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
-14	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	8	mod@relcl	_	Gloss=Pron.Masc.Rel|RelPos=Yes|Relz=Word
+14	wandà	wandà	PRON	_	ExtPos=SCONJ|Gender=Masc|PronType=Rel	8	mod:appos@relcl	_	Gloss=Pron.Masc.Rel|Relz=Word
 15	kuma	kuma	PART	_	PartType=Top	14	discourse@top	_	Gloss=also
 16	wataƙiːlà	wataƙiːlà	ADV	_	_	18	mod	_	Gloss=maybe
 17	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	18	comp:pred	_	Gloss=3Masc.Nom
-18	nèː	neː	AUX	_	Copula=Yes	14	comp	_	ClauseType=Rel|Gloss=Equ.Masc/Plur|RelRole=subj
+18	nèː	neː	AUX	_	Copula=Yes	14	comp:obj	_	ClauseType=Rel|Gloss=Equ.Masc/Plur|RelRole=subj
 19	gandu	ganduː	NOUN	_	Gender=Masc	18	dislocated@comp	_	Gloss=ranch.Masc|RelAnt=Yes|SpaceAfter=No|wordform=gandun
 20	-n	na	PART	_	Case=Gen|PartType=Case	19	mod/m	_	Gloss=Gen.Masc/Plur
 21	daːjìn	daːjìː	NOUN	_	Definite=Def|Gender=Masc	20	comp:obj	_	Gloss=bush.Masc.Def
@@ -558,7 +558,7 @@
 9	-n	na	PART	_	Case=Gen|PartType=Case	8	udep/m	_	Gloss=Gen.Masc/Plur
 10	gadàː	gadàː	NOUN	_	Gender=Fem	9	comp:obj	_	Gloss=bridge.Fem
 11	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	8	mod@relcl	_	Gloss=Pron.Fem.Rel|Relz=Word
-12	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	11	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|RelRole=subj
+12	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	11	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|RelRole=subj
 13	reːtòː	rētòː	NOUN	_	Gender=Masc	12	comp:pred	_	Gloss=hanging.Masc
 14	dàgà	dàgà	ADP	_	_	13	comp:obl	_	Gloss=from
 15	samà	samà	ADV	_	_	14	comp:obj	_	Gloss=above|SpaceAfter=No

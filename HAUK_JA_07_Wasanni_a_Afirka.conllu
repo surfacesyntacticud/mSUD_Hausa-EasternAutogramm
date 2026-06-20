@@ -94,7 +94,7 @@
 49-50	ta=	_	_	_	_	_	_	_	_
 49	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	51	subj/m	_	Gloss=3Fem-|Relative=Yes|SpaceAfter=No|wordform=ta
 50	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	51	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=UNDERSCORE
-51	shiryàː	shir-	VERB	_	_	43	comp	_	ClauseType=Rel|Gloss=prepare|RelRole=subj
+51	shiryàː	shir-	VERB	_	_	43	comp:obj	_	ClauseType=Rel|Gloss=prepare|RelRole=subj
 52	don	don	SCONJ	_	_	51	mod	_	Gloss=in_order_to
 53	neːmo	neːm-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	52	comp:obj	_	Gloss=look_for.Vnoun.Masc|SpaceAfter=No|wordform=neːmoː
 54	-n	na	PART	_	Case=Gen|PartType=Case	53	udep/m	_	Gloss=Gen.Masc/Plur
@@ -198,11 +198,11 @@
 30	Afir̃kà	Afir̃kà	PROPN	_	_	29	comp:obj	_	Gloss=Africa
 31	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	30	mod	_	Gloss=Gen.Fem
 32	Kudù	Kudù	PROPN	_	_	31	comp:obj	_	Gloss=Kudù|SpaceAfter=No
-33	,	,	PUNCT	_	_	37	punct	_	Gloss=PUNCT
-34	wàːtòː	wàːtòː	CCONJ	_	_	37	cc	_	Gloss=i.e.
-35	indà	indà	PRON	_	PronType=Rel	37	mod	_	Gloss=where.Rel|RelPos=Yes|Relz=Word
+33	,	,	PUNCT	_	_	35	punct	_	Gloss=PUNCT
+34	wàːtòː	wàːtòː	CCONJ	_	_	35	cc	_	Gloss=i.e.
+35	indà	indà	ADV	_	ExtPos=SCONJ|PronType=Rel	28	mod:appos@relcl	_	Gloss=where.Rel|Relz=Word
 36	gwamnatìn	gwamnatì	NOUN	_	Definite=Def|Gender=Fem	37	subj	_	Gloss=government.Fem.Def
-37	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	28	conj:dicto	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|SpaceAfter=No
+37	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	35	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|RelRole=mod|SpaceAfter=No
 38	nuːnà	nuːn-	VERB	_	_	37	comp:pred	_	Gloss=show
 39	waːriya	waːriyaː	NOUN	_	Gender=Fem	38	comp:obj	_	Gloss=separation.Fem|SpaceAfter=No|wordform=waːriyar̃
 40	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	39	mod/m	_	Gloss=Gen.Fem
@@ -505,7 +505,7 @@
 26	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	25	comp:obj	_	Gloss=Nigeria
 27	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	24	mod@relcl	_	Gloss=Pron.Fem.Rel|Relz=Word
 28	a-	a-	PRON	_	Person=4|PronType=Prs	29	subj/m	_	Gloss=4|SpaceAfter=No
-29	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	27	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|wordform=akèː
+29	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	27	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|wordform=akèː
 30	kiràː	kiraː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	29	comp:pred	_	Gloss=call.Vnoun.Masc|RelRole=obj
 31	"	"	PUNCT	_	_	32	punct	_	Gloss=PUNCT
 32	Sunday	Sunday	PROPN	_	_	30	comp:pred	_	Gloss=Sunday
