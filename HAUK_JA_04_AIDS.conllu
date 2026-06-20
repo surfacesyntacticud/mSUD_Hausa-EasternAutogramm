@@ -364,7 +364,7 @@
 2	ꞌyàːꞌyàː	ꞌyàːꞌyàː	ADV	_	PronType=Int	0	root	_	Gloss=how
 3	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	5	subj	_	Gloss=thing.Masc.Def
 4	ya	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	Gloss=3Masc
-5	kè	nàː	AUX	_	Aspect=Prog|Copula=Yes	2	comp:cleft	_	Gloss=bePred.Rel2|Relative=Variante|wordform=yakè
+5	kè	nàː	AUX	_	Aspect=Prog|Copula=Yes	2	comp:cleft	_	ClauseType=Int|Gloss=bePred.Rel2|Relative=Variante|wordform=yakè
 6	à	à	ADP	_	_	5	mod	_	Gloss=at
 7	ƙasa	ƙasaː	NOUN	_	Gender=Fem	6	comp:obj	_	Gloss=country.Fem|SpaceAfter=No|wordform=ƙasar̃
 8	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	7	mod/m	_	Gloss=Gen.Fem
@@ -571,7 +571,7 @@
 7	asibitoːcîn	asìbitì	NOUN	_	Definite=Def|Number=Plur	10	subj	_	Gloss=hospital.Plur.Def
 8	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	10	subj/m	_	Gloss=3.Plur-|SpaceAfter=No|wordform=sù
 9	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	10	mod/m	_	Gloss=Sub=
-10	riƙà	riƙ-	VERB	_	_	5	comp:cleft	_	Gloss=keep_doing
+10	riƙà	riƙ-	VERB	_	_	5	comp:cleft	_	ClauseType=Cleft|Gloss=keep_doing
 11	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=use.Masc
 12	dà	dà	ADP	_	_	11	comp:obl	_	Gloss=with
 13	àllùːr̃ân	àlluːr̃àː	NOUN	_	Definite=Def|Number=Plur	12	comp:obj	_	Gloss=needle.Plur.Def|RelAnt=Yes

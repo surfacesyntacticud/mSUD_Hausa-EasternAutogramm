@@ -350,7 +350,7 @@
 16	ɓàràːyiː	ɓàraːwòː	NOUN	_	Number=Plur	19	subj	_	Gloss=thief.Plur
 17	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	19	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 18	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	19	mod/m	_	Gloss=Perf.Rel.Plur=|wordform=kà
-19	yi	yi	VERB	_	_	5	comp:cleft	_	Gloss=do
+19	yi	yi	VERB	_	_	5	comp:cleft	_	ClauseType=Cleft|Gloss=do
 20	saːtàː	saːtàː	VERB	_	Gender=Fem	19	comp:pred	_	Gloss=theft.Fem
 21	à	à	ADP	_	_	19	mod	_	Gloss=at
 22	bir̃nîn	bir̃niː	NOUN	_	Definite=Def|Gender=Masc	21	comp:obj	_	Gloss=city.Masc.Def

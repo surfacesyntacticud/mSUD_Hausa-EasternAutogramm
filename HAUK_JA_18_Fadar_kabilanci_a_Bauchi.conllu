@@ -475,7 +475,7 @@
 11	nèː	neː	PART	_	PartType=Foc	9	discourse@foc	_	Gloss=Emph
 12	a-	a	PRON	_	Person=4|PronType=PrsSubj	14	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 13	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	14	mod/m	_	Gloss=Perf.Rel.Plur=|wordform=kà
-14	kashèː	kas-	VERB	_	_	9	comp:cleft	_	Gloss=kill|SpaceAfter=No
+14	kashèː	kas-	VERB	_	_	9	comp:cleft	_	ClauseType=Cleft|Gloss=kill|SpaceAfter=No
 15	,	,	PUNCT	_	_	40	punct	_	Gloss=PUNCT
 16	kuma	kuma	CCONJ	_	_	40	cc	_	Gloss=also
 17	dùbba	dubuː	NOUN	_	Number=Plur	40	subj	_	Gloss=thousand.Plur|SpaceAfter=No|wordform=dùbban
@@ -543,7 +543,7 @@
 26	nèː	neː	PART	_	PartType=Foc	25	discourse@foc	_	Gloss=Emph
 27	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	29	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 28	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	29	mod/m	_	Gloss=Perf.Rel.Plur=|wordform=kà
-29	janyoː	jaː	VERB	_	_	25	comp:cleft	_	Gloss=pull
+29	janyoː	jaː	VERB	_	_	25	comp:cleft	_	ClauseType=Cleft|Gloss=pull
 30	waɗànnân	nân	DET	_	Deixis=ProxS|Number=Plur|PronType=Dem	31	det	_	Gloss=ProxS.Plur
 31	tàːshe-tàːshe	taːshìː	NOUN	_	Number=Plur	29	comp:obj	_	Compound=Yes|Gloss=rising.Plur|SpaceAfter=No|wordform=tàːshe-tàːshen
 32	-n	na	PART	_	Case=Gen|PartType=Case	31	udep/m	_	Gloss=Gen.Fem

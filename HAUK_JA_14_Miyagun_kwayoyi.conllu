@@ -398,7 +398,7 @@
 44	,	,	PUNCT	_	_	45	punct	_	Gloss=PUNCT
 45	wàddà	wandà	PRON	_	Gender=Fem|PronType=Rel	40	mod@relcl	_	Gloss=Pron.Fem.Rel|Relz=Word|wordform=wadda
 46	ta-	ta-	PRON	_	Copula=Yes|Gender=Fem|Person=3|PronType=PrsSubj	47	subj/m	_	Gloss=3Fem-|SpaceAfter=No
-47	kè	nàː	AUX	_	Copula=Yes	45	comp:obj	_	ClauseType=Rel|Gloss=bePred.Rel2|Relative=Variant|RelRole=subj|wordform=takè
+47	kè	nàː	AUX	_	Copula=Yes|Mood=Rel	45	comp:obj	_	ClauseType=Rel|Gloss=bePred.Rel2|RelRole=subj|wordform=takè
 48	à	à	ADP	_	_	47	comp:pred	_	Gloss=at
 49	nànnàɗe	nannaɗ-	VERB	_	ExtPos=ADV|Number=Plur|VerbForm=Part	48	comp:obj	_	Gloss=tie.Plur.Part
 50	cikin	cikin	ADP	_	_	49	mod	_	Gloss=inside
@@ -807,7 +807,7 @@
 12	kawài	kawài	ADV	_	_	11	mod	_	Gloss=merely
 13	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	15	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 14	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	15	mod/m	_	Gloss=Perf.Rel.Plur=|wordform=kà
-15	ɓaːtà	ɓaːt-	VERB	_	_	6	comp:cleft	_	Gloss=spoil
+15	ɓaːtà	ɓaːt-	VERB	_	_	6	comp:cleft	_	ClauseType=Cleft|Gloss=spoil
 16	suːna	suːnaː	NOUN	_	Gender=Masc	15	comp:obj	_	Gloss=name.Masc|SpaceAfter=No|wordform=suːnansà|wordfrom=suːnansà
 17	-n	na	PART	_	Case=Gen|PartType=Case	16	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 18	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	17	comp:obj/m	_	Gloss=3Masc.Gen

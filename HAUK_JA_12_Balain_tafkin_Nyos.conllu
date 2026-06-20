@@ -6,7 +6,7 @@
 2-3	ya=	_	_	_	_	_	_	_	_
 2	ya-	ya	PRON	_	Gender=Fem|Mood=Rel|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
 3	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=UNDERSCORE
-4	kaːwoː	kai	VERB	_	_	1	comp:cleft	_	Gloss=carry/take_to
+4	kaːwoː	kai	VERB	_	_	1	comp:cleft	_	ClauseType=Int|Gloss=carry/take_to
 5	bàlaː'ì	bàlaː'ìː	NOUN	_	Gender=Masc	4	comp:obj	_	Compound=Yes|Gloss=disaster.Masc.|SpaceAfter=No|wordform=bàlaː'ìn
 6	-n	na	PART	_	Case=Gen|PartType=Case	5	udep/m	_	Gloss=Gen.Masc/Plur
 7	Tafkì	Tafkìː	NOUN	_	Gender=Masc	6	comp:obj	_	Compound=Yes|Gloss=river.Masc|SpaceAfter=No|wordform=Tafkìn
@@ -649,7 +649,7 @@
 22	indà	indà	ADV	_	PronType=Rel	21	comp:obj	_	ClauseType=Rel|Gloss=where.Rel|Relz=Word
 23	tafkìn	tafkìː	NOUN	_	Definite=Def|Gender=Masc	25	subj	_	Gloss=lake.Masc.Def|wordform=tar̃kin
 24	ya-	ya-	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	25	subj/m	_	Gloss=3Masc-|SpaceAfter=No
-25	kè	nàː	AUX	_	Copula=Yes	22	mod@relcl	_	Gloss=bePred.Rel2|Relative=Variant|RelRole=pred|Relz=Affix|SpaceAfter=No|wordform=yakè
+25	kè	nàː	AUX	_	Copula=Yes|Mood=Rel	22	mod@relcl	_	Gloss=bePred.Rel2|RelRole=pred|Relz=Affix|SpaceAfter=No|wordform=yakè
 26	.	.	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 
 # sent_id = 12_Bala'in_tafkin_Nyos_17
@@ -687,7 +687,7 @@
 29-30	ya=	_	_	_	_	_	_	_	_
 29	ya-	ya	PRON	_	Gender=Fem|Mood=Rel|Person=3|PronType=PrsSubj	31	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
 30	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	31	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=UNDERSCORE
-31	san	sanìː	VERB	_	_	26	comp:cleft	_	Gloss=know
+31	san	sanìː	VERB	_	_	26	comp:cleft	_	ClauseType=Cleft|Gloss=know
 32	yawà	yawàn	NOUN	_	Gender=Masc	31	comp:obj	_	Gloss=quantity.Masc|SpaceAfter=No|wordform=yawàn
 33	-n	na	PART	_	Case=Gen|PartType=Case	32	mod/m	_	Gloss=Gen.Masc/Plur
 34	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	33	comp:obj	_	ClauseType=Rel|Gloss=Pron.Plur.Rel|Relz=Word|wordform=wadandal

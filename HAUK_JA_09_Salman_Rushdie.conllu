@@ -205,7 +205,7 @@
 9-10	ya=	_	_	_	_	_	_	_	_
 9	ya-	ya	PRON	_	Gender=Fem|Mood=Rel|Person=3|PronType=PrsSubj	11	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
 10	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	11	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=UNDERSCORE
-11	ɗaukoː	ɗauk-	VERB	_	_	7	comp:cleft	_	Gloss=take
+11	ɗaukoː	ɗauk-	VERB	_	_	7	comp:cleft	_	ClauseType=Cleft|Gloss=take
 12	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	13	det	_	Gloss=some.Masc.Spec
 13	fàr̃feːsàː	fàr̃feːsàː	NOUN	_	Gender=Masc	11	comp:obj	_	Gloss=professor.Masc
 14	mài	mài	PART	_	Number=Sing|PartType=Der	13	mod	_	Gloss=owner_of.Sing
@@ -444,7 +444,7 @@
 6	àshìr̃in	àshìr̃in	NUM	_	_	5	comp:obj	_	Gloss=twenty
 7	nèː	neː	PART	_	PartType=Foc	4	discourse@foc	_	Gloss=Emph
 8	a-	a-	PRON	_	Person=4|PronType=Prs	9	subj/m	_	Gloss=4|SpaceAfter=No
-9	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	4	comp:cleft	_	Gloss=Prog.Rel|wordform=akèː
+9	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	4	comp:cleft	_	ClauseType=Cleft|Gloss=Prog.Rel|wordform=akèː
 10	yî	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	9	comp:pred	_	Compound=Yes|Gloss=do.Vnoun.Masc.|SpaceAfter=No|wordform=yîn
 11	-n	na	PART	_	Case=Gen|PartType=Case	10	udep/m	_	Gloss=Gen.Masc/Plur
 12	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	13	det	_	Gloss=ProxS.Masc
@@ -634,7 +634,7 @@
 # sent_id = 09_Salman_Rushdie_20
 # text_en = Well, initially, for days, this confusion about the Satanic Verses had been going on because last Saturday, some Muslims totalling one hundred and twenty in a suburb of Tokyo, demonstrated after coming out of the prayer.
 # text_ortho = Tòː dâː maː tun kwàːnàkin baːya anàː yîn wannàn hàyàːniyaː gàme dà littaːfìn na Aːyoːyin Shàiɗân, dòːmin kùwa à raːnar̃ Lahàdì dà ta wucèː maː, wasu Mùsùlmiː suː kìːmaːnìn ɗàːriː dà àshìr̃in à wata ùnguwar̃ Tokyo sun yi wata zàngà-zangà baːyân dà sukà idar̃ dà sallàː.
-# text = tòː dâː maː tun kwàːnàkin baːya anàː yîn wannàn hàyàːniyaː gàme dà littaːfìn na Aːyoːyin Shàiɗân, dòːmin kùwa à raːnar̃ Lahàdì dà ta wucèː maː, wasu Mùsùlmiː suː kìːmaːnìn ɗàːriː dà àshìr̃in à wata ùnguwar̃ Tokyo sun yi wata zàngà-zangà baːyân dà sukà idar̃ dà sallàː.
+# text = tòː dâː maː tun kwàːnàki-n baːya a-nàː yî-n wannàn hàyàːniyaː gàme dà littaːfìn na Aːyoːyi-n Shàiɗân, dòːmin kùwa à raːna-r̃ Lahàdì dà ta= wucèː maː, wasu Mùsùlmiː suː kìːmaːnì-n ɗàːriː dà àshìr̃in à wata ùnguwa-r̃ Tokyo su-n= yi wata zàngà-zangà baːyân dà su-kà= idar̃ dà sallàː.
 1	tòː	tòː	INTJ	_	_	9	discourse	_	Gloss=well
 2	dâː	dâː	ADV	_	_	9	mod	_	Gloss=formerly
 3	maː	maː	PART	_	PartType=Top	2	discourse@top	_	Gloss=even
@@ -667,7 +667,7 @@
 29	ta-	ta	PRON	_	Gender=Fem|Mood=Rel|Person=3|PronType=PrsSubj	31	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=ta
 30	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	31	mod/m	_	Gloss=Perf.Rel.Sing=|Relz=Affix|wordform=UNDERSCORE
 31	wucèː	wut-	VERB	_	_	28	comp:obj	_	ClauseType=Rel|Gloss=pass|RelRole=subj
-32	maː	maː	PART	_	PartType=Top	28	discourse@top	_	ClauseType=Rel|Gloss=even|RelRole=subj|SpaceAfter=No
+32	maː	maː	PART	_	PartType=Top	25	discourse@top	_	Gloss=even|RelRole=subj|SpaceAfter=No
 33	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
 34	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	35	det	_	Gloss=some.Plur.Spec
 35	Mùsùlmiː	Mùsùlmiː	NOUN	_	Number=Plur	49	subj	_	Gloss=Muslim.Plur

@@ -684,7 +684,7 @@
 13	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	7	conj:dicto	_	Gloss=time.Masc.Def|RelAnt=Yes
 14	dà	dà	SCONJ	_	_	13	mod@relcl	_	Gloss=CompRel|Relz=Word
 15	ya	ya	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=PrsSubj	16	subj/m	_	Gloss=3Masc
-16	kè	nàː	AUX	_	Copula=Yes	14	comp:obj	_	ClauseType=Rel|Gloss=bePred.Rel2|Relative=Variant|RelRole=mod|wordform=yakè
+16	kè	nàː	AUX	_	Copula=Yes|Mood=Rel	14	comp:obj	_	ClauseType=Rel|Gloss=bePred.Rel2|RelRole=mod|Relz=Affix|wordform=yakè
 17	cikin	cikin	ADP	_	_	16	comp:pred	_	Gloss=inside
 18	shirì	shiry-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	17	comp:obj	_	Compound=Yes|Gloss=prepare.Vnoun.Masc.|SpaceAfter=No|wordform=shirìn
 19	-n	na	PART	_	Case=Gen|PartType=Case	18	udep/m	_	Gloss=Gen.Masc/Plur

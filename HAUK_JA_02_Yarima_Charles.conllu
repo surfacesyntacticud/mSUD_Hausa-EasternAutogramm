@@ -241,7 +241,7 @@
 13	kèː	nàː	AUX	_	Copula=Yes|Mood=Rel	12	comp:obj	_	ClauseType=Rel|Gloss=bePred.Rel|RelRole=subj|Relz=Affix
 14	cikin	cikin	ADP	_	_	13	comp:pred	_	Gloss=inside
 15	gidân	gidaː	NOUN	_	Definite=Def|Gender=Masc	14	comp:obj	_	Gloss=house.Masc.Def
-16	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	5	comp:cleft	_	Gloss=Prog.Rel
+16	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	5	comp:cleft	_	ClauseType=Cleft|Gloss=Prog.Rel
 17	aikìː	aikìː	NOUN	_	Gender=Masc	16	comp:pred	_	Gloss=work.Masc
 18	kàmar̃	kàmar̃	ADP	_	_	17	mod	_	Gloss=like
 19	yaddà	yaddà	ADV	_	PronType=Rel	18	comp:obj	_	ClauseType=Rel|Gloss=how.Rel|Relz=Word
@@ -283,7 +283,7 @@
 24	neː	neː	PART	_	PartType=Foc	22	discourse@foc	_	Gloss=Emph
 25	a-	a	PRON	_	Person=4|PronType=PrsSubj	27	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 26	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	27	mod/m	_	Gloss=Perf.Rel.Plur=|wordform=kà
-27	riƙà	riƙ-	VERB	_	_	22	comp:cleft	_	Gloss=keep_doing
+27	riƙà	riƙ-	VERB	_	_	22	comp:cleft	_	ClauseType=Cleft|Gloss=keep_doing
 28	ɗeːboː	ɗeːb-	VERB	_	_	27	comp:obj	_	Gloss=fetch
 29	matà	matà	PRON	_	Case=Dat|Gender=Fem|Person=3|PronType=Prs	28	comp:obl	_	Gloss=3Fem.Dat
 30	ruwa	ruwaː	NOUN	_	Gender=Masc	28	comp:obj	_	Gloss=water.Masc|SpaceAfter=No|wordform=ruwan
@@ -583,7 +583,7 @@
 13	birân	birìː	NOUN	_	Definite=Def|Number=Plur	12	comp:obj	_	Gloss=monkey.Plur.Def
 14	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=CompRel|Relz=Word
 15	a	a	PRON	_	Person=4|PronType=Prs	16	subj	_	Gloss=4
-16	kè	nàː	AUX	_	Copula=Yes	14	comp:obj	_	ClauseType=Rel|Gloss=bePred.Rel2|Relative=Variant|RelRole=obl
+16	kè	nàː	AUX	_	Copula=Yes|Mood=Rel	14	comp:obj	_	ClauseType=Rel|Gloss=bePred.Rel2|RelRole=obl|Relz=Affix
 17	dà	dà	ADP	_	_	16	comp:pred	_	Gloss=with
 18	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	comp:obj	_	Gloss=3Plur.Nom|RelPos=Yes
 19	à	à	ADP	_	_	16	mod	_	Gloss=at

@@ -135,7 +135,7 @@
 10-11	ya=	_	_	_	_	_	_	_	_
 10	ya-	ya	PRON	_	Gender=Fem|Mood=Rel|Person=3|PronType=PrsSubj	12	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
 11	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	12	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=UNDERSCORE
-12	zoː	zoː	VERB	_	_	1	comp:cleft	_	Gloss=go
+12	zoː	zoː	VERB	_	_	1	comp:cleft	_	ClauseType=Cleft|Gloss=go
 13	nân	nân	ADV	_	Deixis=ProxS|PronType=Dem	12	comp:obj@G	_	Gloss=ProxS
 14	Landàn	Landàn	PROPN	_	Definite=Def|Gender=Masc	13	conj:appos	_	Gloss=London
 15	à	à	ADP	_	_	12	mod	_	Gloss=at
@@ -659,7 +659,7 @@
 24-25	ya=	_	_	_	_	_	_	_	_
 24	ya-	ya	PRON	_	Gender=Fem|Mood=Rel|Person=3|PronType=PrsSubj	26	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
 25	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	26	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=UNDERSCORE
-26	yi	yi	VERB	_	_	23	comp:cleft	_	Gloss=do|SpaceAfter=No
+26	yi	yi	VERB	_	_	23	comp:cleft	_	ClauseType=Cleft|Gloss=do|SpaceAfter=No
 27	,	,	PUNCT	_	_	36	punct	_	Gloss=PUNCT
 28	"	"	PUNCT	_	_	36	punct	_	Gloss=PUNCT
 29	in	in	SCONJ	_	_	36	mod	_	Gloss=if
@@ -672,7 +672,7 @@
 36	jàmaꞌàː	jàmaꞌàː	NOUN	_	Gender=Fem	26	comp:obj	_	Gloss=public.Fem
 37	zaː-	zâː-	PART	_	PartType=TAM|Tense=Fut	39	mod/m	_	Gloss=Fut-|SpaceAfter=No
 38	'à=	a	PRON	_	Person=4|PronType=PrsSubj|Tense=Fut	39	subj/m	_	Gloss=4=|wordform=zaː'à
-39	taːràː	taːr-	VERB	_	_	36	comp:cleft	_	Gloss=gather
+39	taːràː	taːr-	VERB	_	_	36	comp:cleft	_	ClauseType=Cleft|Gloss=gather
 40	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	42	subj/m	_	Gloss=3.Plur-|SpaceAfter=No|wordform=sù
 41	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	42	mod/m	_	Gloss=Sub=
 42	yi	yi	VERB	_	_	39	mod	_	Gloss=do
@@ -715,7 +715,7 @@
 17-18	ya=	_	_	_	_	_	_	_	_
 17	ya-	ya	PRON	_	Gender=Fem|Mood=Rel|Person=3|PronType=PrsSubj	19	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
 18	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	19	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=UNDERSCORE
-19	sâː	sâː	VERB	_	_	15	comp:cleft	_	Gloss=cause
+19	sâː	sâː	VERB	_	_	15	comp:cleft	_	ClauseType=Cleft|Gloss=cause
 20	ya	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	21	subj/m	_	Gloss=3Masc
 21	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	19	comp:obj	_	Gloss=Prog.Rel|wordform=yakèː
 22	sô	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	21	comp:aux	_	Compound=Yes|Gloss=want.Vnoun.Masc.|SpaceAfter=No|wordform=sôn
@@ -772,7 +772,7 @@
 34	-shi	-shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	33	comp:obj/m	_	Gloss=-3Masc.Acc|wordform=shi
 35	zaː-	zâː-	PART	_	PartType=TAM|Tense=Fut	37	mod/m	_	Gloss=Fut-|SpaceAfter=No
 36	'à=	a	PRON	_	Person=4|PronType=PrsSubj|Tense=Fut	37	subj/m	_	Gloss=4=|wordform=zaː'à
-37	yi	yi	VERB	_	_	33	comp:cleft	_	Gloss=do|SpaceAfter=No
+37	yi	yi	VERB	_	_	33	comp:cleft	_	ClauseType=Cleft|Gloss=do|SpaceAfter=No
 38	.	.	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 
 # sent_id = 01_Umaru_Dikko_19

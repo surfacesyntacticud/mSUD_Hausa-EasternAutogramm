@@ -101,7 +101,7 @@
 14	à	à	ADP	_	_	4	comp:obj	_	Gloss=at
 15	tàɓàrɓàre	taɓarɓar-	VERB	_	_	14	comp:obj	_	Gloss=get_out_of_control.Stat
 16	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	17	subj/m	_	Gloss=3Plur|SpaceAfter=No
-17	kè	nàː	AUX	_	Copula=Yes	14	comp:cleft	_	Gloss=bePred.Rel2|Relative=Variante|SpaceAfter=No|wordform=sukè
+17	kè	nàː	AUX	_	Copula=Yes	14	comp:cleft	_	ClauseType=Cleft|Gloss=bePred.Rel2|Relative=Variante|SpaceAfter=No|wordform=sukè
 18	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
 19	kuma	kuma	CCONJ	_	_	21	cc	_	Gloss=also
 20	kusan	kusan	ADV	_	_	21	mod	_	Gloss=almost
@@ -112,7 +112,7 @@
 25	neː	neː	PART	_	PartType=Foc	21	discourse@foc	_	Gloss=Emph
 26	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	28	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 27	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	28	mod/m	_	Gloss=Perf.Rel.Plur=|wordform=kà
-28	ràsu	ras-	VERB	_	_	21	comp:cleft	_	Gloss=miss
+28	ràsu	ras-	VERB	_	_	21	comp:cleft	_	ClauseType=Cleft|Gloss=miss
 29	à	à	ADP	_	_	28	mod	_	Gloss=at
 30	Ƙìr̃iƙìr̃i	Ƙìr̃iƙìr̃i	PROPN	_	_	29	comp:obj	_	Gloss=Kirikiri
 31	à	à	ADP	_	_	28	mod	_	Gloss=at
@@ -822,7 +822,7 @@
 4	haːlîn	haːlîː	NOUN	_	Definite=Def|Gender=Masc	13	subj	_	Gloss=situation.Masc.Def|RelAnt=Yes
 5	dà	dà	SCONJ	_	_	4	mod@relcl	_	Gloss=CompRel|Relz=Word
 6	a	a	PRON	_	Person=4|PronType=Prs	7	subj/m	_	Gloss=4
-7	kè	nàː	AUX	_	Copula=Yes	5	comp:obj	_	ClauseType=Rel|Gloss=bePred.Rel2|Relative=Variant|RelRole=subj|SpaceAfter=No|wordform=akè
+7	kè	nàː	AUX	_	Copula=Yes|Mood=Rel	5	comp:obj	_	ClauseType=Rel|Gloss=bePred.Rel2|RelRole=subj|SpaceAfter=No|wordform=akè
 8	ciki	cikin	ADP	_	_	7	comp:pred	_	Gloss=inside|RelRole=obj
 9	à	à	ADP	_	_	7	mod	_	Gloss=at
 10	kûr̃kukù	kûr̃kukùː	NOUN	_	Gender=Masc	9	comp:obj	_	Gloss=prison.Masc|SpaceAfter=No|wordform=kûr̃kukùn

@@ -66,7 +66,7 @@
 21	kuma	kuma	PART	_	PartType=Top	20	discourse@top	_	Gloss=also
 22	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	20	comp:obj	_	Gloss=3Masc.Nom
 23	nèː	neː	PART	_	PartType=Foc	22	discourse@foc	_	Gloss=Emph.Masc/Plur
-24	zàkarà	zàkaràː	NOUN	_	Gender=Masc	22	comp:cleft	_	Gloss=champion.Masc|RelRole=subj|SpaceAfter=No|wordform=zàkaràn
+24	zàkarà	zàkaràː	NOUN	_	Gender=Masc	22	comp:cleft	_	ClauseType=Cleft|Gloss=champion.Masc|RelRole=subj|SpaceAfter=No|wordform=zàkaràn
 25	-n	na	PART	_	Case=Gen|PartType=Case	24	mod/m	_	Gloss=Gen.Masc/Plur
 26	ajì	ajìː	NOUN	_	Gender=Masc	25	comp:obj	_	Gloss=category.Masc|SpaceAfter=No|wordform=ajìn
 27	-n	na	PART	_	Case=Gen|PartType=Case	26	mod/m	_	Gloss=Gen.Masc/Plur
@@ -286,7 +286,7 @@
 27-28	ya=	_	_	_	_	_	_	_	_
 27	ya-	ya	PRON	_	Gender=Fem|Mood=Rel|Person=3|PronType=PrsSubj	29	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
 28	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	29	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=UNDERSCORE
-29	baː	baː	VERB	_	_	25	comp:cleft	_	Gloss=give
+29	baː	baː	VERB	_	_	25	comp:cleft	_	ClauseType=Cleft|Gloss=give
 30	dà	dà	ADP	_	_	29	comp:obl	_	Gloss=with
 31	sanâr̃waː	sanâr̃waː	VERB	_	Gender=Fem	30	comp:obj	_	Gloss=declaration.Fem
 32	cêːwaː	cêːwaː	SCONJ	_	_	31	comp:obj	_	Gloss=COMP

@@ -40,7 +40,7 @@
 21	doːlè	doːlè	ADV	_	_	0	root	_	Gloss=necessary
 22	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	24	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yà
 23	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	24	mod/m	_	Gloss=Sub=
-24	yi	yi	VERB	_	_	21	comp:cleft	_	Gloss=do
+24	yi	yi	VERB	_	_	21	comp:cleft	_	ClauseType=Cleft|Gloss=do
 25	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	24	comp:pred	_	Gloss=use.Masc
 26	dà	dà	ADP	_	_	25	comp:obl	_	Gloss=with
 27	wayà	wayàː	NOUN	_	Gender=Fem	26	comp:obj	_	Compound=Yes|Gloss=wire.Fem|SpaceAfter=No|wordform=wayàr̃
@@ -267,7 +267,7 @@
 3	nèː	neː	PART	_	PartType=Foc	1	discourse@foc	_	Gloss=Emph
 4	zaː-	zâː-	PART	_	PartType=TAM|Tense=Fut	6	mod/m	_	Gloss=Fut-|SpaceAfter=No
 5	'à=	a	PRON	_	Person=4|PronType=PrsSubj|Tense=Fut	6	subj/m	_	Gloss=4=|wordform=à
-6	aikàː	aik-	VERB	_	_	1	comp:cleft	_	Gloss=send
+6	aikàː	aik-	VERB	_	_	1	comp:cleft	_	ClauseType=Cleft|Gloss=send
 7	dà	dà	ADP	_	_	6	comp:obl	_	Gloss=with
 8	sàːƙôn	sàːƙoː	NOUN	_	Definite=Def|Gender=Masc	7	comp:obj	_	Gloss=message.Masc.Det
 9	zuwàː	zuwàː	ADP	_	_	8	mod	_	Gloss=towards
@@ -362,7 +362,7 @@
 4	ƙasaː	ƙasaː	NOUN	_	Gender=Fem	7	subj	_	Gloss=country.Fem|wordform=kasaː
 5	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	7	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tà
 6	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	7	mod/m	_	Gloss=Sub=
-7	amìnceː	amint-	NOUN	_	_	1	comp:cleft	_	Gloss=agree
+7	amìnceː	amint-	NOUN	_	_	1	comp:cleft	_	ClauseType=Cleft|Gloss=agree
 8	dà	dà	ADP	_	_	7	comp:obl	_	Gloss=with
 9	laːyukàn	laːyìː	NOUN	_	Definite=Def|Number=Plur	8	comp:obj	_	Gloss=line.Plur.Def|RelAnt=Yes
 10	dà	dà	SCONJ	_	_	9	mod@relcl	_	Gloss=CompRel|Relz=Word
@@ -389,7 +389,7 @@
 
 # sent_id = 06_Wayoyin_Tarho_14
 # text_en = But what is the situation of the telephone in African coutries?
-# text = àmmaː yàːyàː har̃kà-r̃ wayà-r̃ tàr̃hôː ta- kè à ƙasàːshe-n Afìr̃kà?
+# text = àmmaː yàːyàː har̃kà-r̃ wayà-r̃ tàr̃hôː ta-kè à ƙasàːshe-n Afìr̃kà?
 # text_ortho = Àmmaː yàːya har̃kàr̃ wayàr̃ tàr̃hôː takè à ƙasàːshen Afìr̃kà?
 1	àmmaː	àmmaː	CCONJ	_	_	2	discourse	_	Gloss=but
 2	yàːyàː	yàːyàː	ADV	_	PronType=Int	0	root	_	Gloss=how
@@ -399,7 +399,7 @@
 6	-r̃	na	PART	_	Case=Gen|PartType=Case	5	udep/m	_	Gloss=Gen.Fem
 7	tàr̃hôː	tàr̃hôː	NOUN	_	Gender=Masc	6	comp:obj	_	Gloss=telephone.Masc
 8	ta-	ta-	PRON	_	Copula=Yes|Gender=Fem|Person=3|PronType=PrsSubj	9	subj/m	_	Gloss=3Fem-|SpaceAfter=No
-9	kè	nàː	AUX	_	Copula=Yes	2	comp:cleft	_	Gloss=bePred.Rel2|Relative=Variant|wordform=takè
+9	kè	nàː	AUX	_	Copula=Yes|Mood=Rel	2	comp:cleft	_	ClauseType=Int|Gloss=bePred.Rel2|wordform=takè
 10	à	à	ADP	_	_	9	comp:pred	_	Gloss=at
 11	ƙasàːshe	ƙasaː	NOUN	_	Number=Plur	10	comp:obj	_	Gloss=country.Plur|SpaceAfter=No|wordform=ƙasàːshen
 12	-n	na	PART	_	Case=Gen|PartType=Case	11	udep/m	_	Gloss=Gen.Masc/Plur

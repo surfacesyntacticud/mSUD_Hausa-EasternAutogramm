@@ -160,7 +160,7 @@
 26-27	ta=	_	_	_	_	_	_	_	_
 26	ta-	ta	PRON	_	Gender=Fem|Mood=Rel|Person=3|PronType=PrsSubj	28	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=ta
 27	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	28	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=UNDERSCORE
-28	yi	yi	VERB	_	_	24	comp:cleft	_	Gloss=do
+28	yi	yi	VERB	_	_	24	comp:cleft	_	ClauseType=Cleft|Gloss=do
 29	kirà	kiraː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	28	comp:pred	_	Compound=Yes|Gloss=call.Vnoun.Masc.|SpaceAfter=No|wordform=kiràn
 30	-n	na	PART	_	Case=Gen|PartType=Case	29	udep/m	_	Gloss=Gen.Masc/Plur
 31	a-	a	PRON	_	Person=4|PronType=PrsSubj	33	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
