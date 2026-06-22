@@ -587,7 +587,7 @@
 # text_en = His most important case is the one about trying to ensure that two agents of the national Nigerian security be imprisoned for the murder of Dele Giwa, i.e. the journalist who lost his life because of a bomb that he received in a letter in nineteen eighty-six.
 # text_ortho = Zuwànsà koːtùn dà ya fi koːwànneː muhimmancìː shiː nèː neːman yà ga an ɗaurè wasu jàːmìꞌan tsàron ƙasar̃ Nàːjeːr̃iyàː biyu waɗàndà akà zàrgaː dà lâifin kashè Dele Giwa, wàːtòː ɗan jàr̃iːdàr̃ nan dà ya rasà rânsà dàliːlìn wani bâm dà akà aikoː masà ta cikin wàsiːƙàː tun shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà shidà.
 # text = zuwà-n-sà koːtùn dà ya= fi koːwànneː muhimmancìː shiː nèː neːma-n ya-_̀= ga a-n= ɗaurè wasu jàːmìꞌa-n tsàro-n ƙasa-r̃ Nàːjeːr̃iyàː biyu waɗàndà a-kà= zàrgaː dà lâifi-n kashè Dele Giwa, wàːtòː ɗa-n jàr̃iːdàr̃ nan dà ya= rasà râ-n-sà dàliːlìn wani bâm dà a-kà= aikoː masà ta cikin wàsiːƙàː tun shèːkarà-r̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà shidà.
-1	zuwà	zoː	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	12	subj	_	Gloss=go.Vnoun.Masc|RelAnt=Yes|SpaceAfter=No|wordform=Zuwànsà|wordfrom=zuwànsà
+1	zuwà	zoː	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	11	dislocated@top	_	Gloss=go.Vnoun.Masc|RelAnt=Yes|SpaceAfter=No|wordform=Zuwànsà|wordfrom=zuwànsà
 2	-n	na	PART	_	Case=Gen|PartType=Case	1	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 3	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	2	comp:obj/m	_	Gloss=3Masc.Gen
 4	koːtùn	koːtù	NOUN	_	Definite=Def|Gender=Fem	1	comp:obj@G	_	Gloss=court.Fem.Def
@@ -598,9 +598,9 @@
 8	fi	fi	VERB	_	_	5	comp:obj	_	ClauseType=Rel|Gloss=exceed|RelRole=subj
 9	koːwànneː	koːwànneː	PRON	_	Gender=Masc|PronType=Int	8	comp:obj	_	Gloss=each_one.Masc
 10	muhimmancìː	muhimmancìː	NOUN	_	Gender=Masc	8	mod	_	Gloss=importance.Masc
-11	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	12	comp:pred	_	Gloss=3Masc.Nom
-12	nèː	neː	AUX	_	Copula=Yes	0	root	_	Gloss=Equ.Masc/Plur
-13	neːma	neːm-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	12	dislocated@comp	_	Compound=Yes|Gloss=look_for.Vnoun.Masc.|SpaceAfter=No|wordform=neːman
+11	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	0	root	_	Gloss=3Masc.Nom
+12	nèː	neː	AUX	_	Copula=Yes	11	discourse@foc	_	Gloss=Equ.Masc/Plur
+13	neːma	neːm-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	11	comp:cleft	_	ClauseType=cleft|Compound=Yes|Gloss=look_for.Vnoun.Masc.|SpaceAfter=No|wordform=neːman
 14	-n	na	PART	_	Case=Gen|PartType=Case	13	udep/m	_	Gloss=Gen.Masc/Plur
 15	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	17	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yà
 16	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	17	mod/m	_	Gloss=Sub=
@@ -663,7 +663,7 @@
 72	tàmàːnin	tàmàːnin	NUM	_	_	69	conj:coord	_	Gloss=eighty
 73	dà	dà	CCONJ	_	_	74	cc	_	Gloss=and
 74	shidà	shidà	NUM	_	_	72	conj:coord	_	Gloss=six|SpaceAfter=No
-75	.	.	PUNCT	_	_	12	punct	_	Gloss=PUNCT
+75	.	.	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 
 # sent_id = 05_Gurfanarwa_da_lauya_23
 # text_en = Chief G.H. was arrested in June, i.e. when he was preparing a meeting where he condemned the economic situation of Nigeria.

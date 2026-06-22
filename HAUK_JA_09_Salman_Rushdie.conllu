@@ -122,14 +122,14 @@
 # text_en = What happened is that just now, in daylight, the man who wanted to translate Salman Rushdie's book from English to Japanese, an Italian called 'Gianni Palma' called a press conference in the foreign journalists' club.
 # text_ortho = Àbîn dà ya fàːru shiː nèː ɗàːzu dà raːna shiː mùtumìn dà yakèː sôn à fassàr̃à littaːfìn nan na Salman Rushdie dàgà harshèn Tuːr̃anciː zuwàː Japananciː, wandà akèː kiràː " Gianni Palma " ɗan ƙasar̃ Ìtaːliyà, yaː kiraːwoː tàːron manèːmaː làːbàːr̃ai à kùlâb ɗîn nan na 'Yan Jàr̃ìːduː na Ƙasàːshen Wàje.
 # text = àbîn dà ya= fàːru shiː nèː ɗàːzu dà raːna shiː mùtumìn dà ya-kèː sô-n a-_̀= fassàr̃à littaːfìn nan na Salman Rushdie dàgà harshè-n Tuːr̃anciː zuwàː Japananciː, wandà a-kèː kiràː " Gianni Palma " ɗa-n ƙasa-r̃ Ìtaːliyà, y-aː= kiraːwoː tàːro-n manèːmaː làːbàːr̃ai à kùlâb ɗîn nan na 'Ya-n Jàr̃ìːduː na Ƙasàːshe-n Wàje.
-1	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	7	subj	_	Gloss=thing.Masc.Def|RelAnt=Yes
+1	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	6	dislocated@top	_	Gloss=thing.Masc.Def|RelAnt=Yes
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=CompRel|Relz=Word
 3-4	ya=	_	_	_	_	_	_	_	_
 3	ya-	ya	PRON	_	Gender=Fem|Mood=Rel|Person=3|PronType=PrsSubj	5	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
 4	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Sing=|Relz=Affix|wordform=UNDERSCORE
 5	fàːru	faːr-	VERB	_	_	2	comp:obj	_	ClauseType=Rel|Gloss=begin|RelRole=subj
-6	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	7	comp:pred	_	Gloss=3Masc.Nom
-7	nèː	neː	AUX	_	Copula=Yes	0	root	_	Gloss=Equ.Masc/Plur
+6	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	0	root	_	Gloss=3Masc.Nom
+7	nèː	neː	AUX	_	Copula=Yes	6	discourse@foc	_	Gloss=Equ.Masc/Plur
 8	ɗàːzu	ɗàːzu	ADV	_	_	49	mod	_	Gloss=just_now
 9	dà	dà	CCONJ	_	_	49	mod	_	Gloss=and
 10	raːna	raːna	ADV	_	_	9	comp:obj	_	Gloss=day_time
@@ -171,7 +171,7 @@
 46	,	,	PUNCT	_	_	49	punct	_	Gloss=PUNCT
 47	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	49	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
 48	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	49	mod/m	_	Gloss=Perf.Sing=|wordform=aː
-49	kiraːwoː	kiraː	VERB	_	_	7	dislocated@comp	_	Gloss=call
+49	kiraːwoː	kiraː	VERB	_	_	6	comp:cleft	_	ClauseType=cleft|Gloss=call
 50	tàːro	tàːroː	NOUN	_	Gender=Masc	49	comp:obj	_	Gloss=meeting.Masc|SpaceAfter=No|wordform=tàːron
 51	-n	na	PART	_	Case=Gen|PartType=Case	50	udep/m	_	Gloss=Gen.Masc/Plur
 52	manèːmaː	manèːmiː	VERB	_	Number=Plur	51	comp	_	Gloss=seeker.Plur
@@ -188,7 +188,7 @@
 63	Ƙasàːshe	ƙasaː	NOUN	_	Number=Plur	62	comp	_	Compound=Yes|Gloss=country.Plur|SpaceAfter=No|wordform=Ƙasàːshen
 64	-n	na	PART	_	Case=Gen|PartType=Case	63	udep/m	_	Gloss=Gen.Masc/Plur
 65	Wàje	wàje	ADV	_	_	64	comp	_	Gloss=abroad|SpaceAfter=No
-66	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
+66	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
 # sent_id = 09_Salman_Rushdie_7-8
 # text_en = Well, originally, it is this man who chose a professor called 'Hitoshi Igarashi' and recruited him to translate this book.

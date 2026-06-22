@@ -169,10 +169,10 @@
 5	gàba	gàba	ADV	_	_	4	mod	_	Gloss=in_front
 6	dà	dà	ADP	_	_	4	comp:obl	_	Gloss=with
 7	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	6	comp	_	Gloss=say.Vnoun.Fem
-8	wannàn	nân	PRON	_	Deixis=ProxS|Number=Sing|PronType=Dem	10	subj	_	Gloss=ProxS.Sing
-9	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	10	comp:pred	_	Gloss=3Masc.Nom
-10	nèː	neː	AUX	_	Copula=Yes	7	comp:obj	_	Gloss=Equ.Masc/Plur
-11	taːshì	taːshìː	VERB	_	Gender=Masc	10	dislocated@subj	_	Compound=Yes|Gloss=uprise.Masc|RelAnt=Yes|SpaceAfter=No|wordform=taːshìn
+8	wannàn	nân	PRON	_	Deixis=ProxS|Number=Sing|PronType=Dem	9	dislocated@top	_	Gloss=ProxS.Sing
+9	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	7	comp:obj	_	Gloss=3Masc.Nom
+10	nèː	neː	AUX	_	Copula=Yes	9	discourse@foc	_	Gloss=Equ.Masc/Plur
+11	taːshì	taːshìː	VERB	_	Gender=Masc	9	comp:cleft	_	ClauseType=cleft|Compound=Yes|Gloss=uprise.Masc|RelAnt=Yes|SpaceAfter=No|wordform=taːshìn
 12	-n	na	PART	_	Case=Gen|PartType=Case	11	udep/m	_	Gloss=Gen.Fem
 13	hankàliː	hankàliː	NOUN	_	Gender=Masc	12	comp	_	Gloss=mind.Masc
 14	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	11	mod	_	Gloss=Gen

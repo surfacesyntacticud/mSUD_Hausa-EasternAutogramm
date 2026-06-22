@@ -159,14 +159,14 @@
 19	Ìkko	Ìkko	PROPN	_	_	18	comp:pred	_	Gloss=Lagos|SpaceAfter=No
 20	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
 21	wandà	wandà	PRON	_	ExtPos=SCONJ|Gender=Masc|PronType=Rel	17	conj:coord	_	Gloss=Pron.Masc.Rel|Relz=Word
-22	à	à	ADP	_	_	25	mod	_	Gloss=at
+22	à	à	ADP	_	_	24	mod	_	Gloss=at
 23	dâː	dâː	ADV	_	_	22	comp	_	Gloss=formerly
-24	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	25	comp:pred	_	Gloss=3Masc.Nom
-25	nèː	neː	AUX	_	Copula=Yes	21	comp:obj	_	ClauseType=Rel|Gloss=Equ.Masc/Plur|RelRole=subj
-26	gida	gidaː	NOUN	_	Gender=Masc	25	dislocated@comp	_	Gloss=house.Masc|SpaceAfter=No|wordform=gidan
+24	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	21	comp:obj	_	Gloss=3Masc.Nom|RelPos=Yes
+25	nèː	neː	AUX	_	Copula=Yes	24	discourse@foc	_	ClauseType=Rel|Gloss=Equ.Masc/Plur
+26	gida	gidaː	NOUN	_	Gender=Masc	24	comp:cleft	_	ClauseType=cleft|Gloss=house.Masc|SpaceAfter=No|wordform=gidan
 27	-n	na	PART	_	Case=Gen|PartType=Case	26	mod/m	_	Gloss=Gen.Masc/Plur
 28	gwamnà	gwamnà	NOUN	_	Gender=Masc	27	comp	_	Gloss=governor.Masc
-29	à	à	ADP	_	_	25	mod	_	Gloss=at
+29	à	à	ADP	_	_	24	mod	_	Gloss=at
 30	loːkàci	loːkàciː	NOUN	_	Gender=Masc	29	comp	_	Gloss=time.Masc|SpaceAfter=No|wordform=loːkàcin
 31	-n	na	PART	_	Case=Gen|PartType=Case	30	mod/m	_	Gloss=Gen.Masc/Plur
 32	mulkì	mulkìː	NOUN	_	Gender=Masc	31	comp	_	Gloss=rule.Masc|SpaceAfter=No|wordform=mulkìn
@@ -295,7 +295,7 @@
 # text_en = The use of that boat, that is to say the "Britannia", was for Prince Charles and the Princess to have a place that they are used to, where they will return the receptions they will get from Nigeria.
 # text = àmfàːni-n jirgi-n ruwân nan wàːtòː " Britannia" shiː nèː don Yàr̃iːmà Charles dà Gimbìyaː su-_̀= sàːmu wani wurîn dà su-kà= saːbàː dà shiː, indà zaː-sù= iyà raːmà irì-n kar̃imcìn dà ꞌya-n Nàːjeːr̃iyàː su-kà= yi musù.
 # text_ortho = Àmfàːnin jirgin ruwân nan wàːtòː ‘Britannia’ shiː nèː don Yàr̃iːmà Charles dà Gimbìyaː sù sàːmu wani wurîn dà sukà saːbàː dà shiː, indà zaː sù iyà raːmà irin kar̃imcìn dà ꞌyan Nàːjeːr̃iyàː sukà yi musù.
-1	àmfàːni	àmfàːniː	NOUN	_	Gender=Masc	12	subj	_	Gloss=use.Masc|SpaceAfter=No|wordform=àmfàːnin
+1	àmfàːni	àmfàːniː	NOUN	_	Gender=Masc	11	dislocated@top	_	Gloss=use.Masc|SpaceAfter=No|wordform=àmfàːnin
 2	-n	na	PART	_	Case=Gen|PartType=Case	1	mod/m	_	Gloss=Gen.Masc/Plur
 3	jirgi	jirgiː	NOUN	_	Gender=Masc	2	comp	_	Compound=Yes|Gloss=vehicle.Masc|SpaceAfter=No|wordform=jirgin
 4	-n	na	PART	_	Case=Gen|PartType=Case	3	udep/m	_	Gloss=Gen.Fem
@@ -305,9 +305,9 @@
 8	"	"	PUNCT	_	_	9	punct	_	Gloss=PUNCT|wordform=‘
 9	Britannia	Britannia	PROPN	_	_	3	conj:dicto	_	Gloss=Britannia|SpaceAfter=No
 10	"	"	PUNCT	_	_	9	punct	_	Gloss=PUNCT|wordform=’
-11	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	12	comp:pred	_	Gloss=3Masc.Nom
-12	nèː	neː	AUX	_	Copula=Yes	0	root	_	Gloss=Equ.Masc/Plur
-13	don	don	SCONJ	_	_	12	dislocated@comp	_	Gloss=in_order_to
+11	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	0	root	_	Gloss=3Masc.Nom
+12	nèː	neː	AUX	_	Copula=Yes	11	discourse@foc	_	Gloss=Equ.Masc/Plur
+13	don	don	SCONJ	_	_	11	comp:cleft	_	ClauseType=cleft|Gloss=in_order_to
 14	Yàr̃iːmà	yàr̃iːmà	NOUN	_	Gender=Masc	20	subj	_	Gloss=prince.Masc
 15	Charles	Charles	PROPN	_	_	14	mod@appos	_	Gloss=Charles
 16	dà	dà	CCONJ	_	_	17	cc	_	Gloss=and
@@ -340,7 +340,7 @@
 43	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	44	mod/m	_	Gloss=Perf.Rel.Plur=|Relz=Affix|wordform=kà
 44	yi	yi	VERB	_	_	38	comp:obj	_	ClauseType=Rel|Gloss=do|RelRole=obl
 45	musù	musù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	44	comp:obl	_	Gloss=3Plur.Dat|RelPos=Yes|SpaceAfter=No
-46	.	.	PUNCT	_	_	12	punct	_	Gloss=PUNCT
+46	.	.	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 
 # sent_id = 02_Yarima_Charles_9
 # text_en = And yesterday, the Governor of Anambra State and his wife welcomed the Price and Pricess at the Enugu airport.
@@ -511,10 +511,10 @@
 13	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 14	wandà	wandà	PRON	_	ExtPos=SCONJ|Gender=Masc|PronType=Rel	8	mod:appos@relcl	_	Gloss=Pron.Masc.Rel|Relz=Word
 15	kuma	kuma	PART	_	PartType=Top	14	discourse@top	_	Gloss=also
-16	wataƙiːlà	wataƙiːlà	ADV	_	_	18	mod	_	Gloss=maybe
-17	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	18	comp:pred	_	Gloss=3Masc.Nom
-18	nèː	neː	AUX	_	Copula=Yes	14	comp:obj	_	ClauseType=Rel|Gloss=Equ.Masc/Plur|RelRole=subj
-19	gandu	ganduː	NOUN	_	Gender=Masc	18	dislocated@comp	_	Gloss=ranch.Masc|RelAnt=Yes|SpaceAfter=No|wordform=gandun
+16	wataƙiːlà	wataƙiːlà	ADV	_	_	17	mod	_	Gloss=maybe
+17	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	14	comp:obj	_	Gloss=3Masc.Nom|RelPos=Yes
+18	nèː	neː	AUX	_	Copula=Yes	17	discourse@foc	_	ClauseType=Rel|Gloss=Equ.Masc/Plur
+19	gandu	ganduː	NOUN	_	Gender=Masc	17	comp:cleft	_	ClauseType=cleft|Gloss=ranch.Masc|RelAnt=Yes|SpaceAfter=No|wordform=gandun
 20	-n	na	PART	_	Case=Gen|PartType=Case	19	mod/m	_	Gloss=Gen.Masc/Plur
 21	daːjìn	daːjìː	NOUN	_	Definite=Def|Gender=Masc	20	comp	_	Gloss=bush.Masc.Def
 22	dà	dà	SCONJ	_	_	19	mod@relcl	_	Gloss=CompRel|Relz=Word

@@ -323,7 +323,7 @@
 # text = indà Allàh ya ɗigàː wà gàːrin Ùmar̃ù Dikkò noːnòː shiː nèː wannàn àkwàːtì dai bài sàːmi taːshìː samà à cikin jirgiː ba.
 # text_en = Where Allah was kind to Umaru Dikko is that the box did not take off in the plane.
 # text_ortho = Indà Allàh ya ɗigàː wà gàːrin Ùmar̃ù Dikkò noːnòː shiː nèː wannàn àkwàːtì dai bài sàːmi taːshìː samà à cikin jirgiː ba.
-1	indà	indà	ADV	_	PronType=Rel	13	subj	_	ClauseType=Rel|Gloss=where.Rel|Relz=Word
+1	indà	indà	ADV	_	PronType=Rel	12	dislocated@top	_	ClauseType=Rel|Gloss=where.Rel|Relz=Word
 2	Allàh	Allàh	PROPN	_	_	5	subj	_	Gloss=Allàh
 3-4	ya=	_	_	_	_	_	_	_	_
 3	ya-	ya	PRON	_	Gender=Fem|Mood=Rel|Person=3|PronType=PrsSubj	5	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
@@ -335,21 +335,21 @@
 9	Ùmar̃ù	Ùmar̃ù	PROPN	_	_	8	comp	_	Gloss=Umaru
 10	Dikkò	Dikkò	PROPN	_	_	9	flat@name	_	Gloss=Dikko
 11	noːnòː	noːnòː	NOUN	_	Gender=Masc	5	comp:obj	_	Gloss=milk.Masc
-12	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	13	comp:pred	_	Gloss=3Masc.Nom
-13	nèː	neː	AUX	_	Copula=Yes	0	root	_	Gloss=Equ.Masc/Plur
+12	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	0	root	_	Gloss=3Masc.Nom
+13	nèː	neː	AUX	_	Copula=Yes	12	discourse@foc	_	Gloss=Equ.Masc/Plur
 14	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	15	det	_	Gloss=ProxS.Masc
 15	àkwàːtì	àkwàːtì	NOUN	_	Gender=Masc	19	subj	_	Gloss=box.Masc
 16	dai	dai	PART	_	PartType=Top	15	discourse@top	_	Gloss=anyway
 17	bà-	bà-	PART	_	Aspect=Perf|PartType=TAM|Polarity=Neg	19	mod/m	_	Gloss=Neg.Perf-|SpaceAfter=No
 18	ì=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	19	subj/m	_	Gloss=3Masc=|SpaceAfter=No|wordform=bài
-19	sàːmi	saːm-	VERB	_	_	13	dislocated@comp	_	Gloss=get
+19	sàːmi	saːm-	VERB	_	_	12	comp:cleft	_	ClauseType=cleft|Gloss=get
 20	taːshìː	taːs-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	19	comp:obj	_	Gloss=rise.Vnoun.Masc
 21	samà	samà	ADV	_	_	20	mod	_	Gloss=above
 22	à	à	ADP	_	_	20	comp:obl	_	Gloss=at
 23	cikin	cikin	ADP	_	_	22	comp	_	Gloss=inside
 24	jirgiː	jirgiː	NOUN	_	Gender=Masc	23	comp	_	Gloss=vehicle.Masc
 25	ba	ba	PART	_	PartType=Neg|Polarity=Neg	19	mod	_	Gloss=Neg|SpaceAfter=No
-26	.	.	PUNCT	_	_	13	punct	_	Gloss=PUNCT
+26	.	.	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 
 # sent_id = 01_Umaru_Dikko_11
 # text_en = In nineteen eighty-five, some Israeli, three in number, and a Nigerian spy, answered to the crime of trying to kidnap Umaru Dikko.

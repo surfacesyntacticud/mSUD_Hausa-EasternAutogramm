@@ -82,21 +82,21 @@
 # text_en = What happened is that, just like that, the lake released about sixth thousand tons of carbon dioxide, so that it sent two hundred thousand tons of water to cause a flood.
 # text_ortho = Àbîn dà ya fàːru shiː nèː hakà kawài tafkìn ya bur̃tsoː dà wajen tân dubuː shidà na iskàr̃ ta carbon dioxide , har̃ ya jaːwoː ruwaː tân dubuː mèːtan ya yi àmbaːliyàː.
 # text = àbîn dà ya=fàːru shiː nèː hakà kawài tafkìn ya=bur̃tsoː dà wajen tân dubuː shidà na iskàr̃ ta carbon dioxide , har̃ ya=jaːwoː ruwaː tâ-n dubuː mèːtan ya=yi àmbaːliyàː.
-1	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	7	subj	_	Gloss=thing.Masc.Def|RelAnt=Yes|wordform=Abin
+1	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	6	dislocated@top	_	Gloss=thing.Masc.Def|RelAnt=Yes|wordform=Abin
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=CompRel|Relz=Word
 3-4	ya=	_	_	_	_	_	_	_	_
 3	ya-	ya	PRON	_	Gender=Fem|Mood=Rel|Person=3|PronType=PrsSubj	5	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
 4	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Sing=|Relz=Affix|wordform=UNDERSCORE
 5	fàːru	faːr-	VERB	_	_	2	comp:obj	_	ClauseType=Rel|Gloss=begin|RelRole=subj
-6	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	7	comp:pred	_	Gloss=3Masc.Nom
-7	nèː	neː	AUX	_	Copula=Yes	0	root	_	Gloss=Equ.Masc/Plur
+6	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	0	root	_	Gloss=3Masc.Nom
+7	nèː	neː	AUX	_	Copula=Yes	6	discourse@foc	_	Gloss=Equ.Masc/Plur
 8	hakà	hakà	ADV	_	_	13	mod	_	Gloss=thus
 9	kawài	kawài	ADV	_	_	13	mod	_	Gloss=merely
 10	tafkìn	tafkìː	NOUN	_	Definite=Def|Gender=Masc	13	subj	_	Gloss=lake.Masc.Def|wordform=tar̃kin
 11-12	ya=	_	_	_	_	_	_	_	_
 11	ya-	ya	PRON	_	Gender=Fem|Mood=Rel|Person=3|PronType=PrsSubj	13	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
 12	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	13	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=UNDERSCORE
-13	bur̃tsoː	bur̃ts-	VERB	_	_	7	dislocated@comp	_	Gloss=blow
+13	bur̃tsoː	bur̃ts-	VERB	_	_	6	comp:cleft	_	ClauseType=cleft|Gloss=blow
 14	dà	dà	ADP	_	_	13	comp:obl	_	Gloss=with
 15	wajen	wajen	ADP	_	_	14	comp	_	Gloss=about
 16	tân	tân	NOUN	_	_	15	comp	_	Gloss=ton
@@ -123,7 +123,7 @@
 35	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	36	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=UNDERSCORE
 36	yi	yi	VERB	_	_	28	comp:obj	_	Gloss=do
 37	àmbaːliyàː	àmbaːliyàː	NOUN	_	Gender=Fem	36	comp:pred	_	Gloss=flood.Fem|SpaceAfter=No
-38	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
+38	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
 # sent_id = 12_Bala'in_tafkin_Nyos_4
 # text_en = Then the water turned into mist, mixed with gas, it was pushed to where the river ran into a valley, and entered villages and fields.
@@ -412,18 +412,18 @@
 # text_en = The way to remove the gas is to pump the water that has carbon dioxide out of the lake and remove it altogether.
 # text_ortho = Yaddà zaː'à iyà cirèː gâs ɗîn shiː nèː à yi famfòn ruwân dà kèː dà carbon dioxide dàgà cikin tafkìn, à fid dà shiː gàbaː ɗayansà .
 # text = yaddà zaː'à= iyà cirèː gâs ɗîn shiː nèː à= yi famfò-n ruwân dà kèː= dà carbon dioxide dàgà cikin tafkìn, à= fid dà shiː gàbaː ɗaya-n-sà .
-1	yaddà	yaddà	ADV	_	ExtPos=SCONJ|PronType=Rel	9	subj	_	ClauseType=Rel|Gloss=how.Rel|Relz=Word
+1	yaddà	yaddà	ADV	_	ExtPos=SCONJ|PronType=Rel	8	dislocated@top	_	ClauseType=Rel|Gloss=how.Rel|Relz=Word
 2	zaː-	zâː-	PART	_	PartType=TAM|Tense=Fut	4	mod/m	_	Gloss=Fut-|SpaceAfter=No
 3	'à=	a	PRON	_	Person=4|PronType=PrsSubj|Tense=Fut	4	subj/m	_	Gloss=4=|wordform=zaː'à
 4	iyà	iy-	VERB	_	_	1	mod@relcl	_	ClauseType=Rel|Gloss=be_able_to
 5	cirèː	cir-	VERB	_	_	4	comp:obj	_	Gloss=pull|RelRole=mod
 6	gâs	gâs	NOUN	_	Gender=Masc	5	comp:obj	_	Gloss=gas.Masc
 7	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	6	det	_	Gloss=Def
-8	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	9	comp:pred	_	Gloss=3Masc.Nom
-9	nèː	neː	AUX	_	Copula=Yes	0	root	_	Gloss=Equ.Masc/Plur
+8	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	0	root	_	Gloss=3Masc.Nom
+9	nèː	neː	AUX	_	Copula=Yes	8	discourse@foc	_	Gloss=Equ.Masc/Plur
 10	a-	a	PRON	_	Person=4|PronType=PrsSubj	12	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
 11	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	12	mod/m	_	Gloss=Sub=
-12	yi	yi	VERB	_	_	9	dislocated@comp	_	Gloss=do
+12	yi	yi	VERB	_	_	8	comp:cleft	_	ClauseType=cleft|Gloss=do
 13	famfò	famfòː	NOUN	_	Gender=Masc	12	comp:pred	_	Gloss=pumping.Masc|SpaceAfter=No|wordform=famfòn
 14	-n	na	PART	_	Case=Gen|PartType=Case	13	udep/m	_	Gloss=Gen.Masc/Plur
 15	ruwân	ruwaː	NOUN	_	Definite=Def|Gender=Masc	14	comp	_	Gloss=water.Masc.Def|RelAnt=Yes
@@ -627,7 +627,7 @@
 # text = bàbban dai rìgàːkafìn dà mazàunaː yankìn zaː-sù= iyà yîː shiː nèː su-_̀= taːshì su-_̀= koːmàː neːsà ƙwar̃ai dàgà indà tafkìn ya-kè.
 1	bàbban	bàbba	ADJ	_	Gender=Masc	3	mod	_	Gloss=big.Masc
 2	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
-3	rìgàːkafìn	rìgàːkafìː	NOUN	_	Definite=Def|Gender=Masc	12	subj	_	Gloss=precaution.Masc.Def|RelAnt=Yes
+3	rìgàːkafìn	rìgàːkafìː	NOUN	_	Definite=Def|Gender=Masc	11	dislocated@top	_	Gloss=precaution.Masc.Def|RelAnt=Yes
 4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=CompRel|Relz=Word
 5	mazàunaː	mazàuniː	NOUN	_	Number=Plur	9	subj	_	Gloss=inhabitant.Plur
 6	yankìn	yankìː	DET	_	Definite=Def|Gender=Masc	5	comp:obj@L	_	Gloss=area.Masc.Def
@@ -635,11 +635,11 @@
 8	sù=	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj|Tense=Fut	9	subj/m	_	Gloss=3Plur=|wordform=zaːsù
 9	iyà	iy-	VERB	_	_	4	comp:obj	_	ClauseType=Rel|Gloss=be_able_to
 10	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	9	comp:obj	_	Gloss=do|RelRole=obj
-11	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	12	comp:pred	_	Gloss=3Masc.Nom
-12	nèː	neː	AUX	_	Copula=Yes	0	root	_	Gloss=Equ.Masc/Plur
+11	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	0	root	_	Gloss=3Masc.Nom
+12	nèː	neː	AUX	_	Copula=Yes	11	discourse@foc	_	Gloss=Equ.Masc/Plur
 13	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	15	subj/m	_	Gloss=3.Plur-|SpaceAfter=No|wordform=sù
 14	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	15	mod/m	_	Gloss=Sub=
-15	taːshì	taːs-	VERB	_	_	12	dislocated@comp	_	Gloss=set_off
+15	taːshì	taːs-	VERB	_	_	11	comp:cleft	_	ClauseType=cleft|Gloss=set_off
 16	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	18	subj/m	_	Gloss=3.Plur-|SpaceAfter=No|wordform=sù
 17	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	18	mod/m	_	Gloss=Sub=
 18	koːmàː	koːm-	VERB	_	_	15	parataxis:conj	_	Gloss=go_(back)_to
@@ -650,7 +650,7 @@
 23	tafkìn	tafkìː	NOUN	_	Definite=Def|Gender=Masc	25	subj	_	Gloss=lake.Masc.Def|wordform=tar̃kin
 24	ya-	ya-	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	25	subj/m	_	Gloss=3Masc-|SpaceAfter=No
 25	kè	nàː	AUX	_	Copula=Yes|Mood=Rel	22	mod@relcl	_	Gloss=bePred.Rel2|RelRole=pred|Relz=Affix|SpaceAfter=No|wordform=yakè
-26	.	.	PUNCT	_	_	12	punct	_	Gloss=PUNCT
+26	.	.	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 
 # sent_id = 12_Bala'in_tafkin_Nyos_17
 # text_en = In nineteen eighty-six indeed, more than one thousand seven hundred people died, and only God knows how many will die if the lake produces that kind of gas leak again.

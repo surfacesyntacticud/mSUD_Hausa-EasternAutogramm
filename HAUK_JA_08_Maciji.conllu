@@ -65,20 +65,20 @@
 # text_en = The way this matter happened is has follows: these people took the corpse of a snake after it had been squashed by a lorry on the road at night, and went home with it.
 # text_ortho = Yaddà wannàn àl'amàr̃iː ya fàːru shiː nèː suː mutàːnên sun ɗaukoː gaːwar̃ wannàn macìːjiː nèː baːyân dà wata bàbbar̃ moːtàː ta laːtsèː shi à bisà hanyàː dà dàddare, sukà nùfi dà shiː zuwàː gidaː.
 # text = yaddà wannàn àl'amàr̃iː ya fàːru shiː nèː suː mutàːnên sun ɗaukoː gaːwar̃ wannàn macìːjiː nèː baːyân dà wata bàbbar̃ moːtàː ta laːtsèː shi à bisà hanyàː dà dàddare, sukà nùfi dà shiː zuwàː gidaː.
-1	yaddà	yaddà	ADV	_	ExtPos=SCONJ|PronType=Rel	8	subj	_	ClauseType=Rel|Gloss=how.Rel|Relz=Word
+1	yaddà	yaddà	ADV	_	ExtPos=SCONJ|PronType=Rel	7	dislocated@top	_	ClauseType=Rel|Gloss=how.Rel|Relz=Word
 2	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	3	det	_	Gloss=ProxS.Masc
 3	àl'amàr̃iː	àl'amàr̃iː	NOUN	_	Gender=Masc	6	subj	_	Gloss=matter.Masc
 4-5	ya=	_	_	_	_	_	_	_	_
 4	ya-	ya	PRON	_	Gender=Fem|Mood=Rel|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
 5	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	6	mod/m	_	Gloss=Perf.Rel.Sing=|Relz=Affix|wordform=UNDERSCORE
 6	fàːru	faːr-	VERB	_	_	1	mod@relcl	_	Gloss=begin|RelRole=mod
-7	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	8	comp:pred	_	Gloss=3Masc.Nom
-8	nèː	neː	AUX	_	Copula=Yes	0	root	_	Gloss=Equ.Masc/Plur
+7	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	0	root	_	Gloss=3Masc.Nom
+8	nèː	neː	AUX	_	Copula=Yes	7	discourse@foc	_	Gloss=Equ.Masc/Plur
 9	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	dislocated@subj	_	Gloss=3Plur.Nom
 10	mutàːnên	mùtûm	NOUN	_	Definite=Def|Number=Plur	9	conj:appos	_	Gloss=people.Plur.Def
 11	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	13	subj/m	_	Gloss=3Plur|SpaceAfter=No|wordform=sun
 12	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	13	mod/m	_	Gloss=Perf.Plur=|wordform=n
-13	ɗaukoː	ɗauk-	VERB	_	_	8	dislocated@comp	_	Gloss=take
+13	ɗaukoː	ɗauk-	VERB	_	_	7	comp:cleft	_	ClauseType=cleft|Gloss=take
 14	gaːwa	gaːwaː	NOUN	_	Gender=Fem	13	comp:obj	_	Compound=Yes|Gloss=corpse.Fem.|SpaceAfter=No|wordform=gaːwar̃
 15	-r̃	na	PART	_	Case=Gen|PartType=Case	14	mod/m	_	Gloss=Gen.Fem
 16	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	17	det	_	Gloss=ProxS.Masc
@@ -107,7 +107,7 @@
 38	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	37	comp	_	Gloss=3Masc.Nom
 39	zuwàː	zuwàː	ADP	_	_	36	comp:obl	_	Gloss=towards
 40	gidaː	gidaː	NOUN	_	Gender=Masc	39	comp	_	Gloss=home.Masc|SpaceAfter=No
-41	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
+41	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
 # sent_id = 08_Maciji_3b
 # text_en = They cooked this cobra for almost three days before they managed to make it soft enough to eat it.
@@ -142,17 +142,17 @@
 # text_en = Well, where the problem arose is after they had eaten the snake that they had cooked, suddenly, these people started feeling that something was stirring inside their stomach.
 # text_ortho = Tòː indà màtsalàr̃ ta faːrà taːshìː shiː nèː baːyân dà sukà cînyeː macìːjîn dà sukà dafàn, nan dà nan sai waɗànnân mutàːneː sukà faːrà jîn wani àbù nàː mur̃ɗàː musù cikin cikkunànsù .
 # text = tòː indà màtsalàr̃ ta= faːrà taːshìː shiː nèː baːyân dà su-kà= cînyeː macìːjîn dà su-kà= dafàn, nan dà nan sai waɗànnân mutàːneː su-kà= faːrà jî-n wani àbù nàːmur̃ɗàː musù cikin cikkunà-n-sù .
-1	tòː	tòː	INTJ	_	_	9	discourse	_	Gloss=well
-2	indà	indà	ADV	_	PronType=Rel	9	dislocated@mod	_	ClauseType=Rel|Gloss=where.Rel|Relz=Word
+1	tòː	tòː	INTJ	_	_	8	discourse	_	Gloss=well
+2	indà	indà	ADV	_	PronType=Rel	8	dislocated@mod	_	ClauseType=Rel|Gloss=where.Rel|Relz=Word
 3	màtsalàr̃	màtsalaː	NOUN	_	Definite=Def|Gender=Fem	6	subj	_	Gloss=problem.Fem.Def
 4-5	ta=	_	_	_	_	_	_	_	_
 4	ta-	ta	PRON	_	Gender=Fem|Mood=Rel|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=ta
 5	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	6	mod/m	_	Gloss=Perf.Rel.Sing=|Relz=Affix|wordform=UNDERSCORE
 6	faːrà	faːràː	VERB	_	_	2	mod@relcl	_	Gloss=begin
 7	taːshìː	taːs-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:obj	_	Gloss=rise.Vnoun.Masc|RelRole=mod
-8	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	9	comp:pred	_	Gloss=3Masc.Nom
-9	nèː	neː	AUX	_	Copula=Yes	0	root	_	Gloss=Equ.Masc/Plur
-10	baːyân	baːyân	SCONJ	_	ExtPos=SCONJ	9	dislocated@comp	_	Gloss=after.Def|Idiom=Yes
+8	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	0	root	_	Gloss=3Masc.Nom|RelPos=Yes
+9	nèː	neː	AUX	_	Copula=Yes	8	discourse@foc	_	Gloss=Equ.Masc/Plur
+10	baːyân	baːyân	SCONJ	_	ExtPos=SCONJ	8	comp:cleft	_	ClauseType=cleft|Gloss=after.Def|Idiom=Yes
 11	dà	dà	SCONJ	_	_	10	comp:obj	_	Gloss=COMP|InIdiom=Yes
 12	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	14	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 13	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	14	mod/m	_	Gloss=Perf.Rel.Plur=|wordform=kà
@@ -171,7 +171,7 @@
 26	mutàːneː	mùtûm	NOUN	_	Number=Plur	29	subj	_	Gloss=people.Plur
 27	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	29	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 28	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	29	mod/m	_	Gloss=Perf.Rel.Plur=|wordform=kà
-29	faːrà	faːràː	VERB	_	_	9	parataxis:conj	_	Gloss=begin
+29	faːrà	faːràː	VERB	_	_	8	parataxis:conj	_	Gloss=begin
 30	jî	ji	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	29	comp:obj	_	Compound=Yes|Gloss=hear.Vnoun.Masc.|SpaceAfter=No|wordform=jîn
 31	-n	na	PART	_	Case=Gen|PartType=Case	30	udep/m	_	Gloss=Gen.Masc/Plur
 32	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	33	det	_	Gloss=some.Masc.Spec
@@ -183,7 +183,7 @@
 38	cikkunà	cikìː	NOUN	_	Number=Plur	37	comp	_	Gloss=belly.Plur|SpaceAfter=No|wordform=cikkunànsù
 39	-n	na	PART	_	Case=Gen|PartType=Case	38	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 40	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	39	comp	_	Gloss=3Plur.Gen
-41	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
+41	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 
 # sent_id = 08_Maciji_5
 # text_en = From there, then they began to vomit.

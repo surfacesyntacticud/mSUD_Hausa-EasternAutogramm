@@ -1046,7 +1046,7 @@
 # text_ortho = Wani àbù kuma dà ya sâː sauran duːniyàː ta shìga nuːnà shàʼawàː gàme dà Fela, shiː nèː gàme dà maːtansà na aureː suː àshìr̃in dà bakwài, waɗàndà ya àuri dukkànsù à shèːkaràr̃ alìf dà ɗàriː tar̃à dà sàbà'in dà takwàs.
 # text = wani àbù kuma dà ya= sâː saura-n duːniyàː ta= shìga nuːnà shàʼawàː gàme dà Fela, shiː nèː gàme dà maːta-n-sà na aureː suː àshìr̃in dà bakwài, waɗàndà ya= àuri dukkà -n-sù à shèːkarà-r̃ alìf dà ɗàriː tar̃à dà sàbà'in dà takwàs.
 1	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	2	det	_	Gloss=some.Masc.Spec
-2	àbù	àbù	NOUN	_	Gender=Masc	21	subj	_	Gloss=thing.Masc|RelAnt=Yes
+2	àbù	àbù	NOUN	_	Gender=Masc	20	dislocated@top	_	Gloss=thing.Masc|RelAnt=Yes
 3	kuma	kuma	PART	_	PartType=Top	2	discourse@top	_	Gloss=also
 4	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=CompRel|Relz=Word
 5-6	ya=	_	_	_	_	_	_	_	_
@@ -1066,9 +1066,9 @@
 17	dà	dà	ADP	_	_	16	comp:obl	_	Gloss=with|InIdiom=Yes
 18	Fela	Fela	PROPN	_	_	16	comp:obj	_	Gloss=Fela|SpaceAfter=No
 19	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
-20	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	21	comp:pred	_	Gloss=3Masc.Nom
-21	nèː	neː	AUX	_	Copula=Yes	0	root	_	Gloss=Equ.Masc/Plur
-22	gàme	gam-	VERB	_	ExtPos=ADV|VerbForm=Part	21	dislocated@comp	_	Gloss=gather.Part
+20	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	0	root	_	Gloss=3Masc.Nom
+21	nèː	neː	AUX	_	Copula=Yes	20	discourse@foc	_	Gloss=Equ.Masc/Plur
+22	gàme	gam-	VERB	_	ExtPos=ADV|VerbForm=Part	20	comp:cleft	_	ClauseType=cleft|Gloss=gather.Part
 23	dà	dà	ADP	_	_	22	comp:obl	_	Gloss=with
 24	maːta	màːtaː	NOUN	_	Number=Plur	23	comp	_	Gloss=wife.Plur|SpaceAfter=No|wordform=maːtansà|wordfrom=maːtansà
 25	-n	na	PART	_	Case=Gen|PartType=Case	24	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
@@ -1099,5 +1099,5 @@
 49	sàbà'in	sàbà'in	NUM	_	_	46	conj:coord	_	Gloss=seventy
 50	dà	dà	CCONJ	_	_	51	cc	_	Gloss=and
 51	takwàs	takwàs	NUM	_	_	49	conj:coord	_	Gloss=eight|SpaceAfter=No
-52	.	.	PUNCT	_	_	21	punct	_	Gloss=PUNCT
+52	.	.	PUNCT	_	_	20	punct	_	Gloss=PUNCT
 

@@ -561,7 +561,7 @@
 # text = wani mùhimmìn àbù dà a-kà= fi dàːmuwaː dà shiː à loːkàci-n wannàn tàːroː na gani-n cêːwaː maːtaː su-n= sàːmi haifùwaː laːfiyàː, shiː nèː yi wà yâːraː maːtaː aureː dà saurī.
 1	wani	wani	DET	_	Definite=Spec|Gender=Masc|Number=Plur|PronType=Ind	3	det	_	Gloss=some.Masc.Spec
 2	mùhimmìn	mùhimmìː	ADJ	_	Gender=Masc	3	mod	_	Gloss=important.Masc
-3	àbù	àbù	NOUN	_	Gender=Masc	28	subj	_	Gloss=thing.Masc|RelAnt=Yes
+3	àbù	àbù	NOUN	_	Gender=Masc	27	dislocated@top	_	Gloss=thing.Masc|RelAnt=Yes
 4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=CompRel|Relz=Word
 5	a-	a	PRON	_	Person=4|PronType=PrsSubj	7	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 6	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Plur=|Relz=Affix|wordform=kà
@@ -585,16 +585,16 @@
 24	haifùwaː	haif-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	23	comp:obj	_	Gloss=give_birth.Vnoun.Fem
 25	laːfiyàː	laːfiyàː	NOUN	_	Gender=Fem	24	mod	_	Gloss=health.Fem|SpaceAfter=No
 26	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
-27	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	28	comp:pred	_	Gloss=3Masc.Nom
-28	nèː	neː	AUX	_	Copula=Yes	0	root	_	Gloss=Equ.Masc/Plur
-29	yi	yi	VERB	_	_	28	dislocated@comp	_	Gloss=do
+27	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	0	root	_	Gloss=3Masc.Nom
+28	nèː	neː	AUX	_	Copula=Yes	27	discourse@foc	_	Gloss=Equ.Masc/Plur
+29	yi	yi	VERB	_	_	27	comp:cleft	_	ClauseType=cleft|Gloss=do
 30	wà	mà	ADP	_	Case=Dat	29	comp:obl	_	Gloss=Dat
 31	yâːraː	yaːròː	NOUN	_	Number=Plur	30	comp	_	Gloss=child.Plur
 32	maːtaː	màːtaː	ADJ	_	Number=Plur	31	mod	_	Gloss=female.Plur
 33	aureː	aureː	NOUN	_	Gender=Masc	29	comp:pred	_	Gloss=marriage.Masc
 34	dà	dà	ADP	_	_	29	mod	_	Gloss=with
 35	saurī	saurī	NOUN	_	Gender=Masc	34	comp	_	Gloss=speed.Masc|SpaceAfter=No
-36	.	.	PUNCT	_	_	28	punct	_	Gloss=PUNCT
+36	.	.	PUNCT	_	_	27	punct	_	Gloss=PUNCT
 
 # sent_id = 16_Aihuwar_Yara_15
 # text_en = When he opened the meeting, the Health Minister begged the men of the country to stop marrying young girls.

@@ -256,17 +256,17 @@
 # text_en = Well, what caused the problem is the president of the Nigerian boxing association, 'Chief Ralph Ogunbufunmi' who declared that Lasisi would not take part in the match, and went on to say that they had discussed the matter with the Nigerian Minister of Sports.
 # text = tôː, àbîn dà ya kaːwoː rùːɗaːnîn shiː nèː shùːgàban hùkuːmàr̃ dambe ta Nàːjeːr̃iyàː, " Chief Ralph Ogunbufunmi ", shiː nèː ya baː dà sanâr̃waː cêːwaː Lasisi bàː zâi jeː wàːsân ba, har̃ ya cèː sun tattàunà hakàn dà ministàn wàːsànniː na Nàːjeːr̃iyàː.
 # text_ortho = Tô, àbîn dà ya kaːwoː rùːɗaːnîn shiː nèː shùːgàban Hùkuːmàr̃ Dambe ta Nàːjeːr̃iyàː, 'Chief Ralph Ogunbufunmi', shiː nèː ya baː dà sanâr̃waː cêːwaː Lasisi bàː zâi jeː wàːsân ba, har̃ ya cèː sun tattàunà hakàn dà Ministàn Wàːsànniː na Nàːjeːr̃iyàː.
-1	tôː	tòː	INTJ	_	_	10	discourse	_	Gloss=well|SpaceAfter=No
+1	tôː	tòː	INTJ	_	_	9	discourse	_	Gloss=well|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-3	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	10	subj	_	Gloss=thing.Masc.Def|RelAnt=Yes
+3	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	9	dislocated@top	_	Gloss=thing.Masc.Def|RelAnt=Yes
 4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=CompRel|Relz=Word
 5-6	ya=	_	_	_	_	_	_	_	_
 5	ya-	ya	PRON	_	Gender=Fem|Mood=Rel|Person=3|PronType=PrsSubj	7	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
 6	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Sing=|Relz=Affix|wordform=UNDERSCORE
 7	kaːwoː	kai	VERB	_	_	4	comp:obj	_	ClauseType=Rel|Gloss=carry/take_to|RelRole=subj
 8	rùːɗaːnîn	rùːɗaːniː	NOUN	_	Definite=Def|Gender=Masc|Number=Plur	7	comp:obj	_	Gloss=problem.Masc.Def
-9	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	10	comp:pred	_	Gloss=3Masc.Nom
-10	nèː	neː	AUX	_	Copula=Yes	0	root	_	Gloss=Equ.Masc/Plur
+9	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	0	root	_	Gloss=3Masc.Nom
+10	nèː	neː	AUX	_	Copula=Yes	9	discourse@foc	_	Gloss=Equ.Masc/Plur
 11	shùːgàba	shùːgàbaː	NOUN	_	Gender=Masc	25	dislocated@top	_	Gloss=leader.Masc|SpaceAfter=No|wordform=shùːgàban
 12	-n	na	PART	_	Case=Gen|PartType=Case	11	mod/m	_	Gloss=Gen.Masc/Plur
 13	hùkuːmà	hùkuːmàː	NOUN	_	Gender=Fem	12	comp	_	Gloss=authority.Fem|SpaceAfter=No|wordform=hùkuːmàr̃
@@ -281,7 +281,7 @@
 22	Ogunbufunmi	Ogunbufunmi	PROPN	_	Number=Plur	21	flat@name	_	Gloss=Ogunbufunmi
 23	"	"	PUNCT	_	_	20	punct	_	Gloss=PUNCT|SpaceAfter=No
 24	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
-25	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	10	dislocated@comp	_	Gloss=3Masc.Nom
+25	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	9	comp:cleft	_	ClauseType=cleft|Gloss=3Masc.Nom
 26	nèː	neː	PART	_	PartType=Foc	25	discourse@foc	_	Gloss=Emph
 27-28	ya=	_	_	_	_	_	_	_	_
 27	ya-	ya	PRON	_	Gender=Fem|Mood=Rel|Person=3|PronType=PrsSubj	29	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
