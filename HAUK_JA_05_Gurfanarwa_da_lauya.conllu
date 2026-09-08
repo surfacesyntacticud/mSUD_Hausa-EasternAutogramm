@@ -38,7 +38,7 @@
 17	-n	na	PART	_	Case=Gen|PartType=Case	16	udep/m	_	Gloss=Gen.Masc/Plur
 18	soːjà	soːjà	NOUN	_	Number=Plur	17	comp	_	Gloss=soldiers.Plur
 19	dà	dà	SCONJ	_	_	12	mod@relcl	_	Gloss=CompRel|Relz=Word
-20	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	19	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
+20	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	19	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
 21	Afir̃kà	Afir̃kà	PROPN	_	_	20	comp:pred	_	Gloss=Africa|SpaceAfter=No
 22	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 
@@ -71,7 +71,7 @@
 23-24	ta=	_	_	_	_	_	_	_	_
 23	ta-	ta	PRON	_	Gender=Fem|Mood=Rel|Person=3|PronType=PrsSubj	25	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=ta
 24	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	25	mod/m	_	Gloss=Perf.Rel.Sing=|Relz=Affix|wordform=UNDERSCORE
-25	yi	yi	VERB	_	_	22	comp:obj	_	ClauseType=Rel|Gloss=do|RelRole=pred
+25	yi	yi	VERB	_	_	22	comp	_	ClauseType=Rel|Gloss=do|RelRole=pred
 26	danganèː	danganèː	NOUN	_	ExtPos=SCONJ|Gender=Masc	25	comp:obl	_	Gloss=relation.Masc|Idiom=Yes
 27	dà	dà	ADP	_	_	26	compound	_	Gloss=with|InIdiom=Yes
 28	kaːrè	kaːr-	VERB	_	_	26	comp:obj	_	Gloss=protect
@@ -133,7 +133,7 @@
 43	in	in	SCONJ	_	_	27	mod	_	Gloss=if
 44	a-	a	PRON	_	Person=4|PronType=PrsSubj	46	subj/m	_	Gloss=4|SpaceAfter=No|wordform=an
 45	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	46	mod/m	_	Gloss=Perf.Plur=|wordform=n
-46	zàrgeː	zarg-	VERB	_	_	43	comp:obj	_	Gloss=accuse
+46	zàrgeː	zarg-	VERB	_	_	43	comp	_	Gloss=accuse
 47	-shì	-shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	46	comp:obj/m	_	Gloss=-3Masc.Acc|wordform=shì
 48	dà	dà	ADP	_	_	46	comp:obl	_	Gloss=with
 49	yi	yi	VERB	_	_	48	comp	_	Gloss=do
@@ -186,7 +186,7 @@
 2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 3	a-	a	PRON	_	Person=4|PronType=PrsSubj	5	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 4	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Plur=|wordform=kà
-5	tsarèː	tsar-	VERB	_	_	1	comp:obj	_	Gloss=imprison
+5	tsarèː	tsar-	VERB	_	_	1	comp	_	Gloss=imprison
 6	mùtûm	mùtûm	NOUN	_	Gender=Masc	5	comp:obj	_	Gloss=man.Masc
 7	bìsàː	bìsàː	ADP	_	_	5	comp:obl	_	Gloss=according_to
 8	wannàn	nân	DET	_	Deixis=ProxS|Gender=Fem|PronType=Dem	9	det	_	Gloss=ProxS.Fem
@@ -203,7 +203,7 @@
 19	dà	dà	SCONJ	_	_	16	mod@relcl	_	Gloss=CompRel|Relz=Word
 20	zaː-	zâː-	PART	_	PartType=TAM|Tense=Fut	22	mod/m	_	Gloss=Fut-|SpaceAfter=No
 21	tà=	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj|Tense=Fut	22	subj/m	_	Gloss=3Fem=|wordform=zaːtà
-22	sâː	sâː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	19	comp:obj	_	ClauseType=Rel|Gloss=put|RelRole=subj
+22	sâː	sâː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	19	comp	_	ClauseType=Rel|Gloss=put|RelRole=subj
 23	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	22	comp:obj	_	Gloss=mouth.Masc|SpaceAfter=No
 24	.	.	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 
@@ -279,7 +279,7 @@
 14	-n	na	PART	_	Case=Gen|PartType=Case	13	mod/m	_	Gloss=Gen.Masc/Plur
 15	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	14	comp	_	Gloss=country.Fem.Def
 16	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	17	subj/m	_	Gloss=3Plur|SpaceAfter=No
-17	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	11	comp:obj	_	Gloss=Prog|wordform=sunàː
+17	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	11	comp	_	Gloss=Prog|wordform=sunàː
 18	shirì	shiry-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	17	comp:pred	_	Gloss=prepare.Vnoun.Masc|SpaceAfter=No|wordform=shirìn
 19	-n	na	PART	_	Case=Gen|PartType=Case	18	udep/m	_	Gloss=Gen.Masc/Plur
 20	gur̃faːnar̃	gur̃faːn-	VERB	_	Voice=Cau	19	comp	_	Gloss=take_to_court.Cau
@@ -325,7 +325,7 @@
 2	lâifîn	lâifiː	NOUN	_	Definite=Def|Gender=Masc	21	subj	_	Gloss=crime.Masc.Def|RelAnt=Yes
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=CompRel|Relz=Word
 4	a-	a-	PRON	_	Person=4|PronType=Prs	5	subj/m	_	Gloss=4|SpaceAfter=No
-5	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	3	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
+5	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	3	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
 6	zàrgi	zarg-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	5	comp:pred	_	Gloss=accuse.Vnoun.Masc|RelRole=obl|SpaceAfter=No|wordform=zàrgin
 7	-n	na	PART	_	Case=Gen|PartType=Case	6	udep/m	_	Gloss=Gen.Masc/Plur
 8	Chief	Chief	PROPN	_	_	7	comp	_	Gloss=Chief
@@ -417,10 +417,10 @@
 7	dà	dà	ADP	_	_	6	comp:obl	_	Gloss=with
 8	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	7	comp	_	Gloss=say.Vnoun.Fem
 9	ìdan	ìdan	SCONJ	_	_	23	mod	_	Gloss=if
-10	har̃	har̃	SCONJ	_	_	9	comp:obj	_	Gloss=even
+10	har̃	har̃	SCONJ	_	_	9	comp	_	Gloss=even
 11	a-	a	PRON	_	Person=4|PronType=PrsSubj	13	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 12	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	13	mod/m	_	Gloss=Perf.Rel.Plur=|wordform=kà
-13	sàːmi	saːm-	VERB	_	_	10	comp:obj	_	Gloss=get
+13	sàːmi	saːm-	VERB	_	_	10	comp	_	Gloss=get
 14	Chief	Chief	PROPN	_	_	13	comp:obj	_	Gloss=Chief
 15	G.F.	G.F.	PROPN	_	_	14	mod@appos	_	Gloss=G.F.
 16	dà	dà	CCONJ	_	_	13	comp:obl	_	Gloss=and
@@ -450,7 +450,7 @@
 # text = tun dà daɗèːwaː nèː Chief G.F. ya zama ƙayàː gà gwamnatoːcin Nàːjeːr̃iyàː.
 1	tun	tun	SCONJ	_	_	9	mod	_	Gloss=since
 2	dà	dà	SCONJ	_	_	1	unk	_	Gloss=COMP
-3	daɗèːwaː	daɗ-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	2	comp:obj	_	Gloss=last.Vnoun.Fem
+3	daɗèːwaː	daɗ-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	2	comp	_	Gloss=last.Vnoun.Fem
 4	nèː	neː	PART	_	PartType=Foc	1	discourse@foc	_	Gloss=Emph
 5	Chief	Chief	PROPN	_	_	9	subj	_	Gloss=Chief
 6	G.F.	G.F.	PROPN	_	_	5	mod@appos	_	Gloss=G.F.
@@ -492,12 +492,12 @@
 21-22	ya=	_	_	_	_	_	_	_	_
 21	ya-	ya	PRON	_	Gender=Fem|Mood=Rel|Person=3|PronType=PrsSubj	23	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
 22	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	23	mod/m	_	Gloss=Perf.Rel.Sing=|Relz=Affix|wordform=UNDERSCORE
-23	kaːrè	kaːr-	VERB	_	_	20	comp:obj	_	ClauseType=Rel|Gloss=protect|RelRole=mod
+23	kaːrè	kaːr-	VERB	_	_	20	comp	_	ClauseType=Rel|Gloss=protect|RelRole=mod
 24	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	25	det	_	Gloss=some.Masc.Spec
 25	leːbùr̃à	leːbùr̃à	NOUN	_	Gender=Masc	23	comp:obj	_	Gloss=worker.Masc|RelAnt=Yes
 26	dà	dà	SCONJ	_	_	25	mod@relcl	_	Gloss=CompRel|Relz=Word
 27	a-	a-	PRON	_	Person=4|PronType=Prs	28	subj/m	_	Gloss=4|SpaceAfter=No
-28	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	26	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
+28	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	26	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
 29	yî	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	28	comp:pred	_	Compound=Yes|Gloss=do.Vnoun.Masc.|SpaceAfter=No|wordform=yîn
 30	-n	na	PART	_	Case=Gen|PartType=Case	29	udep/m	_	Gloss=Gen.Masc/Plur
 31	zàrgi	zarg-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	30	comp	_	Gloss=accuse.Vnoun.Masc|RelRole=obj|SpaceAfter=No|wordform=zàrgin
@@ -509,7 +509,7 @@
 37	gwamnatì	gwamnatì	NOUN	_	Gender=Fem	36	comp	_	Gloss=government.Fem
 38	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	40	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
 39	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	40	mod/m	_	Gloss=Perf.Sing=|wordform=aː
-40	yi	yi	VERB	_	_	33	comp:obj	_	Gloss=do
+40	yi	yi	VERB	_	_	33	comp	_	Gloss=do
 41	wà	mà	ADP	_	Case=Dat	40	comp:obl	_	Gloss=Dat
 42	màːta	màːtaː	NOUN	_	Gender=Fem	41	comp	_	Gloss=wife.Fem|SpaceAfter=No|wordform=màːtar̃|wordfrom=màːtar̃sà
 43	-r̃	na	PART	_	Case=Gen|PartType=Case	42	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No|wordform=-t
@@ -561,7 +561,7 @@
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=CompRel|Relz=Word
 4	Chief	Chief	PROPN	_	_	6	subj	_	Gloss=Chief
 5	G.F.	G.F.	PROPN	_	_	4	mod@appos	_	Gloss=G.F.
-6	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	3	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|SpaceAfter=No
+6	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	3	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|SpaceAfter=No
 7	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:pred	_	Gloss=do.Vnoun.Masc|RelPos=Yes
 8	dà	dà	ADP	_	_	7	comp:obl	_	Gloss=with
 9	hukuːmoːmiː	hùkuːmàː	NOUN	_	Number=Plur	8	comp	_	Gloss=authority.Plur
@@ -595,7 +595,7 @@
 6-7	ya=	_	_	_	_	_	_	_	_
 6	ya-	ya	PRON	_	Gender=Fem|Mood=Rel|Person=3|PronType=PrsSubj	8	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
 7	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	8	mod/m	_	Gloss=Perf.Rel.Sing=|Relz=Affix|wordform=UNDERSCORE
-8	fi	fi	VERB	_	_	5	comp:obj	_	ClauseType=Rel|Gloss=exceed|RelRole=subj
+8	fi	fi	VERB	_	_	5	comp	_	ClauseType=Rel|Gloss=exceed|RelRole=subj
 9	koːwànneː	koːwànneː	PRON	_	Gender=Masc|PronType=Int	8	comp:obj	_	Gloss=each_one.Masc
 10	muhimmancìː	muhimmancìː	NOUN	_	Gender=Masc	8	mod	_	Gloss=importance.Masc
 11	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	0	root	_	Gloss=3Masc.Nom
@@ -637,7 +637,7 @@
 47-48	ya=	_	_	_	_	_	_	_	_
 47	ya-	ya	PRON	_	Gender=Fem|Mood=Rel|Person=3|PronType=PrsSubj	49	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
 48	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	49	mod/m	_	Gloss=Perf.Rel.Sing=|Relz=Affix|wordform=UNDERSCORE
-49	rasà	ras-	VERB	_	_	46	comp:obj	_	ClauseType=Rel|Gloss=lose|RelRole=subj
+49	rasà	ras-	VERB	_	_	46	comp	_	ClauseType=Rel|Gloss=lose|RelRole=subj
 50	râ	râi	NOUN	_	Gender=Masc	49	comp:obj	_	Gloss=life.Masc|SpaceAfter=No|wordform=rânsà|wordfrom=rânsà
 51	-n	na	PART	_	Case=Gen|PartType=Case	50	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 52	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	51	comp:obj/m	_	Gloss=3Masc.Gen
@@ -647,7 +647,7 @@
 56	dà	dà	SCONJ	_	_	55	mod@relcl	_	Gloss=CompRel|Relz=Word
 57	a-	a	PRON	_	Person=4|PronType=PrsSubj	59	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 58	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	59	mod/m	_	Gloss=Perf.Rel.Plur=|Relz=Affix|wordform=kà
-59	aikoː	aik-	VERB	_	_	56	comp:obj	_	ClauseType=Rel|Gloss=send|RelRole=obj
+59	aikoː	aik-	VERB	_	_	56	comp	_	ClauseType=Rel|Gloss=send|RelRole=obj
 60	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	59	comp:obl	_	Gloss=3Masc.Dat
 61	ta	ta	ADP	_	_	59	mod	_	Gloss=via
 62	cikin	cikin	ADP	_	_	61	comp	_	Gloss=inside
@@ -684,7 +684,7 @@
 13	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	7	conj:dicto	_	Gloss=time.Masc.Def|RelAnt=Yes
 14	dà	dà	SCONJ	_	_	13	mod@relcl	_	Gloss=CompRel|Relz=Word
 15	ya	ya	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=PrsSubj	16	subj/m	_	Gloss=3Masc
-16	kè	nàː	AUX	_	Copula=Yes|Mood=Rel	14	comp:obj	_	ClauseType=Rel|Gloss=bePred.Rel2|RelRole=mod|Relz=Affix|wordform=yakè
+16	kè	nàː	AUX	_	Copula=Yes|Mood=Rel	14	comp	_	ClauseType=Rel|Gloss=bePred.Rel2|RelRole=mod|Relz=Affix|wordform=yakè
 17	cikin	cikin	ADP	_	_	16	comp:pred	_	Gloss=inside
 18	shirì	shiry-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	17	comp	_	Compound=Yes|Gloss=prepare.Vnoun.Masc.|SpaceAfter=No|wordform=shirìn
 19	-n	na	PART	_	Case=Gen|PartType=Case	18	udep/m	_	Gloss=Gen.Masc/Plur
