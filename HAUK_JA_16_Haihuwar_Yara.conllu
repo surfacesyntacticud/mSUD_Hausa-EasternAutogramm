@@ -296,7 +296,7 @@
 11	dà	dà	SCONJ	_	_	10	mod@relcl	_	Gloss=CompRel|Relz=Word
 12	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	13	subj/m	_	Gloss=3Plur|SpaceAfter=No
 13	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	11	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=sukèː
-14	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	13	comp:pred	_	Gloss=do.Vnoun.Masc|RelRole=pred
+14	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	13	comp:pred	_	Gloss=do.Vnoun.Masc|RelPos=Yes
 15	danganèː	danganèː	NOUN	_	ExtPos=ADP|Gender=Masc	14	comp:obl	_	Gloss=relation.Masc|Idiom=Yes
 16	dà	dà	ADP	_	_	15	compound	_	Gloss=with|InIdiom=Yes
 17	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	18	det	_	Gloss=some.Plur.Spec
@@ -331,8 +331,8 @@
 46	dà	dà	SCONJ	_	_	44	mod@relcl	_	Gloss=CompRel|Relz=Word
 47	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	46	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
 48	nuːnà	nuːn-	VERB	_	_	47	comp:pred	_	Gloss=show
-49	koː	koː	CCONJ	_	_	50	cc@preconj	_	Gloss=or
-50	tagwàːyeː	tagwàːyeː	NOUN	_	Number=Plur	48	comp:obj	_	Gloss=twins
+49	koː	koː	SCONJ	_	_	48	comp:obj	_	Gloss=or
+50	tagwàːyeː	tagwàːyeː	NOUN	_	Number=Plur	49	comp:obj	_	Gloss=twins
 51	neː	neː	PART	_	PartType=Foc	50	discourse@foc	_	Gloss=Emph
 52	zaː-	zâː-	PART	_	PartType=TAM|Tense=Fut	54	mod/m	_	Gloss=Fut-|SpaceAfter=No
 53	'à=	a	PRON	_	Person=4|PronType=PrsSubj|Tense=Fut	54	subj/m	_	Gloss=4=|wordform=zaː'à

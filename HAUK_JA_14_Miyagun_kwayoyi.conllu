@@ -437,7 +437,7 @@
 13	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	14	subj/m	_	Gloss=3Plur|SpaceAfter=No
 14	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	7	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=sukèː
 15	yawàn	yawàn	ADJ	_	Gender=Masc	16	mod	_	Gloss=quantity.Masc
-16	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	14	comp:pred	_	Gloss=do.Vnoun.Masc|RelRole=pred|SpaceAfter=No
+16	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	14	comp:pred	_	Gloss=do.Vnoun.Masc|RelPos=Yes|SpaceAfter=No
 17	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
 # sent_id = 14_Miyagun_kwayoyi_11

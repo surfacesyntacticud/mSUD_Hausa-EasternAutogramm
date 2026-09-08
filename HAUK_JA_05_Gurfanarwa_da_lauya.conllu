@@ -562,7 +562,7 @@
 4	Chief	Chief	PROPN	_	_	6	subj	_	Gloss=Chief
 5	G.F.	G.F.	PROPN	_	_	4	mod@appos	_	Gloss=G.F.
 6	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	3	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|SpaceAfter=No
-7	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:pred	_	Gloss=do.Vnoun.Masc|RelRole=pred
+7	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:pred	_	Gloss=do.Vnoun.Masc|RelPos=Yes
 8	dà	dà	ADP	_	_	7	comp:obl	_	Gloss=with
 9	hukuːmoːmiː	hùkuːmàː	NOUN	_	Number=Plur	8	comp	_	Gloss=authority.Plur
 10	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	12	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː

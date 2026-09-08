@@ -306,7 +306,7 @@
 25	dà	dà	SCONJ	_	_	24	mod@relcl	_	Gloss=CompRel|Relz=Word
 26	a-	a-	PRON	_	Person=4|PronType=Prs	27	subj/m	_	Gloss=4|SpaceAfter=No
 27	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	25	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
-28	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	27	comp:pred	_	Gloss=do.Vnoun.Masc|RelRole=pred
+28	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	27	comp:pred	_	Gloss=do.Vnoun.Masc|RelPos=Yes
 29	à	à	ADP	_	_	28	mod	_	Gloss=at
 30	cikin	cikin	ADP	_	_	29	comp	_	Gloss=inside
 31	Nàːjeːr̃iyàr̃	Nàːjeːr̃iyàː	PROPN	_	Definite=Def|Gender=Fem	30	comp	_	Gloss=Nigeria.Def
@@ -496,6 +496,6 @@
 41	dà	dà	SCONJ	_	_	40	mod@relcl	_	Gloss=CompRel|Relz=Word
 42	a-	a-	PRON	_	Person=4|PronType=Prs	43	subj/m	_	Gloss=4|SpaceAfter=No
 43	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	41	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
-44	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	43	comp:pred	_	Gloss=do.Vnoun.Masc|RelRole=pred|SpaceAfter=No
+44	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	43	comp:pred	_	Gloss=do.Vnoun.Masc|RelPos=Yes|SpaceAfter=No
 45	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
