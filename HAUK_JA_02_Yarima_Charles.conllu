@@ -207,7 +207,7 @@
 25	a-	a	PRON	_	Person=4|PronType=PrsSubj	27	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 26	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	27	mod/m	_	Gloss=Perf.Rel.Plur=|Relz=Affix|wordform=kà
 27	yi	yi	VERB	_	_	24	comp	_	ClauseType=Rel|Gloss=do|RelRole=obl
-28	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	27	comp:obl	_	Gloss=3Masc.Dat|RelPos=Yes
+28	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	27	comp:obl	_	Gloss=3Masc.Dat
 29	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	27	mod	_	Gloss=time.Masc.Def
 30	dà	dà	SCONJ	_	_	29	comp:obl	_	Gloss=COMP
 31	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	33	subj	_	Gloss=Nigeria
@@ -339,7 +339,7 @@
 42	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	44	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 43	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	44	mod/m	_	Gloss=Perf.Rel.Plur=|Relz=Affix|wordform=kà
 44	yi	yi	VERB	_	_	38	comp	_	ClauseType=Rel|Gloss=do|RelRole=obl
-45	musù	musù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	44	comp:obl	_	Gloss=3Plur.Dat|RelPos=Yes|SpaceAfter=No
+45	musù	musù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	44	comp:obl	_	Gloss=3Plur.Dat|SpaceAfter=No
 46	.	.	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 
 # sent_id = 02_Yarima_Charles_9
