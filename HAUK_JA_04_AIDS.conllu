@@ -340,8 +340,8 @@
 22	dà	dà	SCONJ	_	_	19	mod@relcl	_	Gloss=CompRel|Relz=Word
 23	a-	a	PRON	_	Person=4|PronType=PrsSubj	25	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 24	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	25	mod/m	_	Gloss=Perf.Rel.Plur=|Relz=Affix|wordform=kà
-25	yi	yi	VERB	_	_	22	comp	_	ClauseType=Rel|Gloss=do|RelRole=obj
-26	wà	mà	ADP	_	Case=Dat	25	comp:obl	_	Gloss=Dat
+25	yi	yi	VERB	_	_	22	comp	_	ClauseType=Rel|Gloss=do
+26	wà	mà	ADP	_	Case=Dat	25	comp:obl	_	Gloss=Dat|RelRole=obj
 27	gwajìː	gwajìː	NOUN	_	Gender=Masc	25	comp:pred	_	Gloss=test.Masc
 28	à	à	ADP	_	_	25	mod	_	Gloss=at
 29	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	31	det	_	Gloss=some.Masc.Spec
@@ -374,7 +374,7 @@
 # sent_id = 04_AIDS_10
 # text_ortho = À Nàːjeːr̃iyàː dai bà à yi wani bìncìkeː ba don tabbatar̃ dà yawàn mutàːnên dà kèː ɗàuke dà ƙwaːyoːyin cùːtâr̃ à jìkinsù kàmar̃ yaddà akà yi à Àbìjân.
 # text_en = In Nigeria indeed, no research has been done to find the number of people who carry the virus in their body as it has been done in Abidjan.
-# text = à Nàːjeːr̃iyàː dai bà'à yi wani bìncìkeː ba don tabbatar̃ dà yawàn mutàːnên dà kèː ɗàuke dà ƙwaːyoːyin cùːtâr̃ à jìkinsù kàmar̃ yaddà akà yi à Àbìjân.
+# text = à Nàːjeːr̃iyàː dai bà-'à=yi wani bìncìkeː ba don tabbatar̃ dà yawà-n mutàːnên dà kèː ɗàuke dà ƙwaːyoːyi-n cùːtâr̃ à jìki-n-sù kàmar̃ yaddà a-kà= yi à Àbìjân.
 1	à	à	ADP	_	_	6	mod	_	Gloss=at
 2	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	1	comp	_	Gloss=Nigeria
 3	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
@@ -402,10 +402,10 @@
 25	-n	na	PART	_	Case=Gen|PartType=Case	24	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 26	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	25	comp	_	Gloss=3Plur.Gen
 27	kàmar̃	kàmar̃	ADP	_	_	6	mod	_	Gloss=like
-28	yaddà	yaddà	ADV	_	PronType=Rel	27	comp	_	ClauseType=Rel|Gloss=how.Rel|Relz=Word
+28	yaddà	yaddà	ADV	_	PronType=Rel	27	comp	_	Gloss=how.Rel|RelAnt=Yes|Relz=Word
 29	a-	a	PRON	_	Person=4|PronType=PrsSubj	31	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 30	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	31	mod/m	_	Gloss=Perf.Rel.Plur=|Relz=Affix|wordform=kà
-31	yi	yi	VERB	_	_	28	mod@relcl	_	Gloss=do|RelRole=mod
+31	yi	yi	VERB	_	_	28	mod@relcl	_	ClauseType=Rel|Gloss=do|RelRole=mod
 32	à	à	ADP	_	_	31	mod	_	Gloss=at
 33	Àbìjân	Àbìjân	PROPN	_	_	32	comp	_	Gloss=Abijan|SpaceAfter=No
 34	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
@@ -626,7 +626,7 @@
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=CompRel|Relz=Word
 4	a-	a	PRON	_	Person=4|PronType=PrsSubj	6	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 5	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	6	mod/m	_	Gloss=Perf.Rel.Plur=|Relz=Affix|wordform=kà
-6	yi	yi	VERB	_	_	3	comp	_	ClauseType=Rel|Gloss=do|RelRole=obl
+6	yi	yi	VERB	_	_	3	comp	_	ClauseType=Rel|Gloss=do
 7	hiːr̃a	hiːr̃a	NOUN	_	Gender=Fem	6	comp:pred	_	Gloss=conversation.Fem
 8	dà	dà	ADP	_	_	6	comp:obl	_	Gloss=with
 9	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	8	comp	_	Gloss=3Masc.Nom|RelPos=Yes

@@ -163,7 +163,7 @@
 18	ɓaːcì	ɓaːt-	VERB	_	_	4	comp:obj	_	Gloss=spoil|SpaceAfter=No
 19	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
 20	ta	ta	ADP	_	_	18	mod	_	Gloss=via
-21	yaddà	yaddà	ADV	_	ExtPos=SCONJ|PronType=Rel	20	comp	_	ClauseType=Rel|Gloss=how.Rel|Relz=Word
+21	yaddà	yaddà	ADV	_	PronType=Rel	20	comp	_	Gloss=how.Rel|RelAnt=Yes|Relz=Word
 22	har̃	har̃	ADV	_	_	28	mod	_	Gloss=even
 23	'ya	ɗaː	NOUN	_	Number=Plur	28	subj	_	Compound=Yes|Gloss=child.Plur|SpaceAfter=No|wordform='yan
 24	-n	na	PART	_	Case=Gen|PartType=Case	23	udep/m	_	Gloss=Gen.Fem

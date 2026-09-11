@@ -479,7 +479,7 @@
 # sent_id = 11_Fela_Kuti_13
 # text_en = After four years, he came back to Nigeria where he kept practising, and used different styles of music and songs.
 # text_ortho = Baːyan shèːkàruː huɗu nèː ya koːmàː Nàːjeːr̃iyàː indà ya yi ta gwajìː, kuma yanàː àmfàːniː dà salon kàɗe-kàɗe dà wàːƙe-wàːƙe irìː-irìː.
-# text = baːyan shèːkàruː huɗu nèː ya= koːmàː Nàːjeːr̃iyàː indà ya= yi ta gwajìː, kuma yanàː= àmfàːniː dà salo-n kàɗe-kàɗe dà wàːƙe-wàːƙe irìː-irìː.
+# text = baːyan shèːkàruː huɗu nèː ya= koːmàː Nàːjeːr̃iyàː indà ya= yi ta gwajìː, kuma ya-nàː àmfàːniː dà salo-n kàɗe-kàɗe dà wàːƙe-wàːƙe irìː-irìː.
 1	baːyan	baːyan	ADP	_	_	7	mod	_	Gloss=after
 2	shèːkàruː	shèːkaràː	NOUN	_	Number=Plur	1	comp	_	Gloss=year.Plur
 3	huɗu	huɗu	NUM	_	_	2	mod:num	_	Gloss=four
@@ -489,11 +489,11 @@
 6	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=UNDERSCORE
 7	koːmàː	koːm-	VERB	_	_	0	root	_	Gloss=go_(back)_to
 8	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	7	comp:obj@G	_	Gloss=Nigeria
-9	indà	indà	ADV	_	ExtPos=SCONJ|PronType=Rel	8	mod:appos@relcl	_	Gloss=where.Rel|Relz=Word
+9	indà	indà	ADV	_	ExtPos=SCONJ|PronType=Rel	8	mod:appos@relcl	_	Gloss=where.Rel|RelAnt=Yes|Relz=Word
 10-11	ya=	_	_	_	_	_	_	_	_
 10	ya-	ya	PRON	_	Gender=Fem|Mood=Rel|Person=3|PronType=PrsSubj	12	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
 11	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	12	mod/m	_	Gloss=Perf.Rel.Sing=|Relz=Affix|wordform=UNDERSCORE
-12	yi	yi	VERB	_	_	9	comp:obj	_	ClauseType=Rel|Gloss=do|RelRole=mod
+12	yi	yi	VERB	_	_	9	comp	_	ClauseType=Rel|Gloss=do|RelRole=mod
 13	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	14	mod	_	Gloss=Iter
 14	gwajìː	gwajìː	NOUN	_	Gender=Masc	12	comp:pred	_	Gloss=practice.Masc|SpaceAfter=No
 15	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT

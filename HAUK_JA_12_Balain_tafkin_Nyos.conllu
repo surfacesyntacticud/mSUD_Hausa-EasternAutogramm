@@ -634,7 +634,7 @@
 7	zaː-	zâː-	PART	_	PartType=TAM|Tense=Fut	9	mod/m	_	Gloss=Fut-|SpaceAfter=No
 8	sù=	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj|Tense=Fut	9	subj/m	_	Gloss=3Plur=|wordform=zaːsù
 9	iyà	iy-	VERB	_	_	4	comp	_	ClauseType=Rel|Gloss=be_able_to
-10	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	9	comp:obj	_	Gloss=do|RelRole=obj
+10	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	9	comp:obj	_	Gloss=do|RelRole=pred
 11	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	0	root	_	Gloss=3Masc.Nom
 12	nèː	neː	AUX	_	Copula=Yes	11	discourse@foc	_	Gloss=Equ.Masc/Plur
 13	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	15	subj/m	_	Gloss=3.Plur-|SpaceAfter=No|wordform=sù

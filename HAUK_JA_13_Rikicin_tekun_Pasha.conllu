@@ -211,7 +211,7 @@
 28	ƙàwànceː	ƙàwànceː	NOUN	_	Gender=Masc	27	comp	_	Gloss=coalition.Masc
 29	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	30	subj/m	_	Gloss=3Plur-|SpaceAfter=No
 30	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	25	comp	_	ClauseType=Rel|Gloss=be.Rel|Relz=Affix|wordform=sukèː
-31	Ø	yi	VERB	_	_	30	comp:pred	_	Gloss=do|RelRole=obj
+31	Ø	yi	VERB	_	_	30	comp:pred	_	Gloss=do|RelRole=pred
 32	wà	mà	ADP	_	Case=Dat	31	comp:obl	_	Gloss=Dat
 33	Ìr̃aːƙì	Ìr̃aːƙì	PROPN	_	_	32	comp	_	Gloss=Irak
 34	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
@@ -372,7 +372,7 @@
 28-29	ta=	_	_	_	_	_	_	_	_
 28	ta-	ta	PRON	_	Gender=Fem|Mood=Rel|Person=3|PronType=PrsSubj	30	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=ta
 29	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	30	mod/m	_	Gloss=Perf.Rel.Sing=|Relz=Affix|wordform=UNDERSCORE
-30	yi	yi	VERB	_	_	26	comp	_	ClauseType=Rel|Gloss=do|RelRole=obj
+30	yi	yi	VERB	_	_	26	comp	_	ClauseType=Rel|Gloss=do|RelRole=pred
 31	wà	mà	ADP	_	Case=Dat	30	comp:obl	_	Gloss=Dat
 32	Kùwât	Kùwât	PROPN	_	_	31	comp	_	Gloss=Kuweit
 33	.	.	PUNCT	_	_	37	punct	_	Gloss=PUNCT
@@ -454,7 +454,7 @@
 # sent_id = 13_Rikicin_tekun_Pasha_10-1
 # text_en = The first demonstration took place in Katsina where hundreds of youths demonstrated against President 'George Bush' and President Saddam Hussein.
 # text_ortho = An yi zàngà-zangàr̃ farkoː nèː à bir̃nin Kàtsinà indà ɗaruːruwàn matàːsaː sukà yi zàngà-zangàr̃ nuːnà rashìn goːyon baːyan Shùːgàbaː " George Bush " dà kuma Shùːgàbaː Saddam Hussein.
-# text = an yi zàngà-zangàr̃ farkoː nèː à bir̃nin Kàtsinà indà ɗaruːruwàn matàːsaː sukà yi zàngà-zangàr̃ nuːnà rashìn goːyon baːyan Shùːgàbaː " George Bush " dà kuma Shùːgàbaː Saddam Hussein.
+# text = a-n= yi zàngà-zangà-r̃ farkoː nèː à bir̃ni-n Kàtsinà indà ɗaruːruwà-n matàːsaː su-kà= yi zàngà-zangà-r̃ nuːnà rashì-n goːyo-n baːya-n Shùːgàbaː " George Bush " dà kuma Shùːgàbaː Saddam Hussein.
 1	a-	a	PRON	_	Person=4|PronType=PrsSubj	3	subj/m	_	Gloss=4|SpaceAfter=No|wordform=an
 2	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	3	mod/m	_	Gloss=Perf.Plur=|wordform=n
 3	yi	yi	VERB	_	_	0	root	_	Gloss=do
@@ -463,16 +463,16 @@
 6	farkoː	farkoː	NOUN	_	Gender=Masc	5	comp	_	Gloss=beginning.Masc
 7	nèː	neː	PART	_	PartType=Foc	3	discourse@foc	_	Gloss=Emph
 8	à	à	ADP	_	_	3	mod	_	Gloss=at
-9	bir̃ni	bir̃niː	NOUN	_	Gender=Masc	8	comp	_	Gloss=city.Masc|SpaceAfter=No|wordform=bir̃nin
+9	bir̃ni	bir̃niː	NOUN	_	Gender=Masc	8	comp	_	Gloss=city.Masc|RelAnt=Yes|SpaceAfter=No|wordform=bir̃nin
 10	-n	na	PART	_	Case=Gen|PartType=Case	9	mod/m	_	Gloss=Gen.Masc/Plur
 11	Kàtsinà	Kàtsinà	PROPN	_	_	10	comp	_	Gloss=Kàtsinà
-12	indà	indà	ADV	_	ExtPos=SCONJ|PronType=Rel	9	mod:appos@relcl	_	Gloss=where.Rel|Relz=Word
+12	indà	indà	SCONJ	_	ExtPos=ADV|PronType=Rel	9	mod:appos@relcl	_	Gloss=where.Rel|Relz=Word
 13	ɗaruːruwà	ɗàriː	NOUN	_	Number=Plur	18	subj	_	Gloss=hundred.Plur|SpaceAfter=No|wordform=ɗaruːruwàn
 14	-n	na	PART	_	Case=Gen|PartType=Case	13	mod/m	_	Gloss=Gen.Masc/Plur
 15	matàːsaː	matàːshiː	NOUN	_	Number=Plur	14	comp	_	Gloss=youth.Plur
 16	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	18	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 17	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	18	mod/m	_	Gloss=Perf.Rel.Plur=|Relz=Affix|wordform=kà
-18	yi	yi	VERB	_	_	12	comp:obj	_	ClauseType=Rel|Gloss=do|RelRole=mod
+18	yi	yi	VERB	_	_	12	comp	_	ClauseType=Rel|Gloss=do|RelRole=mod
 19	zàngà-zangà	zàngà-zangà	NOUN	_	Gender=Fem	18	comp:pred	_	Gloss=demonstration.Fem|SpaceAfter=No|wordform=zàngà-zangàr̃
 20	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	19	mod/m	_	Gloss=Gen.Fem
 21	nuːnà	nuːn-	VERB	_	_	20	comp	_	Gloss=show
@@ -506,7 +506,7 @@
 6	biyûn	biyû	NUM	_	Definite=Def	5	comp	_	Gloss=two.Def
 7	à	à	ADP	_	_	3	mod	_	Gloss=at
 8	Kanòː	Kanòː	PROPN	_	_	7	comp	_	Gloss=Kanòː
-9	indà	indà	ADV	_	ExtPos=SCONJ|PronType=Rel	8	mod:appos@relcl	_	Gloss=where.Rel|Relz=Word
+9	indà	indà	ADV	_	ExtPos=SCONJ|PronType=Rel	8	mod:appos@relcl	_	Gloss=where.Rel|RelAnt=Yes|Relz=Word
 10	'ya	ɗaː	NOUN	_	Number=Plur	18	subj	_	Compound=Yes|Gloss=child.Plur|SpaceAfter=No|wordform='yan
 11	-n	na	PART	_	Case=Gen|PartType=Case	10	udep/m	_	Gloss=Gen.Fem
 12	sànda	sàndaː	NOUN	_	Gender=Masc	11	comp	_	Compound=Yes|Gloss=baton.Masc|SpaceAfter=No|wordform=sàndan
@@ -720,8 +720,8 @@
 12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=CompRel|Relz=Word
 13	a-	a	PRON	_	Person=4|PronType=PrsSubj	15	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=aka
 14	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	15	mod/m	_	Gloss=Perf.Rel.Plur=|Relz=Affix|wordform=kà
-15	yi	yi	VERB	_	_	12	comp	_	ClauseType=Rel|Gloss=do|RelRole=subj
-16	duk	dukà	DET	_	PronType=Tot	15	mod	_	Gloss=all
+15	yi	yi	VERB	_	_	12	comp	_	ClauseType=Rel|Gloss=do|RelRole=pred
+16	duk	dukà	DET	_	PronType=Tot	11	det	_	Gloss=all
 17	à	à	ADP	_	_	15	mod	_	Gloss=at
 18	Kàtsinà	Kàtsinà	PROPN	_	_	17	comp	_	Gloss=Kàtsinà
 19	dà	dà	CCONJ	_	_	21	cc	_	Gloss=and
@@ -738,7 +738,7 @@
 30-31	ya=	_	_	_	_	_	_	_	_
 30	ya-	ya	PRON	_	Gender=Fem|Mood=Rel|Person=3|PronType=PrsSubj	32	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
 31	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	32	mod/m	_	Gloss=Perf.Rel.Sing=|Relz=Affix|wordform=UNDERSCORE
-32	yi	yi	VERB	_	_	26	comp	_	ClauseType=Rel|Gloss=do|RelRole=subj
+32	yi	yi	VERB	_	_	26	comp	_	ClauseType=Rel|Gloss=do|RelRole=pred
 33	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	25	mod	_	Gloss=Gen
 34	a-	a	PRON	_	Person=4|PronType=PrsSubj	36	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
 35	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	36	mod/m	_	Gloss=Sub=
