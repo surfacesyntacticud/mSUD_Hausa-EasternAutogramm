@@ -380,10 +380,10 @@
 # text_en = Those who died during the crisis, according the country authorities, are just three, although some student sources and hospital workers said that more than ten people died.
 # text_ortho = Waɗàndà sukà ràsu à loːkàcin rìkicîn dai, kàmar̃ yaddà mahùkùntan ƙasâr̃ sukà cêː, suː ukù neː kaɗai, koː dà yakèː wasu kafoːfin ɗàːlìban ƙasâr ̃dà ma'àikàtan asìbitì sun cêː fìye dà mutàneː goːmà neː sukà mutù.
 # text = waɗàndà su-kà= ràsu à loːkàci-n rìkicîn dai, kàmar̃ yaddà mahùkùnta-n ƙasâr̃ su-kà= cêː, suː ukù neː kaɗai, koː dà ya-kè wasu kafoːfi-n ɗàːlìba-n ƙasâr̃ dà ma'àikàta-n asìbitì su-n= cêː fìye dà mutàneː goːmà neː su-kà= mutù.
-1	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	22	dislocated@subj	_	ClauseType=Rel|Gloss=who.Plur.Rel|Relz=Word
+1	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	22	dislocated@subj	_	Gloss=who.Plur.Rel|RelAnt=Yes|Relz=Word
 2	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 3	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur=|Relz=Affix|wordform=kà
-4	ràsu	ràsu	VERB	_	_	1	mod@relcl	_	Gloss=die|RelRole=subj
+4	ràsu	ràsu	VERB	_	_	1	mod@relcl	_	ClauseType=Rel|Gloss=die|RelRole=subj
 5	à	à	ADP	_	_	4	mod	_	Gloss=at
 6	loːkàci	loːkàciː	NOUN	_	Gender=Masc	5	comp	_	Gloss=time.Masc|SpaceAfter=No|wordform=loːkàcin
 7	-n	na	PART	_	Case=Gen|PartType=Case	6	mod/m	_	Gloss=Gen.Masc/Plur
@@ -391,13 +391,13 @@
 9	dai	dai	PART	_	PartType=Top	4	discourse@top	_	Gloss=anyway|SpaceAfter=No
 10	,	,	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 11	kàmar̃	kàmar̃	ADP	_	_	22	mod	_	Gloss=like
-12	yaddà	yaddà	ADV	_	ExtPos=SCONJ|PronType=Rel	11	comp	_	ClauseType=Rel|Gloss=how.Rel|Relz=Word
+12	yaddà	yaddà	ADV	_	PronType=Rel	11	comp	_	Gloss=how.Rel|RelAnt=Yes|Relz=Word
 13	mahùkùnta	mahùkùnciː	NOUN	_	Number=Plur	18	subj	_	Gloss=administrator.Plur|SpaceAfter=No|wordform=mahùkùntan
 14	-n	na	PART	_	Case=Gen|PartType=Case	13	mod/m	_	Gloss=Gen.Masc/Plur
 15	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	14	comp	_	Gloss=country.Fem.Def
 16	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	18	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 17	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	18	mod/m	_	Gloss=Perf.Rel.Plur=|Relz=Affix|wordform=kà
-18	cêː	cêː	VERB	_	_	12	mod@relcl	_	Gloss=say|RelRole=mod|SpaceAfter=No|wordform=cê
+18	cêː	cêː	VERB	_	_	12	mod@relcl	_	ClauseType=Rel|Gloss=say|RelRole=mod|SpaceAfter=No|wordform=cê
 19	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 20	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	22	subj	_	Gloss=3Plur.Nom
 21	ukù	ukù	NUM	_	_	22	comp:pred	_	Gloss=three

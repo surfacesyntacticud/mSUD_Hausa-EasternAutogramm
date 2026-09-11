@@ -148,7 +148,7 @@
 16	hankàɗaː	hankaɗ-	VERB	_	_	5	parataxis:conj	_	Gloss=push
 17	-su	-su	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	16	comp:obj/m	_	Gloss=-3Plur.Acc|wordform=su
 18	ta	ta	ADP	_	_	16	comp:obl	_	Gloss=via
-19	indà	indà	ADV	_	PronType=Rel	18	comp	_	ClauseType=Rel|Gloss=where.Rel|Relz=Word
+19	indà	indà	ADV	_	PronType=Rel	18	comp	_	Gloss=where.Rel|RelAnt=Yes|Relz=Word
 20	ruwa	ruwaː	NOUN	_	Gender=Masc	24	subj	_	Gloss=water.Masc|SpaceAfter=No|wordform=ruwan
 21	-n	na	PART	_	Case=Gen|PartType=Case	20	udep/m	_	Gloss=Gen.Masc/Plur
 22	kòːgiː	kòːgiː	NOUN	_	Gender=Masc	21	comp	_	Gloss=river.Masc
@@ -228,16 +228,16 @@
 7	dà	dà	ADP	_	_	6	comp:obl	_	Gloss=with
 8	bàyaːnì	bàyaːnìː	NOUN	_	Gender=Masc	7	comp	_	Gloss=explanation.Masc|SpaceAfter=No|wordform=bàyaːnìn
 9	-n	na	PART	_	Case=Gen|PartType=Case	8	udep/m	_	Gloss=Gen.Masc/Plur
-10	yaddà	yaddà	ADV	_	ExtPos=SCONJ|PronType=Rel	9	comp	_	ClauseType=Rel|Gloss=how.Rel|Relz=Word
+10	yaddà	yaddà	ADV	_	PronType=Rel	9	comp	_	Gloss=how.Rel|RelAnt=Yes|Relz=Word
 11	jikunkunàn	jìkiː	NOUN	_	Definite=Def|Number=Plur	19	subj	_	Gloss=body.Plur.Def
 12	-n	na	PART	_	Case=Gen|Number=Plur|PartType=Case	11	mod/m	_	Gloss=Gen.Masc/Plur
-13	waɗàndà	wandà	PRON	_	ExtPos=SCONJ|Number=Plur|PronType=Rel	12	mod:obj	_	ClauseType=Rel|Gloss=Pron.Plur.Rel|Relz=Word
+13	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	12	mod:obj	_	Gloss=Pron.Plur.Rel|RelAnt=Yes|Relz=Word
 14	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	16	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 15	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	16	mod/m	_	Gloss=Perf.Rel.Plur=|Relz=Affix|wordform=kà
 16	tsiːrân	tsiːr-	VERB	_	Definite=Def	13	mod@relcl	_	ClauseType=Rel|Gloss=escape.Def|RelRole=subj
 17	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	19	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 18	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	19	mod/m	_	Gloss=Perf.Rel.Plur=|Relz=Affix|wordform=kà
-19	sassaːɓùːleː	sassaːɓuːl-	VERB	_	_	10	mod@relcl	_	Gloss=blister|RelRole=mod
+19	sassaːɓùːleː	sassaːɓuːl-	VERB	_	_	10	mod@relcl	_	ClauseType=Rel|Gloss=blister|RelRole=mod
 20	ba	ba	PART	_	PartType=Neg|Polarity=Neg	6	mod	_	Gloss=Neg|SpaceAfter=No
 21	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
 22	àmmaː	àmmaː	CCONJ	_	_	23	cc	_	Gloss=but
@@ -412,7 +412,7 @@
 # text_en = The way to remove the gas is to pump the water that has carbon dioxide out of the lake and remove it altogether.
 # text_ortho = Yaddà zaː'à iyà cirèː gâs ɗîn shiː nèː à yi famfòn ruwân dà kèː dà carbon dioxide dàgà cikin tafkìn, à fid dà shiː gàbaː ɗayansà .
 # text = yaddà zaː'à= iyà cirèː gâs ɗîn shiː nèː à= yi famfò-n ruwân dà kèː= dà carbon dioxide dàgà cikin tafkìn, à= fid dà shiː gàbaː ɗaya-n-sà .
-1	yaddà	yaddà	ADV	_	ExtPos=SCONJ|PronType=Rel	8	dislocated@top	_	ClauseType=Rel|Gloss=how.Rel|Relz=Word
+1	yaddà	yaddà	ADV	_	PronType=Rel	8	dislocated@top	_	Gloss=how.Rel|RelAnt=Yes|Relz=Word
 2	zaː-	zâː-	PART	_	PartType=TAM|Tense=Fut	4	mod/m	_	Gloss=Fut-|SpaceAfter=No
 3	'à=	a	PRON	_	Person=4|PronType=PrsSubj|Tense=Fut	4	subj/m	_	Gloss=4=|wordform=zaː'à
 4	iyà	iy-	VERB	_	_	1	mod@relcl	_	ClauseType=Rel|Gloss=be_able_to
@@ -646,10 +646,10 @@
 19	neːsà	neːsà	ADV	_	_	18	comp:obj@G	_	Gloss=far
 20	ƙwar̃ai	ƙwar̃ai	ADV	_	_	19	mod	_	Gloss=really
 21	dàgà	dàgà	ADP	_	_	19	mod	_	Gloss=from
-22	indà	indà	ADV	_	PronType=Rel	21	comp	_	ClauseType=Rel|Gloss=where.Rel|Relz=Word
+22	indà	indà	ADV	_	PronType=Rel	21	comp	_	Gloss=where.Rel|RelAnt=Yes|Relz=Word
 23	tafkìn	tafkìː	NOUN	_	Definite=Def|Gender=Masc	25	subj	_	Gloss=lake.Masc.Def|wordform=tar̃kin
 24	ya-	ya-	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	25	subj/m	_	Gloss=3Masc-|SpaceAfter=No
-25	kè	nàː	AUX	_	Copula=Yes|Mood=Rel	22	mod@relcl	_	Gloss=bePred.Rel2|RelRole=pred|Relz=Affix|SpaceAfter=No|wordform=yakè
+25	kè	nàː	AUX	_	Copula=Yes|Mood=Rel	22	mod@relcl	_	ClauseType=Rel|Gloss=bePred.Rel2|RelRole=pred|Relz=Affix|SpaceAfter=No|wordform=yakè
 26	.	.	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 
 # sent_id = 12_Bala'in_tafkin_Nyos_17
@@ -690,7 +690,7 @@
 31	san	sanìː	VERB	_	_	26	comp:cleft	_	ClauseType=Cleft|Gloss=know
 32	yawà	yawàn	NOUN	_	Gender=Masc	31	comp:obj	_	Gloss=quantity.Masc|SpaceAfter=No|wordform=yawàn
 33	-n	na	PART	_	Case=Gen|PartType=Case	32	mod/m	_	Gloss=Gen.Masc/Plur
-34	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	33	comp	_	ClauseType=Rel|Gloss=Pron.Plur.Rel|Relz=Word|wordform=wadandal
+34	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	33	comp	_	Gloss=Pron.Plur.Rel|RelAnt=Yes|Relz=Word|wordform=wadandal
 35	zaː-	zâː-	PART	_	PartType=TAM|Tense=Fut	37	mod/m	_	Gloss=Fut-|SpaceAfter=No
 36	sù=	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj|Tense=Fut	37	subj/m	_	Gloss=3Plur=|wordform=zaːsù
 37	mutù	mutù	VERB	_	_	34	mod@relcl	_	ClauseType=Rel|Gloss=die|RelRole=subj

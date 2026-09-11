@@ -244,11 +244,11 @@
 16	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	5	comp:cleft	_	ClauseType=Cleft|Gloss=Prog.Rel
 17	aikìː	aikìː	NOUN	_	Gender=Masc	16	comp:pred	_	Gloss=work.Masc
 18	kàmar̃	kàmar̃	ADP	_	_	17	mod	_	Gloss=like
-19	yaddà	yaddà	ADV	_	PronType=Rel	18	comp	_	ClauseType=Rel|Gloss=how.Rel|Relz=Word
+19	yaddà	yaddà	ADV	_	PronType=Rel	18	comp	_	Gloss=how.Rel|RelAnt=Yes|Relz=Word
 20-21	ya=	_	_	_	_	_	_	_	_
 20	ya-	ya	PRON	_	Gender=Fem|Mood=Rel|Person=3|PronType=PrsSubj	22	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
 21	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	22	mod/m	_	Gloss=Perf.Rel.Sing=|Relz=Affix|wordform=UNDERSCORE
-22	kàmaːtà	kamaːt-	VERB	_	_	19	mod@relcl	_	Gloss=be_appropriate|RelRole=mod
+22	kàmaːtà	kamaːt-	VERB	_	_	19	mod@relcl	_	ClauseType=Rel|Gloss=be_appropriate|RelRole=mod
 23	ba	ba	PART	_	PartType=Neg|Polarity=Neg	5	mod	_	Gloss=Neg|SpaceAfter=No
 24	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
@@ -514,10 +514,10 @@
 16	wataƙiːlà	wataƙiːlà	ADV	_	_	17	mod	_	Gloss=maybe
 17	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	14	comp:obj	_	Gloss=3Masc.Nom|RelPos=Yes
 18	nèː	neː	AUX	_	Copula=Yes	17	discourse@foc	_	ClauseType=Rel|Gloss=Equ.Masc/Plur
-19	gandu	ganduː	NOUN	_	Gender=Masc	17	comp:cleft	_	ClauseType=cleft|Gloss=ranch.Masc|RelAnt=Yes|SpaceAfter=No|wordform=gandun
+19	gandu	ganduː	NOUN	_	Gender=Masc	17	comp:cleft	_	Gloss=ranch.Masc|RelAnt=Yes|SpaceAfter=No|wordform=gandun
 20	-n	na	PART	_	Case=Gen|PartType=Case	19	mod/m	_	Gloss=Gen.Masc/Plur
 21	daːjìn	daːjìː	NOUN	_	Definite=Def|Gender=Masc	20	comp	_	Gloss=bush.Masc.Def
-22	dà	dà	SCONJ	_	_	19	mod@relcl	_	Gloss=CompRel|Relz=Word
+22	dà	dà	SCONJ	_	_	19	mod@relcl	_	ClauseType=Rel|Gloss=CompRel|Relz=Word
 23-24	ya=	_	_	_	_	_	_	_	_
 23	ya-	ya	PRON	_	Gender=Fem|Mood=Rel|Person=3|PronType=PrsSubj	25	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
 24	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	25	mod/m	_	Gloss=Perf.Rel.Sing=|Relz=Affix|wordform=UNDERSCORE

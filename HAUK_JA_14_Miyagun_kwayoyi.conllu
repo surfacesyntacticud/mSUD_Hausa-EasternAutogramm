@@ -291,12 +291,12 @@
 # text_ortho = Kàmar̃ yaddà Hùkuːmàr̃ ta cèː, an sàːmu nasar̃àr̃ kaːmà mutàːnên neː sabòːdà binciken àsiːr̃iː dà akà yi ta yîː bâː jîː bâː ganiː, wàndà har̃ ya yi sànàdiyyàr̃ ƙòːƙarîn dà ma'àikàtan Hùkuːmàr̃ sukà yi à fiːlin jirgin samàn Ìkko.
 # text = kàmar̃ yaddà Hùkuːmàr̃ ta= cèː, a-n= sàːmu nasar̃à-r̃ kaːmà mutàːnên neː sabòːdà bincike-n àsiːr̃iː dà a-kà= yi ta yîː bâː jîː bâː ganiː, wàndà har̃ ya= yi sànàdiyyà-r̃ ƙòːƙarîn dà ma'àikàta-n Hùkuːmàr̃ su-kà= yi à fiːli-n jirgi-n samà -n Ìkko.
 1	kàmar̃	kàmar̃	ADP	_	_	10	mod	_	Gloss=like|wordform=Kàmar
-2	yaddà	yaddà	ADV	_	ExtPos=SCONJ|PronType=Rel	1	comp	_	ClauseType=Rel|Gloss=how.Rel|Relz=Word
+2	yaddà	yaddà	ADV	_	PronType=Rel	1	comp	_	Gloss=how.Rel|RelAnt=Yes|Relz=Word
 3	Hùkuːmàr̃	hùkuːmàː	NOUN	_	Definite=Def|Gender=Fem	6	subj	_	Gloss=agency.Fem.Def
 4-5	ta=	_	_	_	_	_	_	_	_
 4	ta-	ta	PRON	_	Gender=Fem|Mood=Rel|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=ta
 5	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	6	mod/m	_	Gloss=Perf.Rel.Sing=|Relz=Affix|wordform=UNDERSCORE
-6	cèː	cêː	VERB	_	Gender=Fem	2	mod@relcl	_	Gloss=be.Fem|RelRole=mod|SpaceAfter=No
+6	cèː	cêː	VERB	_	Gender=Fem	2	mod@relcl	_	ClauseType=Rel|Gloss=be.Fem|RelRole=mod|SpaceAfter=No
 7	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 8	a-	a	PRON	_	Person=4|PronType=PrsSubj	10	subj/m	_	Gloss=4|SpaceAfter=No|wordform=an
 9	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	10	mod/m	_	Gloss=Perf.Plur=|wordform=n
@@ -373,24 +373,24 @@
 20	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	22	mod/m	_	Gloss=Perf.Sing=|wordform=aː
 21	kuma	kuma	PART	_	PartType=Top	22	discourse@top	_	Gloss=also
 22	tsarè	tsar-	VERB	_	_	0	root	_	Gloss=imprison
-23	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	22	comp:obj	_	ClauseType=Rel|Gloss=Pron.Masc.Rel|Relz=Word
+23	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	22	comp:obj	_	Gloss=Pron.Masc.Rel|RelAnt=Yes|Relz=Word
 24	a-	a-	PRON	_	Person=4|PronType=Prs	25	subj/m	_	Gloss=4|SpaceAfter=No
-25	kèː	nàː	AUX	_	Copula=Yes|Mood=Rel	23	mod@relcl	_	Gloss=bePred.Rel|Relz=Affix|wordform=akèː
+25	kèː	nàː	AUX	_	Copula=Yes|Mood=Rel	23	mod@relcl	_	ClauseType=Rel|Gloss=bePred.Rel|Relz=Affix|wordform=akèː
 26	zàrgiː	zarg-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	25	comp:pred	_	Gloss=accuse.Vnoun.Masc|RelRole=obj
 27	dà	dà	ADP	_	_	26	comp:obl	_	Gloss=with
 28	ɗaukà	ɗauk-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	27	comp	_	Gloss=take.Vnoun.Fem|SpaceAfter=No|wordform=ɗaukàr̃
 29	-r̃	na	PART	_	Case=Gen|PartType=Case	28	udep/m	_	Gloss=Gen.Fem
 30	ƙwaːyoːyîn	ƙwàːyaː	NOUN	_	Definite=Def|Number=Plur	29	comp	_	Gloss=virus.Plur.Def|SpaceAfter=No
 31	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT
-32	wàndà	wandà	PRON	_	Gender=Masc|PronType=Rel	23	conj:coord	_	ClauseType=Rel|Gloss=Pron.Masc.Rel|Relz=Word|wordform=wanda
+32	wàndà	wandà	PRON	_	Gender=Masc|PronType=Rel	23	conj:coord	_	Gloss=Pron.Masc.Rel|RelAnt=Yes|Relz=Word|wordform=wanda
 33	kuma	kuma	PART	_	PartType=Top	32	discourse@top	_	Gloss=also
 34	a-	a	PRON	_	Person=4|PronType=PrsSubj	36	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 35	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	36	mod/m	_	Gloss=Perf.Rel.Plur=|Relz=Affix|wordform=kà
-36	cêː	cêː	VERB	_	_	32	mod@relcl	_	ClauseType=Rel|Gloss=say|wordform=cê
+36	cêː	cêː	VERB	_	_	32	mod@relcl	_	Gloss=say|RelAnt=Yes|wordform=cê
 37-38	ya=	_	_	_	_	_	_	_	_
 37	ya-	ya	PRON	_	Gender=Fem|Mood=Rel|Person=3|PronType=PrsSubj	39	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
 38	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	39	mod/m	_	Gloss=Perf.Rel.Sing=|Relz=Affix|wordform=UNDERSCORE
-39	haɗìyeː	haɗìy-	VERB	_	_	36	mod@relcl	_	Gloss=swallow|RelRole=subj
+39	haɗìyeː	haɗìy-	VERB	_	_	36	mod@relcl	_	ClauseType=Rel|Gloss=swallow|RelRole=subj
 40	hoːdà	hoːdàː	NOUN	_	Gender=Fem	39	comp:obj	_	Gloss=powder.Fem|SpaceAfter=No|wordform=hoːdàr̃
 41	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	40	mod/m	_	Gloss=Gen.Fem
 42	kòːkên	kòːkên	NOUN	_	Gender=Fem	41	comp	_	Gloss=cocaine.Fem
@@ -494,7 +494,7 @@
 13	cikin	cikin	ADP	_	_	12	comp	_	Gloss=inside
 14	cikì	cikìː	NOUN	_	Gender=Masc	13	comp	_	Gloss=belly.Masc|SpaceAfter=No|wordform=cikìn
 15	-n	na	PART	_	Case=Gen|PartType=Case	14	udep/m	_	Gloss=Gen.Masc/Plur
-16	wàɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	15	comp	_	ClauseType=Rel|Gloss=Pron.Plur.Rel|Relz=Word|wordform=wadandal
+16	wàɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	15	comp	_	Gloss=Pron.Plur.Rel|RelAnt=Yes|Relz=Word|wordform=wadandal
 17	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	16	mod@relcl	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj
 18	ɗàuke	ɗauk-	VERB	_	ExtPos=ADV|VerbForm=Part	17	comp:pred	_	Gloss=take.Part
 19	dà	dà	CCONJ	_	_	18	comp:obl	_	Gloss=and|wordform=da
