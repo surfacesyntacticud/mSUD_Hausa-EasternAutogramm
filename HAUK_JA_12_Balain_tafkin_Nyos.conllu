@@ -378,14 +378,14 @@
 14	sìttin	sìttin	NUM	_	_	12	mod:num	_	Gloss=sixty
 15	à	à	ADP	_	_	8	comp:pred	_	Gloss=at
 16	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	17	det	_	Gloss=ProxS.Masc
-17	yankìː	yankìː	NOUN	_	Gender=Masc	15	comp	_	Gloss=area.Masc
+17	yankìː	yankìː	NOUN	_	Gender=Masc	15	comp	_	Gloss=area.Masc|RelAnt=Yes
 18	à	à	ADP	_	_	17	mod	_	Gloss=at
 19	cikin	cikin	ADP	_	_	18	comp	_	Gloss=inside
 20	Kàmàr̃u	Kàmàr̃u	PROPN	_	_	19	comp	_	Gloss=Cameroon
 21	dà	dà	CCONJ	_	_	22	cc	_	Gloss=and
 22	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	20	conj:coord	_	Gloss=Nigeria|SpaceAfter=No
 23	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
-24	indà	indà	ADV	_	PronType=Rel	22	mod@relcl	_	Gloss=where.Rel|Relz=Word
+24	indà	indà	SCONJ	_	ExtPos=ADV|PronType=Rel	17	mod@relcl	_	Gloss=where.Rel|Relz=Word
 25	sabòːdà	sabòːdà	ADP	_	_	32	mod	_	Gloss=because_of
 26	yanàyi	yanàyiː	NOUN	_	Gender=Masc	25	comp	_	Gloss=nature.Masc|SpaceAfter=No|wordform=yanàyin
 27	-n	na	PART	_	Case=Gen|PartType=Case	26	mod/m	_	Gloss=Gen.Masc/Plur
@@ -393,7 +393,7 @@
 29	-n	na	PART	_	Case=Gen|PartType=Case	28	mod/m	_	Gloss=Gen.Masc/Plur
 30	wurîn	wuriː	NOUN	_	Definite=Def|Gender=Masc	29	comp	_	Gloss=place.Masc.Def
 31	a-	a-	PRON	_	Person=4|PronType=Prs	32	subj/m	_	Gloss=4|SpaceAfter=No
-32	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	24	comp:obj	_	ClauseType=Rel|Gloss=Prog|wordform=anàː
+32	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	24	comp	_	ClauseType=Rel|Gloss=Prog|wordform=anàː
 33	iyà	iy-	VERB	_	_	32	comp:pred	_	Gloss=be_able_to
 34	saːmù	saːmùː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	33	comp:obj	_	Gloss=get.Vnoun.Masc|RelRole=mod|SpaceAfter=No|wordform=saːmùn
 35	-n	na	PART	_	Case=Gen|PartType=Case	34	udep/m	_	Gloss=Gen.Masc/Plur
