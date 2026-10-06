@@ -78,8 +78,8 @@
 # text_en = But here it is continuing to use a law that was edicted within days of the installation of the military regime in the country.
 # text_ortho = àmmaː gàː shi taː ci gàba dà aikìː dà wata dòːkaː dà akà kafàː cikin kwàːnàkin farkoː na kaːmà mulkìn soːjà à ƙasâr̃.
 # text = àmmaː gàː shi t-aː= ci gàba dà aikìː dà wata dòːkaː dà a-kà= kafàː cikin kwàːnàki-n farkoː na kaːmà mulkì-n soːjà à ƙasâr̃.
-1	àmmaː	àmmaː	CCONJ	_	_	6	discourse	_	Gloss=but
-2	gàː	gàː	PART	_	PartType=Pred	6	discourse	_	Gloss=here_is
+1	àmmaː	àmmaː	CCONJ	_	_	5	discourse	_	Gloss=but
+2	gàː	gàː	PART	_	PartType=Pred	5	discourse	_	Gloss=here_is
 3	shi	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	2	subj	_	Gloss=3Masc.Acc
 4	t-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	5	subj/m	_	Gloss=3Fem|SpaceAfter=No|wordform=taː
 5	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing=|wordform=aː
@@ -218,7 +218,7 @@
 # text_en = But the lawyers of the Nigerian Civil Liberties Organisation said that they are certain that this second law is used in ways that are improper - that is to say, people are imprisoned because of ordinary crimes whose nature does not concern national security or national economy.
 # text_ortho = Àmmaː suː lauyoːyiː na Ƙungìyar̃ Neːmàː wà Jàma'àː Haƙƙìnsù ta Nàːjeːr̃iyàː sun cêː sun haƙiːƙànceː anàː àmfàːniː dà wannàn Dòːkaː ta Biyu ta hanyàr̃ dà bàtà daːcèː ba - wàːtòː anàː tsarèː mutàneː sabòːdà laifuffukàː na yâu dà kullum kawài, waɗàndà al'amur̃ànsù bàsù shàːfi yîn wata maƙar̃ƙashìyaː gà laːfiyàr̃ ƙasaː koː kuma gà tattalin ar̃zìkin ƙasaː ba.
 # text = àmmaː suː lauyoːyiː na Ƙungìya-r̃ Neːmàː wà Jàma'àː Haƙƙì-n-sù ta Nàːjeːr̃iyàː su-n= cêː su-n= haƙiːƙànceː a-nàː àmfàːniː dà wannàn Dòːkaː ta Biyu ta hanyàr̃ dà bà-tà=daːcèː ba -wàːtòː a-nàː tsarèː mutàneː sabòːdà laifuffukàː na yâu dà kullum kawài, waɗàndà al'amur̃à-n-sù bà-sù=shàːfi yî-n wata maƙar̃ƙashìyaː gà laːfiyà-r̃ ƙasaː koː kuma gà tattali-n ar̃zìki-n ƙasaː ba.
-1	àmmaː	àmmaː	CCONJ	_	_	17	discourse	_	Gloss=but
+1	àmmaː	àmmaː	CCONJ	_	_	16	discourse	_	Gloss=but
 2	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	16	subj	_	Gloss=3Plur.Nom
 3	lauyoːyiː	lauyàː	NOUN	_	Number=Plur	2	conj:appos	_	Gloss=lawyer.Plur
 4	na	na	PART	_	Case=Gen|Number=Plur|PartType=Case	3	mod	_	Gloss=Gen

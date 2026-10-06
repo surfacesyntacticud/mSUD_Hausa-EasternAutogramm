@@ -454,7 +454,7 @@
 8	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	7	mod/m	_	Gloss=Gen.Fem
 9	ficèːwaː	fit-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	8	comp	_	Gloss=get_through.Vnoun.Fem|SpaceAfter=No
 10	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-11	tòː	tòː	INTJ	_	_	14	discourse	_	Gloss=well
+11	tòː	tòː	INTJ	_	_	13	discourse	_	Gloss=well
 12	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	13	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukàn
 13	kàn=	kàn=	AUX	_	Aspect=Hab|Copula=No	0	root	_	Gloss=Hab=
 14	iyà	iy-	VERB	_	_	13	comp:aux	_	Gloss=be_able_to
@@ -817,8 +817,8 @@
 # text_en = Well then Mr Oyakhilome said that without any doubt, he had some intimate relation with the womand, i.e. Jennifer Madike, and some pictures that she had taken with him at a party, they too, proved it.
 # text_ortho = Tòː sai dai Mr Oyakhilome yaː cêː baːbù shakkàː yanàː dà dàngàntakàr̃ ƙut dà ƙut dà ita màːtâr̃, wàːtòː Jennifer Madike, kuma wasu hoːtunàː dà ta ɗaukàː tàːre dà shiː à wani bìkiː, suː maː bâː shakkàː sun tabbatar̃ dà hakà.
 # text = tòː sai dai Mr Oyakhilome y-aː= cêː baːbù shakkàː ya-nàː dà dàngàntakàr̃ ƙut dà ƙut dà ita màːtâr̃, wàːtòː Jennifer Madike, kuma wasu hoːtunàː dà ta= ɗaukàː tàːre dà shiː à wani bìkiː, suː maː bâː shakkàː su-n= tabbatar̃ dà hakà.
-1	tòː	tòː	INTJ	_	_	8	discourse	_	Gloss=well
-2	sai	sai	SCONJ	_	_	8	discourse	_	Gloss=except_that
+1	tòː	tòː	INTJ	_	_	7	discourse	_	Gloss=well
+2	sai	sai	SCONJ	_	_	7	discourse	_	Gloss=except_that
 3	dai	dai	PART	_	PartType=Top	2	discourse@top	_	Gloss=anyway
 4	Mr	Mr	PROPN	_	_	7	subj	_	Gloss=Mr
 5	Oyakhilome	Oyakhilome	PROPN	_	_	4	mod@appos	_	Gloss=Oyakhilome

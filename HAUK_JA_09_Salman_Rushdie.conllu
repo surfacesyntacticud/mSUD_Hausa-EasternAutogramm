@@ -288,8 +288,8 @@
 # text_en = Well, then, a man attacked them with a screwdriver, and stabbed one of them with this screwdriver, so that it inflicted him a serious injury.
 # text_ortho = Tòː shiːkèːnan, sai wani mùtûm ya kai musù harìː dà sùkùddìr̃eːbàː indà ya daɓàː wà ɗaya dàgà cikinsù wannàn sùkùddìr̃eːbàː har̃ maː ta ji masà mùmmuːnan ràuniː.
 # text = tòː shiːkèːnan, sai wani mùtûm ya= kai musù harìː dà sùkùddìr̃eːbàː indà ya= daɓàː wà ɗaya dàgà cikin-sù wannàn sùkùddìr̃eːbàː har̃ maː ta= ji masà mùmmuːnan ràuniː.
-1	tòː	tòː	INTJ	_	_	9	discourse	_	Gloss=well
-2	shiːkèːnan	shiːkèːnan	INTJ	_	_	9	discourse	_	Gloss=OK|SpaceAfter=No
+1	tòː	tòː	INTJ	_	_	8	discourse	_	Gloss=well
+2	shiːkèːnan	shiːkèːnan	INTJ	_	_	8	discourse	_	Gloss=OK|SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 4	sai	sai	ADV	_	_	8	mod	_	Gloss=then
 5	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	6	det	_	Gloss=some.Masc.Spec
@@ -352,7 +352,7 @@
 # text_en = Well this man who did the attack accused these men who were demonstrating of supporting the publication of this book in Japanese.
 # text_ortho = Tòː shiː wannàn mùtumìn dà ya kai harìː yaː zàci cêːwaː waɗànnân mutàneː sunàː zàngà-zangà na nuːnà goːyon baːyaː nèː kân cêːwaː à bugà wannàn littaːfìn à cikin harshèn Japananciː.
 # text = tòː shiː wannàn mùtumìn dà ya kai harìː yaː zàci cêːwaː waɗànnân mutàneː sunàː zàngà-zangà na nuːnà goːyon baːyaː nèː kân cêːwaː à bugà wannàn littaːfìn à cikin harshèn Japananciː.
-1	tòː	tòː	INTJ	_	_	12	discourse	_	Gloss=well
+1	tòː	tòː	INTJ	_	_	11	discourse	_	Gloss=well
 2	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	11	dislocated@subj	_	Gloss=3Masc.Nom
 3	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	4	det	_	Gloss=ProxS.Masc
 4	mùtumìn	mùtûm	NOUN	_	Definite=Def|Gender=Masc	2	conj:appos	_	Gloss=person.Masc.Def|RelAnt=Yes
@@ -414,7 +414,7 @@
 # text_en = Then, policement caught him and took him away.
 # text_ortho = Shiːkèːnan, sai 'yan sàndaː sukà kaːmèː shi sukà yi gàba dà shiː .
 # text = shiːkèːnan, sai 'yan sàndaː sukà kaːmèː shi sukà yi gàba dà shiː .
-1	shiːkèːnan	shiːkèːnan	INTJ	_	_	9	discourse	_	Gloss=OK|SpaceAfter=No|wordform=Shikenan
+1	shiːkèːnan	shiːkèːnan	INTJ	_	_	8	discourse	_	Gloss=OK|SpaceAfter=No|wordform=Shikenan
 2	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 3	sai	sai	ADV	_	_	8	mod	_	Gloss=then
 4	'ya	ɗaː	NOUN	_	Number=Plur	8	subj	_	Compound=Yes|Gloss=child.Plur|SpaceAfter=No|wordform='yan
@@ -466,7 +466,7 @@
 # text_en = Well he, Gianni Palma, opened the meeting and they started talkin.
 # text_ortho = Tòː shiː Gianni Palma sai ya zoː ya buːɗè tàːroː akà faːrà màganàː.
 # text = tòː shiː Gianni Palma sai ya zoː ya buːɗè tàːroː akà faːrà màganàː.
-1	tòː	tòː	INTJ	_	_	8	discourse	_	Gloss=well
+1	tòː	tòː	INTJ	_	_	7	discourse	_	Gloss=well
 2	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	7	subj	_	Gloss=3Masc.Nom
 3	Gianni	Gianni	PROPN	_	_	2	conj:appos	_	Gloss=Gianni
 4	Palma	Palma	PROPN	_	_	3	mod	_	Gloss=Palma
@@ -541,7 +541,7 @@
 # text_en = Then, some secret policement and some journalists helped to catch him, handcuffed him and took him out.
 # text_ortho = Shiːkèːnan sai 'yan sàndan ciki tàːre dà wasu 'yan jàːr̃ìːduː sukà taimàkaː akà kaːmèː shi akà sakàː masà ankwàː à hannunsà akà yi wàje dà shiː.
 # text = shiːkèːnan sai 'yan sàndan ciki tàːre dà wasu 'yan jàːr̃ìːduː sukà taimàkaː akà kaːmèː shi akà sakàː masà ankwàː à hannunsà akà yi wàje dà shiː.
-1	shiːkèːnan	shiːkèːnan	INTJ	_	_	16	discourse	_	Gloss=OK|wordform=Shikenan
+1	shiːkèːnan	shiːkèːnan	INTJ	_	_	15	discourse	_	Gloss=OK|wordform=Shikenan
 2	sai	sai	ADV	_	_	15	mod	_	Gloss=then
 3	'ya	ɗaː	NOUN	_	Number=Plur	15	subj	_	Compound=Yes|Gloss=child.Plur|SpaceAfter=No|wordform='yan
 4	-n	na	PART	_	Case=Gen|PartType=Case	3	udep/m	_	Gloss=Gen.Fem
@@ -782,7 +782,7 @@
 # text = sai dai kuma shiː Gianni Palma yaː= kafèː kân cêːwaː lalleː kàm ya nàː nan à kân bàka-n-sà , bàː zâi= jaː dà baːya ba.
 1	sai	sai	ADV	_	_	8	mod	_	Gloss=then
 2	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
-3	kuma	kuma	CCONJ	_	_	9	discourse	_	Gloss=also
+3	kuma	kuma	CCONJ	_	_	8	discourse	_	Gloss=also
 4	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	8	dislocated@subj	_	Gloss=3Masc.Nom
 5	Gianni	Gianni	PROPN	_	_	4	conj:appos	_	Gloss=Gianni
 6	Palma	Palma	PROPN	_	_	5	mod	_	Gloss=Palma

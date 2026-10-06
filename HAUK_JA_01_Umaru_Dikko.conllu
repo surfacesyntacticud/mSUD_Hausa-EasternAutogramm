@@ -523,7 +523,7 @@
 # text_en = Well, during his whole stay here in Great-Britain, Umaru Dikko kept repeating that he did not steal millions of naira beyond reckoning by traficking rice, or all the other crimes that he was accused of having done.
 # text = tôː à duk loːkàci-n zama-n-sà à nân Bìr̃taːniyà dai, Ùːmar̃ù Dikkò y-aː= shaː naːnàːtà cêːwaː shiː bà-ì=sàːci kuɗiː nair̃àː miliyàn bìlaː adàdin ba ta hanyà-r̃ gàdàː-gada-r̃ shìnkaːfaː dà kuma duk saura-n laifuffukàn dà a-kèː zàrgi-n y-aː= aikàtaː.
 # text_ortho = Tôː à duk loːkàcin zamansà à nân Bìr̃taːniyà dai, Ùːmar̃ù Dikkò yaː shaː naːnàːtà cêwaː shiː bài sàːci kuɗiː nair̃àː miliyàn bìlaː adàdin ba ta hanyàr̃ gàdàː-gadar̃ shìnkaːfaː dà kuma duk sauran laifuffukàn dà akèː zàrgin yaː aikàtaː.
-1	tôː	tòː	INTJ	_	_	18	discourse	_	Gloss=well
+1	tôː	tòː	INTJ	_	_	17	discourse	_	Gloss=well
 2	à	à	ADP	_	_	17	mod	_	Gloss=at
 3	duk	dukà	DET	_	PronType=Tot	4	det	_	Gloss=all
 4	loːkàci	loːkàciː	NOUN	_	Gender=Masc	2	comp	_	Gloss=time.Masc|SpaceAfter=No|wordform=loːkàcin

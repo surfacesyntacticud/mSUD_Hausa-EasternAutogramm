@@ -117,7 +117,7 @@
 26	dà	dà	CCONJ	_	_	27	cc	_	Gloss=and
 27	takwàs	takwàs	NUM	_	_	25	conj:coord	_	Gloss=eight|SpaceAfter=No
 28	,	,	PUNCT	_	_	41	punct	_	Gloss=PUNCT
-29	tòː	tòː	INTJ	_	_	42	discourse	_	Gloss=well
+29	tòː	tòː	INTJ	_	_	41	discourse	_	Gloss=well
 30	àmmaː	àmmaː	CCONJ	_	_	42	cc	_	Gloss=but
 31	dà	dà	SCONJ	_	_	41	mod	_	Gloss=COMP
 32-33	ya=	_	_	_	_	_	_	_	_
@@ -514,8 +514,8 @@
 # text_en = Well, but it's only after he had spent ten months in America in nineteen sixty-nine that he changed the name of his musicians to "Africa 70", then started producing different records that put him in the group of international music players.
 # text_ortho = Tòː àmmaː sai baːyan yaː yi wàtànniː goːmà à Amir̃kà neː, à shèːkaràr̃ alìf dà ɗàriː tar̃à dà sìttin dà tar̃à, ya sauyà suːnan aːyàr̃in makàɗansà ya koːmàː " Africa 70", sànnan ya faːrà yîn fàyàːfàyai irìː-irìː waɗàndà sukà sâː shi cikin sahun makàɗan zaːmàniː na duːniyàː bàːkiː ɗaya.
 # text = tòː àmmaː sai baːyan yaː yi wàtànniː goːmà à Amir̃kà neː, à shèːkaràr̃ alìf dà ɗàriː tar̃à dà sìttin dà tar̃à, ya sauyà suːnan aːyàr̃in makàɗansà ya koːmàː " Africa 70", sànnan ya faːrà yîn fàyàːfàyai irìː-irìː waɗàndà sukà sâː shi cikin sahun makàɗan zaːmàniː na duːniyàː bàːkiː ɗaya.
-1	tòː	tòː	INTJ	_	_	28	discourse	_	Gloss=well
-2	àmmaː	àmmaː	CCONJ	_	_	28	discourse	_	Gloss=but
+1	tòː	tòː	INTJ	_	_	27	discourse	_	Gloss=well
+2	àmmaː	àmmaː	CCONJ	_	_	27	discourse	_	Gloss=but
 3	sai	sai	ADV	_	_	27	mod	_	Gloss=then
 4	baːyan	baːyan	SCONJ	_	_	27	mod	_	Gloss=after
 5	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
@@ -791,8 +791,8 @@
 # text_en = But this did not reduce Fela's courage at all.
 # text_ortho = Tòː àmmaː koː kàɗan wannàn bài karyà zuːcìyar̃ Fela ba.
 # text = tòː àmmaː koː kàɗan wannàn bài karyà zuːcìyar̃ Fela ba.
-1	tòː	tòː	INTJ	_	_	8	discourse	_	Gloss=well
-2	àmmaː	àmmaː	CCONJ	_	_	8	discourse	_	Gloss=but
+1	tòː	tòː	INTJ	_	_	6	discourse	_	Gloss=well
+2	àmmaː	àmmaː	CCONJ	_	_	6	discourse	_	Gloss=but
 3	koː	koː	ADV	_	_	4	mod	_	Gloss=even
 4	kàɗan	kàɗan	ADP	_	_	6	mod	_	Gloss=slightly
 5	wannàn	nân	PRON	_	Deixis=ProxS|Number=Sing|PronType=Dem	6	subj	_	Gloss=ProxS.Sing
@@ -1017,7 +1017,7 @@
 # text_en = But after only two years, our hero was released, that is after a change of government took place in Nigeria.
 # text_ortho = Àmmaː baːyan shèːkaràː biyu kawài sai akà sàki goːgân naːkù , wàːtòː baːyan an sàːmi sauyìn gwamnatì à Nàːjeːr̃iyàː.
 # text = àmmaː baːyan shèːkaràː biyu kawài sai akà sàki goːgân naːkù, wàːtòː baːyan an sàːmi sauyìn gwamnatì à Nàːjeːr̃iyàː.
-1	àmmaː	àmmaː	CCONJ	_	_	9	discourse	_	Gloss=but
+1	àmmaː	àmmaː	CCONJ	_	_	8	discourse	_	Gloss=but
 2	baːyan	baːyan	ADP	_	_	8	mod	_	Gloss=after
 3	shèːkaràː	shèːkaràː	NOUN	_	Gender=Fem	2	comp	_	Gloss=year.Fem
 4	biyu	biyu	NUM	_	_	3	mod:num	_	Gloss=two

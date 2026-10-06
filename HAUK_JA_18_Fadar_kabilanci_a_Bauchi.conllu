@@ -295,7 +295,7 @@
 24	Mùsùlmiː	Mùsùlmiː	NOUN	_	Number=Plur	23	comp	_	Gloss=Muslim.Plur
 25	nèː	neː	AUX	_	Copula=Yes	18	comp:obj	_	Gloss=Equ.Masc/Plur|SpaceAfter=No
 26	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
-27	àmmaː	àmmaː	CCONJ	_	_	31	discourse	_	Gloss=but
+27	àmmaː	àmmaː	CCONJ	_	_	30	discourse	_	Gloss=but
 28	Kir̃istoːciː	Kir̃istàː	NOUN	_	Number=Plur	30	subj	_	Gloss=Christian.Plur
 29	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	30	subj/m	_	Gloss=3Plur|SpaceAfter=No|wordform=sun
 30	n=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Plur	15	comp	_	Gloss=Perf.Plur=|wordform=n

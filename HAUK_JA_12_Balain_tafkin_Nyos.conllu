@@ -259,7 +259,7 @@
 # text_en = Well, this made people doubt about what their research discovered, i.e. the gas that caused the explosion was just carbon dioxide.
 # text_ortho = Tòː wannàn yaː sâː anàː dà 'yar̃ shakkàː à kân àbîn dà bìncìkên naːsù ya gaːnoː, cêːwar̃ iskàr̃ dà ta yiwoː bùr̃tsîn wai carbon dioxide ceː kawài.
 # text = tòː wannàn y-aː= sâː a nàː dà 'yar̃ shakkàː à kân àbîn dà bìncìkên naːsù ya= gaːnoː, cêːwar̃ iskàr̃ dà ta= yiwoː bùr̃tsîn wai carbon dioxide ceː kawài.
-1	tòː	tòː	INTJ	_	_	5	discourse	_	Gloss=well
+1	tòː	tòː	INTJ	_	_	4	discourse	_	Gloss=well
 2	wannàn	nân	PRON	_	Deixis=ProxS|Number=Sing|PronType=Dem	4	subj	_	Gloss=ProxS.Sing
 3	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
 4	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing=|wordform=aː
@@ -517,7 +517,7 @@
 # text_en = Because of this, the experts in chemistry recommended that the quantity of water removed from the lake should not exceed the quantity of rain that enters it.
 # text_ortho = Don hakà masànaː kìːmiyyàː sukà kaːwoː shaːwar̃àr̃ cêːwaː bài kàmaːtà yawàn ruwân dà zaː'à kwaːshèː dàgà tafkìn yà wucè yawàn ruwan samàn dà kèː shìgaː cikinsà ba.
 # text = don hakà masànaː kìːmiyyàː su-kà= kaːwoː shaːwar̃à-r̃ cêːwaː bà-ì=kàmaːtà yawà-n ruwân dà zaː-'à= kwaːshèː dàgà tafkìn ya-_̀= wucè yawà-n ruwa-n samàn dà kèː shìgaː cikin-sà ba.
-1	don	don	SCONJ	_	_	7	discourse	_	Gloss=because
+1	don	don	SCONJ	_	_	6	discourse	_	Gloss=because
 2	hakà	hakà	ADV	_	_	1	comp	_	Gloss=thus
 3	masànaː	masàniː	VERB	_	ExtPos=NOUN|Number=Plur|VerbForm=Vnoun	6	subj	_	Gloss=expert.Plur
 4	kìːmiyyàː	kìːmiyyàː	NOUN	_	Gender=Fem	3	comp:obj	_	Gloss=science.Fem

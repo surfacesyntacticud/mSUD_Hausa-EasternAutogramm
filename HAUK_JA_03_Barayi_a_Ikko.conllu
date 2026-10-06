@@ -16,7 +16,7 @@
 # sent_id = 03_Barayi_a_Ikko_2a
 # text_en = Yesterday night, in Lagos, armed policemen found some robbers trying to break the door of the "First Bank" in an attempt to penetrate inside.
 # text = jiyà dà dare à bir̃nin Ìkko wasu ꞌyan sàndaː màːsu ɗàuke dà màkàːmai sukà iskè wasu ɓàràːyiː sunàː ƙòːƙariː sù fasà ƙoːfàr̃ bankìn " First Bank" don sù shìga ciki .
-1	jiyà	jiyà	ADV	_	_	18	discourse	_	Gloss=yesterday
+1	jiyà	jiyà	ADV	_	_	17	discourse	_	Gloss=yesterday
 2	dà	dà	ADP	_	_	1	mod	_	Gloss=with
 3	dare	dare	ADV	_	_	2	comp	_	Gloss=night
 4	à	à	ADP	_	_	17	mod	_	Gloss=at
@@ -82,7 +82,7 @@
 # sent_id = 03_Barayi_a_Ikko_3
 # text_en = Well, these policement who were patrolling the area stopped to see what was happening.
 # text = tòː waɗànnân ꞌya-n sàndaː dà kèː= sintir̃iː à wurîn sai sukà=tsayàː dòːmin gani-n àbîn dà kèː=fàːruwaː.
-1	tòː	tòː	INTJ	_	_	14	discourse	_	Gloss=well
+1	tòː	tòː	INTJ	_	_	13	discourse	_	Gloss=well
 2	waɗànnân	nân	DET	_	Deixis=ProxS|Number=Plur|PronType=Dem	3	det	_	Gloss=ProxS.Plur
 3	ꞌya	ɗaː	NOUN	_	Number=Plur	13	subj	_	Compound=Yes|Gloss=child.Plur|RelAnt=Yes|SpaceAfter=No|wordform=ꞌyan
 4	-n	na	PART	_	Case=Gen|PartType=Case	3	udep/m	_	Gloss=Gen.Fem

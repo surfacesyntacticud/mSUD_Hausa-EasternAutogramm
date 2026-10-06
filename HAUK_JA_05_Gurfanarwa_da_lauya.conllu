@@ -86,8 +86,8 @@
 # text_en = But here they are; continuing to use a law -that is to say, the Second Law, which allows them, the government, to imprison someone for up to six months, without charging him if he has been accused of sabotaging the economy of the country or threatening national security.
 # text_ortho = Àmmaː gàː shi taː ci gàba dà aikìː dà wata dòːkaː - wàːtòː Dòːkaː ta Biyu - waddà ta sâː ita gwamnatìn ta iyà tsarè mùtûm har̃ tsawon wàtànniː shidà bàː tàːre dà tùhumàr̃sà ba, in an zàrgeː shì dà yi wà tattalin ar̃zìkin ƙasaː maƙar̃ƙashìyaː, koː kuma yi wà tsàron ƙasaː bàràːzanaː.
 # text = àmmaː gàː shi taː ci gàba dà aikìː dà wata dòːkaː - wàːtòː Dòːkaː ta Biyu - waddà ta sâː ita gwamnatìn ta iyà tsarè mùtûm har̃ tsawon wàtànniː shidà bàː tàːre dà tùhumàr̃sà ba, in an zàrgeː shì dà yi wà tattalin ar̃zìkin ƙasaː maƙar̃ƙashìyaː, koː kuma yi wà tsàron ƙasaː bàràːzanaː.
-1	àmmaː	àmmaː	CCONJ	_	_	6	discourse	_	Gloss=but
-2	gàː	gàː	PART	_	PartType=Pred	6	discourse	_	Gloss=here_is
+1	àmmaː	àmmaː	CCONJ	_	_	5	discourse	_	Gloss=but
+2	gàː	gàː	PART	_	PartType=Pred	5	discourse	_	Gloss=here_is
 3	shi	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	2	subj	_	Gloss=3Masc.Acc
 4	t-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	5	subj/m	_	Gloss=3Fem|SpaceAfter=No|wordform=taː
 5	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing=|wordform=aː
@@ -334,7 +334,7 @@
 11	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	10	comp	_	Gloss=3Masc.Nom|RelPos=Yes|SpaceAfter=No
 12	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 13	in-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	14	subj/m	_	Gloss=1Sing-|SpaceAfter=No|wordform=ìn
-14	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	21	discourse	_	Gloss=Sub=
+14	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	20	discourse	_	Gloss=Sub=
 15	ji	ji	VERB	_	_	14	comp:aux	_	Gloss=hear
 16	lauyàn	lauyàː	NOUN	_	Definite=Def|Gender=Masc	15	comp:obj	_	Gloss=lawyer.Masc.Def
 17	naːsà	naːsà	PRON	_	Case=Gen|Gender=Masc|PronType=Prs	16	mod@poss	_	CaseAf=Gen|GenderAf=Masc|Gloss=Gen.Masc-3MascGen|MSeg=naː-sà|PersonAf=3|SpaceAfter=No|wordform=naː
@@ -427,7 +427,7 @@
 17	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	18	det	_	Gloss=ProxS.Masc
 18	lâifiː	lâifiː	NOUN	_	Gender=Masc	16	comp:obj	_	Gloss=crime.Masc|SpaceAfter=No
 19	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
-20	tòː	tòː	INTJ	_	_	23	discourse	_	Gloss=well
+20	tòː	tòː	INTJ	_	_	21	discourse	_	Gloss=well
 21	zâ-	zâː-	AUX	_	Copula=No|Tense=Fut	8	comp:obj	_	Gloss=Fut-|SpaceAfter=No
 22	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj|Tense=Fut	21	subj/m	_	Gloss=3Masc=|wordform=zâi
 23	iyà	iy-	VERB	_	_	21	comp:aux	_	Gloss=be_able_to

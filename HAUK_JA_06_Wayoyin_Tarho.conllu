@@ -128,8 +128,8 @@
 # text_en = Well, but now things have begun to change.
 # text = tòː àmmaː yànzu al'amur̃àː sun faːrà canjàːwaː.
 # text_ortho = Tòː àmmaː yànzu al'amur̃àː sun faːrà canjàːwaː.
-1	tòː	tòː	INTJ	_	_	7	discourse	_	Gloss=well
-2	àmmaː	àmmaː	CCONJ	_	_	7	discourse	_	Gloss=but
+1	tòː	tòː	INTJ	_	_	6	discourse	_	Gloss=well
+2	àmmaː	àmmaː	CCONJ	_	_	6	discourse	_	Gloss=but
 3	yànzu	yànzu	ADV	_	_	6	mod	_	Gloss=now
 4	al'amur̃àː	al'amur̃àː	NOUN	_	Number=Plur	6	subj	_	Gloss=matter.Plur
 5	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=3Plur|SpaceAfter=No|wordform=sun

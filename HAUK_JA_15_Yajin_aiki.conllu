@@ -886,7 +886,7 @@
 # text_en = Well, President Saibou's government must certainly do something concerning these demonstrations of opposition to the policy that it has recently been implementing.
 # text_ortho = Tòː lalleː dai kàm gwamnatìn shùːgàbaː Saibou tà yi wani àbù dòːmin shaːwoː kân wannàn zàngà-zangàr̃ ta nuːnà rashìn amìncêwaː dà mulkìn dà bài daɗèː yanàː kâi ba .
 # text = tòː lalleː dai kàm gwamnat-r̃ shùːgàbaː Saibou ta-_̀= yi wani àbù dòːmin shaːwoː kân wannàn zàngà-zangàr̃ ta= nuːnà rashì-n amìncêwaː dà mulkìn dà bà-ì=daɗèː ya-nàː kâi ba .
-1	tòː	tòː	INTJ	_	_	21	discourse	_	Gloss=well
+1	tòː	tòː	INTJ	_	_	20	discourse	_	Gloss=well
 2	lalleː	lalleː	ADV	_	_	20	mod	_	Gloss=certainly
 3	dai	dai	PART	_	PartType=Top	2	discourse@top	_	Gloss=anyway
 4	kàm	kàm	PART	_	PartType=Top	2	discourse@top	_	Gloss=as_for

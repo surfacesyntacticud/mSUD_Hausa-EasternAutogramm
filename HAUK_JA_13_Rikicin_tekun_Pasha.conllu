@@ -153,7 +153,7 @@
 21	kâi	kâi	NOUN	_	Gender=Masc	20	comp	_	Gloss=head.Masc|InIdiom=Yes
 22	ba	ba	PART	_	PartType=Neg|Polarity=Neg	10	mod	_	Gloss=Neg|SpaceAfter=No
 23	,	,	PUNCT	_	_	34	punct	_	Gloss=PUNCT
-24	tòː	tòː	INTJ	_	_	35	discourse	_	Gloss=well
+24	tòː	tòː	INTJ	_	_	34	discourse	_	Gloss=well
 25	àmmaː	àmmaː	CCONJ	_	_	35	cc	_	Gloss=but
 26	à	à	ADP	_	ExtPos=ADP	34	mod	_	Gloss=at
 27	'yan	ɗan	ADJ	_	Number=Plur	28	mod	_	Gloss=little.Plur
@@ -613,7 +613,7 @@
 # text_en = Well, when the students understood that the police had isolated them, then they started to voice their anger by throwing stones at the police.
 # text_ortho = Tòː loːkàcîn dà ɗàːlìbân sukà fàhìmci cêːwaː 'yan sàndaː sun yi musù ƙoːfàr̃ ragoː, sai sukà faːrà huːcè haushinsù sukà rinƙà jiːfàn 'yan sàndân dà duwàːtsuː.
 # text = tòː loːkàcîn dà ɗàːlìbân su-kà= fàhìmci cêːwaː 'ya-n sàndaː su-n= yi musù ƙoːfà-r̃ ragoː, sai su-kà= faːrà huːcè haushi-n-sù su-kà= rinƙà jiːfà-n 'ya-n sàndân dà duwàːtsuː.
-1	tòː	tòː	INTJ	_	_	23	discourse	_	Gloss=well
+1	tòː	tòː	INTJ	_	_	22	discourse	_	Gloss=well
 2	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	22	mod	_	Gloss=time.Masc.Def|RelAnt=Yes
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=CompRel|Relz=Word
 4	ɗàːlìbân	ɗaːlìbiː	NOUN	_	Definite=Def|Number=Plur	6	subj	_	Gloss=student.Plur.Def
@@ -728,7 +728,7 @@
 20	kuma	kuma	PART	_	PartType=Top	19	discourse@top	_	Gloss=also
 21	Kanòː	Kanòː	PROPN	_	_	18	conj:coord	_	Gloss=Kanòː|SpaceAfter=No
 22	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-23	tòː	tòː	INTJ	_	_	40	discourse	_	Gloss=well
+23	tòː	tòː	INTJ	_	_	39	discourse	_	Gloss=well
 24	àmmaː	àmmaː	CCONJ	_	_	40	cc	_	Gloss=but
 25	kiràn	kiraː	VERB	_	Definite=Def|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	39	subj	_	Gloss=call.Vnoun.Masc.Def|RelAnt=Yes
 26	dà	dà	SCONJ	_	_	25	mod@relcl	_	Gloss=CompRel|Relz=Word|wordform=da

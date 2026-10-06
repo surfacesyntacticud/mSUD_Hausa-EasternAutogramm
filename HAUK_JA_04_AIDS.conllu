@@ -45,7 +45,7 @@
 # text_en = that is to say, if you inject a patient with the blood of someone with the AIDS virus, well, the one who has been injected with the blood will catch the virus.
 # text = wàːtòː ìdan a-kà= ɗuːràː wà wani mài jinyàː jini-n wani mài ɗàuke dà ƙwaːyoːyi-n cùːta-r̃ AIDS, tòː shiː wandà a-kà= ɗuːràː wà jiniː zâ-i= kàːmu dà ƙwaːyoːyi-n cùːtâr̃.
 # text_ortho = watòː ìdan akà ɗuːràː wà wani mài jinyàː jinin wani mài ɗàuke dà ƙwaːyoːyin cùːtar̃ AIDS, tòː shiː wandà akà ɗuːràː wà jiniː zâi kamu dà ƙwaːyoːyin cùːtâr̃.
-1	wàːtòː	wàːtòː	CCONJ	_	_	32	discourse	_	Gloss=i.e.
+1	wàːtòː	wàːtòː	CCONJ	_	_	30	discourse	_	Gloss=i.e.
 2	ìdan	ìdan	SCONJ	_	_	30	mod	_	Gloss=if
 3	a-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 4	kà=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	2	comp	_	Gloss=Perf.Rel.Plur=|wordform=kà
@@ -66,7 +66,7 @@
 19	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	18	mod/m	_	Gloss=Gen.Fem
 20	AIDS	AIDS	PROPN	_	_	19	comp	_	Gloss=AIDS|SpaceAfter=No
 21	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
-22	tòː	tòː	INTJ	_	_	32	discourse	_	Gloss=well
+22	tòː	tòː	INTJ	_	_	30	discourse	_	Gloss=well
 23	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	30	subj	_	Gloss=3Masc.Nom
 24	wandà	wandà	PRON	_	ExtPos=SCONJ|Gender=Masc|PronType=Rel	23	mod:appos@relcl	_	Gloss=Pron.Masc.Rel|Relz=Word
 25	a-	a	PRON	_	Person=4|PronType=PrsSubj	26	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
@@ -102,7 +102,7 @@
 13	àlluːràː	àlluːràː	NOUN	_	Gender=Fem	12	comp	_	Gloss=needle.Fem
 14	gùdaː	gùdaː	NUM	_	Gender=Masc	13	mod:num	_	Gloss=unit/one.Masc|SpaceAfter=No
 15	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
-16	tòː	tòː	INTJ	_	_	42	discourse	_	Gloss=well
+16	tòː	tòː	INTJ	_	_	40	discourse	_	Gloss=well
 17	ìdan	ìdan	SCONJ	_	_	40	mod	_	Gloss=if
 18	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	28	subj	_	Gloss=some.Masc.Spec
 19	dàgà	dàgà	ADP	_	_	18	mod	_	Gloss=from
@@ -475,7 +475,7 @@
 # text_en = And men are more numerous among those it has killed in the country.
 # text = kuma mazaː su-n= fi maːtaː yawàː à cikin waɗàndà ta= kashèː à ƙasâr̃.
 # text_ortho = Kuma mazaː sun fi maːtaː yawàː à cikin waɗàndà ta kashèː à ƙasâr̃.
-1	kuma	kuma	CCONJ	_	_	5	discourse	_	Gloss=also
+1	kuma	kuma	CCONJ	_	_	4	discourse	_	Gloss=also
 2	mazaː	namijì	NOUN	_	Number=Plur	4	subj	_	Gloss=man.Plur
 3	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Plur|SpaceAfter=No|wordform=sun
 4	n=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Plur	0	root	_	Gloss=Perf.Plur=|wordform=n
@@ -653,7 +653,7 @@
 30	miliyàn	miliyàn	NOUN	_	Gender=Fem	29	comp:obj	_	Gloss=million.Fem
 31	ɗàriː	ɗàriː	NUM	_	_	30	mod:num	_	Gloss=hundred|SpaceAfter=No
 32	,	,	PUNCT	_	_	34	punct	_	Gloss=PUNCT
-33	tòː	tòː	INTJ	_	_	36	discourse	_	Gloss=well
+33	tòː	tòː	INTJ	_	_	34	discourse	_	Gloss=well
 34	zâ-	zâː-	AUX	_	Copula=No|Tense=Fut	14	comp:obj	_	Gloss=Fut-|SpaceAfter=No
 35	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj|Tense=Fut	34	subj/m	_	Gloss=3Masc=|wordform=zâi
 36	yìwu	yìwu	VERB	_	_	34	comp:aux	_	Gloss=be_possible
@@ -728,7 +728,7 @@
 # text_en = Well, may God protect us.
 # text = tòː Allàh yà kiyàːyeː.
 # text_ortho = Tòː Allàh yà kiyàːyeː.
-1	tòː	tòː	INTJ	_	_	5	discourse	_	Gloss=well
+1	tòː	tòː	INTJ	_	_	4	discourse	_	Gloss=well
 2	Allàh	Allàh	PROPN	_	_	4	subj	_	Gloss=God
 3	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yà
 4	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	0	root	_	Gloss=Sub=
