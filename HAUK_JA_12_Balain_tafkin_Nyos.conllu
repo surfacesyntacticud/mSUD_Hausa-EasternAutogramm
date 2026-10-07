@@ -241,7 +241,7 @@
 20	ba	ba	PART	_	PartType=Neg|Polarity=Neg	6	mod	_	Gloss=Neg|SpaceAfter=No
 21	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
 22	àmmaː	àmmaː	CCONJ	_	_	23	cc	_	Gloss=but
-23	gàː	gàː	PART	_	PartType=Pred	6	conj:coord	_	Gloss=here_is
+23	gàː	gàː	PART	_	PartType=Pred	4	conj:coord	_	Gloss=here_is
 24	fuskoːki	fuskàː	NOUN	_	Number=Plur	23	subj	_	Gloss=face.Plur|SpaceAfter=No|wordform=fuskoːkinsù
 25	-n	na	PART	_	Case=Gen|PartType=Case	24	mod@poss	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 26	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	25	comp	_	Gloss=3Plur.Gen
@@ -681,7 +681,7 @@
 23	mutù	mutù	VERB	_	_	22	comp:aux	_	Gloss=die|SpaceAfter=No
 24	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
 25	kuma	kuma	CCONJ	_	_	26	cc	_	Gloss=also
-26	Allàh	Allàh	PROPN	_	_	23	conj:coord	_	Gloss=Allàh
+26	Allàh	Allàh	PROPN	_	_	22	conj:coord	_	Gloss=Allàh
 27	neː	neː	PART	_	PartType=Foc	26	discourse@foc	_	Gloss=Emph
 28	kawài	kawài	ADV	_	_	26	mod	_	Gloss=merely
 29-30	ya=	_	_	_	_	_	_	_	_

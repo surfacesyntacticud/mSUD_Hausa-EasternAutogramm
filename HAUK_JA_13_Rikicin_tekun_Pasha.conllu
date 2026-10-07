@@ -154,7 +154,7 @@
 22	ba	ba	PART	_	PartType=Neg|Polarity=Neg	10	mod	_	Gloss=Neg|SpaceAfter=No
 23	,	,	PUNCT	_	_	34	punct	_	Gloss=PUNCT
 24	tòː	tòː	INTJ	_	_	34	discourse	_	Gloss=well
-25	àmmaː	àmmaː	CCONJ	_	_	35	cc	_	Gloss=but
+25	àmmaː	àmmaː	CCONJ	_	_	34	cc	_	Gloss=but
 26	à	à	ADP	_	ExtPos=ADP	34	mod	_	Gloss=at
 27	'yan	ɗan	ADJ	_	Number=Plur	28	mod	_	Gloss=little.Plur
 28	kwàːnàkin	kwaːnaː	NOUN	_	Definite=Def|Number=Plur	26	comp	_	Gloss=day.Plur.Def
@@ -729,7 +729,7 @@
 21	Kanòː	Kanòː	PROPN	_	_	18	conj:coord	_	Gloss=Kanòː|SpaceAfter=No
 22	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 23	tòː	tòː	INTJ	_	_	39	discourse	_	Gloss=well
-24	àmmaː	àmmaː	CCONJ	_	_	40	cc	_	Gloss=but
+24	àmmaː	àmmaː	CCONJ	_	_	39	cc	_	Gloss=but
 25	kiràn	kiraː	VERB	_	Definite=Def|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	39	subj	_	Gloss=call.Vnoun.Masc.Def|RelAnt=Yes
 26	dà	dà	SCONJ	_	_	25	mod@relcl	_	Gloss=CompRel|Relz=Word|wordform=da
 27	Sarki	sarkiː	NOUN	_	Gender=Masc	31	subj	_	Gloss=leader.Masc|SpaceAfter=No|wordform=Sarkin

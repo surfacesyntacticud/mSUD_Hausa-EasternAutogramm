@@ -118,7 +118,7 @@
 27	takwàs	takwàs	NUM	_	_	25	conj:coord	_	Gloss=eight|SpaceAfter=No
 28	,	,	PUNCT	_	_	41	punct	_	Gloss=PUNCT
 29	tòː	tòː	INTJ	_	_	41	discourse	_	Gloss=well
-30	àmmaː	àmmaː	CCONJ	_	_	42	cc	_	Gloss=but
+30	àmmaː	àmmaː	CCONJ	_	_	41	cc	_	Gloss=but
 31	dà	dà	SCONJ	_	_	41	mod	_	Gloss=COMP
 32-33	ya=	_	_	_	_	_	_	_	_
 32	ya-	ya	PRON	_	Gender=Fem|Mood=Rel|Person=3|PronType=PrsSubj	33	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
@@ -499,7 +499,7 @@
 15	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 16	kuma	kuma	CCONJ	_	_	18	cc	_	Gloss=also
 17	ya-	ya-	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	18	subj/m	_	Gloss=3Masc|SpaceAfter=No
-18	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	7	conj:coord	_	Gloss=Prog|wordform=yana
+18	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	6	conj:coord	_	Gloss=Prog|wordform=yana
 19	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	18	comp:pred	_	Gloss=use.Masc
 20	dà	dà	ADP	_	_	19	comp:obl	_	Gloss=with
 21	salo	saloː	NOUN	_	Gender=Masc	20	comp	_	Gloss=style.Masc|SpaceAfter=No|wordform=salon
@@ -769,10 +769,10 @@
 21	ta	ta	ADP	_	_	19	comp:obl	_	Gloss=via
 22	taːgàː	taːgàː	NOUN	_	Gender=Fem	21	comp	_	Gloss=window.Fem|SpaceAfter=No
 23	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
-24	kuma	kuma	CCONJ	_	_	27	cc	_	Gloss=also
+24	kuma	kuma	CCONJ	_	_	26	cc	_	Gloss=also
 25-26	ta=	_	_	_	_	_	_	_	_
 25	ta-	ta	PRON	_	Gender=Fem|Mood=Rel|Person=3|PronType=PrsSubj	26	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=ta
-26	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	19	conj:coord	_	Gloss=Perf.Rel.Sing=|wordform=UNDERSCORE
+26	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	18	conj:coord	_	Gloss=Perf.Rel.Sing=|wordform=UNDERSCORE
 27	ràsu	ràsu	VERB	_	_	26	comp:aux	_	Gloss=die
 28	baːyan	baːyan	ADP	_	_	27	mod	_	Gloss=after
 29	ɗan	ɗan	ADJ	_	Gender=Masc	30	mod	_	Gloss=small.Masc

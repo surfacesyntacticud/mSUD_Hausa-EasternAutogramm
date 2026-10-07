@@ -529,7 +529,7 @@
 30	kuma	kuma	PART	_	PartType=Top	29	discourse@top	_	Gloss=also
 31-32	ya=	_	_	_	_	_	_	_	_
 31	ya-	ya	PRON	_	Gender=Fem|Mood=Rel|Person=3|PronType=PrsSubj	32	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
-32	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	25	conj:coord	_	Gloss=Perf.Rel.Sing=|wordform=UNDERSCORE
+32	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	24	conj:coord	_	Gloss=Perf.Rel.Sing=|wordform=UNDERSCORE
 33	fi	fi	VERB	_	_	32	comp:aux	_	Gloss=exceed
 34	koːwànneː	koːwànneː	PRON	_	Gender=Masc|PronType=Ind	33	comp:obj	_	Gloss=each_one.Masc
 35	yawà	yawàn	ADJ	_	Gender=Masc	33	mod	_	Gloss=quantity.Masc|SpaceAfter=No|wordform=yawàn

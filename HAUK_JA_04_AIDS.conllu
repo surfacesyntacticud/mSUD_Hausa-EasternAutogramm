@@ -239,7 +239,7 @@
 12	dà	dà	ADP	_	_	10	comp:pred	_	Gloss=with
 13	maːgàniː	maːgàniː	NOUN	_	Gender=Masc	12	comp	_	Gloss=medicine.Masc|SpaceAfter=No
 14	,	,	PUNCT	_	_	28	punct	_	Gloss=PUNCT
-15	kuma	kuma	CCONJ	_	_	30	cc	_	Gloss=also
+15	kuma	kuma	CCONJ	_	_	28	cc	_	Gloss=also
 16	mài	mài	PART	_	Number=Sing|PartType=Der	30	dislocated@top	_	Gloss=owner_of.Sing
 17	ɗàuke	ɗauk-	VERB	_	ExtPos=ADV|VerbForm=Part	16	compound	_	Gloss=take.Part
 18	dà	dà	ADP	_	_	17	comp:obl	_	Gloss=with
@@ -274,7 +274,7 @@
 47	,	,	PUNCT	_	_	50	punct	_	Gloss=PUNCT
 48	kuma	kuma	CCONJ	_	_	50	cc	_	Gloss=also
 49	ya	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	50	subj/m	_	Gloss=3Masc
-50	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	30	conj:coord	_	Gloss=Prog|wordform=yanàː
+50	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	28	conj:coord	_	Gloss=Prog|wordform=yanàː
 51	iyà	iy-	VERB	_	_	50	comp:aux	_	Gloss=be_able_to
 52	bazà	baz-	VERB	_	_	51	comp:obj	_	Gloss=spread
 53	cùːtâr̃	cùːtaː	NOUN	_	Definite=Def|Gender=Fem	52	comp:obj	_	Gloss=disease.Fem.Def
@@ -304,7 +304,7 @@
 77	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	76	comp:obj/m	_	Gloss=3Masc.Gen
 78	,	,	PUNCT	_	_	80	punct	_	Gloss=PUNCT
 79	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	80	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tà
-80	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	73	conj:coord	_	Gloss=Sub=
+80	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	72	conj:coord	_	Gloss=Sub=
 81	zama	zama	VERB	_	_	80	comp:aux	_	Gloss=become
 82	ajàli	ajàliː	NOUN	_	Gender=Masc	81	comp:pred	_	Gloss=end_of_life.Masc|SpaceAfter=No|wordform=ajàlinsà|wordfrom=ajàlinsà
 83	-n	na	PART	_	Case=Gen|PartType=Case	82	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No

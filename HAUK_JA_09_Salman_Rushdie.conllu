@@ -610,7 +610,7 @@
 24	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	23	mod/m	_	Gloss=Gen.Fem
 25	Jàpân	Jàpân	PROPN	_	_	24	comp	_	Gloss=Japan|SpaceAfter=No
 26	,	,	PUNCT	_	_	28	punct	_	Gloss=PUNCT
-27	kuma	kuma	CCONJ	_	_	30	cc	_	Gloss=also
+27	kuma	kuma	CCONJ	_	_	28	cc	_	Gloss=also
 28	bà-	bà-	AUX	_	Aspect=Perf|Copula=No|Polarity=Neg	20	conj:coord	_	Gloss=Neg.Perf-|SpaceAfter=No
 29	ì=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	28	subj/m	_	Gloss=3Masc=|SpaceAfter=No|wordform=bài
 30	kàmaːtà	kamaːt-	VERB	_	_	28	comp:aux	_	Gloss=be_appropriate

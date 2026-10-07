@@ -49,9 +49,9 @@
 34	gùdaː	gùdaː	NOUN	_	Gender=Masc	31	mod:num	_	Gloss=unit.Masc
 35	huɗu	huɗu	NUM	_	_	34	mod:num	_	Gloss=four|SpaceAfter=No
 36	,	,	PUNCT	_	_	39	punct	_	Gloss=PUNCT
-37	kuma	kuma	CCONJ	_	_	40	cc	_	Gloss=also
+37	kuma	kuma	CCONJ	_	_	39	cc	_	Gloss=also
 38	t-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	39	subj/m	_	Gloss=3Fem|SpaceAfter=No|wordform=taː
-39	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	16	conj:coord	_	Gloss=Perf.Sing=|wordform=aː
+39	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	15	conj:coord	_	Gloss=Perf.Sing=|wordform=aː
 40	ƙwaːcè	ƙwat-	VERB	_	_	39	comp:aux	_	Gloss=seize
 41	kil	kilô	NOUN	_	Gender=Masc	40	comp:obj	_	Gloss=kilo|SpaceAfter=No|wordform=kilô
 42	-n	na	PART	_	Case=Gen|PartType=Case	41	mod/m	_	Gloss=Gen.Masc/Plur
@@ -132,7 +132,7 @@
 16	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	15	mod/m	_	Gloss=Gen.Fem
 17	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	16	comp	_	Gloss=Nigeria|SpaceAfter=No
 18	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
-19	kuma	kuma	CCONJ	_	_	22	cc	_	Gloss=also
+19	kuma	kuma	CCONJ	_	_	21	cc	_	Gloss=also
 20	a-	a	PRON	_	Person=4|PronType=PrsSubj	21	subj/m	_	Gloss=4|SpaceAfter=No|wordform=an
 21	n=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Plur	10	conj:coord	_	Gloss=Perf.Plur=|wordform=n
 22	cêː	cêː	VERB	_	_	21	comp:aux	_	Gloss=say|wordform=cê
@@ -842,7 +842,7 @@
 23	Jennifer	Jennifer	PROPN	_	_	20	conj:appos	_	Gloss=Jennifer
 24	Madike	Madike	PROPN	_	_	23	flat@name	_	Gloss=Madike|SpaceAfter=No
 25	,	,	PUNCT	_	_	45	punct	_	Gloss=PUNCT
-26	kuma	kuma	CCONJ	_	_	46	cc	_	Gloss=also
+26	kuma	kuma	CCONJ	_	_	45	cc	_	Gloss=also
 27	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	28	det	_	Gloss=some.Plur.Spec
 28	hoːtunàː	hòːtoː	NOUN	_	Number=Plur	45	dislocated@subj	_	Gloss=picture.Plur|RelAnt=Yes
 29	dà	dà	SCONJ	_	_	28	mod@relcl	_	Gloss=CompRel|Relz=Word

@@ -721,9 +721,9 @@
 7	suːkàː	suːkàː	NOUN	_	Gender=Fem	6	comp:obj	_	Gloss=criticism.Fem
 8	sòːsai	sòːsai	ADV	_	_	6	mod	_	Gloss=really|SpaceAfter=No
 9	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
-10	kuma	kuma	CCONJ	_	_	13	cc	_	Gloss=also
+10	kuma	kuma	CCONJ	_	_	12	cc	_	Gloss=also
 11	a-	a	PRON	_	Person=4|PronType=PrsSubj	12	subj/m	_	Gloss=4|SpaceAfter=No|wordform=an
-12	n=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Plur	6	conj:coord	_	Gloss=Perf.Plur=|wordform=n
+12	n=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Plur	5	conj:coord	_	Gloss=Perf.Plur=|wordform=n
 13	yi	yi	VERB	_	_	12	comp:aux	_	Gloss=do
 14	kiràː	kiraː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	13	comp:pred	_	Gloss=call.Vnoun.Masc
 15	gà	gà	ADP	_	_	14	comp:obl	_	Gloss=to
@@ -755,7 +755,7 @@
 9	suːkàː	suːkàː	NOUN	_	Gender=Fem	8	comp	_	Gloss=criticism.Fem
 10	sòːsai	sòːsai	ADV	_	_	6	mod	_	Gloss=really|SpaceAfter=No
 11	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
-12	koː	koː	CCONJ	_	_	15	cc	_	Gloss=or
+12	koː	koː	CCONJ	_	_	14	cc	_	Gloss=or
 13	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	14	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tà
 14	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	6	conj:coord	_	Gloss=Sub=
 15	gur̃fanar̃	gur̃faːn-	VERB	_	Voice=Cau	14	comp:aux	_	Gloss=take_to_court.Cau
@@ -766,10 +766,10 @@
 20	gàban	gàban	ADP	_	_	19	comp	_	Gloss=front
 21	shàr̃iꞌàː	shàr̃iꞌàː	NOUN	_	Gender=Fem	20	comp	_	Gloss=justice.Fem|SpaceAfter=No
 22	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
-23	koː	koː	CCONJ	_	_	27	cc	_	Gloss=or
+23	koː	koː	CCONJ	_	_	26	cc	_	Gloss=or
 24	kùwa	kùwa	PART	_	PartType=Top	23	discourse@top	_	Gloss=in_fact
 25	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	26	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tà
-26	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	15	conj:coord	_	Gloss=Sub=
+26	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	14	conj:coord	_	Gloss=Sub=
 27	sàkeː	sak-	VERB	_	_	26	comp:aux	_	Gloss=release
 28	-shì	-shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	27	comp:obj/m	_	Gloss=-3Masc.Acc|SpaceAfter=No|wordform=shì
 29	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT

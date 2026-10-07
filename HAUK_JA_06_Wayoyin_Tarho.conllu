@@ -198,10 +198,10 @@
 11	haɗàː	haɗ-	VERB	_	_	10	comp:aux	_	Gloss=connect
 12	ka	ka	PRON	_	Gender=Masc|Person=2|PronType=Prs	11	comp:obj	_	Gloss=2.Masc.Acc|SpaceAfter=No
 13	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
-14	koː	koː	CCONJ	_	_	18	cc	_	Gloss=or
+14	koː	koː	CCONJ	_	_	17	cc	_	Gloss=or
 15	kùwa	kùwa	PART	_	PartType=Top	14	discourse@top	_	Gloss=in_fact
 16	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	17	subj/m	_	Gloss=2Masc-|SpaceAfter=No|wordform=kà
-17	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	11	conj:coord	_	Gloss=Sub=
+17	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	10	conj:coord	_	Gloss=Sub=
 18	ji	ji	VERB	_	_	17	comp:aux	_	Gloss=hear
 19	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	20	det	_	Gloss=some.Fem.Spec
 20	màganàː	màganàː	NOUN	_	Gender=Fem	18	comp:obj	_	Gloss=speech.Fem
@@ -232,7 +232,7 @@
 # text_en = The message will start from a telephone wire in the west part of Canada, then if will go to 'Montreal', in the east part of Canada.
 # text = sàːƙôn ya-kàn= soːmàː neː dàgà wata wayà-r̃ tàr̃hôː à yammacin Kyanadà, sànnan ya-_̀= tàfi zuwàː Montreal " à gabashin Kyanadàn.
 # text_ortho = Sàːƙôn yakàn soːmàː neː dàgà wata wayàr̃ tàr̃hôː à yammacin Kyanadà, sànnan yà tàfi zuwàː 'Montreal' à gabashin Kyanadàn.
-1	sàːƙôn	sàːƙoː	NOUN	_	Definite=Def|Gender=Masc	3	mod	_	Gloss=message.Masc.Det
+1	sàːƙôn	sàːƙoː	NOUN	_	Definite=Def|Gender=Masc	3	subj	_	Gloss=message.Masc.Det
 2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yakàn
 3	kàn=	kàn=	AUX	_	Aspect=Hab|Copula=No	0	root	_	Gloss=Hab=
 4	soːmàː	soːm-	VERB	_	_	3	comp:aux	_	Gloss=start
@@ -248,7 +248,7 @@
 14	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 15	sànnan	sànnan	ADV	_	_	17	mod	_	Gloss=then
 16	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	17	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yà
-17	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	4	conj:coord	_	Gloss=Sub=
+17	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	3	conj:coord	_	Gloss=Sub=
 18	tàfi	taf-	VERB	_	_	17	comp:aux	_	Gloss=go
 19	zuwàː	zuwàː	ADP	_	_	18	comp:obl	_	Gloss=towards
 20	Montreal	Montreal	PROPN	_	_	19	comp	_	Gloss=Montreal
@@ -423,7 +423,7 @@
 11	dà	dà	CCONJ	_	_	7	mod	_	Gloss=and
 12	juːnaː	juːnaː	NOUN	_	Gender=Masc	11	comp:obj	_	Gloss=each_other.Masc|SpaceAfter=No
 13	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
-14	àmmaː	àmmaː	CCONJ	_	_	17	cc	_	Gloss=but
+14	àmmaː	àmmaː	CCONJ	_	_	16	cc	_	Gloss=but
 15	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	16	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
 16	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	7	parataxis:conj	_	Gloss=Perf.Sing=|wordform=aː
 17	fi	fi	VERB	_	_	16	comp:aux	_	Gloss=exceed
@@ -436,9 +436,9 @@
 24	ƙasàːshe	ƙasaː	ADJ	_	Number=Plur	23	comp	_	Gloss=country.Plur|SpaceAfter=No|wordform=ƙasàːshen
 25	-n	na	PART	_	Case=Gen|PartType=Case	24	udep/m	_	Gloss=Gen.Masc/Plur
 26	Tūr̃ai	Tūr̃ai	PROPN	_	_	25	comp	_	Gloss=Europe
-27	màimakon	màimakon	CCONJ	_	_	30	cc	_	Gloss=instead_of
+27	màimakon	màimakon	CCONJ	_	_	29	cc	_	Gloss=instead_of
 28	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	29	subj/m	_	Gloss=2Masc-|SpaceAfter=No|wordform=kà
-29	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	21	conj:coord	_	Gloss=Sub=
+29	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	20	conj:coord	_	Gloss=Sub=
 30	bugà	bug-	VERB	_	_	29	comp:aux	_	Gloss=beat
 31	wayàː	wayàː	NOUN	_	Gender=Fem	30	comp:obj	_	Gloss=wire.Fem
 32	zuwàː	zuwàː	ADP	_	_	30	comp:obl	_	Gloss=towards
@@ -528,7 +528,7 @@
 22	-n	na	PART	_	Case=Gen|PartType=Case	21	mod/m	_	Gloss=Gen.Masc/Plur
 23	Tuːr̃ai	Tuːr̃ai	PROPN	_	_	22	comp	_	Gloss=Tuːr̃ai|SpaceAfter=No
 24	,	,	PUNCT	_	_	31	punct	_	Gloss=PUNCT
-25	àmmaː	àmmaː	CCONJ	_	_	32	cc	_	Gloss=but
+25	àmmaː	àmmaː	CCONJ	_	_	31	cc	_	Gloss=but
 26	yànzu	yànzu	ADV	_	_	31	mod	_	Gloss=now
 27	ƙasàːshe	ƙasaː	NOUN	_	Number=Plur	31	subj	_	Gloss=country.Plur|SpaceAfter=No|wordform=ƙasàːshen
 28	-n	na	PART	_	Case=Gen|PartType=Case	27	udep/m	_	Gloss=Gen.Masc/Plur

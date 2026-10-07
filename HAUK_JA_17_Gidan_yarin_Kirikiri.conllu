@@ -636,7 +636,7 @@
 27	,	,	PUNCT	_	_	30	punct	_	Gloss=PUNCT
 28	àbincîn	àbinciː	NOUN	_	Definite=Def|Gender=Masc	30	dislocated@subj	_	Gloss=food.Masc.Def
 29	kuma	kuma	PART	_	PartType=Top	28	discourse@top	_	Gloss=also
-30	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	22	conj:coord	_	Gloss=there_is.Neg
+30	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	20	conj:coord	_	Gloss=there_is.Neg
 31	shi	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	30	subj	_	Gloss=3Masc.Acc
 32	dà	dà	ADP	_	_	30	comp:pred	_	Gloss=with|wordform=ɗà
 33	daːɗiː	daːɗiː	NOUN	_	Gender=Masc	32	comp	_	Gloss=pleasure.Masc|SpaceAfter=No
@@ -676,7 +676,7 @@
 28	-n	na	PART	_	Case=Gen|PartType=Case	27	udep/m	_	Gloss=Gen.Fem
 29	yaːrìn	yaːrìː	NOUN	_	Definite=Def|Gender=Masc	28	comp	_	Gloss=warder.Masc.Def
 30	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	31	subj/m	_	Gloss=3Plur|SpaceAfter=No
-31	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	19	conj:coord	_	Gloss=Prog|wordform=sunaː
+31	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	18	conj:coord	_	Gloss=Prog|wordform=sunaː
 32	tàimako	taimak-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	31	comp:pred	_	Gloss=help.Vnoun.Masc|SpaceAfter=No|wordform=tàimakon
 33	-n	na	PART	_	Case=Gen|PartType=Case	32	udep/m	_	Gloss=Gen.Masc/Plur
 34	kânsù	kânsu	PRON	_	Number=Plur|Person=3|PronType=Prs|Reflex=Yes	33	comp	_	Gloss=3Plur.Reflex
@@ -741,10 +741,10 @@
 17	Ànnabì	Ànnabì	PROPN	_	_	15	conj:coord	_	Gloss=Prophet
 18	ceː	neː	AUX	_	Copula=Yes|Gender=Fem	13	comp:obj	_	Gloss=Equ.Fem|SpaceAfter=No
 19	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
-20	àmmaː	àmmaː	CCONJ	_	_	24	cc	_	Gloss=but
+20	àmmaː	àmmaː	CCONJ	_	_	23	cc	_	Gloss=but
 21	r̃àhoːtòn	r̃àhoːtòː	NOUN	_	Definite=Def|Gender=Masc	23	subj	_	Gloss=report.Masc.Defː
 22	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	23	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
-23	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	5	conj:coord	_	Gloss=Perf.Sing=|wordform=aː
+23	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	4	conj:coord	_	Gloss=Perf.Sing=|wordform=aː
 24	cêː	cêː	VERB	_	_	23	comp:aux	_	Gloss=say|wordform=cê
 25	àkwai	àkwai	PART	_	PartType=Pred	24	comp:obj	_	Gloss=there_is
 26	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	27	det	_	Gloss=some.Plur.Spec
@@ -800,9 +800,9 @@
 33	-n	na	PART	_	Case=Gen|PartType=Case	32	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 34	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	33	comp	_	Gloss=3Plur.Gen
 35	,	,	PUNCT	_	_	38	punct	_	Gloss=PUNCT
-36	kuma	kuma	CCONJ	_	_	39	cc	_	Gloss=also
+36	kuma	kuma	CCONJ	_	_	38	cc	_	Gloss=also
 37	a-	a	PRON	_	Person=4|PronType=PrsSubj	38	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
-38	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	31	conj:coord	_	Gloss=Sub=
+38	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	30	conj:coord	_	Gloss=Sub=
 39	saːkè	saːk-	VERB	_	_	38	comp:aux	_	Gloss=repeat
 40	baː	baː	VERB	_	_	39	comp:obj	_	Gloss=give
 41	-sù	-sù	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	40	comp:obj@R/m	_	Gloss=-3Plur.Acc|wordform=sù

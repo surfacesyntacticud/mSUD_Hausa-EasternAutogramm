@@ -115,10 +115,10 @@
 24	tsayàː	tsay-	VERB	_	_	23	comp:aux	_	ClauseType=Rel|Gloss=stop|RelRole=mod
 25	cik	cik	IDEO	_	_	24	comp:obj	_	Gloss=still|SpaceAfter=No
 26	,	,	PUNCT	_	_	30	punct	_	Gloss=PUNCT
-27	kuma	kuma	CCONJ	_	_	32	cc	_	Gloss=also
+27	kuma	kuma	CCONJ	_	_	30	cc	_	Gloss=also
 28	yâːraː	yaːròː	NOUN	_	Number=Plur	30	subj	_	Gloss=child.Plur
 29	maː	maː	PART	_	PartType=Top	28	discourse@top	_	Gloss=even
-30	bà-	bà-	AUX	_	Aspect=Perf|Copula=No|Polarity=Neg	13	conj:coord	_	Gloss=Neg.Perf-|SpaceAfter=No
+30	bà-	bà-	AUX	_	Aspect=Perf|Copula=No|Polarity=Neg	11	conj:coord	_	Gloss=Neg.Perf-|SpaceAfter=No
 31	sù=	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	30	subj/m	_	Gloss=3Plur=|SpaceAfter=No|wordform=bàsù
 32	jeː	jeː	VERB	_	_	30	comp:aux	_	Gloss=go
 33	màkàr̃àntu	makar̃antaː	NOUN	_	Number=Plur	32	comp:obl	_	Gloss=school.Plur|SpaceAfter=No|wordform=màkàr̃àntunsù
@@ -206,7 +206,7 @@
 29	à	à	ADP	_	_	21	comp:obl	_	Gloss=at
 30	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	29	comp	_	Gloss=country.Fem.Def|SpaceAfter=No
 31	,	,	PUNCT	_	_	34	punct	_	Gloss=PUNCT
-32	kuma	kuma	CCONJ	_	_	35	cc	_	Gloss=also
+32	kuma	kuma	CCONJ	_	_	34	cc	_	Gloss=also
 33	t-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	34	subj/m	_	Gloss=3Fem|SpaceAfter=No|wordform=taː
 34	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	10	conj:coord	_	Gloss=Perf.Sing=|wordform=aː
 35	yi	yi	VERB	_	_	34	comp:aux	_	Gloss=do
@@ -719,7 +719,7 @@
 23	à	à	ADP	_	_	16	comp:obl	_	Gloss=at
 24	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	23	comp	_	Gloss=country.Fem.Def|SpaceAfter=No
 25	,	,	PUNCT	_	_	37	punct	_	Gloss=PUNCT
-26	kuma	kuma	CCONJ	_	_	38	cc	_	Gloss=also
+26	kuma	kuma	CCONJ	_	_	37	cc	_	Gloss=also
 27	shirì	shirìː	NOUN	_	Gender=Masc	37	subj	_	Gloss=plan.Masc|SpaceAfter=No|wordform=shirìntà|wordfrom=shirìntà
 28	-n	na	PART	_	Case=Gen|PartType=Case	27	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 29	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	28	comp:obj/m	_	Gloss=3Fem.Gen
@@ -730,7 +730,7 @@
 34	-n	na	PART	_	Case=Gen|PartType=Case	33	mod/m	_	Gloss=Gen.Masc/Plur
 35	àljiːhuː	àljiːhuː	NOUN	_	Gender=Masc	34	comp	_	Gloss=pocket.Masc
 36	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	37	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
-37	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	15	conj:coord	_	Gloss=Perf.Sing=|wordform=aː
+37	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	14	conj:coord	_	Gloss=Perf.Sing=|wordform=aː
 38	shàːfi	shaf-	VERB	_	_	37	comp:aux	_	Gloss=concern
 39	talakaːwa	talàkà	NOUN	_	Number=Plur	38	comp:obj	_	Gloss=poor|SpaceAfter=No|wordform=talakaːwan
 40	-n	na	PART	_	Case=Gen|PartType=Case	39	udep/m	_	Gloss=Gen.Masc/Plur

@@ -211,7 +211,7 @@
 44	,	,	PUNCT	_	_	47	punct	_	Gloss=PUNCT
 45	kuma	kuma	CCONJ	_	_	47	cc	_	Gloss=also
 46	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	47	subj/m	_	Gloss=3Fem-|SpaceAfter=No
-47	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	26	conj:coord	_	Gloss=Prog|wordform=tanàː
+47	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	25	conj:coord	_	Gloss=Prog|wordform=tanàː
 48	hulɗàː	hulɗàː	VERB	_	Gender=Fem	47	comp:pred	_	Gloss=dealing.Fem
 49	dà	dà	ADP	_	_	48	comp:obl	_	Gloss=with
 50	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	49	comp	_	Gloss=3Fem.Nom|SpaceAfter=No

@@ -395,7 +395,7 @@
 63	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	62	comp:obj/m	_	Gloss=3Masc.Gen
 64	ba	ba	PART	_	PartType=Neg|Polarity=Neg	55	mod	_	Gloss=Neg
 65	-	-	PUNCT	_	_	67	punct	_	Gloss=PUNCT|SpaceAfter=No
-66	wàːtòː	wàːtòː	CCONJ	_	_	70	cc	_	Gloss=i.e.
+66	wàːtòː	wàːtòː	CCONJ	_	_	67	cc	_	Gloss=i.e.
 67	bà-	bà-	AUX	_	Aspect=Perf|Copula=No|Polarity=Neg	55	conj:dicto	_	Gloss=Neg.Perf-|SpaceAfter=No
 68	ì=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	67	subj/m	_	Gloss=3Masc=|SpaceAfter=No|wordform=bài
 69	koː	koː	ADV	_	_	67	mod	_	Gloss=even

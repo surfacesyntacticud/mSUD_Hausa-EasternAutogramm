@@ -382,7 +382,7 @@
 30	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	28	comp	_	Gloss=Sub=
 31	dafàː	daf-	VERB	_	_	30	comp:aux	_	Gloss=cook
 32	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	33	subj/m	_	Gloss=3.Plur-|SpaceAfter=No|wordform=sù
-33	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	31	conj:coord	_	Gloss=Sub=
+33	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	30	conj:coord	_	Gloss=Sub=
 34	sàːmu	saːm-	VERB	_	_	33	comp:aux	_	Gloss=get
 35	àbinci	àbinci	NOUN	_	Gender=Masc	34	comp:obj	_	Gloss=food.Masc|SpaceAfter=No
 36	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT

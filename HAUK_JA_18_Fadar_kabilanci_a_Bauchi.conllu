@@ -432,7 +432,7 @@
 26	dà	dà	CCONJ	_	_	25	cc	_	Gloss=and
 27	àshìr̃in	àshìr̃in	NUM	_	_	25	conj:coord	_	Gloss=twenty|SpaceAfter=No
 28	,	,	PUNCT	_	_	39	punct	_	Gloss=PUNCT
-29	kuma	kuma	CCONJ	_	_	40	cc	_	Gloss=also
+29	kuma	kuma	CCONJ	_	_	39	cc	_	Gloss=also
 30	matàfìyaː	matàfìyiː	NOUN	_	Number=Plur	39	subj	_	Gloss=traveller.Plur
 31	à	à	ADP	_	_	30	mod	_	Gloss=at
 32	kân	kân	ADP	_	_	31	comp	_	Gloss=top
@@ -501,7 +501,7 @@
 37	hàrgitsîn	hàrgitsiː	NOUN	_	Definite=Def|Gender=Masc	36	comp	_	Gloss=crisis.Masc.Def|SpaceAfter=No
 38	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 39	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	40	subj/m	_	Gloss=3Plur|SpaceAfter=No
-40	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	14	conj:coord	_	Gloss=Prog|wordform=sunàː
+40	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	13	conj:coord	_	Gloss=Prog|wordform=sunàː
 41	fùskantà	fuskant-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	40	comp:pred	_	Gloss=face.Vnoun.Fem|SpaceAfter=No|wordform=fùskantàr̃
 42	-r̃	na	PART	_	Case=Gen|PartType=Case	41	udep/m	_	Gloss=Gen.Fem
 43	màtsalà	màtsalàː	NOUN	_	Gender=Fem	42	comp	_	Gloss=problem.Fem|SpaceAfter=No|wordform=màtsalàr̃

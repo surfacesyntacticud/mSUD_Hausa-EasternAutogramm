@@ -215,9 +215,9 @@
 28	ukù	ukù	NUM	_	_	27	flat@num	_	Gloss=three
 29	neː	neː	PART	_	PartType=Foc	26	discourse@foc	_	Gloss=Emph|SpaceAfter=No
 30	,	,	PUNCT	_	_	33	punct	_	Gloss=PUNCT
-31	kuma	kuma	CCONJ	_	_	34	cc	_	Gloss=also
+31	kuma	kuma	CCONJ	_	_	33	cc	_	Gloss=also
 32	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	33	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
-33	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	22	conj:coord	_	Gloss=Perf.Sing=|wordform=aː
+33	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	21	conj:coord	_	Gloss=Perf.Sing=|wordform=aː
 34	tabbàtaː	tabbàtaː	VERB	_	_	33	comp:aux	_	Gloss=be_certain
 35	sauraː	sauraː	ADP	_	_	44	mod	_	Gloss=except_for
 36	gùdaː	gùdaː	NOUN	_	Gender=Masc	35	comp	_	Gloss=unit.Masc|RelAnt=Yes
@@ -422,7 +422,7 @@
 29	ɓàràːyiː	ɓàraːwòː	NOUN	_	Number=Plur	28	comp	_	Gloss=thief.Plur|SpaceAfter=No
 30	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT
 31	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	32	subj/m	_	Gloss=3Plur|SpaceAfter=No|wordform=sun
-32	n=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Plur	24	conj:coord	_	Gloss=Perf.Plur=|wordform=n
+32	n=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Plur	23	conj:coord	_	Gloss=Perf.Plur=|wordform=n
 33	kuma	kuma	PART	_	PartType=Top	34	discourse@top	_	Gloss=also
 34	wargàzà	wargaz-	VERB	_	_	32	comp:aux	_	Gloss=rout
 35	ƙungiỳa	ƙungiỳaː	VERB	_	Gender=Fem	34	comp:obj	_	Compound=Yes|Gloss=gang.Fem.|SpaceAfter=No|wordform=ƙungiỳar̃

@@ -140,10 +140,10 @@
 23	sàu	sàu	NOUN	_	Gender=Masc	22	comp	_	Gloss=time.Masc
 24	àshìr̃in	àshìr̃in	NUM	_	_	23	mod	_	Gloss=twenty|SpaceAfter=No
 25	,	,	PUNCT	_	_	29	punct	_	Gloss=PUNCT
-26	kuma	kuma	CCONJ	_	_	30	cc	_	Gloss=also
+26	kuma	kuma	CCONJ	_	_	29	cc	_	Gloss=also
 27	yâːraː	yaːròː	NOUN	_	Number=Plur	29	subj	_	Gloss=boy.Plur
 28	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	29	subj/m	_	Gloss=3Plur|SpaceAfter=No|wordform=sun
-29	n=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Plur	14	conj:coord	_	Gloss=Perf.Plur=|wordform=n
+29	n=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Plur	13	conj:coord	_	Gloss=Perf.Plur=|wordform=n
 30	moːrèː	moːr-	VERB	_	_	29	comp:aux	_	Gloss=enjoy
 31	wà	mà	ADP	_	Case=Dat	30	comp:obl	_	Gloss=Dat
 32	shirì	shirìː	NOUN	_	Gender=Masc	31	comp	_	Compound=Yes|Gloss=programme.Masc.|SpaceAfter=No|wordform=shirìn
@@ -384,7 +384,7 @@
 34	-yàː	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	33	subj/m	_	Gloss=3Masc
 35	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	33	comp:pred	_	Gloss=PreRef|PreRef=Yes|SpaceAfter=No
 36	,	,	PUNCT	_	_	44	punct	_	Gloss=PUNCT
-37	koː	koː	CCONJ	_	_	46	cc	_	Gloss=or
+37	koː	koː	CCONJ	_	_	44	cc	_	Gloss=or
 38	kuma	kuma	PART	_	PartType=Top	37	discourse@top	_	Gloss=also
 39	koː	koː	SCONJ	_	_	44	mod	_	Gloss=even_if
 40	dàː	dàː	SCONJ	_	_	39	comp	_	Gloss=Counterfactual
@@ -448,7 +448,7 @@
 13	à	à	ADP	_	_	12	mod	_	Gloss=at
 14	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	13	comp	_	Gloss=Nigeria|SpaceAfter=No
 15	,	,	PUNCT	_	_	25	punct	_	Gloss=PUNCT
-16	kuma	kuma	CCONJ	_	_	26	cc	_	Gloss=also
+16	kuma	kuma	CCONJ	_	_	25	cc	_	Gloss=also
 17	à	à	ADP	_	_	25	mod	_	Gloss=at
 18	haːlîn	haːlîː	NOUN	_	Definite=Def|Gender=Masc	17	comp	_	Gloss=situation.Masc.Def|RelAnt=Yes
 19	dà	dà	SCONJ	_	_	18	mod@relcl	_	Gloss=CompRel|Relz=Word
