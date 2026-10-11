@@ -29,7 +29,7 @@
 15	ƘNJH	ƘNJH	PROPN	_	_	4	conj:appos	_	Gloss=ƘNJH|SpaceAfter=No
 16	)	)	PUNCT	_	_	15	punct	_	Gloss=PUNCT
 17-18	ta=	_	_	_	_	_	_	_	_
-17	ta-	ta	PRON	_	Gender=Fem|Mood=Rel|Person=3|PronType=PrsSubj	18	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=ta
+17	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	18	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=ta
 18	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	3	comp	_	Gloss=Perf.Rel.Sing=|Relz=Affix|wordform=UNDERSCORE
 19	bugàː	bug-	VERB	_	_	18	comp:aux	_	ClauseType=Rel|Gloss=print|RelRole=obj
 20	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	21	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
@@ -69,7 +69,7 @@
 54	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	53	udep/m	_	Gloss=Gen.Masc/Plur
 55	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	54	comp	_	Gloss=Pron.Plur.Rel|RelAnt=Yes|Relz=Word
 56-57	ya=	_	_	_	_	_	_	_	_
-56	ya-	ya	PRON	_	Gender=Fem|Mood=Rel|Person=3|PronType=PrsSubj	57	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
+56	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	57	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
 57	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	55	mod@relcl	_	Gloss=Perf.Rel.Sing=|Relz=Affix|wordform=UNDERSCORE
 58	kàmaːtà	kamaːt-	VERB	_	_	57	comp:aux	_	ClauseType=Rel|Gloss=be_appropriate
 59	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	60	subj/m	_	Gloss=3.Plur-|SpaceAfter=No|wordform=sù
@@ -86,7 +86,7 @@
 # text = r̃àhoːtòn ya= cèː sha'àni-n tsabtàː dà na kiːwò-n laːfiyàː duk à tàɓàrɓàre su-kè, kuma kusan mutàːneː àr̃bà'in dà tar̃à neː sukà= ràsu à Ƙìr̃iƙìr̃i à bàːra kaɗai, yawanci-n-sù maː màːsu jirà-n à= gabaːtar̃ dà suː nèː à gàban koːtù.
 1	r̃àhoːtòn	r̃àhoːtòː	PROPN	_	Definite=Def|Gender=Masc	3	subj	_	Gloss=report.Masc.Def
 2-3	ya=	_	_	_	_	_	_	_	_
-2	ya-	ya	PRON	_	Gender=Fem|Mood=Rel|Person=3|PronType=PrsSubj	3	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
+2	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	3	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
 3	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing=|wordform=UNDERSCORE
 4	cèː	cêː	VERB	_	Gender=Fem	3	comp:aux	_	Gloss=be.Fem
 5	sha'àni	sha'àniː	NOUN	_	Gender=Masc	14	dislocated@top	_	Gloss=matter.Masc|SpaceAfter=No|wordform=sha'ànin
@@ -143,7 +143,7 @@
 # text = r̃àhoːtòn ya= cèː cùnkoːso-n mutàːnên dà kèː cikin gida-n fur̃sùnà-n Ƙìr̃iƙìr̃i ya= ɓaːcì, ta yaddà har̃ 'ya-n fur̃sùnàn su-kàn= yi barciː nèː kaːmùː-kaːmùː, wasu su-_̀= bâi wà wasu, baːyan saː'oː'iː mìsaːlì-n ukù koː huɗu, yàːyîn dà wasu 'ya-n fur̃sunoːnîn kùwa sai dai kawài su-_̀= tsayàː dà ƙafà-r̃-sù kurùm.
 1	r̃àhoːtòn	r̃àhoːtòː	PROPN	_	Definite=Def|Gender=Masc	3	subj	_	Gloss=report.Masc.Def
 2-3	ya=	_	_	_	_	_	_	_	_
-2	ya-	ya	PRON	_	Gender=Fem|Mood=Rel|Person=3|PronType=PrsSubj	3	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
+2	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	3	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
 3	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing=|wordform=UNDERSCORE
 4	cèː	cêː	VERB	_	Gender=Fem	3	comp:aux	_	Gloss=be.Fem
 5	cùnkoːso	cùnkoːsoː	NOUN	_	Gender=Masc	17	subj	_	Gloss=congestion.Masc|SpaceAfter=No|wordform=cùnkoːson
@@ -158,7 +158,7 @@
 14	-n	na	PART	_	Case=Gen|PartType=Case	11	mod@appos/m	_	Gloss=Gen.Masc/Plur
 15	Ƙìr̃iƙìr̃i	Ƙìr̃iƙìr̃i	PROPN	_	_	14	comp	_	Gloss=Kirikiri
 16-17	ya=	_	_	_	_	_	_	_	_
-16	ya-	ya	PRON	_	Gender=Fem|Mood=Rel|Person=3|PronType=PrsSubj	17	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
+16	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	17	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
 17	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	4	comp:obj	_	Gloss=Perf.Rel.Sing=|wordform=UNDERSCORE
 18	ɓaːcì	ɓaːt-	VERB	_	_	17	comp:aux	_	Gloss=spoil|SpaceAfter=No
 19	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
@@ -177,7 +177,7 @@
 32	,	,	PUNCT	_	_	35	punct	_	Gloss=PUNCT
 33	wasu	wani	PRON	_	Definite=Spec|Number=Plur|PronType=Ind	35	subj	_	Gloss=some.Plur.Spec
 34	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	35	subj/m	_	Gloss=3.Plur-|SpaceAfter=No|wordform=sù
-35	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	28	parataxis:conj	_	Gloss=Sub=
+35	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	27	parataxis:conj	_	Gloss=Sub=
 36	bâi	baː	VERB	_	_	35	comp:aux	_	Gloss=give
 37	wà	mà	ADP	_	Case=Dat	36	comp:obl	_	Gloss=Dat
 38	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	37	comp	_	Gloss=some.Plur.Spec|SpaceAfter=No
@@ -218,7 +218,7 @@
 2	yaddà	yaddà	ADV	_	PronType=Rel	1	comp	_	Gloss=how.Rel|RelAnt=Yes|Relz=Word
 3	ƘNJH	ƘNJH	PROPN	_	_	5	subj	_	Gloss=ƘNJH
 4-5	ta=	_	_	_	_	_	_	_	_
-4	ta-	ta	PRON	_	Gender=Fem|Mood=Rel|Person=3|PronType=PrsSubj	5	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=ta
+4	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	5	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=ta
 5	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	2	mod@relcl	_	Gloss=Perf.Rel.Sing=|Relz=Affix|wordform=UNDERSCORE
 6	cèː	cêː	VERB	_	Gender=Fem	5	comp:aux	_	ClauseType=Rel|Gloss=be.Fem|RelRole=mod|SpaceAfter=No
 7	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -429,7 +429,7 @@
 13	tsàràrruː	tsàrarreː	NOUN	_	Number=Plur	12	comp:obj	_	Gloss=prisoner.Plur
 14	ìdan	ìdan	SCONJ	_	_	12	mod	_	Gloss=if
 15	zaː-	zâː-	AUX	_	Copula=No|Tense=Fut	14	comp	_	Gloss=Fut-|SpaceAfter=No
-16	sù=	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj|Tense=Fut	15	subj/m	_	Gloss=3Plur=|wordform=zaːsù
+16	sù=	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	15	subj/m	_	Gloss=3Plur=|wordform=zaːsù
 17	yi	yi	VERB	_	_	15	comp:aux	_	Gloss=do
 18	barciː	barciː	NOUN	_	Gender=Masc	17	comp:pred	_	Gloss=sleep.Masc
 19	;	;	PUNCT	_	_	11	punct	_	Gloss=PUNCT
@@ -474,7 +474,7 @@
 # text = r̃àhoːtòn ya= ci gàba dà cêːwaː irì-n haːli-n kiwò-n laːfiyàː dà na tsabtàː à kûr̃kukùn ya- nàː dà haɗàr̃iː; wàːtòː zaːfiː dà rashì-n ìsasshiyar̃ iskàː à cikin ɗaːkunàː, tàːre dà rashì-n ìsasshen haske-n làntar̃kìː ya- nàː sànàdiyyà-r̃ bàːzuwa-r̃ wasu ƙwaːyoːyi-n cùːtaː dà kuma ƙwàːriː.
 1	r̃àhoːtòn	r̃àhoːtòː	PROPN	_	Definite=Def|Gender=Masc	3	subj	_	Gloss=report.Masc.Def
 2-3	ya=	_	_	_	_	_	_	_	_
-2	ya-	ya	PRON	_	Gender=Fem|Mood=Rel|Person=3|PronType=PrsSubj	3	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
+2	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	3	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
 3	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing=|wordform=UNDERSCORE
 4	ci	ci	VERB	_	_	3	comp:aux	_	Gloss=proceed
 5	gàba	gàba	ADV	_	_	4	mod	_	Gloss=in_front
@@ -539,7 +539,7 @@
 2	r̃àhoːtòː	r̃àhoːtòː	NOUN	_	Gender=Masc	5	subj	_	Gloss=report.Masc
 3	dai	dai	PART	_	PartType=Top	2	discourse@top	_	Gloss=anyway
 4-5	ya=	_	_	_	_	_	_	_	_
-4	ya-	ya	PRON	_	Gender=Fem|Mood=Rel|Person=3|PronType=PrsSubj	5	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
+4	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	5	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
 5	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing=|wordform=UNDERSCORE
 6	ci	ci	VERB	_	_	5	comp:aux	_	Gloss=proceed
 7	gàba	gàba	ADV	_	_	6	mod	_	Gloss=in_front
@@ -766,7 +766,7 @@
 # text_ortho = KNJH ta ƙaːrà dà cêːwaː tanàː shakkàr̃ ìkìr̃aːrìn hukuːmoːmin gidàːjen yaːrìn dà kè: cêːwaː anàː tsarè mutàːneː nèː dà nufìn à gyaːrà haːlinsù , kuma à saːkè baː sù ƙarfin gwiːwàː.
 1	KNJH	KNJH	PROPN	_	_	3	subj	_	Gloss=KNJH
 2-3	ta=	_	_	_	_	_	_	_	_
-2	ta-	ta	PRON	_	Gender=Fem|Mood=Rel|Person=3|PronType=PrsSubj	3	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=ta
+2	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	3	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=ta
 3	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing=|wordform=UNDERSCORE
 4	ƙaːrà	ƙaːr-	VERB	_	_	3	comp:aux	_	Gloss=increase
 5	dà	dà	ADP	_	_	4	comp:obl	_	Gloss=with|wordform=ɗà
@@ -816,7 +816,7 @@
 # text_ortho = Ta cèː haːlîn dà akè ciki à kûr̃kukùn Ƙìr̃iƙìr̃i nàː haifar̃ dà shàːgìɗàɗɗun mutàːneː, kuma bàː àbin màːmaːkìː ba nèː ganin yaddà mutànên dà akà sakoː nàː fitôːwaː dà wani haːliː na nuːnà ƙìyayyàː dà kuma sôn ɗaukàr̃ fansaː.
 # text = ta= cèː haːlîn dà a kèciki à kûr̃kukù-n Ƙìr̃iƙìr̃i nàːhaifar̃ dà shàːgìɗàɗɗun mutàːneː, kuma bàː àbi-n màːmaːkìː ba nèː gani-n yaddà mutànên dà a-kà= sakoː nàːfitôːwaː dà wani haːliː na nuːnà ƙìyayyàː dà kuma sô-n ɗaukà-r̃ fansaː.
 1-2	ta=	_	_	_	_	_	_	_	_
-1	ta-	ta	PRON	_	Gender=Fem|Mood=Rel|Person=3|PronType=PrsSubj	2	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=ta
+1	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	2	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=ta
 2	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=UNDERSCORE
 3	cèː	cêː	VERB	_	Gender=Fem	2	comp:aux	_	Gloss=be.Fem
 4	haːlîn	haːlîː	NOUN	_	Definite=Def|Gender=Masc	13	subj	_	Gloss=situation.Masc.Def|RelAnt=Yes

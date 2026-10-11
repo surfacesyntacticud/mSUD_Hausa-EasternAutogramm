@@ -26,7 +26,7 @@
 7	BBC	BBC	PROPN	_	Number=Plur	3	mod@appos	_	Gloss=BBC|wordform='BBC
 8	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT|wordform='
 9	zâ-	zâː-	AUX	_	Copula=No|Tense=Fut	2	comp	_	Gloss=Fut-|SpaceAfter=No
-10	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj|Tense=Fut	9	subj/m	_	Gloss=3Masc=|wordform=zâi
+10	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	9	subj/m	_	Gloss=3Masc=|wordform=zâi
 11	gabaːtar̃	gabaːt-	VERB	_	_	9	comp:aux	_	Gloss=present
 12	dà	dà	ADP	_	_	11	comp:obl	_	Gloss=with
 13	shìrye-shìrye	shirìː	NOUN	_	Number=Plur	12	comp	_	Gloss=programme.Plur|SpaceAfter=No|wordform=shìrye-shìryensà|wordfrom=shìrye-shìryensà
@@ -176,7 +176,7 @@
 32	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	34	dislocated@subj	_	Gloss=thing.Masc.Def
 33	bà	bà	PART	_	PartType=Neg|Polarity=Neg	34	mod	_	Gloss=Neg
 34	zâ-	zâː-	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut-|SpaceAfter=No
-35	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj|Tense=Fut	34	subj/m	_	Gloss=3Masc=|wordform=zâi
+35	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	34	subj/m	_	Gloss=3Masc=|wordform=zâi
 36	yìwu	yìi	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	34	comp:aux	_	Gloss=be_possible
 37	ba	ba	PART	_	PartType=Neg|Polarity=Neg	36	mod	_	Gloss=Neg
 38	-	-	PUNCT	_	_	34	punct	_	Gloss=PUNCT|SpaceAfter=No
@@ -186,7 +186,7 @@
 # text = zaːkà ɓaːtà loːkàciː dà yawàː kàːfìn àfàreːtàː yà haɗàː ka, koː kùwa kà ji wata màganàː bàː tàːre dà kaː sàːmi laːyìː ba.
 # text_ortho = Kàmar̃ shèːkaràː bìyar̃ dà sukà wucèː, ìdan kanàː sôn kà bugà wayàː zuwàː Bùr̃kiːnà Faːsò dàgà 'Vancouver', can cikin ƙasar̃ Kyanadà, àbîn bà zâi yìwu ba - zaː kà ɓaːtà loːkàciː dà yawàː kàːfìn àfàrētàː yà haɗàː ka, koː kùwa kà ji wata màganàː bàː tàːre dà kaː sàːmi laːyìː ba.
 1	zaː-	zâː-	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut-|SpaceAfter=No
-2	kà=	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj|Tense=Fut	1	subj/m	_	Gloss=2Masc=|SpaceAfter=No|wordform=kà
+2	kà=	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	1	subj/m	_	Gloss=2Masc=|SpaceAfter=No|wordform=kà
 3	ɓaːtà	ɓaːt-	VERB	_	_	1	comp:aux	_	Gloss=waste
 4	loːkàciː	loːkàciː	NOUN	_	Gender=Masc	3	comp:obj	_	Gloss=time.Masc
 5	dà	dà	SCONJ	_	_	4	mod	_	Gloss=COMP
@@ -266,7 +266,7 @@
 2	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	1	comp	_	Gloss=PreRef|PreRef=Yes
 3	nèː	neː	PART	_	PartType=Foc	1	discourse@foc	_	Gloss=Emph
 4	zaː-	zâː-	AUX	_	Copula=No|Tense=Fut	1	comp:cleft	_	Gloss=Fut-|SpaceAfter=No
-5	'à=	a	PRON	_	Person=4|PronType=PrsSubj|Tense=Fut	4	subj/m	_	Gloss=4=|wordform=à
+5	'à=	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4=|wordform=à
 6	aikàː	aik-	VERB	_	_	4	comp:aux	_	ClauseType=Cleft|Gloss=send
 7	dà	dà	ADP	_	_	6	comp:obl	_	Gloss=with
 8	sàːƙôn	sàːƙoː	NOUN	_	Definite=Def|Gender=Masc	7	comp	_	Gloss=message.Masc.Det
@@ -375,7 +375,7 @@
 17	kuɗîn	kuɗiː	NOUN	_	Definite=Def|Gender=Masc	9	conj:coord	_	Gloss=money.Masc.Def|RelAnt=Yes
 18	dà	dà	SCONJ	_	_	17	mod@relcl	_	Gloss=CompRel|Relz=Word
 19	zaː-	zâː-	AUX	_	Copula=No|Tense=Fut	18	comp	_	Gloss=Fut-|SpaceAfter=No
-20	'à=	a	PRON	_	Person=4|PronType=PrsSubj|Tense=Fut	19	subj/m	_	Gloss=4=|wordform=à
+20	'à=	a	PRON	_	Person=4|PronType=PrsSubj	19	subj/m	_	Gloss=4=|wordform=à
 21	biyaː	biyaː	VERB	_	_	19	comp:aux	_	ClauseType=Rel|Gloss=pay|RelRole=obj
 22	à	à	ADP	_	ExtPos=ADP	21	comp:obl	_	Gloss=at
 23	kân	kân	ADP	_	_	22	comp	_	Gloss=top
@@ -601,7 +601,7 @@
 31	kudancin	kudancin	ADP	_	_	30	comp	_	Gloss=south_of
 32	Afir̃kà	Afir̃kà	PROPN	_	_	31	comp	_	Gloss=Africa
 33	zâ-	zâː-	AUX	_	Copula=No|Tense=Fut	17	comp:obj	_	Gloss=Fut-|SpaceAfter=No
-34	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj|Tense=Fut	33	subj/m	_	Gloss=3Masc=|wordform=zâi
+34	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	33	subj/m	_	Gloss=3Masc=|wordform=zâi
 35	yi	yi	VERB	_	_	33	comp:aux	_	Gloss=do
 36	sauƙiː	sauƙiː	NOUN	_	Gender=Masc	35	comp:pred	_	Gloss=easiness.Masc|SpaceAfter=No
 37	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
