@@ -14,7 +14,7 @@
 # text_ortho = À yâu zaː mù soːmà shirìnmù dà làːbaːr̃ìn rìkicîn dà akèː yîː can Nàːjeːr̃iyàː gàme dà gudàːnar dà wàːsan dambe.
 1	à	à	ADP	_	_	3	mod	_	Gloss=at
 2	yâu	yâu	ADV	_	_	1	comp	_	Gloss=today
-3	zaː-	zâː-	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut-|SpaceAfter=No
+3	zâː	zâː	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut-|SpaceAfter=No|wordform=zaː-
 4	mù=	mu	PRON	_	Number=Plur|Person=1|PronType=PrsSubj	3	subj/m	_	Gloss=1Plur=|wordform=zaːmù
 5	soːmà	soːm-	VERB	_	_	3	comp:aux	_	Gloss=start
 6	shirì	shirìː	NOUN	_	Gender=Masc	5	comp:obj	_	Gloss=programme.Masc|SpaceAfter=No|wordform=shirìː|wordfrom=shirìnmù
@@ -80,8 +80,8 @@
 35	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	34	flat@name	_	Gloss=mouth.Masc
 36	ɗaya	ɗaya	NUM	_	_	35	mod:num	_	Gloss=one|SpaceAfter=No
 37	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
-38	zâ-	zâː-	AUX	_	Copula=No|Tense=Fut	8	comp	_	Gloss=Fut-|SpaceAfter=No
-39	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	38	subj/m	_	Gloss=3Masc=|wordform=zâi
+38	zâː	zâː	AUX	_	Copula=No|Tense=Fut	8	comp	_	Gloss=Fut|SpaceAfter=No|SpaceForm=zâi|wordform=zâ-
+39	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	38	subj/m	_	Gloss=3Masc|wordform=zâi
 40	shìga	shig-	VERB	_	_	38	comp:aux	_	Gloss=enter
 41	gàːsâr̃	gàːsâː	NOUN	_	Definite=Def|Gender=Fem	40	comp:obj@G	_	Gloss=competition.Fem.Def
 42	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	41	det	_	Gloss=PreRef|PreRef=Yes
@@ -99,8 +99,8 @@
 53	neːmo	neːm-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	52	comp	_	Gloss=look_for.Vnoun.Masc|SpaceAfter=No|wordform=neːmoː
 54	wani	wani	PRON	_	Definite=Spec|Gender=Masc|PronType=Ind	53	comp:obj	_	Gloss=some.Masc.Spec
 55	wàndà	wandà	PRON	_	Gender=Masc|PronType=Rel	54	mod@relcl	_	Gloss=Pron.Masc.Rel|Relz=Word
-56	zâ-	zâː-	AUX	_	Copula=No|Tense=Fut	55	comp:obj	_	Gloss=Fut-|SpaceAfter=No
-57	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	56	subj/m	_	Gloss=3Masc=|wordform=zâi
+56	zâː	zâː	AUX	_	Copula=No|Tense=Fut	55	comp:obj	_	Gloss=Fut|SpaceAfter=No|SpaceForm=zâi|wordform=zâ-
+57	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	56	subj/m	_	Gloss=3Masc|wordform=zâi
 58	ɗàuki	ɗauk-	VERB	_	_	56	comp:aux	_	ClauseType=Rel|Gloss=take|RelRole=subj
 59	kambi	kambiː	NOUN	_	Gender=Masc	58	comp:obj	_	Compound=Yes|Gloss=crown.Masc|SpaceAfter=No|wordform=kambin
 60	-n	na	PART	_	Case=Gen|PartType=Case	59	udep/m	_	Gloss=Gen.Fem
@@ -132,8 +132,8 @@
 14	n=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Plur	0	root	_	Gloss=Perf.Plur=|wordform=n
 15	shiryà	shir-	VERB	_	_	14	comp:aux	_	Gloss=prepare
 16	Lasisi	Lasisi	PROPN	_	_	17	subj	_	Gloss=Lasisi
-17	zâ-	zâː-	AUX	_	Copula=No|Tense=Fut	15	comp:obj	_	Gloss=Fut-|SpaceAfter=No
-18	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	17	subj/m	_	Gloss=3Masc=|wordform=zâi
+17	zâː	zâː	AUX	_	Copula=No|Tense=Fut	15	comp:obj	_	Gloss=Fut|SpaceAfter=No|SpaceForm=zâi|wordform=zâ-
+18	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	17	subj/m	_	Gloss=3Masc|wordform=zâi
 19	gwabzàː	gwabz-	VERB	_	_	17	comp:aux	_	Gloss=fight
 20	dà	dà	ADP	_	_	19	comp:obl	_	Gloss=with
 21	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	22	det	_	Gloss=some.Masc.Spec
@@ -292,8 +292,8 @@
 32	cêːwaː	cêːwaː	SCONJ	_	_	31	comp:obj	_	Gloss=COMP
 33	Lasisi	Lasisi	PROPN	_	_	35	subj	_	Gloss=Lasisi
 34	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	35	mod	_	Gloss=Neg
-35	zâ-	zâː-	AUX	_	Copula=No|Tense=Fut	32	comp	_	Gloss=Fut-|SpaceAfter=No
-36	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	35	subj/m	_	Gloss=3Masc=|wordform=zâi
+35	zâː	zâː	AUX	_	Copula=No|Tense=Fut	32	comp	_	Gloss=Fut|SpaceAfter=No|SpaceForm=zâi|wordform=zâ-
+36	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	35	subj/m	_	Gloss=3Masc|wordform=zâi
 37	jeː	jeː	VERB	_	_	35	comp:aux	_	Gloss=go
 38	wàːsân	wàːsaː	NOUN	_	Definite=Def|Gender=Masc	37	comp:obj@G	_	Gloss=game.Masc.Def
 39	ba	ba	PART	_	PartType=Neg|Polarity=Neg	37	mod	_	Gloss=Neg|SpaceAfter=No
@@ -465,7 +465,7 @@
 41	Afir̃kà	Afir̃kà	PROPN	_	_	40	comp	_	Gloss=Africa
 42	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	41	mod	_	Gloss=Gen.Fem
 43	Kudù	Kudù	PROPN	_	_	42	comp	_	Gloss=Kudù
-44	zaː-	zâː-	AUX	_	Copula=No|Tense=Fut	40	parataxis:conj	_	Gloss=Fut-|SpaceAfter=No
+44	zâː	zâː	AUX	_	Copula=No|Tense=Fut	40	parataxis:conj	_	Gloss=Fut-|SpaceAfter=No|wordform=zaː-
 45	'à=	a	PRON	_	Person=4|PronType=PrsSubj	44	subj/m	_	Gloss=4=|wordform=zaː'à
 46	yi	yi	VERB	_	_	44	comp:aux	_	Gloss=do
 47	dambên	dambe	NOUN	_	Definite=Def|Gender=Masc	46	comp:pred	_	Gloss=boxing.Masc.Def

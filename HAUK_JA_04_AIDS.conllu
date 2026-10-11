@@ -74,8 +74,8 @@
 27	ɗuːràː	ɗuːr-	VERB	_	_	26	comp:aux	_	ClauseType=Rel|Gloss=inject
 28	wà	mà	ADP	_	Case=Dat	27	comp:obl	_	Gloss=Dat|RelRole=obj
 29	jiniː	jiniː	NOUN	_	Gender=Masc	27	comp:obj	_	Gloss=blood.Masc
-30	zâ-	zâː-	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut-|SpaceAfter=No
-31	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	30	subj/m	_	Gloss=3Masc=|wordform=zâi
+30	zâː	zâː	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut|SpaceAfter=No|SpaceForm=zâi|wordform=zâ-
+31	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	30	subj/m	_	Gloss=3Masc|wordform=zâi
 32	kàːmu	kaːm-	VERB	_	_	30	comp:aux	_	Gloss=catch
 33	dà	dà	ADP	_	_	32	comp:obl	_	Gloss=with
 34	ƙwaːyoːyi	ƙwàːyaː	NOUN	_	Number=Plur	33	comp	_	Gloss=virus.Plur|SpaceAfter=No|wordform=ƙwaːyoːyin
@@ -126,8 +126,8 @@
 37	-n	na	PART	_	Case=Gen|PartType=Case	36	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 38	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	37	comp:obj/m	_	Gloss=3Masc.Gen
 39	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
-40	zâ-	zâː-	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut-|SpaceAfter=No
-41	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	40	subj/m	_	Gloss=3Masc=|wordform=zâi
+40	zâː	zâː	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut|SpaceAfter=No|SpaceForm=zâi|wordform=zâ-
+41	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	40	subj/m	_	Gloss=3Masc|wordform=zâi
 42	bazà	baz-	VERB	_	_	40	comp:aux	_	Gloss=spread
 43	ƙwaːyoːyi	ƙwàːyaː	NOUN	_	Number=Plur	42	comp:obj	_	Gloss=virus.Plur|SpaceAfter=No|wordform=ƙwaːyoːyin
 44	-n	na	PART	_	Case=Gen|PartType=Case	43	mod/m	_	Gloss=Gen.Masc/Plur
@@ -252,7 +252,7 @@
 25	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	24	comp:obj/m	_	Gloss=3Masc.Gen
 26	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 27	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	28	mod	_	Gloss=Neg
-28	zaː-	zâː-	AUX	_	Copula=No|Tense=Fut	10	conj:coord	_	Gloss=Fut-|SpaceAfter=No
+28	zâː	zâː	AUX	_	Copula=No|Tense=Fut	10	conj:coord	_	Gloss=Fut-|SpaceAfter=No|wordform=zaː-
 29	'à=	a	PRON	_	Person=4|PronType=PrsSubj	28	subj/m	_	Gloss=4=|wordform=zaː'à
 30	ga	ganiː	VERB	_	_	28	comp:aux	_	Gloss=see
 31	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	32	det	_	Gloss=some.Fem.Spec
@@ -532,7 +532,7 @@
 32	-n	na	PART	_	Case=Gen|PartType=Case	31	mod/m	_	Gloss=Gen.Masc/Plur
 33	jinîn	jiniː	VERB	_	Definite=Def|Gender=Masc	32	comp	_	Gloss=blood.Masc.Def|RelAnt=Yes
 34	dà	dà	SCONJ	_	_	33	mod@relcl	_	Gloss=CompRel|Relz=Word
-35	zaː-	zâː-	AUX	_	Copula=No|Tense=Fut	34	comp	_	Gloss=Fut-|SpaceAfter=No
+35	zâː	zâː	AUX	_	Copula=No|Tense=Fut	34	comp	_	Gloss=Fut-|SpaceAfter=No|wordform=zaː-
 36	sù=	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	35	subj/m	_	Gloss=3Plur=|wordform=sù
 37	ɗuːràː	ɗuːr-	VERB	_	_	35	comp:aux	_	ClauseType=Rel|Gloss=inject|RelRole=obj
 38	wà	mà	ADP	_	Case=Dat	37	comp:obl	_	Gloss=Dat
@@ -654,8 +654,8 @@
 31	ɗàriː	ɗàriː	NUM	_	_	30	mod:num	_	Gloss=hundred|SpaceAfter=No
 32	,	,	PUNCT	_	_	34	punct	_	Gloss=PUNCT
 33	tòː	tòː	INTJ	_	_	34	discourse	_	Gloss=well
-34	zâ-	zâː-	AUX	_	Copula=No|Tense=Fut	14	comp:obj	_	Gloss=Fut-|SpaceAfter=No
-35	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	34	subj/m	_	Gloss=3Masc=|wordform=zâi
+34	zâː	zâː	AUX	_	Copula=No|Tense=Fut	14	comp:obj	_	Gloss=Fut|SpaceAfter=No|SpaceForm=zâi|wordform=zâ-
+35	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	34	subj/m	_	Gloss=3Masc|wordform=zâi
 36	yìwu	yìwu	VERB	_	_	34	comp:aux	_	Gloss=be_possible
 37	a-	a	PRON	_	Person=4|PronType=PrsSubj	38	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
 38	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	36	comp:obj@agent	_	Gloss=Sub=
@@ -712,8 +712,8 @@
 23	dukkàn	dukà	DET	_	Gender=Masc|PronType=Tot	24	det	_	Gloss=all
 24	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	22	comp:obj	_	Gloss=thing.Masc.Def|RelAnt=Yes
 25	dà	dà	SCONJ	_	_	24	mod@relcl	_	Gloss=CompRel|Relz=Word
-26	zâ-	zâː-	AUX	_	Copula=No|Tense=Fut	25	comp	_	Gloss=Fut-|SpaceAfter=No
-27	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	26	subj/m	_	Gloss=3Masc=|wordform=zâi
+26	zâː	zâː	AUX	_	Copula=No|Tense=Fut	25	comp	_	Gloss=Fut|SpaceAfter=No|SpaceForm=zâi|wordform=zâ-
+27	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	26	subj/m	_	Gloss=3Masc|wordform=zâi
 28	sâː	sâː	VERB	_	_	26	comp:aux	_	ClauseType=Rel|Gloss=cause|RelRole=obj
 29	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	30	subj/m	_	Gloss=3.Plur-|SpaceAfter=No|wordform=sù
 30	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	28	comp:obj	_	Gloss=Sub=

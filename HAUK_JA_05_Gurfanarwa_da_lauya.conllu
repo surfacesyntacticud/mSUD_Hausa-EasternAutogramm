@@ -2,7 +2,7 @@
 # text_en = An opposition lawyer will be prosecuted in Nigeria
 # text_ortho = Zaː'à gur̃faːnar̃ dà wani lauyàː mài r̃aꞌàyin canjìː à Nàːjeːr̃iyàː
 # text = zaː'à gur̃faːnar̃ dà wani lauyàː mài r̃aꞌàyin canjìː à Nàːjeːr̃iyàː
-1	zaː-	zâː-	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut-|SpaceAfter=No
+1	zâː	zâː	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut-|SpaceAfter=No|wordform=zaː-
 2	'à=	a	PRON	_	Person=4|PronType=PrsSubj	1	subj/m	_	Gloss=4=|wordform=zaː'à
 3	gur̃faːnar̃	gur̃faːn-	VERB	_	Voice=Cau	1	comp:aux	_	Gloss=take_to_court.Cau
 4	dà	dà	ADP	_	_	3	comp:obl	_	Gloss=with
@@ -201,7 +201,7 @@
 17	à	à	ADP	_	_	14	comp:pred	_	Gloss=at
 18	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	17	comp	_	Gloss=Nigeria
 19	dà	dà	SCONJ	_	_	16	mod@relcl	_	Gloss=CompRel|Relz=Word
-20	zaː-	zâː-	AUX	_	Copula=No|Tense=Fut	19	comp	_	Gloss=Fut-|SpaceAfter=No
+20	zâː	zâː	AUX	_	Copula=No|Tense=Fut	19	comp	_	Gloss=Fut-|SpaceAfter=No|wordform=zaː-
 21	tà=	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	20	subj/m	_	Gloss=3Fem=|wordform=zaːtà
 22	sâː	sâː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	20	comp:aux	_	ClauseType=Rel|Gloss=put|RelRole=subj
 23	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	22	comp:obj	_	Gloss=mouth.Masc|SpaceAfter=No
@@ -248,7 +248,7 @@
 35	dà	dà	ADP	_	_	13	mod	_	Gloss=with
 36	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	37	det	_	Gloss=some.Fem.Spec
 37	àlaːmàː	àlaːmàː	NOUN	_	Gender=Fem	35	comp	_	Gloss=sign.Fem
-38	zaː-	zâː-	AUX	_	Copula=No|Tense=Fut	37	mod@relcl	_	Gloss=Fut-|SpaceAfter=No
+38	zâː	zâː	AUX	_	Copula=No|Tense=Fut	37	mod@relcl	_	Gloss=Fut-|SpaceAfter=No|wordform=zaː-
 39	'à=	a	PRON	_	Person=4|PronType=PrsSubj	38	subj/m	_	Gloss=4=|wordform=zaː'à
 40	gur̃faːnar̃	gur̃faːn-	VERB	_	Voice=Cau	38	comp:aux	_	Gloss=take_to_court.Cau
 41	dà	dà	ADP	_	_	40	comp:obl	_	Gloss=with
@@ -428,8 +428,8 @@
 18	lâifiː	lâifiː	NOUN	_	Gender=Masc	16	comp:obj	_	Gloss=crime.Masc|SpaceAfter=No
 19	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
 20	tòː	tòː	INTJ	_	_	21	discourse	_	Gloss=well
-21	zâ-	zâː-	AUX	_	Copula=No|Tense=Fut	8	comp:obj	_	Gloss=Fut-|SpaceAfter=No
-22	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	21	subj/m	_	Gloss=3Masc=|wordform=zâi
+21	zâː	zâː	AUX	_	Copula=No|Tense=Fut	8	comp:obj	_	Gloss=Fut|SpaceAfter=No|SpaceForm=zâi|wordform=zâ-
+22	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	21	subj/m	_	Gloss=3Masc|wordform=zâi
 23	iyà	iy-	VERB	_	_	21	comp:aux	_	Gloss=be_able_to
 24	saːmù	saːmùː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	23	comp:obj	_	Gloss=get.Vnoun.Masc|SpaceAfter=No|wordform=saːmùn
 25	-n	na	PART	_	Case=Gen|PartType=Case	24	udep/m	_	Gloss=Gen.Masc/Plur

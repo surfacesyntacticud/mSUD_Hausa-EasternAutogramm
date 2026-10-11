@@ -34,7 +34,7 @@
 19	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 20	dà	dà	ADP	_	_	22	mod	_	Gloss=with
 21	ƙyar̃	ƙyar̃	ADV	_	_	20	comp	_	Gloss=difficulty
-22	zaː-	zâː-	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut-|SpaceAfter=No
+22	zâː	zâː	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut-|SpaceAfter=No|wordform=zaː-
 23	kà=	ka	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=PrsSubj	22	subj/m	_	Gloss=2Masc=|SpaceAfter=No|wordform=zaːkà
 24	yàr̃da	yar̃d-	VERB	_	_	22	comp:aux	_	Gloss=agree
 25	dà	dà	ADP	_	_	24	comp:obl	_	Gloss=with
@@ -410,8 +410,8 @@
 12	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	11	comp	_	Gloss=there_is.Neg
 13	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	12	subj	_	Gloss=thing.Masc.Def|RelAnt=Yes
 14	dà	dà	SCONJ	_	_	13	mod@relcl	_	Gloss=CompRel|Relz=Word
-15	zâ-	zâː-	AUX	_	Copula=No|Tense=Fut	14	comp	_	Gloss=Fut-|SpaceAfter=No
-16	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	15	subj/m	_	Gloss=3Masc=|wordform=zâi
+15	zâː	zâː	AUX	_	Copula=No|Tense=Fut	14	comp	_	Gloss=Fut|SpaceAfter=No|SpaceForm=zâi|wordform=zâ-
+16	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	15	subj/m	_	Gloss=3Masc|wordform=zâi
 17	fi	fi	VERB	_	_	15	comp:aux	_	ClauseType=Rel|Gloss=exceed|RelRole=subj
 18	daːcèːwaː	daːt-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	17	comp:obj	_	Gloss=be_correct
 19	dà	dà	ADP	_	_	18	comp:obl	_	Gloss=with
@@ -939,7 +939,7 @@
 44	-n	na	PART	_	Case=Gen|PartType=Case	43	udep/m	_	Gloss=Gen.Masc/Plur
 45	hanyàr̃	hanyàː	NOUN	_	Definite=Def|Gender=Fem	44	comp	_	Gloss=way.Fem.Def|RelAnt=Yes
 46	dà	dà	SCONJ	_	_	45	mod@relcl	_	Gloss=CompRel|Relz=Word
-47	zaː-	zâː-	AUX	_	Copula=No|Tense=Fut	46	comp	_	Gloss=Fut-|SpaceAfter=No
+47	zâː	zâː	AUX	_	Copula=No|Tense=Fut	46	comp	_	Gloss=Fut-|SpaceAfter=No|wordform=zaː-
 48	'à=	a	PRON	_	Person=4|PronType=PrsSubj	47	subj/m	_	Gloss=4=|wordform=zaː'à
 49	ɓulloː	ɓull-	VERB	_	_	47	comp:aux	_	ClauseType=Rel|Gloss=tackle|RelRole=obj
 50	wà	mà	ADP	_	Case=Dat	49	comp:obl	_	Gloss=Dat
