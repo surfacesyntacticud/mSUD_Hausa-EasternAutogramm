@@ -34,8 +34,8 @@
 19	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 20	dà	dà	ADP	_	_	22	mod	_	Gloss=with
 21	ƙyar̃	ƙyar̃	ADV	_	_	20	comp	_	Gloss=difficulty
-22	zâː	zâː	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut-|SpaceAfter=No|wordform=zaː-
-23	kà=	ka	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=PrsSubj	22	subj/m	_	Gloss=2Masc=|SpaceAfter=No|wordform=zaːkà
+22	zâː	zâː	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut|SpaceAfter=No|wordform=zaː-
+23	-kà	ka	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=PrsSubj	22	subj/m	_	Gloss=2Masc|SpaceAfter=No|wordform=zaːkà
 24	yàr̃da	yar̃d-	VERB	_	_	22	comp:aux	_	Gloss=agree
 25	dà	dà	ADP	_	_	24	comp:obl	_	Gloss=with
 26	cêwaː	cêwaː	SCONJ	_	_	25	comp	_	Gloss=COMP
@@ -881,7 +881,7 @@
 42	"	"	PUNCT	_	_	45	punct	_	Gloss=PUNCT|SpaceAfter=No
 43	,	,	PUNCT	_	_	45	punct	_	Gloss=PUNCT
 44	wàːtòː	wàːtòː	CCONJ	_	_	45	cc	_	Gloss=i.e.
-45	Jàm'iyyà	jàm'iyyàː	NOUN	_	Gender=Fem	37	conj:dicto	_	Gloss=party.Fem|SpaceAfter=No|wordform=Jàm'iyyàr̃
+45	Jàm'iyyà	jàm'iyyàː	NOUN	_	Gender=Fem	37	conj:reform	_	Gloss=party.Fem|SpaceAfter=No|wordform=Jàm'iyyàr̃
 46	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	45	mod/m	_	Gloss=Gen.Fem
 47	Jàma'àː	jàma'àː	NOUN	_	Number=Plur	46	comp	_	Gloss=people.Plur|SpaceAfter=No
 48	.	.	PUNCT	_	_	24	punct	_	Gloss=PUNCT
@@ -939,8 +939,8 @@
 44	-n	na	PART	_	Case=Gen|PartType=Case	43	udep/m	_	Gloss=Gen.Masc/Plur
 45	hanyàr̃	hanyàː	NOUN	_	Definite=Def|Gender=Fem	44	comp	_	Gloss=way.Fem.Def|RelAnt=Yes
 46	dà	dà	SCONJ	_	_	45	mod@relcl	_	Gloss=CompRel|Relz=Word
-47	zâː	zâː	AUX	_	Copula=No|Tense=Fut	46	comp	_	Gloss=Fut-|SpaceAfter=No|wordform=zaː-
-48	'à=	a	PRON	_	Person=4|PronType=PrsSubj	47	subj/m	_	Gloss=4=|wordform=zaː'à
+47	zâː	zâː	AUX	_	Copula=No|Tense=Fut	46	comp	_	Gloss=Fut|SpaceAfter=No|wordform=zaː-
+48	-'à	a	PRON	_	Person=4|PronType=PrsSubj	47	subj/m	_	Gloss=4|wordform=zaː'à
 49	ɓulloː	ɓull-	VERB	_	_	47	comp:aux	_	ClauseType=Rel|Gloss=tackle|RelRole=obj
 50	wà	mà	ADP	_	Case=Dat	49	comp:obl	_	Gloss=Dat
 51	matsaloːlîn	màtsalàː	NOUN	_	Definite=Def|Number=Plur	50	comp	_	Gloss=problem.Plur.Def|RelAnt=Yes
@@ -1008,7 +1008,7 @@
 52	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	51	comp	_	Gloss=country.Fem.Def
 53	-	-	PUNCT	_	_	55	punct	_	Gloss=PUNCT|SpaceAfter=No
 54	wàːtòː	wàːtòː	CCONJ	_	_	55	cc	_	Gloss=i.e.
-55	aikì	aikìː	NOUN	_	Gender=Masc	41	conj:dicto	_	Gloss=work.Masc|SpaceAfter=No|wordform=aikìn
+55	aikì	aikìː	NOUN	_	Gender=Masc	41	conj:reform	_	Gloss=work.Masc|SpaceAfter=No|wordform=aikìn
 56	-n	na	PART	_	Case=Gen|PartType=Case	55	udep/m	_	Gloss=Gen.Masc/Plur
 57	sùmoːgàː	sùmoːgàː	NOUN	_	Gender=Fem	56	comp	_	Gloss=smuggling.Fem|SpaceAfter=No
 58	.	.	PUNCT	_	_	15	punct	_	Gloss=PUNCT
@@ -1030,7 +1030,7 @@
 11	naːkù	naːkù	PRON	_	Case=Gen|Gender=Masc|PronType=Prs	10	mod@poss	_	CaseAf=Gen|Gloss=Gen.Masc-2PlurGen|MSeg=naː-kù|NumberAf=Plur|PersonAf=2|SpaceAfter=No|wordform=naː
 12	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 13	wàːtòː	wàːtòː	CCONJ	_	_	14	cc	_	Gloss=that_is
-14	baːyan	baːyan	SCONJ	_	_	2	conj:dicto	_	Gloss=after
+14	baːyan	baːyan	SCONJ	_	_	2	conj:reform	_	Gloss=after
 15	a-	a	PRON	_	Person=4|PronType=PrsSubj	16	subj/m	_	Gloss=4|SpaceAfter=No|wordform=an
 16	n=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Plur	14	comp	_	Gloss=Perf.Plur=|wordform=n
 17	sàːmi	saːm-	VERB	_	_	16	comp:aux	_	Gloss=get

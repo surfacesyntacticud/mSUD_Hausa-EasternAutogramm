@@ -514,8 +514,8 @@
 21	t-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	22	subj/m	_	Gloss=3Fem|SpaceAfter=No|wordform=taː
 22	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing=|wordform=aː
 23	cêː	cêː	VERB	_	_	22	comp:aux	_	Gloss=say
-24	zâː	zâː	AUX	_	Copula=No|Tense=Fut	23	comp:obj	_	Gloss=Fut-|SpaceAfter=No|wordform=zaː-
-25	'à=	a	PRON	_	Person=4|PronType=PrsSubj	24	subj/m	_	Gloss=4=|wordform=zaːà
+24	zâː	zâː	AUX	_	Copula=No|Tense=Fut	23	comp:obj	_	Gloss=Fut|SpaceAfter=No|wordform=zaː-
+25	-'à	a	PRON	_	Person=4|PronType=PrsSubj	24	subj/m	_	Gloss=4|wordform=zaːà
 26	kafà	kaf-	VERB	_	_	24	comp:aux	_	Gloss=set_up
 27	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	28	det	_	Gloss=some.Masc.Spec
 28	kwàmìtîn	kwàmìtîː	NOUN	_	Definite=Def|Gender=Masc	26	comp:obj	_	Gloss=committee.Masc.Def|RelAnt=Yes
@@ -871,7 +871,7 @@
 21	fiːfiːkòː	fiːfiːkòː	NOUN	_	Gender=Masc	13	comp:obj	_	Gloss=preference.Masc|SpaceAfter=No
 22	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
 23	wàːtòː	wàːtòː	CCONJ	_	_	24	cc	_	Gloss=i.e.
-24	ma'àikàtaː	ma'àikàciː	NOUN	_	Number=Plur	15	conj:dicto	_	Gloss=worker.Plur
+24	ma'àikàtaː	ma'àikàciː	NOUN	_	Number=Plur	15	conj:reform	_	Gloss=worker.Plur
 25	dàgà	dàgà	ADP	_	_	24	mod	_	Gloss=from
 26	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	25	comp	_	Gloss=Nigeria
 27	dà	dà	CCONJ	_	_	28	cc	_	Gloss=and

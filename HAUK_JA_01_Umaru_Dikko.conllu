@@ -273,8 +273,8 @@
 25	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
 26	wàːtòː	wàːtòː	CCONJ	_	_	27	cc	_	Gloss=i.e.
 27	indà	indà	ADV	_	PronType=Rel	11	conj:appos	_	Gloss=where.Rel|RelAnt=Yes|Relz=Word
-28	zâː	zâː	AUX	_	Copula=No|Tense=Fut	27	mod@relcl	_	Gloss=Fut-|SpaceAfter=No|wordform=zaː-
-29	'à=	a	PRON	_	Person=4|PronType=PrsSubj	28	subj/m	_	Gloss=4=|wordform=à
+28	zâː	zâː	AUX	_	Copula=No|Tense=Fut	27	mod@relcl	_	Gloss=Fut|SpaceAfter=No|wordform=zaː-
+29	-'à	a	PRON	_	Person=4|PronType=PrsSubj	28	subj/m	_	Gloss=4|wordform=à
 30	kai	kai	VERB	_	_	28	comp:aux	_	ClauseType=Rel|Gloss=reach/carry_to|RelRole=G
 31	-shì	-shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	30	comp:obj/m	_	Gloss=-3Masc.Acc|wordform=shì
 32	kèːnan	neː	PART	_	PartType=Foc	30	discourse@foc	_	Gloss=Emph|SpaceAfter=No
@@ -670,8 +670,8 @@
 34	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	33	comp:obj	_	Gloss=Nigeria|SpaceAfter=No
 35	,	,	PUNCT	_	_	36	punct	_	Gloss=PUNCT
 36	jàmaꞌàː	jàmaꞌàː	NOUN	_	Gender=Fem	26	comp:obj	_	Gloss=public.Fem
-37	zâː	zâː	AUX	_	Copula=No|Tense=Fut	36	comp:cleft	_	Gloss=Fut-|SpaceAfter=No|wordform=zaː-
-38	'à=	a	PRON	_	Person=4|PronType=PrsSubj	37	subj/m	_	Gloss=4=|wordform=zaː'à
+37	zâː	zâː	AUX	_	Copula=No|Tense=Fut	36	comp:cleft	_	Gloss=Fut|SpaceAfter=No|wordform=zaː-
+38	-'à	a	PRON	_	Person=4|PronType=PrsSubj	37	subj/m	_	Gloss=4|wordform=zaː'à
 39	taːràː	taːr-	VERB	_	_	37	comp:aux	_	ClauseType=Cleft|Gloss=gather
 40	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	41	subj/m	_	Gloss=3.Plur-|SpaceAfter=No|wordform=sù
 41	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	39	mod	_	Gloss=Sub=
@@ -680,8 +680,8 @@
 44	-n	na	PART	_	Case=Gen|PartType=Case	43	udep/m	_	Gloss=Gen.Masc/Plur
 45	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	44	comp	_	Gloss=time.Masc.Def|RelAnt=Yes
 46	dà	dà	SCONJ	_	_	45	mod@relcl	_	Gloss=CompRel|Relz=Word
-47	zâː	zâː	AUX	_	Copula=No|Tense=Fut	46	comp	_	Gloss=Fut-|SpaceAfter=No|wordform=zaː-
-48	'à=	a	PRON	_	Person=4|PronType=PrsSubj	47	subj/m	_	Gloss=4=|wordform=zaː'à
+47	zâː	zâː	AUX	_	Copula=No|Tense=Fut	46	comp	_	Gloss=Fut|SpaceAfter=No|wordform=zaː-
+48	-'à	a	PRON	_	Person=4|PronType=PrsSubj	47	subj/m	_	Gloss=4|wordform=zaː'à
 49	sâː	sâː	VERB	_	_	47	comp:aux	_	ClauseType=Rel|Gloss=cause|RelRole=subj
 50	soːjà	soːjà	NOUN	_	Number=Plur	52	subj	_	Gloss=soldiers.Plur
 51	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	52	subj/m	_	Gloss=3.Plur-|SpaceAfter=No|wordform=sù
@@ -770,8 +770,8 @@
 32	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	31	comp:obj@G	_	Gloss=Nigeria
 33	kashèː	kas-	VERB	_	_	27	comp	_	Gloss=kill
 34	-shi	-shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	33	comp:obj/m	_	Gloss=-3Masc.Acc|wordform=shi
-35	zâː	zâː	AUX	_	Copula=No|Tense=Fut	33	comp:cleft	_	Gloss=Fut-|SpaceAfter=No|wordform=zaː-
-36	'à=	a	PRON	_	Person=4|PronType=PrsSubj	35	subj/m	_	Gloss=4=|wordform=zaː'à
+35	zâː	zâː	AUX	_	Copula=No|Tense=Fut	33	comp:cleft	_	Gloss=Fut|SpaceAfter=No|wordform=zaː-
+36	-'à	a	PRON	_	Person=4|PronType=PrsSubj	35	subj/m	_	Gloss=4|wordform=zaː'à
 37	yi	yi	VERB	_	_	35	comp:aux	_	ClauseType=Cleft|Gloss=do|SpaceAfter=No
 38	.	.	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 
@@ -822,8 +822,8 @@
 41	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	39	comp	_	Gloss=Prog|wordform=kanàː
 42	tsòːro	tsòːroː	NOUN	_	Gender=Masc	41	comp:pred	_	Gloss=fear.Masc|SpaceAfter=No|wordform=tsòːron
 43	-n	na	PART	_	Case=Gen|PartType=Case	42	udep/m	_	Gloss=Gen.Masc/Plur
-44	zâː	zâː	AUX	_	Copula=No|Tense=Fut	43	comp	_	Gloss=Fut-|SpaceAfter=No|wordform=zaː-
-45	'à=	a	PRON	_	Person=4|PronType=PrsSubj	44	subj/m	_	Gloss=4=|wordform=zaː'à
+44	zâː	zâː	AUX	_	Copula=No|Tense=Fut	43	comp	_	Gloss=Fut|SpaceAfter=No|wordform=zaː-
+45	-'à	a	PRON	_	Person=4|PronType=PrsSubj	44	subj/m	_	Gloss=4|wordform=zaː'à
 46	ƙuntàtaː	ƙuntat-	VERB	_	_	44	comp:aux	_	Gloss=persecute
 47	makà	makà	PRON	_	Case=Dat|Gender=Masc|Person=2|PronType=Prs	46	comp:obl	_	Gloss=2Masc.Dat
 48	ba	ba	PART	_	PartType=Neg|Polarity=Neg	41	mod	_	Gloss=Neg|SpaceAfter=No
@@ -834,8 +834,8 @@
 53	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	51	comp	_	Gloss=Prog|wordform=kanàː
 54	tsòːro	tsòːroː	NOUN	_	Gender=Masc	53	comp:pred	_	Gloss=fear.Masc|SpaceAfter=No|wordform=tsòːron
 55	-n	na	PART	_	Case=Gen|PartType=Case	54	udep/m	_	Gloss=Gen.Masc/Plur
-56	zâː	zâː	AUX	_	Copula=No|Tense=Fut	55	comp	_	Gloss=Fut-|SpaceAfter=No|wordform=zaː-
-57	'à=	a	PRON	_	Person=4|PronType=PrsSubj	56	subj/m	_	Gloss=4=|wordform=zaː'à
+56	zâː	zâː	AUX	_	Copula=No|Tense=Fut	55	comp	_	Gloss=Fut|SpaceAfter=No|wordform=zaː-
+57	-'à	a	PRON	_	Person=4|PronType=PrsSubj	56	subj/m	_	Gloss=4|wordform=zaː'à
 58	gur̃faːnar̃	gur̃faːn-	VERB	_	Voice=Cau	56	comp:aux	_	Gloss=take_to_court.Cau
 59	dà	dà	ADP	_	_	58	comp:obl	_	Gloss=with
 60	kai	kai	PRON	_	Case=Nom|Gender=Masc|Person=2|PronType=Prs	59	comp	_	Gloss=2Masc.Nom

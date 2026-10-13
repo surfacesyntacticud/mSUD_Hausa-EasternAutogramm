@@ -207,8 +207,8 @@
 17	à	à	ADP	_	_	16	mod	_	Gloss=at
 18	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	17	comp	_	Gloss=Nigeria
 19	dà	dà	SCONJ	_	_	16	mod@relcl	_	Gloss=CompRel|Relz=Word
-20	zâː	zâː	AUX	_	Copula=No|Tense=Fut	19	comp	_	Gloss=Fut-|SpaceAfter=No|wordform=zaː-
-21	tà=	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	20	subj/m	_	Gloss=3Fem=|wordform=zaːtà
+20	zâː	zâː	AUX	_	Copula=No|Tense=Fut	19	comp	_	Gloss=Fut|SpaceAfter=No|wordform=zaː-
+21	-tà	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	20	subj/m	_	Gloss=3Fem|wordform=zaːtà
 22	iyà	iy-	VERB	_	_	20	comp:aux	_	ClauseType=Rel|Gloss=be_able_to|RelRole=subj
 23	sâː	sâː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	22	comp:obj	_	Gloss=put
 24	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	23	comp:obj	_	Gloss=mouth.Masc
@@ -256,7 +256,7 @@
 36	-	-	PUNCT	_	_	39	punct	_	Gloss=PUNCT|SpaceAfter=No
 37	wàːtòː	wàːtòː	CCONJ	_	_	39	cc	_	Gloss=i.e.
 38	a-	a-	PRON	_	Person=4|PronType=Prs	39	subj/m	_	Gloss=4|SpaceAfter=No
-39	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	22	conj:dicto	_	Gloss=Prog|wordform=anàː
+39	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	22	conj:reform	_	Gloss=Prog|wordform=anàː
 40	tsarèː	tsar-	VERB	_	_	39	comp:pred	_	Gloss=imprison
 41	mutàneː	mùtûm	NOUN	_	Number=Plur	40	comp:obj	_	Gloss=man.Plur
 42	sabòːdà	sabòːdà	ADP	_	_	40	mod	_	Gloss=because_of
@@ -396,9 +396,9 @@
 64	ba	ba	PART	_	PartType=Neg|Polarity=Neg	55	mod	_	Gloss=Neg
 65	-	-	PUNCT	_	_	67	punct	_	Gloss=PUNCT|SpaceAfter=No
 66	wàːtòː	wàːtòː	CCONJ	_	_	67	cc	_	Gloss=i.e.
-67	bà-	bà-	AUX	_	Aspect=Perf|Copula=No|Polarity=Neg	55	conj:dicto	_	Gloss=Neg.Perf-|SpaceAfter=No
+67	bà-	bà-	AUX	_	Aspect=Perf|Copula=No|Polarity=Neg	53	conj:reform	_	Gloss=Neg.Perf-|SpaceAfter=No
 68	ì=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	67	subj/m	_	Gloss=3Masc=|SpaceAfter=No|wordform=bài
-69	koː	koː	ADV	_	_	67	mod	_	Gloss=even
+69	koː	koː	ADV	_	_	70	mod	_	Gloss=even
 70	saːtar̃	saːt-	VERB	_	Voice=Cau	67	comp:aux	_	Gloss=steal.Cau
 71	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	70	comp:obl	_	Gloss=3Masc.Dat
 72	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	73	det	_	Gloss=some.Masc.Spec

@@ -2,8 +2,8 @@
 # text_en = An opposition lawyer will be prosecuted in Nigeria
 # text_ortho = Zaː'à gur̃faːnar̃ dà wani lauyàː mài r̃aꞌàyin canjìː à Nàːjeːr̃iyàː
 # text = zaː'à gur̃faːnar̃ dà wani lauyàː mài r̃aꞌàyin canjìː à Nàːjeːr̃iyàː
-1	zâː	zâː	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut-|SpaceAfter=No|wordform=zaː-
-2	'à=	a	PRON	_	Person=4|PronType=PrsSubj	1	subj/m	_	Gloss=4=|wordform=zaː'à
+1	zâː	zâː	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut|SpaceAfter=No|wordform=zaː-
+2	-'à	a	PRON	_	Person=4|PronType=PrsSubj	1	subj/m	_	Gloss=4|wordform=zaː'à
 3	gur̃faːnar̃	gur̃faːn-	VERB	_	Voice=Cau	1	comp:aux	_	Gloss=take_to_court.Cau
 4	dà	dà	ADP	_	_	3	comp:obl	_	Gloss=with
 5	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	6	det	_	Gloss=some.Masc.Spec
@@ -100,7 +100,7 @@
 12	dòːkaː	dòːkaː	NOUN	_	Gender=Fem	10	comp	_	Gloss=law.Fem
 13	-	-	PUNCT	_	_	15	punct	_	Gloss=PUNCT|SpaceAfter=No
 14	wàːtòː	wàːtòː	CCONJ	_	_	15	cc	_	Gloss=i.e.
-15	Dòːkaː	Dòːkaː	PROPN	_	_	12	conj:dicto	_	Gloss=Dòːkaː
+15	Dòːkaː	Dòːkaː	PROPN	_	_	12	conj:reform	_	Gloss=Dòːkaː
 16	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	15	mod	_	Gloss=Gen.Fem
 17	Biyu	Biyu	PROPN	_	_	16	comp	_	Gloss=Biyu
 18	-	-	PUNCT	_	_	15	punct	_	Gloss=PUNCT|SpaceAfter=No
@@ -201,8 +201,8 @@
 17	à	à	ADP	_	_	14	comp:pred	_	Gloss=at
 18	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	17	comp	_	Gloss=Nigeria
 19	dà	dà	SCONJ	_	_	16	mod@relcl	_	Gloss=CompRel|Relz=Word
-20	zâː	zâː	AUX	_	Copula=No|Tense=Fut	19	comp	_	Gloss=Fut-|SpaceAfter=No|wordform=zaː-
-21	tà=	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	20	subj/m	_	Gloss=3Fem=|wordform=zaːtà
+20	zâː	zâː	AUX	_	Copula=No|Tense=Fut	19	comp	_	Gloss=Fut|SpaceAfter=No|wordform=zaː-
+21	-tà	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	20	subj/m	_	Gloss=3Fem|wordform=zaːtà
 22	sâː	sâː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	20	comp:aux	_	ClauseType=Rel|Gloss=put|RelRole=subj
 23	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	22	comp:obj	_	Gloss=mouth.Masc|SpaceAfter=No
 24	.	.	PUNCT	_	_	14	punct	_	Gloss=PUNCT
@@ -248,8 +248,8 @@
 35	dà	dà	ADP	_	_	13	mod	_	Gloss=with
 36	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	37	det	_	Gloss=some.Fem.Spec
 37	àlaːmàː	àlaːmàː	NOUN	_	Gender=Fem	35	comp	_	Gloss=sign.Fem
-38	zâː	zâː	AUX	_	Copula=No|Tense=Fut	37	mod@relcl	_	Gloss=Fut-|SpaceAfter=No|wordform=zaː-
-39	'à=	a	PRON	_	Person=4|PronType=PrsSubj	38	subj/m	_	Gloss=4=|wordform=zaː'à
+38	zâː	zâː	AUX	_	Copula=No|Tense=Fut	37	mod@relcl	_	Gloss=Fut|SpaceAfter=No|wordform=zaː-
+39	-'à	a	PRON	_	Person=4|PronType=PrsSubj	38	subj/m	_	Gloss=4|wordform=zaː'à
 40	gur̃faːnar̃	gur̃faːn-	VERB	_	Voice=Cau	38	comp:aux	_	Gloss=take_to_court.Cau
 41	dà	dà	ADP	_	_	40	comp:obl	_	Gloss=with
 42	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	41	comp	_	Gloss=3Masc.Nom
@@ -629,7 +629,7 @@
 39	Giwa	Giwa	PROPN	_	_	38	flat@name	_	Gloss=Giwa|SpaceAfter=No
 40	,	,	PUNCT	_	_	42	punct	_	Gloss=PUNCT
 41	wàːtòː	wàːtòː	CCONJ	_	_	42	cc	_	Gloss=i.e.
-42	ɗa	ɗaː	NOUN	_	Gender=Masc	38	conj:dicto	_	Compound=Yes|Gloss=child.Masc|RelAnt=Yes|SpaceAfter=No|wordform=ɗan
+42	ɗa	ɗaː	NOUN	_	Gender=Masc	38	conj:reform	_	Compound=Yes|Gloss=child.Masc|RelAnt=Yes|SpaceAfter=No|wordform=ɗan
 43	-n	na	PART	_	Case=Gen|PartType=Case	42	udep/m	_	Gloss=Gen.Fem
 44	jàr̃iːdàr̃	jàr̃iːdàː	NOUN	_	Definite=Def|Gender=Fem	43	comp	_	Gloss=newspaper.Fem.Def
 45	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	42	det	_	Gloss=PreRef|PreRef=Yes
@@ -681,7 +681,7 @@
 10	Yuːnì	Yuːnì	NOUN	_	Gender=Masc	9	comp	_	Gloss=June.Masc|SpaceAfter=No
 11	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 12	wàːtòː	wàːtòː	CCONJ	_	_	13	cc	_	Gloss=i.e.
-13	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	7	conj:dicto	_	Gloss=time.Masc.Def|RelAnt=Yes
+13	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	7	conj:reform	_	Gloss=time.Masc.Def|RelAnt=Yes
 14	dà	dà	SCONJ	_	_	13	mod@relcl	_	Gloss=CompRel|Relz=Word
 15	ya	ya	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=PrsSubj	16	subj/m	_	Gloss=3Masc
 16	kè	nàː	AUX	_	Copula=Yes|Mood=Rel	14	comp	_	ClauseType=Rel|Gloss=bePred.Rel2|RelRole=mod|Relz=Affix|wordform=yakè

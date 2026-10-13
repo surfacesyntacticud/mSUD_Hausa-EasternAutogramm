@@ -121,7 +121,7 @@
 39	,	,	PUNCT	_	_	42	punct	_	Gloss=PUNCT
 40	wàːtòː	wàːtòː	CCONJ	_	_	42	cc	_	Gloss=i.e.
 41	"	"	PUNCT	_	_	42	punct	_	Gloss=PUNCT
-42	Saddam	Saddam	PROPN	_	_	34	conj:dicto	_	Gloss=Saddam
+42	Saddam	Saddam	PROPN	_	_	34	conj:reform	_	Gloss=Saddam
 43	Hussein	Hussein	PROPN	_	_	42	flat@name	_	Gloss=Hussein|SpaceAfter=No
 44	"	"	PUNCT	_	_	42	punct	_	Gloss=PUNCT
 45	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT

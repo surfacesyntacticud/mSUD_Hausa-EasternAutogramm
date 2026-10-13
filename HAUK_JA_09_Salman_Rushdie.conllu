@@ -2,8 +2,8 @@
 # text_en = 'Salman Rushie's' book will be published in Japan.
 # text_ortho = Zaː'à bugà littaːfìn nan na " Salman Rushdie " à ƙasar̃ Jàpân
 # text = zaː'à bugà littaːfìn nan na " Salman Rushdie " à ƙasar̃ Jàpân
-1	zâː	zâː	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut-|SpaceAfter=No|wordform=zaː-
-2	'à=	a	PRON	_	Person=4|PronType=PrsSubj	1	subj/m	_	Gloss=4=|wordform=zaː'à
+1	zâː	zâː	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut|SpaceAfter=No|wordform=zaː-
+2	-'à	a	PRON	_	Person=4|PronType=PrsSubj	1	subj/m	_	Gloss=4|wordform=zaː'à
 3	bugà	bug-	VERB	_	_	1	comp:aux	_	Gloss=beat
 4	littaːfìn	littaːfìː	NOUN	_	Definite=Def|Gender=Masc	3	comp:obj	_	Gloss=book.Masc.Def
 5	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	4	det	_	Gloss=PreRef|PreRef=Yes
@@ -44,7 +44,7 @@
 21	Rushdie	Rushdie	PROPN	_	_	20	flat@name	_	Gloss=Rushdie|SpaceAfter=No
 22	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
 23	wàːtòː	wàːtòː	CCONJ	_	_	24	cc	_	Gloss=i.e.
-24	mar̃ùbùːci	mar̃ùbùːciː	NOUN	_	Gender=Masc	20	conj:dicto	_	Gloss=writer.Masc|SpaceAfter=No|wordform=mar̃ùbùːcin
+24	mar̃ùbùːci	mar̃ùbùːciː	NOUN	_	Gender=Masc	20	conj:reform	_	Gloss=writer.Masc|SpaceAfter=No|wordform=mar̃ùbùːcin
 25	-n	na	PART	_	Case=Gen|PartType=Case	24	udep/m	_	Gloss=Gen.Masc/Plur
 26	littaːfìn	littaːfìː	NOUN	_	Definite=Def|Gender=Masc	25	comp	_	Gloss=book.Masc.Def
 27	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	26	det	_	Gloss=PreRef|PreRef=Yes
@@ -62,8 +62,8 @@
 1	à	à	ADP	_	_	4	mod	_	Gloss=at
 2	gòːbe	gòːbe	ADV	_	_	1	comp	_	Gloss=tomorrow
 3	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
-4	zâː	zâː	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut-|SpaceAfter=No|wordform=zaː-
-5	'à=	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4=|wordform=zaː'à
+4	zâː	zâː	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut|SpaceAfter=No|wordform=zaː-
+5	-'à	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4|wordform=zaː'à
 6	bugà	bug-	VERB	_	_	4	comp:aux	_	Gloss=print
 7	littaːfìn	littaːfìː	NOUN	_	Definite=Def|Gender=Masc	6	comp:obj	_	Gloss=book.Masc.Def
 8	à	à	ADP	_	ExtPos=ADP	6	mod	_	Gloss=at
@@ -104,8 +104,8 @@
 27	dà	dà	ADP	_	_	0	root	_	Gloss=with
 28	àlaːmàː	àlaːmàː	NOUN	_	Gender=Fem	27	comp	_	Gloss=sign.Fem
 29	bà	bà	PART	_	PartType=Neg|Polarity=Neg	30	mod	_	Gloss=Neg
-30	zâː	zâː	AUX	_	Copula=No|Tense=Fut	28	udep	_	Gloss=Fut-|SpaceAfter=No|wordform=zaː-
-31	'à=	a	PRON	_	Person=4|PronType=PrsSubj	30	subj/m	_	Gloss=4=|wordform=zaː'à
+30	zâː	zâː	AUX	_	Copula=No|Tense=Fut	28	udep	_	Gloss=Fut|SpaceAfter=No|wordform=zaː-
+31	-'à	a	PRON	_	Person=4|PronType=PrsSubj	30	subj/m	_	Gloss=4|wordform=zaː'à
 32	sàːmi	saːm-	VERB	_	_	30	comp:aux	_	Gloss=get
 33	daːma	daːmaː	NOUN	_	Gender=Fem	32	comp:obj	_	Compound=Yes|Gloss=opportunity.Fem.|SpaceAfter=No|wordform=daːmar̃
 34	-r̃	na	PART	_	Case=Gen|PartType=Case	33	mod/m	_	Gloss=Gen.Fem
@@ -519,7 +519,7 @@
 24	màganàː	màganàː	NOUN	_	Gender=Fem	23	comp	_	Gloss=speech.Fem
 25	-	-	PUNCT	_	_	27	punct	_	Gloss=PUNCT|SpaceAfter=No
 26	wàːtòː	wàːtòː	CCONJ	_	_	27	cc	_	Gloss=i.e.
-27	maːkar̃ufôː	maːkar̃ufôː	NOUN	_	Gender=Masc	17	conj:dicto	_	Gloss=microphone.Masc
+27	maːkar̃ufôː	maːkar̃ufôː	NOUN	_	Gender=Masc	17	conj:reform	_	Gloss=microphone.Masc
 28	-	-	PUNCT	_	_	27	punct	_	Gloss=PUNCT|SpaceAfter=No
 29-30	ya=	_	_	_	_	_	_	_	_
 29	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	30	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
@@ -751,8 +751,8 @@
 17	lalleː	lalleː	ADV	_	_	20	mod	_	Gloss=certainly
 18	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	20	dislocated@subj	_	Gloss=3Plur.Nom
 19	bà	bà	PART	_	PartType=Neg|Polarity=Neg	20	mod	_	Gloss=Neg
-20	zâː	zâː	AUX	_	Copula=No|Tense=Fut	16	comp:obj	_	Gloss=Fut-|SpaceAfter=No|wordform=zaː-
-21	sù=	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	20	subj/m	_	Gloss=3Plur=|wordform=zaːsù
+20	zâː	zâː	AUX	_	Copula=No|Tense=Fut	16	comp:obj	_	Gloss=Fut|SpaceAfter=No|wordform=zaː-
+21	-sù	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	20	subj/m	_	Gloss=3Plur|wordform=zaːsù
 22	ƙyaːlè	ƙyaːl-	VERB	_	_	20	comp:aux	_	Gloss=allow
 23	Gianni	Gianni	PROPN	_	_	22	comp:obj	_	Gloss=Gianni
 24	Palma	Palma	PROPN	_	_	23	flat@name	_	Gloss=Palma

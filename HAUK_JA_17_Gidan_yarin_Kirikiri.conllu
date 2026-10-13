@@ -428,8 +428,8 @@
 12	kar̃kàsà	kar̃-	VERB	_	Gender=Fem	11	comp:pred	_	Gloss=sort
 13	tsàràrruː	tsàrarreː	NOUN	_	Number=Plur	12	comp:obj	_	Gloss=prisoner.Plur
 14	ìdan	ìdan	SCONJ	_	_	12	mod	_	Gloss=if
-15	zâː	zâː	AUX	_	Copula=No|Tense=Fut	14	comp	_	Gloss=Fut-|SpaceAfter=No|wordform=zaː-
-16	sù=	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	15	subj/m	_	Gloss=3Plur=|wordform=zaːsù
+15	zâː	zâː	AUX	_	Copula=No|Tense=Fut	14	comp	_	Gloss=Fut|SpaceAfter=No|wordform=zaː-
+16	-sù	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	15	subj/m	_	Gloss=3Plur|wordform=zaːsù
 17	yi	yi	VERB	_	_	15	comp:aux	_	Gloss=do
 18	barciː	barciː	NOUN	_	Gender=Masc	17	comp:pred	_	Gloss=sleep.Masc
 19	;	;	PUNCT	_	_	11	punct	_	Gloss=PUNCT
@@ -517,7 +517,7 @@
 42	-n	na	PART	_	Case=Gen|PartType=Case	41	udep/m	_	Gloss=Gen.Masc/Plur
 43	làntar̃kìː	làntar̃kìː	NOUN	_	Gender=Masc	42	comp	_	Gloss=lamp.Masc
 44	ya-	ya-	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=PrsSubj	45	subj/m	_	Gloss=3Masc-|SpaceAfter=No
-45	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	21	conj:dicto	_	Gloss=Prog|wordform=yanaː
+45	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	21	conj:reform	_	Gloss=Prog|wordform=yanaː
 46	sànàdiyyà	sànàdiyyàː	NOUN	_	Gender=Fem	45	comp:pred	_	Gloss=cause.Fem|SpaceAfter=No|wordform=sànàdiyyàr̃
 47	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	46	udep/m	_	Gloss=Gen.Fem
 48	bàːzuwa	baːz-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	47	comp	_	Compound=Yes|Gloss=spread.Vnoun.Fem.|SpaceAfter=No|wordform=bàːzuwar̃

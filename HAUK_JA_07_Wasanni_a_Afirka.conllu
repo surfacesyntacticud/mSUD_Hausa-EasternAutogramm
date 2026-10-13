@@ -14,8 +14,8 @@
 # text_ortho = À yâu zaː mù soːmà shirìnmù dà làːbaːr̃ìn rìkicîn dà akèː yîː can Nàːjeːr̃iyàː gàme dà gudàːnar dà wàːsan dambe.
 1	à	à	ADP	_	_	3	mod	_	Gloss=at
 2	yâu	yâu	ADV	_	_	1	comp	_	Gloss=today
-3	zâː	zâː	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut-|SpaceAfter=No|wordform=zaː-
-4	mù=	mu	PRON	_	Number=Plur|Person=1|PronType=PrsSubj	3	subj/m	_	Gloss=1Plur=|wordform=zaːmù
+3	zâː	zâː	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut|SpaceAfter=No|wordform=zaː-
+4	-mù	mu	PRON	_	Number=Plur|Person=1|PronType=PrsSubj	3	subj/m	_	Gloss=1Plur|wordform=zaːmù
 5	soːmà	soːm-	VERB	_	_	3	comp:aux	_	Gloss=start
 6	shirì	shirìː	NOUN	_	Gender=Masc	5	comp:obj	_	Gloss=programme.Masc|SpaceAfter=No|wordform=shirìː|wordfrom=shirìnmù
 7	-n	na	PART	_	Case=Gen|PartType=Case	6	mod@poss	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
@@ -121,7 +121,7 @@
 3	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway|SpaceAfter=No
 4	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 5	wàːtòː	wàːtòː	CCONJ	_	_	6	cc	_	Gloss=i.e.
-6	kàːfin	kàːfin	SCONJ	_	_	1	conj:dicto	_	Gloss=before
+6	kàːfin	kàːfin	SCONJ	_	_	1	conj:reform	_	Gloss=before
 7	a-	a	PRON	_	Person=4|PronType=PrsSubj	8	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
 8	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	6	comp	_	Gloss=Sub=
 9	soːmà	soːm-	VERB	_	_	8	comp:aux	_	Gloss=start
@@ -465,8 +465,8 @@
 41	Afir̃kà	Afir̃kà	PROPN	_	_	40	comp	_	Gloss=Africa
 42	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	41	mod	_	Gloss=Gen.Fem
 43	Kudù	Kudù	PROPN	_	_	42	comp	_	Gloss=Kudù
-44	zâː	zâː	AUX	_	Copula=No|Tense=Fut	40	parataxis:conj	_	Gloss=Fut-|SpaceAfter=No|wordform=zaː-
-45	'à=	a	PRON	_	Person=4|PronType=PrsSubj	44	subj/m	_	Gloss=4=|wordform=zaː'à
+44	zâː	zâː	AUX	_	Copula=No|Tense=Fut	40	parataxis:conj	_	Gloss=Fut|SpaceAfter=No|wordform=zaː-
+45	-'à	a	PRON	_	Person=4|PronType=PrsSubj	44	subj/m	_	Gloss=4|wordform=zaː'à
 46	yi	yi	VERB	_	_	44	comp:aux	_	Gloss=do
 47	dambên	dambe	NOUN	_	Definite=Def|Gender=Masc	46	comp:pred	_	Gloss=boxing.Masc.Def
 48	ba	ba	PART	_	PartType=Neg|Polarity=Neg	40	mod	_	Gloss=Neg|SpaceAfter=No
