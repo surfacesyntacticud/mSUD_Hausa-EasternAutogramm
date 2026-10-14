@@ -296,7 +296,7 @@
 36	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	35	subj/m	_	Gloss=3Masc|wordform=zâi
 37	jeː	jeː	VERB	_	_	35	comp:aux	_	Gloss=go
 38	wàːsân	wàːsaː	NOUN	_	Definite=Def|Gender=Masc	37	comp:obj@G	_	Gloss=game.Masc.Def
-39	ba	ba	PART	_	PartType=Neg|Polarity=Neg	37	mod	_	Gloss=Neg|SpaceAfter=No
+39	ba	ba	PART	_	PartType=Neg|Polarity=Neg	35	mod	_	Gloss=Neg|SpaceAfter=No
 40	,	,	PUNCT	_	_	41	punct	_	Gloss=PUNCT
 41	har̃	har̃	SCONJ	_	_	29	mod	_	Gloss=so_much_so_that
 42-43	ya=	_	_	_	_	_	_	_	_

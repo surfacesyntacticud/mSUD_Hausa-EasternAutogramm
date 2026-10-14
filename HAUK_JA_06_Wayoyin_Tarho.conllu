@@ -178,7 +178,7 @@
 34	zâː	zâː	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut|SpaceAfter=No|SpaceForm=zâi|wordform=zâ-
 35	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	34	subj/m	_	Gloss=3Masc|wordform=zâi
 36	yìwu	yìi	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	34	comp:aux	_	Gloss=be_possible
-37	ba	ba	PART	_	PartType=Neg|Polarity=Neg	36	mod	_	Gloss=Neg
+37	ba	ba	PART	_	PartType=Neg|Polarity=Neg	34	mod	_	Gloss=Neg
 38	-	-	PUNCT	_	_	34	punct	_	Gloss=PUNCT|SpaceAfter=No
 
 # sent_id = 06_Wayoyin_Tarho_6b
