@@ -108,9 +108,9 @@
 28	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = 10_Daurin_Siyasa_5
+# text = wannàn dòːkâr̃ t-aː= sâː ita gwamnatìn t-âː= iyà tsarèː mùtûm har̃ tsawo-n wàtànniː shidà bàː tàːre dà tùhumà-r̃-sà ba, in a-n= zàrgeː -shì dà yi wà tattali-n ar̃zìki-n ƙasaː maƙar̃ƙashìyaː, koː kuma yi wà tsàro-n ƙasaː bàràːzanaː.
 # text_en = This law enabled the government to imprison a man for up to six months without charging him, if he has been accused of sabotaging the economy or threatening the national security.
-# text_ortho = Wannàn dòːkâr̃ taː sâː ita gwamnatìn tâː iyà tsarèː mùtûm har̃ tsawon wàtànniː shidà bà tàːre dà tùhumàr̃ sà ba, in an zàrgeː shì dà yi wà tattalin ar̃zìkin ƙasaː maƙar̃ƙashìyaː, koː kuma yi wà tsàron ƙasaː bàràːzanaː.
-# text = wannàn dòːkâr̃ taː= sâː ita gwamnatìn tâː= iyà tsarèː mùtûm har̃ tsawon wàtànniː shidà bà tàːre dà tùhumà-r̃-sà ba, in an= zàrgeː -shì dà yi wà tattalin ar̃zìkin ƙasaː maƙar̃ƙashìyaː, koː kuma yi wà tsàron ƙasaː bàràːzanaː.
+# text_ortho = Wannàn dòːkâr̃ taː sâː ita gwamnatìn tâː iyà tsarèː mùtûm har̃ tsawon wàtànniː shidà bàː tàːre dà tùhumàr̃ sà ba, in an zàrgeː shì dà yi wà tattalin ar̃zìkin ƙasaː maƙar̃ƙashìyaː, koː kuma yi wà tsàron ƙasaː bàràːzanaː.
 1	wannàn	nân	DET	_	Deixis=ProxS|Gender=Fem|PronType=Dem	2	det	_	Gloss=ProxS.Fem
 2	dòːkâr̃	dòːkaː	NOUN	_	Definite=Def|Gender=Fem	4	subj	_	Gloss=law.Fem.Def
 3	t-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Fem|SpaceAfter=No|wordform=taː
@@ -128,7 +128,7 @@
 15	-n	na	PART	_	Case=Gen|PartType=Case	14	mod/m	_	Gloss=Gen.Masc/Plur
 16	wàtànniː	watàː	NOUN	_	Number=Plur	15	comp	_	Gloss=month.Plur
 17	shidà	shidà	NUM	_	_	16	mod:num	_	Gloss=six
-18	bà	bà	PART	_	PartType=Neg|Polarity=Neg	20	mod	_	Gloss=Neg
+18	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	20	mod	_	Gloss=Neg
 19	tàːre	tàːre	ADV	_	_	20	mod	_	Gloss=together
 20	dà	dà	ADP	_	_	11	mod	_	Gloss=with
 21	tùhumà	tuhum-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	20	comp	_	Gloss=charge.Vnoun.Fem|SpaceAfter=No|wordform=tùhumàr̃|wordfrom=tùhumàr̃sà

@@ -72,9 +72,9 @@
 11	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 09_Salman_Rushdie_5
+# text = àmmaː sabòːdà rìkicîn dà a-kà= yi à bir̃ni-n " Tokyo " à kân wannàn littaːfìn dà a-kà= fassàraː dà harshè-n Japananciː, dà àlaːmàː bàː zâː-'à sàːmi daːma-r̃ a-_̀= bugàː -shi gòːbe ɗîn ba.
 # text_en = But, because of the dispute that took place in 'Tokyo' concerning this book that was translated into Japanese, it appears that it will not be possible to print in tomorrow.
-# text_ortho = Àmmaː sabòːdà rìkicîn dà akà yi à bir̃nin " Tokyo " à kân wannàn littaːfìn dà akà fassàraː dà harshèn Japananciː, dà àlaːmàː bà zaː'à sàːmi daːmar̃ à bugàː shi gòːbe ɗîn ba.
-# text = àmmaː sabòːdà rìkicîn dà a-kà= yi à bir̃ni-n " Tokyo " à kân wannàn littaːfìn dà a-kà= fassàraː dà harshè-n Japananciː, dà àlaːmàː bà zaː-'à= sàːmi daːma-r̃ a-_̀= bugàː -shi gòːbe ɗîn ba.
+# text_ortho = Àmmaː sabòːdà rìkicîn dà akà yi à bir̃nin " Tokyo " à kân wannàn littaːfìn dà akà fassàraː dà harshèn Japananciː, dà àlaːmàː bàː zaː'à sàːmi daːmar̃ à bugàː shi gòːbe ɗîn ba.
 1	àmmaː	àmmaː	CCONJ	_	_	27	discourse	_	Gloss=but
 2	sabòːdà	sabòːdà	ADP	_	_	27	mod	_	Gloss=because_of
 3	rìkicîn	rìkiciː	NOUN	_	Definite=Def|Gender=Masc	2	comp	_	Gloss=dispute.Masc.Def|RelAnt=Yes
@@ -103,7 +103,7 @@
 26	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 27	dà	dà	ADP	_	_	0	root	_	Gloss=with
 28	àlaːmàː	àlaːmàː	NOUN	_	Gender=Fem	27	comp	_	Gloss=sign.Fem
-29	bà	bà	PART	_	PartType=Neg|Polarity=Neg	30	mod	_	Gloss=Neg
+29	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	30	mod	_	Gloss=Neg
 30	zâː	zâː	AUX	_	Copula=No|Tense=Fut	28	udep	_	Gloss=Fut|SpaceAfter=No|wordform=zaː-
 31	-'à	a	PRON	_	Person=4|PronType=PrsSubj	30	subj/m	_	Gloss=4|wordform=zaː'à
 32	sàːmi	saːm-	VERB	_	_	30	comp:aux	_	Gloss=get
