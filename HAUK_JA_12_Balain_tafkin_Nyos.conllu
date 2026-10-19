@@ -219,13 +219,13 @@
 # text_en = The investigating chemists did not explain how the bodies of those who escaped were burnt, but their faces and torsoes were all covered in blisters.
 # text_ortho = Manàzàr̃taː kìːmiyyàː dai bàsù baː dà bàyaːnìn yaddà jikunkunàn waɗàndà sukà tsiːrân sukà sassaːɓùːleː ba, àmmaː gàː fuskoːkinsù dà ƙiràːjansù nan duk à sàːle.
 # text = manàzàr̃taː kìːmiyyàː dai bà-sù=baː dà bàyaːnì-n yaddà jikunkunàn -n waɗàndà su-kà= tsiːrân su-kà= sassaːɓùːleː ba, àmmaː gàː fuskoːki-n-sù dà ƙiràːja-n-sù nan duk à sàːle.
-1	manàzàr̃taː	manàzàr̃ciː	NOUN	_	Number=Plur	5	subj	_	Gloss=researcher.Plur
+1	manàzàr̃taː	manàzàr̃ciː	NOUN	_	Number=Plur	6	subj	_	Gloss=researcher.Plur
 2	kìːmiyyàː	kìːmiyyàː	NOUN	_	Gender=Fem	1	comp:obj	_	Gloss=science.Fem
 3	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
-4	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	5	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-5	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-6	-sù	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	5	subj/m	_	Gloss=-3Plur|SpaceAfter=No|wordform=bàsù
-7	baː	baː	VERB	_	_	5	comp:aux	_	Gloss=give
+4	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	6	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+5	sù-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=-3Plur|SpaceAfter=No|wordform=bàsù
+6	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
+7	baː	baː	VERB	_	_	6	comp:aux	_	Gloss=give
 8	dà	dà	ADP	_	_	7	comp:obl	_	Gloss=with
 9	bàyaːnì	bàyaːnìː	NOUN	_	Gender=Masc	8	comp	_	Gloss=explanation.Masc|SpaceAfter=No|wordform=bàyaːnìn
 10	-n	na	PART	_	Case=Gen|PartType=Case	9	udep/m	_	Gloss=Gen.Masc/Plur
@@ -242,7 +242,7 @@
 21	ba	ba	PART	_	PartType=Neg|Polarity=Neg	7	mod	_	Gloss=Neg|SpaceAfter=No
 22	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
 23	àmmaː	àmmaː	CCONJ	_	_	24	cc	_	Gloss=but
-24	gàː	gàː	PART	_	PartType=Pred	5	conj:coord	_	Gloss=here_is
+24	gàː	gàː	PART	_	PartType=Pred	6	conj:coord	_	Gloss=here_is
 25	fuskoːki	fuskàː	NOUN	_	Number=Plur	24	subj	_	Gloss=face.Plur|SpaceAfter=No|wordform=fuskoːkinsù
 26	-n	na	PART	_	Case=Gen|PartType=Case	25	mod@poss	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 27	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	26	comp	_	Gloss=3Plur.Gen
@@ -254,7 +254,7 @@
 33	duk	dukà	ADV	_	PronType=Tot	34	mod	_	Gloss=all
 34	à	à	ADP	_	_	24	mod	_	Gloss=at
 35	sàːle	saːl-	VERB	_	ExtPos=ADV|VerbForm=Part	34	comp	_	Gloss=blister.Part|SpaceAfter=No
-36	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
+36	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
 # sent_id = 12_Bala'in_tafkin_Nyos_8
 # text_en = Well, this made people doubt about what their research discovered, i.e. the gas that caused the explosion was just carbon dioxide.
@@ -528,10 +528,10 @@
 8	shaːwar̃à	shaːwar̃àː	NOUN	_	Gender=Fem	7	comp:obj	_	Gloss=advice.Fem|SpaceAfter=No|wordform=shaːwar̃àr̃
 9	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	8	mod/m	_	Gloss=Gen.Fem
 10	cêːwaː	cêːwaː	SCONJ	_	_	9	comp	_	Gloss=COMP|wordform=cêwaː
-11	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	12	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-12	_̀	_̀	AUX	_	Mood=Sub	10	comp	_	wordform=Ø̀
-13	-ì	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	12	subj/m	_	Gloss=-3Masc|SpaceAfter=No|wordform=bài
-14	kàmaːtà	kamaːt-	VERB	_	_	12	comp:aux	_	Gloss=be_appropriate
+11	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	13	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+12	ì-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	13	subj/m	_	Gloss=-3Masc|SpaceAfter=No|wordform=bài
+13	_̀	_̀	AUX	_	Mood=Sub	10	comp	_	wordform=Ø̀
+14	kàmaːtà	kamaːt-	VERB	_	_	13	comp:aux	_	Gloss=be_appropriate
 15	yawà	yawàː	NOUN	_	Gender=Masc	25	subj	_	Gloss=quantity.Masc|SpaceAfter=No|wordform=yawàn
 16	-n	na	PART	_	Case=Gen|PartType=Case	15	mod/m	_	Gloss=Gen.Masc/Plur
 17	ruwân	ruwaː	NOUN	_	Definite=Def|Gender=Masc	16	comp	_	Gloss=water.Masc.Def|RelAnt=Yes

@@ -670,10 +670,10 @@
 13	-n	na	PART	_	Case=Gen|PartType=Case	12	udep/m	_	Gloss=Gen.Masc/Plur
 14	cêːwaː	cêːwaː	SCONJ	_	_	13	comp	_	Gloss=COMP
 15	ìdan	ìdan	SCONJ	_	_	32	mod	_	Gloss=if
-16	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	17	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-17	_̀	_̀	AUX	_	Mood=Sub	15	comp	_	wordform=Ø̀
-18	-'à	a	PRON	_	Person=4|PronType=PrsSubj	17	subj/m	_	Gloss=-4|SpaceAfter=No|wordform=bà'à
-19	yi	yi	VERB	_	_	17	comp:aux	_	Gloss=do
+16	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	18	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+17	'à-	a	PRON	_	Person=4|PronType=PrsSubj	18	subj/m	_	Gloss=-4|SpaceAfter=No|wordform=bà'à
+18	_̀	_̀	AUX	_	Mood=Sub	15	comp	_	wordform=Ø̀
+19	yi	yi	VERB	_	_	18	comp:aux	_	Gloss=do
 20	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	21	det	_	Gloss=some.Masc.Spec
 21	àbù	àbù	NOUN	_	Gender=Masc	19	comp:pred	_	Gloss=thing.Masc
 22	don	don	SCONJ	_	_	19	mod	_	Gloss=in_order_to

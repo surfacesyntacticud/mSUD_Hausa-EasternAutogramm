@@ -221,7 +221,7 @@
 # text_en = Some policies like that of the Nigerian Federation forbid Nigeria to collaborate with any country or association having relations with South Africa.
 # text = manufoːfi-n sìyaːsàː irìnna tàːrayyàr̃ Nàːjeːr̃iyàː kuma bàsù= yàr̃da Nàːjeːr̃iyàː tà= yi hulɗàː dà wata ƙasaː koː ƙungìyaː mài nasabàː dà Afir̃kà ta Kudù ba.
 # text_ortho = Manufoːfin sìyaːsàː irìn na Tàːrayyàr̃ Nàːjeːr̃iyàː kuma bà sù yàr̃da Nàːjeːr̃iyàː tà yi hulɗàː dà wata ƙasaː koː ƙungìyaː mài nasabàː dà Afir̃kà ta Kudù ba.
-1	manufoːfi	manufoːfiː	NOUN	_	Number=Plur	11	dislocated@subj	_	Gloss=policy.Plur|SpaceAfter=No|wordform=manufoːfin
+1	manufoːfi	manufoːfiː	NOUN	_	Number=Plur	12	dislocated@subj	_	Gloss=policy.Plur|SpaceAfter=No|wordform=manufoːfin
 2	-n	na	PART	_	Case=Gen|PartType=Case	1	mod/m	_	Gloss=Gen.Masc/Plur
 3	sìyaːsàː	sìyaːsàː	NOUN	_	Gender=Fem	2	comp	_	Gloss=politics.Fem
 4	irìn	irìː	NOUN	_	Definite=Def|Gender=Masc	1	mod	_	Gloss=type_of.Masc.Def|SpaceAfter=No
@@ -230,10 +230,10 @@
 7	-r̃	-r̃	PART	_	Case=Gen|PartType=Case	6	mod@appos/m	_	Gloss=Gen.Fem
 8	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	7	comp	_	Gloss=Nigeria
 9	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
-10	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	11	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-11	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-12	-sù	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	11	subj/m	_	Gloss=-3Plur|SpaceAfter=No|wordform=bàsù
-13	yàr̃da	yar̃d-	VERB	_	_	11	comp:aux	_	Gloss=agree
+10	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	12	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+11	sù-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	12	subj/m	_	Gloss=-3Plur|SpaceAfter=No|wordform=bàsù
+12	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
+13	yàr̃da	yar̃d-	VERB	_	_	12	comp:aux	_	Gloss=agree
 14	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	16	subj	_	Gloss=Nigeria
 15	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	16	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tà
 16	_̀	_̀	AUX	_	Copula=No|Mood=Sub	13	comp:obj	_	Gloss=Sub|wordform=_̀=
@@ -251,7 +251,7 @@
 28	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	27	mod	_	Gloss=Gen.Fem
 29	Kudù	Kudù	PROPN	_	_	28	comp	_	Gloss=South
 30	ba	ba	PART	_	PartType=Neg|Polarity=Neg	13	mod	_	Gloss=Neg|SpaceAfter=No
-31	.	.	PUNCT	_	_	11	punct	_	Gloss=PUNCT
+31	.	.	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 
 # sent_id = 07_Wasanni_a_Afirka_7
 # text_en = Well, what caused the problem is the president of the Nigerian boxing association, 'Chief Ralph Ogunbufunmi' who declared that Lasisi would not take part in the match, and went on to say that they had discussed the matter with the Nigerian Minister of Sports.
@@ -429,14 +429,14 @@
 4	ƙaːràː	ƙaːr-	VERB	_	_	3	comp:aux	_	Gloss=increase
 5	dà	dà	ADP	_	_	4	comp:obl	_	Gloss=with
 6	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	5	comp	_	Gloss=say.Vnoun.Fem
-7	yî	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	12	subj	_	Compound=Yes|Gloss=do.Vnoun.Masc.|SpaceAfter=No|wordform=yîn
+7	yî	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	13	subj	_	Compound=Yes|Gloss=do.Vnoun.Masc.|SpaceAfter=No|wordform=yîn
 8	-n	na	PART	_	Case=Gen|PartType=Case	7	udep/m	_	Gloss=Gen.Masc/Plur
 9	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	10	det	_	Gloss=ProxS.Masc
 10	dambe	dambe	NOUN	_	Gender=Masc	8	comp	_	Gloss=boxing.Masc
-11	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	12	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-12	_̀	_̀	AUX	_	Mood=Sub	6	comp:obj	_	wordform=Ø̀
-13	-ì	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	12	subj/m	_	Gloss=-3Masc|SpaceAfter=No|wordform=bài
-14	saːɓàː	saːɓ-	VERB	_	_	12	comp:aux	_	Gloss=deviate
+11	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	13	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+12	ì-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	13	subj/m	_	Gloss=-3Masc|SpaceAfter=No|wordform=bài
+13	_̀	_̀	AUX	_	Mood=Sub	6	comp:obj	_	wordform=Ø̀
+14	saːɓàː	saːɓ-	VERB	_	_	13	comp:aux	_	Gloss=deviate
 15	wà	mà	ADP	_	Case=Dat	14	comp:obl	_	Gloss=Dat
 16	manufoːfi	manufaː	NOUN	_	Number=Plur	15	comp	_	Gloss=ploicy.Plur|SpaceAfter=No|wordform=manufoːfin
 17	-n	na	PART	_	Case=Gen|PartType=Case	16	mod/m	_	Gloss=Gen.Masc/Plur

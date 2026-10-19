@@ -375,13 +375,13 @@
 # text_ortho = À Nàːjeːr̃iyàː dai bà à yi wani bìncìkeː ba don tabbatar̃ dà yawàn mutàːnên dà kèː ɗàuke dà ƙwaːyoːyin cùːtâr̃ à jìkinsù kàmar̃ yaddà akà yi à Àbìjân.
 # text_en = In Nigeria indeed, no research has been done to find the number of people who carry the virus in their body as it has been done in Abidjan.
 # text = à Nàːjeːr̃iyàː dai bà-'à=yi wani bìncìkeː ba don tabbatar̃ dà yawà-n mutàːnên dà kèː ɗàuke dà ƙwaːyoːyi-n cùːtâr̃ à jìki-n-sù kàmar̃ yaddà a-kà= yi à Àbìjân.
-1	à	à	ADP	_	_	5	mod	_	Gloss=at
+1	à	à	ADP	_	_	6	mod	_	Gloss=at
 2	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	1	comp	_	Gloss=Nigeria
 3	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
-4	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	5	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-5	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-6	-'à	a	PRON	_	Person=4|PronType=PrsSubj	5	subj/m	_	Gloss=-4|SpaceAfter=No|wordform=bà'à
-7	yi	yi	VERB	_	_	5	comp:aux	_	Gloss=do
+4	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	6	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+5	'à-	a	PRON	_	Person=4|PronType=PrsSubj	6	subj/m	_	Gloss=-4|SpaceAfter=No|wordform=bà'à
+6	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
+7	yi	yi	VERB	_	_	6	comp:aux	_	Gloss=do
 8	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	9	det	_	Gloss=some.Masc.Spec
 9	bìncìkeː	bìncìkeː	NOUN	_	Gender=Masc	7	comp:pred	_	Gloss=research.Masc
 10	ba	ba	PART	_	PartType=Neg|Polarity=Neg	7	mod	_	Gloss=Neg
@@ -409,7 +409,7 @@
 32	yi	yi	VERB	_	_	31	comp:aux	_	ClauseType=Rel|Gloss=do|RelRole=mod
 33	à	à	ADP	_	_	32	mod	_	Gloss=at
 34	Àbìjân	Àbìjân	PROPN	_	_	33	comp	_	Gloss=Abijan|SpaceAfter=No
-35	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
+35	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
 # sent_id = 04_AIDS_11
 # text_ortho = Duk dà haka, Ministàn Kiːwòn Laːfiyàː na Nàːjeːr̃iyàː, Fàr̃feːsàː Ransome-Kuti, yaː cêː cùːtar̃ AIDS taː kashè mutàːneː goːmà shâː shidà dàgà cikin tàlàːtin dà bìyar̃ dà sukà kàːmu dà ita tun loːkàcîn dà ta shigoː Nàːjeːriyàː fìye dà shèːkàruː ukù dà sukà wucèː.
@@ -676,10 +676,10 @@
 51	kashèː	kas-	VERB	_	_	50	comp:aux	_	ClauseType=Rel|Gloss=kill|RelRole=obj|SpaceAfter=No
 52	,	,	PUNCT	_	_	53	punct	_	Gloss=PUNCT
 53	dà	dà	SCONJ	_	_	47	conj:coord	_	Gloss=COMP
-54	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	55	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-55	_̀	_̀	AUX	_	Mood=Sub	53	comp	_	wordform=Ø̀
-56	-sù	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	55	subj/m	_	Gloss=-3Plur|SpaceAfter=No|wordform=bàsù
-57	kai	kai	VERB	_	_	55	comp:aux	_	Gloss=reach/carry_to
+54	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	56	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+55	sù-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	56	subj/m	_	Gloss=-3Plur|SpaceAfter=No|wordform=bàsù
+56	_̀	_̀	AUX	_	Mood=Sub	53	comp	_	wordform=Ø̀
+57	kai	kai	VERB	_	_	56	comp:aux	_	Gloss=reach/carry_to
 58	kânsù	kânsù	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	57	comp:obj@T	_	Gloss=3Plur.Reflex
 59	asìbitì	asìbitì	NOUN	_	Gender=Masc	57	comp:obj@G	_	Gloss=hospital.Masc
 60	ba	ba	PART	_	PartType=Neg|Polarity=Neg	57	mod	_	Gloss=Neg|SpaceAfter=No

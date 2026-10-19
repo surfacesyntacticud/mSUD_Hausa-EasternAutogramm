@@ -616,7 +616,7 @@
 7	gàba	gàba	ADV	_	_	6	mod	_	Gloss=in_front
 8	dà	dà	CCONJ	_	_	6	comp:obl	_	Gloss=and
 9	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	8	comp:obj	_	Gloss=say.Vnoun.Fem
-10	yawà	yawàː	NOUN	_	Gender=Masc	21	subj	_	Gloss=quantity.Masc|SpaceAfter=No|wordform=yawàn
+10	yawà	yawàː	NOUN	_	Gender=Masc	22	subj	_	Gloss=quantity.Masc|SpaceAfter=No|wordform=yawàn
 11	-n	na	PART	_	Case=Gen|PartType=Case	10	udep/m	_	Gloss=Gen.Masc/Plur
 12	àbincîn	àbinciː	NOUN	_	Definite=Def|Gender=Masc	11	comp	_	Gloss=food.Masc.Def|RelAnt=Yes
 13	dà	dà	SCONJ	_	_	12	mod@relcl	_	Gloss=CompRel|Relz=Word
@@ -625,11 +625,11 @@
 16	bâi	baː	VERB	_	_	15	comp:pred	_	Gloss=give|RelRole=obj
 17	wà	mà	ADP	_	Case=Dat	16	comp:obl	_	Gloss=Dat
 18	tsàːràrrûn	tsàːràrreː	NOUN	_	Definite=Def|Number=Plur	17	comp	_	Gloss=prisoner.Plur.Def
-19	samsam	samsan	IDEO	_	_	21	mod	_	Gloss=at_all
-20	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	21	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-21	_̀	_̀	AUX	_	Mood=Sub	9	comp:obj	_	wordform=Ø̀
-22	-ì	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	21	subj/m	_	Gloss=-3Masc|SpaceAfter=No|wordform=bài
-23	ìsa	is-	VERB	_	_	21	comp:aux	_	Gloss=be_sufficient
+19	samsam	samsan	IDEO	_	_	22	mod	_	Gloss=at_all
+20	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	22	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+21	ì-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	22	subj/m	_	Gloss=-3Masc|SpaceAfter=No|wordform=bài
+22	_̀	_̀	AUX	_	Mood=Sub	9	comp:obj	_	wordform=Ø̀
+23	ìsa	is-	VERB	_	_	22	comp:aux	_	Gloss=be_sufficient
 24	ba	ba	PART	_	PartType=Neg|Polarity=Neg	23	mod	_	Gloss=Neg
 25	ta	ta	ADP	_	_	23	mod	_	Gloss=via
 26	koːwànè	koːwànè	DET	_	Gender=Masc	27	det	_	Gloss=each.Masc
@@ -637,7 +637,7 @@
 28	,	,	PUNCT	_	_	31	punct	_	Gloss=PUNCT
 29	àbincîn	àbinciː	NOUN	_	Definite=Def|Gender=Masc	31	dislocated@subj	_	Gloss=food.Masc.Def
 30	kuma	kuma	PART	_	PartType=Top	29	discourse@top	_	Gloss=also
-31	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	21	conj:coord	_	Gloss=there_is.Neg
+31	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	22	conj:coord	_	Gloss=there_is.Neg
 32	shi	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	31	subj	_	Gloss=3Masc.Acc
 33	dà	dà	ADP	_	_	31	comp:pred	_	Gloss=with|wordform=ɗà
 34	daːɗiː	daːɗiː	NOUN	_	Gender=Masc	33	comp	_	Gloss=pleasure.Masc|SpaceAfter=No
@@ -871,18 +871,18 @@
 # text_en = Up till now, the government has not reacted to the report.
 # text_ortho = Har̃ yànzu dai gwamnatì bàtà cêː koːmeː ba gàme dà r̃àhoːtòn.
 # text = har̃ yànzu dai gwamnatì bàtà cêː koːmeː ba gàme dà r̃àhoːtòn.
-1	har̃	har̃	ADP	_	_	6	mod	_	Gloss=up_to
+1	har̃	har̃	ADP	_	_	7	mod	_	Gloss=up_to
 2	yànzu	yànzu	ADV	_	_	1	comp	_	Gloss=now|wordform=yanzu
 3	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
-4	gwamnatì	gwamnatì	NOUN	_	Definite=Def|Gender=Fem	6	subj	_	Gloss=government.Fem
-5	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	6	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-6	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-7	-tà	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=-3Fem|SpaceAfter=No|wordform=bàtà
-8	cêː	cêː	VERB	_	_	6	comp:aux	_	Gloss=say
+4	gwamnatì	gwamnatì	NOUN	_	Definite=Def|Gender=Fem	7	subj	_	Gloss=government.Fem
+5	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	7	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+6	tà-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	7	subj/m	_	Gloss=-3Fem|SpaceAfter=No|wordform=bàtà
+7	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
+8	cêː	cêː	VERB	_	_	7	comp:aux	_	Gloss=say
 9	koːmeː	koːmeː	PRON	_	Gender=Masc|PronType=Ind	8	comp:obj	_	Gloss=anything.Masc
 10	ba	ba	PART	_	PartType=Neg|Polarity=Neg	8	mod	_	Gloss=Neg
 11	gàme	gam-	VERB	_	ExtPos=ADV|VerbForm=Part	8	comp:obl	_	Gloss=gather.Part|Idiom=Yes
 12	dà	dà	ADP	_	_	11	comp:obl	_	Gloss=with|InIdiom=Yes
 13	r̃àhoːtòn	r̃àhoːtòː	NOUN	_	Definite=Def|Gender=Masc	11	comp:obj	_	Gloss=report.Masc.Defː|SpaceAfter=No
-14	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
+14	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 

@@ -362,11 +362,11 @@
 28	ya	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	29	subj/m	_	Gloss=3Masc|InIdiom=Yes
 29	kè	nàː	AUX	_	Aspect=Prog|Copula=Yes	27	comp	_	Gloss=bePred.Rel2|InIdiom=Yes|Relative=Variante|wordform=yakè
 30	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	31	det	_	Gloss=ProxS.Masc
-31	adàdiː	adàdiː	NOUN	_	Gender=Masc	33	subj	_	Gloss=total.Masc
-32	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	33	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-33	_̀	_̀	AUX	_	Mood=Sub	26	comp	_	wordform=Ø̀
-34	-ì	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	33	subj/m	_	Gloss=-3Masc|SpaceAfter=No|wordform=bài
-35	kai	kai	VERB	_	_	33	comp:aux	_	Gloss=reach/carry_to
+31	adàdiː	adàdiː	NOUN	_	Gender=Masc	34	subj	_	Gloss=total.Masc
+32	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	34	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+33	ì-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	34	subj/m	_	Gloss=-3Masc|SpaceAfter=No|wordform=bài
+34	_̀	_̀	AUX	_	Mood=Sub	26	comp	_	wordform=Ø̀
+35	kai	kai	VERB	_	_	34	comp:aux	_	Gloss=reach/carry_to
 36	yawà	yawàː	NOUN	_	Gender=Masc	35	comp:obl	_	Gloss=quantity.Masc|SpaceAfter=No|wordform=yawàn
 37	-n	na	PART	_	Case=Gen|PartType=Case	36	udep/m	_	Gloss=Gen.Masc/Plur
 38	sàːce-sàːcên	saːcìː	NOUN	_	Definite=Def|Number=Plur	37	comp	_	Gloss=theft.Plur.Def|RelAnt=Yes

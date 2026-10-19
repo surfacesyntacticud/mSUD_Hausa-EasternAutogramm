@@ -791,20 +791,20 @@
 # text_en = But this did not reduce Fela's courage at all.
 # text_ortho = Tòː àmmaː koː kàɗan wannàn bài karyà zuːcìyar̃ Fela ba.
 # text = tòː àmmaː koː kàɗan wannàn bài karyà zuːcìyar̃ Fela ba.
-1	tòː	tòː	INTJ	_	_	7	discourse	_	Gloss=well
-2	àmmaː	àmmaː	CCONJ	_	_	7	discourse	_	Gloss=but
+1	tòː	tòː	INTJ	_	_	8	discourse	_	Gloss=well
+2	àmmaː	àmmaː	CCONJ	_	_	8	discourse	_	Gloss=but
 3	koː	koː	ADV	_	_	4	mod	_	Gloss=even
-4	kàɗan	kàɗan	ADP	_	_	7	mod	_	Gloss=slightly
-5	wannàn	nân	PRON	_	Deixis=ProxS|Number=Sing|PronType=Dem	7	subj	_	Gloss=ProxS.Sing
-6	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	7	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-7	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-8	-ì	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	7	subj/m	_	Gloss=-3Masc|SpaceAfter=No|wordform=bài
-9	karyà	kary-	VERB	_	_	7	comp:aux	_	Gloss=break
+4	kàɗan	kàɗan	ADP	_	_	8	mod	_	Gloss=slightly
+5	wannàn	nân	PRON	_	Deixis=ProxS|Number=Sing|PronType=Dem	8	subj	_	Gloss=ProxS.Sing
+6	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	8	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+7	ì-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	8	subj/m	_	Gloss=-3Masc|SpaceAfter=No|wordform=bài
+8	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
+9	karyà	kary-	VERB	_	_	8	comp:aux	_	Gloss=break
 10	zuːcìya	zuːcìyaː	NOUN	_	Gender=Fem	9	comp:obj	_	Gloss=heart.Fem|SpaceAfter=No|wordform=zuːcìyar̃
 11	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	10	mod/m	_	Gloss=Gen.Fem
 12	Fela	Fela	PROPN	_	_	11	comp	_	Gloss=Fela
 13	ba	ba	PART	_	PartType=Neg|Polarity=Neg	9	mod	_	Gloss=Neg|SpaceAfter=No
-14	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
+14	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 
 # sent_id = 11_Fela_Kuti_22
 # text_en = He went on criticizing the goverment's views in the music and songs that he does.

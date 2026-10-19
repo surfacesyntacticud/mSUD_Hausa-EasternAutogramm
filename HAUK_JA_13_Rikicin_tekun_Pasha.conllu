@@ -130,17 +130,17 @@
 # text_en = To his knowledge, the Sultan of Sokoto did not reveal which papers he was talking about, but a few days ago, Nigerian newspapers published critical articles that showed hostility to America.
 # text_ortho = À sanâr̃wâr̃ taːsà dai, Sarkin Mùsùlmiː bài fitoː fiːliː yaː bayyànà tàkàr̃dûn dà yakèː màganàː à kâi ba, tòː àmmaː à 'yan kwàːnàkin nàn jàr̃ìːdun Nàːjeːr̃iyàː sun shaː bugà shar̃hìː dà kèː nuːnà ƙîn jinin Amìr̃kà.
 # text = à sanâr̃wâr̃ taːsà dai, Sarkin Mùsùlmiː bà-ì=fitoː fiːliː y-aː= bayyànà tàkàr̃dûn dà ya-kèː màganàː à kâi ba, tòː àmmaː à 'yan kwàːnàkin nàn jàr̃ìːdu-n Nàːjeːr̃iyàː su-n= shaː bugà shar̃hìː dà kèː nuːnà ƙî-n jini-n Amìr̃kà.
-1	à	à	ADP	_	_	9	mod	_	Gloss=at|wordform=A
+1	à	à	ADP	_	_	10	mod	_	Gloss=at|wordform=A
 2	sanâr̃wâr̃	sanâr̃waː	NOUN	_	Definite=Def|Gender=Fem	1	comp	_	Gloss=announcement.Fem.Def
 3	taːsà	taːsà	PRON	_	Case=Gen|Gender=Fem|PronType=Prs	2	mod@poss	_	CaseAf=Gen|GenderAf=Masc|Gloss=Gen.Fem-3MascGen|MSeg=taː-sà|PersonAf=3|wordform=taː
 4	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-6	Sarkin	sarkiː	PROPN	_	Gender=Masc	9	subj	_	Gloss=leader.Masc.
+6	Sarkin	sarkiː	PROPN	_	Gender=Masc	10	subj	_	Gloss=leader.Masc.
 7	Mùsùlmiː	Mùsùlmiː	PROPN	_	Number=Plur	6	flat@name	_	Gloss=Muslim.Plur
-8	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	9	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-9	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-10	-ì	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	9	subj/m	_	Gloss=-3Masc|SpaceAfter=No|wordform=bài
-11	fitoː	fit-	VERB	_	_	9	comp:aux	_	Gloss=go_out
+8	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	10	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+9	ì-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	10	subj/m	_	Gloss=-3Masc|SpaceAfter=No|wordform=bài
+10	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
+11	fitoː	fit-	VERB	_	_	10	comp:aux	_	Gloss=go_out
 12	fiːliː	fiːliː	NOUN	_	Gender=Masc	11	comp:obj	_	Gloss=open_space.Masc
 13	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	14	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
 14	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	11	mod	_	Gloss=Perf.Sing
@@ -164,7 +164,7 @@
 32	-n	na	PART	_	Case=Gen|PartType=Case	31	mod/m	_	Gloss=Gen.Masc/Plur
 33	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	32	comp	_	Gloss=Nigeria
 34	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	35	subj/m	_	Gloss=3Plur|SpaceAfter=No|wordform=sun
-35	n	aː	AUX	_	Aspect=Perf|Copula=No|Number=Plur	9	parataxis:conj	_	Gloss=Perf.Plur
+35	n	aː	AUX	_	Aspect=Perf|Copula=No|Number=Plur	10	parataxis:conj	_	Gloss=Perf.Plur
 36	shaː	shaː	VERB	_	_	35	comp:aux	_	Gloss=do_plenty
 37	bugà	bug-	VERB	_	_	36	comp:obj	_	Gloss=publish
 38	shar̃hìː	shar̃hìː	NOUN	_	Gender=Masc	37	comp:obj	_	Gloss=criticism.Masc|RelAnt=Yes
@@ -176,7 +176,7 @@
 44	jini	jiniː	NOUN	_	Gender=Masc	43	comp	_	Gloss=blood.Masc|SpaceAfter=No|wordform=jinin
 45	-n	na	PART	_	Case=Gen|PartType=Case	44	udep/m	_	Gloss=Gen.Masc/Plur
 46	Amìr̃kà	Amìr̃kà	PROPN	_	_	45	comp	_	Gloss=America|SpaceAfter=No
-47	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
+47	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 
 # sent_id = 13_Rikicin_tekun_Pasha_5
 # text_en = Likewise, it is thought that now, in the north of Nigeria, newspapers are distributed condemning what the coalition countries are doing to Irak.

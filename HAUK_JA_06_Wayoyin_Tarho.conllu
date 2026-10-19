@@ -112,9 +112,9 @@
 17	sòːsai	sòːsai	ADV	_	_	16	mod	_	Gloss=really|SpaceAfter=No
 18	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
 19	har̃	har̃	SCONJ	_	_	13	mod	_	Gloss=so_much_so_that
-20	baː-	bâː-	PART	_	Aspect=Prog|PartType=Neg|Polarity=Neg	22	mod/m	_	Gloss=Neg.Prog-|SpaceAfter=No|wordform=baː
-21	kàː=	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	22	subj/m	_	Gloss=2Masc=|wordform=kàː
-22	iyà	iy-	VERB	_	_	19	comp	_	Gloss=be_able_to
+20	baː	baːbù	PART	_	PartType=Pred|Polarity=Neg	19	comp	_	Gloss=Neg.Prog|SpaceAfter=No
+21	-kàː	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	20	subj/m	_	Gloss=-2Masc|wordform=kàː
+22	iyà	iy-	VERB	_	_	20	comp:pred	_	Gloss=be_able_to
 23	jî	ji	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	22	comp:obj	_	Gloss=hear.Vnoun.Masc|SpaceAfter=No|wordform=jîn
 24	-n	na	PART	_	Case=Gen|PartType=Case	23	udep/m	_	Gloss=Gen.Masc/Plur
 25	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	24	comp	_	Gloss=thing.Masc.Def|RelAnt=Yes
