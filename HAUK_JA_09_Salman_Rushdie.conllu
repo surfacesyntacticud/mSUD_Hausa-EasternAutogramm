@@ -729,9 +729,9 @@
 27	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = 09_Salman_Rushdie_22
+# text = à yâu ɗîn kuma ɗaya dàgà cikin shùːgàbànni-n wannàn ƙungìyaː ta Mùsùlmiː y-aː= cêː lalleː suː bàː zâː-sù ƙyaːlè Gianni Palma dà râ-n-sà ba, dòːmin kùwa y-aː= ƙàːlùːbàlànci àl'ummà-r̃ Mùsùlmiː bàːkiː ɗaya-n-sù .
 # text_en = Today, one of the leaders of this Muslim association said that for sure, they would not let Gianni Palma live because he had defied the whole Muslim community.
-# text_ortho = À yâu ɗîn kuma ɗaya dàgà cikin shùːgàbànnin wannàn ƙungìyaː ta Mùsùlmiː yaː cêː lalleː suː bà zaːsù ƙyaːlè Gianni Palma dà rânsà ba, dòːmin kùwa yaː ƙàːlùːbàlànci àl'ummàr̃ Mùsùlmiː bàːkiː ɗayansù .
-# text = à yâu ɗîn kuma ɗaya dàgà cikin shùːgàbànnin wannàn ƙungìyaː ta Mùsùlmiː yaː= cêː lalleː suː bà zaːsù= ƙyaːlè Gianni Palma dà râː-n-sà ba, dòːmin kùwa yaː= ƙàːlùːbàlànci àl'ummàr̃ Mùsùlmiː bàːkiː ɗaya-n-sù .
+# text_ortho = À yâu ɗîn kuma ɗaya dàgà cikin shùːgàbànnin wannàn ƙungìyaː ta Mùsùlmiː yaː cêː lalleː suː bàː zaːsù ƙyaːlè Gianni Palma dà rânsà ba, dòːmin kùwa yaː ƙàːlùːbàlànci àl'ummàr̃ Mùsùlmiː bàːkiː ɗayansù .
 1	à	à	ADP	_	_	15	mod	_	Gloss=at
 2	yâu	yâu	ADV	_	_	1	comp	_	Gloss=today
 3	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	2	det	_	Gloss=Def
@@ -750,7 +750,7 @@
 16	cêː	cêː	VERB	_	_	15	comp:aux	_	Gloss=say
 17	lalleː	lalleː	ADV	_	_	20	mod	_	Gloss=certainly
 18	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	20	dislocated@subj	_	Gloss=3Plur.Nom
-19	bà	bà	PART	_	PartType=Neg|Polarity=Neg	20	mod	_	Gloss=Neg
+19	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	20	mod	_	Gloss=Neg
 20	zâː	zâː	AUX	_	Copula=No|Tense=Fut	16	comp:obj	_	Gloss=Fut|SpaceAfter=No|wordform=zaː-
 21	-sù	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	20	subj/m	_	Gloss=3Plur|wordform=zaːsù
 22	ƙyaːlè	ƙyaːl-	VERB	_	_	20	comp:aux	_	Gloss=allow

@@ -88,7 +88,7 @@
 11	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	12	subj/m	_	Gloss=3Plur|SpaceAfter=No
 12	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	1	mod@relcl	_	Gloss=Prog|wordform=sunàː
 13	tàllà	tàllà	NOUN	_	Gender=Masc	12	comp:pred	_	Gloss=hawking.Masc|SpaceAfter=No|wordform=tàllàn
-14	-n	na	PART	_	Case=Gen|PartType=Case	12	mod/m	_	Gloss=Gen.Masc/Plur
+14	-n	na	PART	_	Case=Gen|PartType=Case	13	mod/m	_	Gloss=Gen.Masc/Plur
 15	tarkò	tarkòː	NOUN	_	Gender=Masc	14	comp	_	Gloss=trap.Masc|SpaceAfter=No|wordform=tarkòn
 16	-n	na	PART	_	Case=Gen|PartType=Case	15	mod/m	_	Gloss=Gen.Masc/Plur
 17	ɓeːr̃aː	ɓeːr̃aː	NOUN	_	Gender=Masc	16	comp	_	Gloss=rat.Masc|SpaceAfter=No

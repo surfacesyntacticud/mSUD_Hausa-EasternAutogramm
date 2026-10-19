@@ -139,9 +139,9 @@
 9	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
 # sent_id = 06_Wayoyin_Tarho_6a
+# text = kàmar̃ shèːkaràː bìyar̃ dà su-kà= wucèː, ìdan ka nàː sô-n ka-_̀= bugà wayàː zuwàː Bùr̃kiːnà Faːsò dàgà " Vancouver ", can cikin ƙasa-r̃ Kyanadà, àbîn bàː zâː-i yìwu ba -
 # text_en = For example, these past the five years, if you wanted to make a phone call to Burkina from 'Vancouver' there in Canada, the thing would not be possible.
-# text = kàmar̃ shèːkaràː bìyar̃ dà sukà wucèː, ìdan kanàː sôn kà bugà wayàː zuwàː Bùr̃kiːnà Faːsò dàgà " Vancouver ", can cikin ƙasar̃ Kyanadà, àbîn bà zâi yìwu ba -
-# text_ortho = Kàmar̃ shèːkaràː bìyar̃ dà sukà wucèː, ìdan kanàː sôn kà bugà wayàː zuwàː Bùr̃kiːnà Faːsò dàgà 'Vancouver', can cikin ƙasar̃ Kyanadà, àbîn bà zâi yìwu ba -
+# text_ortho = Kàmar̃ shèːkaràː bìyar̃ dà sukà wucèː, ìdan kanàː sôn kà bugà wayàː zuwàː Bùr̃kiːnà Faːsò dàgà 'Vancouver', can cikin ƙasar̃ Kyanadà, àbîn bàː zâi yìwu ba -
 1	kàmar̃	kàmar̃	ADP	_	_	34	mod	_	Gloss=like
 2	shèːkaràː	shèːkaràː	NOUN	_	Gender=Fem	1	comp	_	Gloss=year.Fem|RelAnt=Yes
 3	bìyar̃	bìyar̃	NUM	_	_	2	mod:num	_	Gloss=five
@@ -174,7 +174,7 @@
 30	Kyanadà	Kyanadà	PROPN	_	_	29	comp	_	Gloss=Kyanadà|SpaceAfter=No
 31	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 32	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	34	dislocated@subj	_	Gloss=thing.Masc.Def
-33	bà	bà	PART	_	PartType=Neg|Polarity=Neg	34	mod	_	Gloss=Neg
+33	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	34	mod	_	Gloss=Neg
 34	zâː	zâː	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut|SpaceAfter=No|SpaceForm=zâi|wordform=zâ-
 35	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	34	subj/m	_	Gloss=3Masc|wordform=zâi
 36	yìwu	yìi	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	34	comp:aux	_	Gloss=be_possible
