@@ -283,7 +283,7 @@
 # sent_id = 16_Aihuwar_Yara_8
 # text_en = Some of them die too because of the terror they experience with the changes that occur when they have twins, like swelling of the legs, which is seen as a sign that twins are to be born, or a boy.
 # text_ortho = Wasunsù kuma sunàː mutuwàː neː sabòːdà ràːzanàr̃ dà sukèː yîː danganèː dà wasu cànje-cànje dà kèː fàːruwaː à loːkàcîn dà sukè dà juːnaː biyu, kàmar̃ kùmburin ƙafàːfunsù wandà akèː ganin cêːwaː wata àlaːmàː ceː dà kèː nuːnà koː tagwàːyeː neː zaː'à hàifaː koː kuma ɗaː namijì.
-# text = wasu-n -sù kuma su-nàː mutuwàː neː sabòːdà ràːzanàr̃  dà su-kèː yîː danganèː dà wasu cànje-cànje dà kèː fàːruwaː à loːkàcîn dà su kè dà juːnaː biyu, kàmar̃ kùmburi-n ƙafàːfu-n-sù wandà a-kèː gani-n cêːwaː wata àlaːmàː ceː dà kèː nuːnà koː tagwàːyeː neː zaː-'à= hàifaː koː kuma ɗaː namijì.
+# text = wasu-n -sù kuma su-nàː mutuwàː neː sabòːdà ràːzanàr̃ dà su-kèː yîː danganèː dà wasu cànje-cànje dà kèː fàːruwaː à loːkàcîn dà su kè dà juːnaː biyu, kàmar̃ kùmburi-n ƙafàːfu-n-sù wandà a-kèː gani-n cêːwaː wata àlaːmàː ceː dà kèː nuːnà koː tagwàːyeː neː zâː-'à hàifaː koː kuma ɗaː namijì.
 1	wasu	wasu	PRON	_	Definite=Spec|Number=Plur|PronType=Ind	6	subj	_	Gloss=some.Plur|SpaceAfter=No|wordform=wasunsù
 2	-n	na	PART	_	Case=Gen|PartType=Case	1	udep/m	_	Gloss=Gen.Masc/Plur
 3	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	2	comp	_	Gloss=3Plur.Gen
@@ -293,7 +293,7 @@
 7	mutuwàː	mutù	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	6	comp:pred	_	Gloss=die.Vnoun.Fem
 8	neː	neː	PART	_	PartType=Foc	7	discourse@foc	_	Gloss=Emph
 9	sabòːdà	sabòːdà	ADP	_	_	7	mod	_	Gloss=because_of
-10	ràːzanàr̃ 	raːzan-	VERB	_	Definite=Def|ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	9	comp	_	Gloss=be_terrified.Vnoun.Fem.Def|RelAnt=Yes|wordform=ràːzanàr̃
+10	ràːzanàr̃	raːzan-	VERB	_	Definite=Def|ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	9	comp	_	Gloss=be_terrified.Vnoun.Fem.Def|RelAnt=Yes
 11	dà	dà	SCONJ	_	_	10	mod@relcl	_	Gloss=CompRel|Relz=Word
 12	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	13	subj/m	_	Gloss=3Plur|SpaceAfter=No
 13	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	11	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=sukèː

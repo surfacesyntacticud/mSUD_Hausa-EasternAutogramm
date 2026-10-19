@@ -165,14 +165,14 @@
 # text_en = The boxing association of Nigeria did not want to let Lasisi take part in the fight because the World Boxing Association befriends South Africa, whose government is practicing apartheid, and is collaborating with it.
 # text = hùkuːmà-r̃ dambe ta Nàːjeːr̃iyàː baːtàː sôː ta-_̀= ƙyaːlè Lasisi ya-_̀= yi wàːsân sabòːdà ita ƙungìya-r̃ dambe ta duːniyàː t-aː= amìnceː dà ƙasa-r̃ Afir̃kà ta Kudù, wàːtòː indà gwamnatìn kèːnuːnà waːriya-r̃ launì-n faːtàː, kuma ta-nàː hulɗàː dà ita.
 # text_ortho = Hùkuːmàr̃ Dambe ta Nàːjeːr̃iyàː baː tàː sôː tà ƙyaːlè Lasisi yà yi wàːsân sabòːdà ita Ƙungìyar̃ Dambe ta Duːniyàː taː amìnceː dà ƙasar̃ Afir̃kà ta Kudù, wàːtòː indà gwamnatìn kèː nũnà waːriyar̃ launìn faːtàː, kuma tanàː hulɗàː dà ita.
-1	hùkuːmà	hùkuːmàː	NOUN	_	Gender=Fem	8	mod	_	Gloss=authority.Fem|SpaceAfter=No|wordform=hùkuːmàr̃
+1	hùkuːmà	hùkuːmàː	NOUN	_	Gender=Fem	6	mod	_	Gloss=authority.Fem|SpaceAfter=No|wordform=hùkuːmàr̃
 2	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	1	mod/m	_	Gloss=Gen.Fem
 3	dambe	dambe	NOUN	_	Gender=Masc	2	comp	_	Gloss=boxing.Masc
 4	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	1	mod	_	Gloss=Gen.Fem
 5	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	4	comp	_	Gloss=Nigeria
-6	baː-	bâː-	PART	_	Aspect=Prog|PartType=Neg|Polarity=Neg	8	mod/m	_	Gloss=Neg.Prog-|SpaceAfter=No|wordform=baː
-7	tàː=	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	8	subj/m	_	Gloss=3Fem=|wordform=tàː
-8	sôː	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	0	root	_	Gloss=want.Vnoun.Masc
+6	baː	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=Neg.Prog|SpaceAfter=No
+7	-tàː	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=-3Fem|wordform=tàː
+8	sôː	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:pred	_	Gloss=want.Vnoun.Masc
 9	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	10	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tà
 10	_̀	_̀	AUX	_	Copula=No|Mood=Sub	8	comp:obj	_	Gloss=Sub|wordform=_̀=
 11	ƙyaːlè	ƙyaːl-	VERB	_	_	10	comp:aux	_	Gloss=allow
@@ -215,7 +215,7 @@
 48	hulɗàː	hulɗàː	VERB	_	Gender=Fem	47	comp:pred	_	Gloss=dealing.Fem
 49	dà	dà	ADP	_	_	48	comp:obl	_	Gloss=with
 50	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	49	comp	_	Gloss=3Fem.Nom|SpaceAfter=No
-51	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
+51	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
 # sent_id = 07_Wasanni_a_Afirka_6
 # text_en = Some policies like that of the Nigerian Federation forbid Nigeria to collaborate with any country or association having relations with South Africa.

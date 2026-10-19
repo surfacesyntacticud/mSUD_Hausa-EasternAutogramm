@@ -490,14 +490,14 @@
 14	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	Gloss=Prog|wordform=yanàː
 15	ɓaːtà	ɓaːt-	VERB	_	_	14	comp:aux	_	Gloss=waste
 16	laːyìː	laːyìː	NOUN	_	Gender=Masc	15	comp:obj	_	Gloss=line.Masc|SpaceAfter=No
-17	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
-18	kuma	kuma	CCONJ	_	_	21	cc	_	Gloss=also
-19	baː-	bâː-	PART	_	Aspect=Prog|PartType=Neg|Polarity=Neg	21	mod/m	_	Gloss=Neg.Prog-|SpaceAfter=No|wordform=baː
-20	àː=	a	PRON	_	Person=4|PronType=PrsSubj	21	subj/m	_	Gloss=4=|wordform=baː'àː
-21	jî	ji	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	14	conj:coord	_	Gloss=hear.Vnoun.Masc|SpaceAfter=No|wordform=jîn
+17	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
+18	kuma	kuma	CCONJ	_	_	19	cc	_	Gloss=also
+19	baː	baːbù	PART	_	PartType=Pred|Polarity=Neg	14	conj:coord	_	Gloss=Neg.Prog|SpaceAfter=No
+20	-àː	a	PRON	_	Person=4|PronType=PrsSubj	19	subj/m	_	Gloss=-4|wordform=baː'àː
+21	jî	ji	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	19	comp:pred	_	Gloss=hear.Vnoun.Masc|SpaceAfter=No|wordform=jîn
 22	-n	na	PART	_	Case=Gen|PartType=Case	21	udep/m	_	Gloss=Gen.Masc/Plur
 23	màganàr̃	màganàː	NOUN	_	Definite=Def|Gender=Fem	22	comp	_	Gloss=speech.Fem.Def
-24	sòːsai	sòːsai	ADV	_	_	21	mod	_	Gloss=really|SpaceAfter=No
+24	sòːsai	sòːsai	ADV	_	_	19	mod	_	Gloss=really|SpaceAfter=No
 25	.	.	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 
 # sent_id = 06_Wayoyin_Tarho_18

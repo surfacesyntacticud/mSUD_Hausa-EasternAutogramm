@@ -829,7 +829,7 @@
 45	-'à	a	PRON	_	Person=4|PronType=PrsSubj	44	subj/m	_	Gloss=4|wordform=zaː'à
 46	ƙuntàtaː	ƙuntat-	VERB	_	_	44	comp:aux	_	Gloss=persecute
 47	makà	makà	PRON	_	Case=Dat|Gender=Masc|Person=2|PronType=Prs	46	comp:obl	_	Gloss=2Masc.Dat
-48	ba	ba	PART	_	PartType=Neg|Polarity=Neg	41	mod	_	Gloss=Neg|SpaceAfter=No
+48	ba	ba	PART	_	PartType=Neg|Polarity=Neg	39	mod	_	Gloss=Neg|SpaceAfter=No
 49	,	,	PUNCT	_	_	51	punct	_	Gloss=PUNCT
 50	sai	sai	CCONJ	_	_	51	cc	_	Gloss=but_only
 51	don	don	SCONJ	_	_	39	conj:coord	_	Gloss=because

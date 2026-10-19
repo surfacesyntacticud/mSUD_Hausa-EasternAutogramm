@@ -403,7 +403,7 @@
 # sent_id = 18_Fadar_kabilanci_a_Bauchi_9
 # text_en = The Nigerian reporters who were in Bauchi declared that they saw more than one hundred and twenty burials that were given to Muslims, and travellers on the road from Bauchi to Jos said that they had seen many corpses alongside the road.
 # text_ortho = 'Yan jàːr̃ìːdun Nàjeːr̃iyàː dà kèː Baucîn sun cêː sun ga jànaː'izàr̃ dà akà yi wà Mùsùlmiː suː fìye dà ɗàriː dà àshìr̃in, kuma matàfìyaː à kân hanyàr̃ Bauci zuwàː Jàs sun cêː sun ga gaːwàwwakiː dà daːmaː à yàr̃yàːshe à geːfèn hanyàː.
-# text = 'ya-n jàːr̃ìːdu -n Nàjeːr̃iyàː dà kèː Baucîn su-n= cêː su-n= ga jànaː'izàr̃  dà a-kà= yi wà Mùsùlmiː suː fìye dà ɗàriː dà àshìr̃in, kuma matàfìyaː à kân hanyà-r̃ Bauci zuwàː Jàs su-n= cêː su-n= ga gaːwàwwakiː dà daːmaː à yàr̃yàːshe à geːfè-n hanyàː.
+# text = 'ya-n jàːr̃ìːdu -n Nàjeːr̃iyàː dà kèː Baucîn su-n cêː su-n ga jànaː'izàr̃ dà a-kà yi wà Mùsùlmiː suː fìye dà ɗàriː dà àshìr̃in, kuma matàfìyaː à kân hanyà-r̃ Bauci zuwàː Jàs su-n cêː su-n ga gaːwàwwakiː dà daːmaː à yàr̃yàːshe à geːfè-n hanyàː.
 1	'ya	ɗaː	NOUN	_	Number=Plur	10	subj	_	Compound=Yes|Gloss=child.Plur|RelAnt=Yes|SpaceAfter=No|wordform='yan
 2	-n	na	PART	_	Case=Gen|PartType=Case	1	udep/m	_	Gloss=Gen.Fem
 3	jàːr̃ìːdu	jàːr̃ìːdu	NOUN	_	Number=Plur	2	comp	_	Gloss=newspaper.Plur
@@ -418,7 +418,7 @@
 12	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	13	subj/m	_	Gloss=3Plur|SpaceAfter=No|wordform=sun
 13	n	aː	AUX	_	Aspect=Perf|Copula=No|Number=Plur	11	comp:obj	_	Gloss=Perf.Plur
 14	ga	ganiː	VERB	_	_	13	comp:aux	_	Gloss=see
-15	jànaː'izàr̃ 	jànaː'izàː	NOUN	_	Definite=Def|Gender=Fem	14	comp:obj	_	Gloss=funeral.Fem.Def|RelAnt=Yes|wordform=jànaː'izàr̃
+15	jànaː'izàr̃	jànaː'izàː	NOUN	_	Definite=Def|Gender=Fem	14	comp:obj	_	Gloss=funeral.Fem.Def|RelAnt=Yes
 16	dà	dà	SCONJ	_	_	15	mod@relcl	_	Gloss=CompRel|Relz=Word
 17	a-	a	PRON	_	Person=4|PronType=PrsSubj	18	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
 18	kà	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	16	comp	_	Gloss=Perf.Rel.Plur|Relz=Affix

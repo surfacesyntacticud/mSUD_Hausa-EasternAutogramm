@@ -263,7 +263,7 @@
 36	jìki	jìkiː	NOUN	_	Gender=Masc	35	comp	_	Gloss=body.Masc|SpaceAfter=No|wordform=jìkinsà|wordfrom=jìkinsà
 37	-n	na	PART	_	Case=Gen|PartType=Case	36	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 38	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	37	comp:obj/m	_	Gloss=3Masc.Gen
-39	ba	ba	PART	_	PartType=Neg|Polarity=Neg	28	mod	_	Gloss=Neg|SpaceAfter=No
+39	ba	ba	PART	_	PartType=Neg|Polarity=Neg	30	mod	_	Gloss=Neg|SpaceAfter=No
 40	,	,	PUNCT	_	_	43	punct	_	Gloss=PUNCT
 41	sai	sai	CCONJ	_	_	43	cc	_	Gloss=except_that
 42	dai	dai	PART	_	PartType=Top	41	discourse@top	_	Gloss=anyway
