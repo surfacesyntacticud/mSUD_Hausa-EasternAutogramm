@@ -329,9 +329,9 @@
 28	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 10_Daurin_Siyasa_10
-# text_en = One of their speakers said that they have documented a case where somebody with connexion in the government had a business competitor jailed for two years under this second national security law, just because he did not pay back the loan he owed him, - that is he did not even steal anything from him.
+# text = wani kàːkàːki-n-sù y-aː cêː su-n sàːmi làːbaːrìː cêːwaː wani mùtûm mài àlaːƙàː dà gwamnatì y-aː sâː a-n kaːmà àboːkin kaːsuwancìː -n -sà a-n kuma tsarèː -shi har̃ tsawo-n shèːkaràː biyu, bìsàː wannàn dòːkaː ta tsàro-n laːfiyà-r̃ ƙasaː, don kawài bà-ì-_̀ biyaː -shì baːshìn dà ya-kèː bî-n-sà ba -wàːtòː bà-ì-_̀ koː saːtar̃ masà wani àbù ba.
+# text_en = One of their speakers said that they have documented a case where somebody with connexion in the government had a business partner jailed for two years under this second national security law, just because he did not pay back the loan he owed him, - that is he did not even steal anything from him.
 # text_ortho = Wani kàːkàːkinsù yaː cêː sun sàːmi làːbaːrìː cêːwaː wani mùtûm mài àlaːƙàː dà gwamnatì yaː sâː an kaːmà àboːkin kaːsuwancìnsà an kuma tsarèː shi har̃ tsawon shèːkaràː biyu, bìsàː wannàn dòːkaː ta tsàron laːfiyàr̃ ƙasaː, don kawài bài biyaː shì baːshìn dà yakèː bînsà ba - wàːtòː bài koː saːtar̃ masà wani àbù ba.
-# text = wani kàːkàːki-n-sù y-aː= cêː su-n= sàːmi làːbaːrìː cêːwaː wani mùtûm mài àlaːƙàː dà gwamnatì y-aː= sâː a-n= kaːmà àboːki-n kaːsuwancì-n -sà a-n= kuma tsarèː -shi har̃ tsawo-n shèːkaràː biyu, bìsàː wannàn dòːkaː ta tsàro-n laːfiyà-r̃ ƙasaː, don kawài bà-ì=biyaː -shì baːshìn dà ya-kèː bî-n-sà ba -wàːtòː bà-ì=koː saːtar̃ masà wani àbù ba.
 1	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	2	det	_	Gloss=some.Masc.Spec
 2	kàːkàːki	kàːkàːkiː	NOUN	_	Gender=Masc	6	subj	_	Gloss=spokesman.Masc|SpaceAfter=No|wordform=kàːkàːkinsù
 3	-n	na	PART	_	Case=Gen|PartType=Case	2	mod@poss	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
@@ -356,59 +356,57 @@
 22	a-	a	PRON	_	Person=4|PronType=PrsSubj	23	subj/m	_	Gloss=4|SpaceAfter=No|wordform=an
 23	n	aː	AUX	_	Aspect=Perf|Copula=No|Number=Plur	21	comp:obj	_	Gloss=Perf.Plur
 24	kaːmà	kaːm-	VERB	_	_	23	comp:aux	_	Gloss=catch
-25	àboːki	àboːkiː	NOUN	_	Gender=Masc	24	comp:obj	_	Compound=Yes|Gloss=friend.Masc|SpaceAfter=No|wordform=àboːkin
-26	-n	na	PART	_	Case=Gen|PartType=Case	25	udep/m	_	Gloss=Gen.Fem
-27	kaːsuwancì	kaːsuwancì	NOUN	_	Gender=Masc	26	comp	_	Gloss=business.Masc|SpaceAfter=No
-28	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	25	mod/m	_	Gloss=Gen.Masc/Plur
-29	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	28	comp	_	Gloss=-3MascGen|wordform=sà
-30	a-	a	PRON	_	Person=4|PronType=PrsSubj	31	subj/m	_	Gloss=4|SpaceAfter=No|wordform=an
-31	n	aː	AUX	_	Aspect=Perf|Copula=No|Number=Plur	23	parataxis:conj	_	Gloss=Perf.Plur
-32	kuma	kuma	PART	_	PartType=Top	33	discourse@top	_	Gloss=also
-33	tsarèː	tsar-	VERB	_	_	31	comp:aux	_	Gloss=imprison
-34	-shi	-shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	33	comp:obj/m	_	Gloss=-3Masc.Acc|wordform=shi
-35	har̃	har̃	ADP	_	_	33	mod	_	Gloss=up_to
-36	tsawo	tsawoː	NOUN	_	Gender=Masc	35	comp	_	Gloss=length.Masc|SpaceAfter=No|wordform=tsawon
-37	-n	na	PART	_	Case=Gen|PartType=Case	36	mod/m	_	Gloss=Gen.Masc/Plur
-38	shèːkaràː	shèːkaràː	NOUN	_	Gender=Fem	37	comp	_	Gloss=year.Fem
-39	biyu	biyu	NUM	_	_	38	mod:num	_	Gloss=two|SpaceAfter=No
-40	,	,	PUNCT	_	_	41	punct	_	Gloss=PUNCT
-41	bìsàː	bìsàː	ADP	_	_	33	comp:obl	_	Gloss=according_to
-42	wannàn	nân	DET	_	Deixis=ProxS|Gender=Fem|PronType=Dem	43	det	_	Gloss=ProxS.Fem
-43	dòːkaː	dòːkaː	NOUN	_	Gender=Fem	41	comp	_	Gloss=law.Fem
-44	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	43	mod	_	Gloss=Gen.Fem
-45	tsàro	tsàroː	NOUN	_	Gender=Masc	44	comp	_	Gloss=security.Masc|SpaceAfter=No|wordform=tsàron
-46	-n	na	PART	_	Case=Gen|PartType=Case	45	mod/m	_	Gloss=Gen.Masc/Plur
-47	laːfiyà	laːfiyàː	NOUN	_	Gender=Fem	46	comp	_	Gloss=health.Fem|SpaceAfter=No|wordform=laːfiyàr̃
-48	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	47	mod/m	_	Gloss=Gen.Fem
-49	ƙasaː	ƙasaː	NOUN	_	Gender=Fem	48	comp	_	Gloss=country.Fem|SpaceAfter=No|wordform=kasaː
-50	,	,	PUNCT	_	_	51	punct	_	Gloss=PUNCT
-51	don	don	SCONJ	_	_	33	mod	_	Gloss=because
-52	kawài	kawài	ADV	_	_	51	mod	_	Gloss=merely
-53	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	55	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-54	ì-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	55	subj/m	_	Gloss=-3Masc|SpaceAfter=No|wordform=bài
-55	_̀	_̀	AUX	_	Mood=Sub	51	comp	_	wordform=Ø̀
-56	biyaː	biyaː	VERB	_	_	55	comp:aux	_	Gloss=pay
-57	-shì	-shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	56	comp:obj@R/m	_	Gloss=-3Masc.Acc|wordform=shì
-58	baːshìn	baːshìː	NOUN	_	Definite=Def|Gender=Masc	56	comp:obj@T	_	Gloss=loan.Masc.Def|RelAnt=Yes
-59	dà	dà	SCONJ	_	_	58	mod@relcl	_	Gloss=CompRel|Relz=Word
-60	ya-	ya-	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	61	subj/m	_	Gloss=3Masc-|SpaceAfter=No
-61	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	59	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=yakèː
-62	bî	bi	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	61	comp:aux	_	Gloss=owe.Vnoun.Masc|RelRole=obj|SpaceAfter=No|wordform=bîn|wordfrom=bînsà
-63	-n	na	PART	_	Case=Gen|PartType=Case	62	udep/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
-64	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	63	comp:obj/m	_	Gloss=3Masc.Gen
-65	ba	ba	PART	_	PartType=Neg|Polarity=Neg	56	mod	_	Gloss=Neg
-66	-	-	PUNCT	_	_	70	punct	_	Gloss=PUNCT|SpaceAfter=No
-67	wàːtòː	wàːtòː	CCONJ	_	_	70	cc	_	Gloss=i.e.
-68	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	70	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-69	ì-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	70	subj/m	_	Gloss=-3Masc|SpaceAfter=No|wordform=bài
-70	_̀	_̀	AUX	_	Mood=Sub	55	conj:reform	_	wordform=Ø̀
-71	koː	koː	ADV	_	_	72	mod	_	Gloss=even
-72	saːtar̃	saːt-	VERB	_	Voice=Cau	70	comp:aux	_	Gloss=steal.Cau
-73	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	72	comp:obl	_	Gloss=3Masc.Dat
-74	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	75	det	_	Gloss=some.Masc.Spec
-75	àbù	àbù	NOUN	_	Gender=Masc	72	comp:obj	_	Gloss=thing.Masc
-76	ba	ba	PART	_	PartType=Neg|Polarity=Neg	72	mod	_	Gloss=Neg|SpaceAfter=No
-77	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
+25	àboːkin kaːsuwancìː	àboːkin kaːsuwancìː	NOUN	_	Gender=Masc	24	comp:obj	_	Compound=Yes|Gloss=business_partner.Masc|wordform=àboːkin-kaːsuwancìnsà
+26	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	25	mod/m	_	Gloss=Gen.Masc/Plur
+27	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	26	comp	_	Gloss=-3MascGen|wordform=sà
+28	a-	a	PRON	_	Person=4|PronType=PrsSubj	29	subj/m	_	Gloss=4|SpaceAfter=No|wordform=an
+29	n	aː	AUX	_	Aspect=Perf|Copula=No|Number=Plur	23	parataxis:conj	_	Gloss=Perf.Plur
+30	kuma	kuma	PART	_	PartType=Top	31	discourse@top	_	Gloss=also
+31	tsarèː	tsar-	VERB	_	_	29	comp:aux	_	Gloss=imprison
+32	-shi	-shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	31	comp:obj/m	_	Gloss=-3Masc.Acc|wordform=shi
+33	har̃	har̃	ADP	_	_	31	mod	_	Gloss=up_to
+34	tsawo	tsawoː	NOUN	_	Gender=Masc	33	comp	_	Gloss=length.Masc|SpaceAfter=No|wordform=tsawon
+35	-n	na	PART	_	Case=Gen|PartType=Case	34	mod/m	_	Gloss=Gen.Masc/Plur
+36	shèːkaràː	shèːkaràː	NOUN	_	Gender=Fem	35	comp	_	Gloss=year.Fem
+37	biyu	biyu	NUM	_	_	36	mod:num	_	Gloss=two|SpaceAfter=No
+38	,	,	PUNCT	_	_	39	punct	_	Gloss=PUNCT
+39	bìsàː	bìsàː	ADP	_	_	31	comp:obl	_	Gloss=according_to
+40	wannàn	nân	DET	_	Deixis=ProxS|Gender=Fem|PronType=Dem	41	det	_	Gloss=ProxS.Fem
+41	dòːkaː	dòːkaː	NOUN	_	Gender=Fem	39	comp	_	Gloss=law.Fem
+42	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	41	mod	_	Gloss=Gen.Fem
+43	tsàro	tsàroː	NOUN	_	Gender=Masc	42	comp	_	Gloss=security.Masc|SpaceAfter=No|wordform=tsàron
+44	-n	na	PART	_	Case=Gen|PartType=Case	43	mod/m	_	Gloss=Gen.Masc/Plur
+45	laːfiyà	laːfiyàː	NOUN	_	Gender=Fem	44	comp	_	Gloss=health.Fem|SpaceAfter=No|wordform=laːfiyàr̃
+46	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	45	mod/m	_	Gloss=Gen.Fem
+47	ƙasaː	ƙasaː	NOUN	_	Gender=Fem	46	comp	_	Gloss=country.Fem|SpaceAfter=No|wordform=kasaː
+48	,	,	PUNCT	_	_	49	punct	_	Gloss=PUNCT
+49	don	don	SCONJ	_	_	31	mod	_	Gloss=because
+50	kawài	kawài	ADV	_	_	49	mod	_	Gloss=merely
+51	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	53	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+52	ì-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	53	subj/m	_	Gloss=-3Masc|SpaceAfter=No|wordform=bài
+53	_̀	_̀	AUX	_	Mood=Sub	49	comp	_	wordform=Ø̀
+54	biyaː	biyaː	VERB	_	_	53	comp:aux	_	Gloss=pay
+55	-shì	-shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	54	comp:obj@R/m	_	Gloss=-3Masc.Acc|wordform=shì
+56	baːshìn	baːshìː	NOUN	_	Definite=Def|Gender=Masc	54	comp:obj@T	_	Gloss=loan.Masc.Def|RelAnt=Yes
+57	dà	dà	SCONJ	_	_	56	mod@relcl	_	Gloss=CompRel|Relz=Word
+58	ya-	ya-	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	59	subj/m	_	Gloss=3Masc-|SpaceAfter=No
+59	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	57	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=yakèː
+60	bî	bi	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	59	comp:aux	_	Gloss=owe.Vnoun.Masc|RelRole=obj|SpaceAfter=No|wordform=bîn|wordfrom=bînsà
+61	-n	na	PART	_	Case=Gen|PartType=Case	60	udep/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
+62	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	61	comp:obj/m	_	Gloss=3Masc.Gen
+63	ba	ba	PART	_	PartType=Neg|Polarity=Neg	54	mod	_	Gloss=Neg
+64	-	-	PUNCT	_	_	68	punct	_	Gloss=PUNCT|SpaceAfter=No
+65	wàːtòː	wàːtòː	CCONJ	_	_	68	cc	_	Gloss=i.e.
+66	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	68	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+67	ì-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	68	subj/m	_	Gloss=-3Masc|SpaceAfter=No|wordform=bài
+68	_̀	_̀	AUX	_	Mood=Sub	53	conj:reform	_	wordform=Ø̀
+69	koː	koː	ADV	_	_	70	mod	_	Gloss=even
+70	saːtar̃	saːt-	VERB	_	Voice=Cau	68	comp:aux	_	Gloss=steal.Cau
+71	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	70	comp:obl	_	Gloss=3Masc.Dat
+72	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	73	det	_	Gloss=some.Masc.Spec
+73	àbù	àbù	NOUN	_	Gender=Masc	70	comp:obj	_	Gloss=thing.Masc
+74	ba	ba	PART	_	PartType=Neg|Polarity=Neg	70	mod	_	Gloss=Neg|SpaceAfter=No
+75	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
 # sent_id = 10_Daurin_Siyasa_11
 # text_en = Him, the man who was imprisoned, said he knows one hundred an fifty five people that have been jailed just in Lagos.

@@ -289,7 +289,7 @@
 # sent_id = 14_Miyagun_kwayoyi_8
 # text_en = According to the agency, they succeeded in catching these men thanks to the undercover investigation that was done secretly and lead to the efforts that the agency employees concentrated on the Lagos airport.
 # text_ortho = Kàmar̃ yaddà Hùkuːmàr̃ ta cèː, an sàːmu nasar̃àr̃ kaːmà mutàːnên neː sabòːdà binciken àsiːr̃iː dà akà yi ta yîː bâː jîː bâː ganiː, wàndà har̃ ya yi sànàdiyyàr̃ ƙòːƙarîn dà ma'àikàtan Hùkuːmàr̃ sukà yi à fiːlin jirgin samàn Ìkko.
-# text = kàmar̃ yaddà Hùkuːmàr̃ ta= cèː, a-n= sàːmu nasar̃à-r̃ kaːmà mutàːnên neː sabòːdà bincike-n àsiːr̃iː dà a-kà= yi ta yîː bâː jîː bâː ganiː, wàndà har̃ ya= yi sànàdiyyà-r̃ ƙòːƙarîn dà ma'àikàta-n Hùkuːmàr̃ su-kà= yi à fiːli-n jirgi-n samà -n Ìkko.
+# text = kàmar̃ yaddà Hùkuːmàr̃ ta= cèː, a-n sàːmu nasar̃à-r̃ kaːmà mutàːnên neː sabòːdà bincike-n àsiːr̃iː dà a-kà yi ta yîː bâː jîː bâː ganiː, wàndà har̃ ya= yi sànàdiyyà-r̃ ƙòːƙarîn dà ma'àikàta-n Hùkuːmàr̃ su-kà yi à fiːlin-jirgin-samà -n Ìkko.
 1	kàmar̃	kàmar̃	ADP	_	_	9	mod	_	Gloss=like|wordform=Kàmar
 2	yaddà	yaddà	ADV	_	PronType=Rel	1	comp	_	Gloss=how.Rel|RelAnt=Yes|Relz=Word
 3	Hùkuːmàr̃	hùkuːmàː	NOUN	_	Definite=Def|Gender=Fem	5	subj	_	Gloss=agency.Fem.Def
@@ -338,14 +338,10 @@
 44	kà	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	39	comp	_	Gloss=Perf.Rel.Plur|Relz=Affix
 45	yi	yi	VERB	_	_	44	comp:aux	_	ClauseType=Rel|Gloss=do|RelRole=subj
 46	à	à	ADP	_	_	45	mod	_	Gloss=at
-47	fiːli	fiːliː	NOUN	_	Gender=Masc	46	comp	_	Compound=Yes|Gloss=field.Masc|SpaceAfter=No|wordform=fiːlin
-48	-n	na	PART	_	Case=Gen|PartType=Case	47	udep/m	_	Gloss=Gen.Fem
-49	jirgi	jirgiː	NOUN	_	Gender=Masc	48	comp	_	Compound=Yes|Gloss=vehicle.Masc|SpaceAfter=No|wordform=jirgin
-50	-n	na	PART	_	Case=Gen|PartType=Case	49	udep/m	_	Gloss=Gen.Fem
-51	samà	samà	ADV	_	_	50	comp	_	Gloss=in_the_sky
-52	-n	na	PART	_	Case=Gen|PartType=Case	47	mod/m	_	Gloss=Gen.Masc/Plur
-53	Ìkko	Ìkko	PROPN	_	_	52	comp	_	Gloss=Lagos|SpaceAfter=No|wordform=Ikko
-54	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
+47	fiːlin-jirgin-samà	fiːlin-jirgin-samà	NOUN	_	Gender=Masc	46	comp	_	Compound=Yes|Gloss=airport.Masc|wordform=fiːlin-jirgin-samàn
+48	-n	na	PART	_	Case=Gen|PartType=Case	47	mod/m	_	Gloss=Gen.Masc/Plur
+49	Ìkko	Ìkko	PROPN	_	_	48	comp	_	Gloss=Lagos|SpaceAfter=No|wordform=Ikko
+50	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 
 # sent_id = 14_Miyagun_kwayoyi_9
 # text_en = After the arrest of the four people who, as was explained, are top chiefs of this gang, the agency caught the one accused of carrying the drugs, and who was said to have swallowed the cocaine tied up in condoms - i.e. what you use to prevent pregnancy.

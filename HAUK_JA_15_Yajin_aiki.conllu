@@ -57,7 +57,7 @@
 # sent_id = 15_Yajin_aiki_3
 # text_en = One journalists has told BBC radio that shops have stayed closed in most of the country.
 # text_ortho = Wani ɗan jàr̃iːdàː yaː faɗàː wà gidan r̃eːdiyòn BBC cê:waː har̃koːkin cìnikiː sun tsayàː cik à yawancin ƙasâr̃.
-# text = wani ɗan jàr̃iːdàː yaː faɗàː wà gidan r̃eːdiyòn BBC cê:waː har̃koːkin cìnikiː sun tsayàː cik à yawancin ƙasâr̃.
+# text = wani ɗa-n jàr̃iːdàː y-aː faɗàː wà gidan-r̃eːdiyòː -n BBC cê:waː har̃koːki-n cìnikiː su-n tsayàː cik à yawanci-n ƙasâr̃.
 1	wani	wani	DET	_	Definite=Spec|Gender=Masc|Number=Plur|PronType=Ind	2	det	_	Gloss=some.Masc.Spec
 2	ɗa	ɗaː	NOUN	_	Gender=Masc	6	subj	_	Compound=Yes|Gloss=child.Masc|SpaceAfter=No|wordform=ɗan
 3	-n	na	PART	_	Case=Gen|PartType=Case	2	udep/m	_	Gloss=Gen.Fem
@@ -66,24 +66,22 @@
 6	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing
 7	faɗàː	faɗ-	VERB	_	_	6	comp:aux	_	Gloss=tell
 8	wà	mà	ADP	_	Case=Dat	7	comp:obl	_	Gloss=Dat
-9	gida	gidaː	NOUN	_	Gender=Masc	8	comp	_	Compound=Yes|Gloss=house.Masc|SpaceAfter=No|wordform=gidan
-10	-n	na	PART	_	Case=Gen|PartType=Case	9	udep/m	_	Gloss=Gen.Fem
-11	r̃eːdiyò	r̃eːdiyòː	NOUN	_	Gender=Masc	10	comp	_	Compound=Yes|Gloss=radio.Masc|SpaceAfter=No|wordform=r̃eːdiyòn
-12	-n	na	PART	_	Case=Gen|PartType=Case	9	mod:appos/m	_	Gloss=Gen.Masc/Plur
-13	BBC	BBC	PROPN	_	Number=Plur	12	comp	_	Gloss=BBC
-14	cê:waː	cêwaː	SCONJ	_	_	7	comp:obj	_	Gloss=COMP
-15	har̃koːki	har̃kàː	NOUN	_	Number=Plur	19	subj	_	Gloss=business.Plur|SpaceAfter=No|wordform=har̃koːkin
-16	-n	na	PART	_	Case=Gen|PartType=Case	15	mod/m	_	Gloss=Gen.Masc/Plur
-17	cìnikiː	cìnikiː	NOUN	_	Gender=Masc	16	comp	_	Gloss=trade.Masc
-18	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	19	subj/m	_	Gloss=3Plur|SpaceAfter=No|wordform=sun
-19	n	aː	AUX	_	Aspect=Perf|Copula=No|Number=Plur	14	comp	_	Gloss=Perf.Plur
-20	tsayàː	tsay-	VERB	_	_	19	comp:aux	_	Gloss=stop
-21	cik	cik	IDEO	_	_	20	mod	_	Gloss=still
-22	à	à	ADP	_	_	20	mod	_	Gloss=at
-23	yawanci	yawanciː	NOUN	_	Gender=Masc	22	comp	_	Gloss=majority.Masc|SpaceAfter=No|wordform=yawancin
-24	-n	na	PART	_	Case=Gen|PartType=Case	23	udep/m	_	Gloss=Gen.Masc/Plur
-25	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	24	comp	_	Gloss=country.Fem.Def|SpaceAfter=No
-26	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
+9	gidan-r̃eːdiyòː	gidan-r̃eːdiyòː	NOUN	_	Gender=Masc	8	comp	_	Compound=Yes|Gloss=radio.Masc|wordform=gidan-r̃eːdiyòn
+10	-n	na	PART	_	Case=Gen|PartType=Case	9	mod:appos/m	_	Gloss=Gen.Masc/Plur
+11	BBC	BBC	PROPN	_	Number=Plur	10	comp	_	Gloss=BBC
+12	cê:waː	cêwaː	SCONJ	_	_	7	comp:obj	_	Gloss=COMP
+13	har̃koːki	har̃kàː	NOUN	_	Number=Plur	17	subj	_	Gloss=business.Plur|SpaceAfter=No|wordform=har̃koːkin
+14	-n	na	PART	_	Case=Gen|PartType=Case	13	mod/m	_	Gloss=Gen.Masc/Plur
+15	cìnikiː	cìnikiː	NOUN	_	Gender=Masc	14	comp	_	Gloss=trade.Masc
+16	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	17	subj/m	_	Gloss=3Plur|SpaceAfter=No|wordform=sun
+17	n	aː	AUX	_	Aspect=Perf|Copula=No|Number=Plur	12	comp	_	Gloss=Perf.Plur
+18	tsayàː	tsay-	VERB	_	_	17	comp:aux	_	Gloss=stop
+19	cik	cik	IDEO	_	_	18	mod	_	Gloss=still
+20	à	à	ADP	_	_	18	mod	_	Gloss=at
+21	yawanci	yawanciː	NOUN	_	Gender=Masc	20	comp	_	Gloss=majority.Masc|SpaceAfter=No|wordform=yawancin
+22	-n	na	PART	_	Case=Gen|PartType=Case	21	udep/m	_	Gloss=Gen.Masc/Plur
+23	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	22	comp	_	Gloss=country.Fem.Def|SpaceAfter=No
+24	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_4
 # text_en = Most shops have stopped working and stores were closed while transports too have stopped working, and children have not gone to school.
@@ -627,8 +625,8 @@
 # sent_id = 15_Yajin_aiki_16
 # text_en = Apart from the pressure to change from the single party regime that president 'Ali Saibou' is facing, the president is suffering from an increase in the number of cases of lack of support of the economic policy that his government is implementing.
 # text_ortho = Bandà kuma matsà lambàr̃ dà shùːgàbaː " Ali Saibou " yakèː fùskantàː à kân kaucèːwaː dàgà kân tafarkìn tsaːrìn mulkìː mài jàm'iyyàː ƙwàːyaː ɗaya tal, hakà kuma shùːgàbân yanàː faːmaː dà ƙaːrìn yawàn wànzuwar̃ rashìn amìncêwaː dà manufoːfin tattalin ar̃zìkiː dà gwamnatìnsà takèː aikìː dà suː.
-# text = bandà kuma matsà lambàr̃ dà shùːgàbaː " Ali Saibou " ya-kèː fùskantàː à kân kaucèːwaː dàgà kân tafarkì-n tsaːrì-n mulkì-n mài jàm'iyyàː ƙwàːyaː ɗaya tal, hakà kuma shùːgàbân ya-nàː faːmaː dà ƙaːrì-n yawà-n wànzuwa-r̃ rashì-n amìncêwaː dà manufoːfi-n tattali-n ar̃zìkiː dà gwamnatì-n-sà ta-kèː aikìː dà suː.
-1	bandà	bandà	ADP	_	_	35	mod	_	Gloss=apart_from
+# text = bandà kuma matsà lambàr̃ dà shùːgàbaː " Ali Saibou " ya-kèː fùskantàː à kân kaucèːwaː dàgà kân tafarkì-n  tsaːrìn-mulkìː -n mài jàm'iyyàː ƙwàːyaː ɗaya tal, hakà kuma shùːgàbân ya-nàː faːmaː dà ƙaːrì-n yawà-n wànzuwa-r̃ rashì-n amìncêwaː dà manufoːfi-n tattali-n ar̃zìkiː dà gwamnatì-n-sà ta-kèː aikìː dà suː.
+1	bandà	bandà	ADP	_	_	33	mod	_	Gloss=apart_from
 2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 3	matsà	mats-	VERB	_	_	1	comp	_	Compound=Yes|Gloss=press|RelAnt=Yes
 4	lambàr̃	lambàː	NOUN	_	Definite=Def|Gender=Fem	3	comp:obj	_	Gloss=sign.Fem.Def
@@ -648,48 +646,46 @@
 18	kân	kân	ADP	_	Gender=Masc	17	comp	_	Gloss=on
 19	tafarkì	tafarkìː	NOUN	_	Gender=Masc	18	comp	_	Gloss=system.Masc|SpaceAfter=No|wordform=tafarkìn
 20	-n	na	PART	_	Case=Gen|PartType=Case	19	mod/m	_	Gloss=Gen.Masc/Plur
-21	tsaːrì	tsaːrìː	NOUN	_	Gender=Masc	20	comp	_	Compound=Yes|Gloss=organisation.Masc|SpaceAfter=No|wordform=tsaːrìn
-22	-n	na	PART	_	Case=Gen|PartType=Case	21	udep/m	_	Gloss=Gen.Fem
-23	mulkì	mulkìː	NOUN	_	Gender=Masc	22	comp	_	Compound=Yes|Gloss=government.Masc|SpaceAfter=No|wordform=mulkìː
-24	-n	na	PART	_	Case=Gen|PartType=Case	21	udep/m	_	Gloss=Gen.Masc/Plur
-25	mài	mài	PART	_	Number=Sing|PartType=Der	24	comp	_	Gloss=owner_of.Sing
-26	jàm'iyyàː	jàm'iyyàː	NOUN	_	Gender=Fem	25	compound	_	Gloss=party.Fem
-27	ƙwàːyaː	ƙwàːyaː	NOUN	_	Gender=Fem	26	mod	_	Gloss=unit.Fem
-28	ɗaya	ɗaya	NUM	_	_	27	mod:num	_	Gloss=one
-29	tal	tal	IDEO	_	_	28	mod	_	Gloss=single|SpaceAfter=No
-30	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-31	hakà	hakà	ADV	_	_	35	mod	_	Gloss=thus
-32	kuma	kuma	PART	_	PartType=Top	31	discourse@top	_	Gloss=also
-33	shùːgàbân	shùːgàbaː	NOUN	_	Definite=Def|Gender=Masc	35	subj	_	Gloss=president.Masc.Def
-34	ya-	ya-	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	35	subj/m	_	Gloss=3Masc-|SpaceAfter=No
-35	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	Gloss=Prog|wordform=yanaː
-36	faːmaː	faːmaː	NOUN	_	Gender=Fem	35	comp:pred	_	Gloss=struggling.Fem
-37	dà	dà	ADP	_	_	36	comp:obl	_	Gloss=with
-38	ƙaːrì	ƙaːrìː	NOUN	_	Gender=Masc	37	comp	_	Gloss=increase.Masc|SpaceAfter=No|wordform=ƙaːrìn
+21	 tsaːrìn-mulkìː	 tsaːrìn-mulkìː	NOUN	_	Gender=Masc	20	comp	_	Compound=Yes|Gloss=regime.Masc
+22	-n	na	PART	_	Case=Gen|PartType=Case	21	udep/m	_	Gloss=Gen.Masc/Plur
+23	mài	mài	PART	_	Number=Sing|PartType=Der	22	comp	_	Gloss=owner_of.Sing
+24	jàm'iyyàː	jàm'iyyàː	NOUN	_	Gender=Fem	23	compound	_	Gloss=party.Fem
+25	ƙwàːyaː	ƙwàːyaː	NOUN	_	Gender=Fem	24	mod	_	Gloss=unit.Fem
+26	ɗaya	ɗaya	NUM	_	_	25	mod:num	_	Gloss=one
+27	tal	tal	IDEO	_	_	26	mod	_	Gloss=single|SpaceAfter=No
+28	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
+29	hakà	hakà	ADV	_	_	33	mod	_	Gloss=thus
+30	kuma	kuma	PART	_	PartType=Top	29	discourse@top	_	Gloss=also
+31	shùːgàbân	shùːgàbaː	NOUN	_	Definite=Def|Gender=Masc	33	subj	_	Gloss=president.Masc.Def
+32	ya-	ya-	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	33	subj/m	_	Gloss=3Masc-|SpaceAfter=No
+33	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	Gloss=Prog|wordform=yanaː
+34	faːmaː	faːmaː	NOUN	_	Gender=Fem	33	comp:pred	_	Gloss=struggling.Fem
+35	dà	dà	ADP	_	_	34	comp:obl	_	Gloss=with
+36	ƙaːrì	ƙaːrìː	NOUN	_	Gender=Masc	35	comp	_	Gloss=increase.Masc|SpaceAfter=No|wordform=ƙaːrìn
+37	-n	na	PART	_	Case=Gen|PartType=Case	36	mod/m	_	Gloss=Gen.Masc/Plur
+38	yawà	yawàː	NOUN	_	Gender=Masc	37	comp	_	Gloss=quantity.Masc|SpaceAfter=No|wordform=yawàn
 39	-n	na	PART	_	Case=Gen|PartType=Case	38	mod/m	_	Gloss=Gen.Masc/Plur
-40	yawà	yawàː	NOUN	_	Gender=Masc	39	comp	_	Gloss=quantity.Masc|SpaceAfter=No|wordform=yawàn
-41	-n	na	PART	_	Case=Gen|PartType=Case	40	mod/m	_	Gloss=Gen.Masc/Plur
-42	wànzuwa	wanz-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	41	comp	_	Gloss=occur.Vnoun.Fem|SpaceAfter=No|wordform=wànzuwar̃
-43	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	42	mod/m	_	Gloss=Gen.Fem
-44	rashì	ras-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	43	comp	_	Gloss=lack.Vnoun.Masc|SpaceAfter=No|wordform=rashìn
-45	-n	na	PART	_	Case=Gen|PartType=Case	44	udep/m	_	Gloss=Gen.Masc/Plur
-46	amìncêwaː	amint-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	45	comp	_	Gloss=agree.Vnoun.Fem
-47	dà	dà	CCONJ	_	_	46	comp:obl	_	Gloss=and
-48	manufoːfi	manufaː	NOUN	_	Number=Plur	47	comp:obj	_	Gloss=policy.Plur|RelAnt=Yes|SpaceAfter=No|wordform=manufoːfin
+40	wànzuwa	wanz-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	39	comp	_	Gloss=occur.Vnoun.Fem|SpaceAfter=No|wordform=wànzuwar̃
+41	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	40	mod/m	_	Gloss=Gen.Fem
+42	rashì	ras-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	41	comp	_	Gloss=lack.Vnoun.Masc|SpaceAfter=No|wordform=rashìn
+43	-n	na	PART	_	Case=Gen|PartType=Case	42	udep/m	_	Gloss=Gen.Masc/Plur
+44	amìncêwaː	amint-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	43	comp	_	Gloss=agree.Vnoun.Fem
+45	dà	dà	CCONJ	_	_	44	comp:obl	_	Gloss=and
+46	manufoːfi	manufaː	NOUN	_	Number=Plur	45	comp:obj	_	Gloss=policy.Plur|RelAnt=Yes|SpaceAfter=No|wordform=manufoːfin
+47	-n	na	PART	_	Case=Gen|PartType=Case	46	mod/m	_	Gloss=Gen.Masc/Plur
+48	tattali	tattaliː	NOUN	_	Gender=Masc	47	comp	_	Gloss=planning.Masc|SpaceAfter=No|wordform=tattalin
 49	-n	na	PART	_	Case=Gen|PartType=Case	48	mod/m	_	Gloss=Gen.Masc/Plur
-50	tattali	tattaliː	NOUN	_	Gender=Masc	49	comp	_	Gloss=planning.Masc|SpaceAfter=No|wordform=tattalin
-51	-n	na	PART	_	Case=Gen|PartType=Case	50	mod/m	_	Gloss=Gen.Masc/Plur
-52	ar̃zìkiː	ar̃zìkiː	NOUN	_	Gender=Masc	51	comp	_	Gloss=wealth.Masc
-53	dà	dà	SCONJ	_	_	48	mod@relcl	_	Gloss=CompRel|Relz=Word
-54	gwamnatì	gwamnatì	NOUN	_	Gender=Fem	58	subj	_	Gloss=government.Fem|SpaceAfter=No|wordform=gwamnatìnsà|wordfrom=gwamnatìnsà
-55	-n	na	PART	_	Case=Gen|PartType=Case	54	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
-56	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	55	comp:obj/m	_	Gloss=3Masc.Gen
-57	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	58	subj/m	_	Gloss=3Fem-|SpaceAfter=No
-58	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	53	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=takèː
-59	aikìː	aikìː	NOUN	_	Gender=Masc	58	comp:pred	_	Gloss=work.Masc|RelRole=obl|wordform=aiki
-60	dà	dà	ADP	_	_	59	comp:obl	_	Gloss=with
-61	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	60	comp	_	Gloss=3Plur.Nom|RelPos=Yes|SpaceAfter=No
-62	.	.	PUNCT	_	_	35	punct	_	Gloss=PUNCT
+50	ar̃zìkiː	ar̃zìkiː	NOUN	_	Gender=Masc	49	comp	_	Gloss=wealth.Masc
+51	dà	dà	SCONJ	_	_	46	mod@relcl	_	Gloss=CompRel|Relz=Word
+52	gwamnatì	gwamnatì	NOUN	_	Gender=Fem	56	subj	_	Gloss=government.Fem|SpaceAfter=No|wordform=gwamnatìnsà|wordfrom=gwamnatìnsà
+53	-n	na	PART	_	Case=Gen|PartType=Case	52	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
+54	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	53	comp:obj/m	_	Gloss=3Masc.Gen
+55	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	56	subj/m	_	Gloss=3Fem-|SpaceAfter=No
+56	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	51	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=takèː
+57	aikìː	aikìː	NOUN	_	Gender=Masc	56	comp:pred	_	Gloss=work.Masc|RelRole=obl|wordform=aiki
+58	dà	dà	ADP	_	_	57	comp:obl	_	Gloss=with
+59	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	58	comp	_	Gloss=3Plur.Nom|RelPos=Yes|SpaceAfter=No
+60	.	.	PUNCT	_	_	33	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_17
 # text_en = The demonstrators accused their government of failing to deal with the problem of corruption in the country, and of preparing an austerity plan that affects only the poor people of the country.
@@ -743,7 +739,7 @@
 # sent_id = 15_Yajin_aiki_18
 # text_en = On thursday, two days ago, banks and insurance companies were cloased becaus their workers were on strike.
 # text_ortho = Sheːkaranjiyà Àlhàmîs, an rufè bankunàː dà kamfanoːnin ìnshoːr̃àr̃ ƙasâr̃ sabòːdà ma'àikàtansù sun yi yaːjìn aikìː.
-# text = sheːkaranjiyà àlhàmîs, an rufè bankunàː dà kamfanoːnin ìnshoːr̃àr̃ ƙasâr̃ sabòːdà ma'àikàtansù sun yi yaːjìn aikìː.
+# text = sheːkaranjiyà àlhàmîs, a-n rufè bankunàː dà kamfanoːnin-ìnshoːr̃àː -r̃ ƙasâr̃ sabòːdà ma'àikàta-n-sù su-n yi yaːjì-n aikìː.
 1	sheːkaranjiyà	sheːkaranjiyà	ADV	_	_	2	mod	_	Gloss=day_before_yesterday
 2	àlhàmîs	àlhàmîs	NOUN	_	Gender=Fem	5	mod	_	Gloss=thursday.Fem|SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
@@ -752,22 +748,20 @@
 6	rufè	ruf-	VERB	_	_	5	comp:aux	_	Gloss=close
 7	bankunàː	banki	NOUN	_	Number=Plur	6	comp:obj	_	Gloss=bank.Plur
 8	dà	dà	CCONJ	_	_	9	cc	_	Gloss=and
-9	kamfanoːni	kamfàni	NOUN	_	Number=Plur	7	conj:coord	_	Gloss=company|SpaceAfter=No|wordform=kamfanoːnin
-10	-n	na	PART	_	Case=Gen|PartType=Case	9	mod/m	_	Gloss=Gen.Masc/Plur
-11	ìnshoːr̃à	ìnshoːr̃àː	NOUN	_	Gender=Fem	10	comp	_	Compound=Yes|Gloss=insurance.Fem|SpaceAfter=No|wordform=ìnshoːr̃àr̃
-12	-r̃	-r̃	PART	_	Case=Gen|PartType=Case	9	udep/m	_	Gloss=Gen.Fem
-13	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	12	comp	_	Gloss=country.Fem.Def
-14	sabòːdà	sabòːdà	SCONJ	_	_	6	mod	_	Gloss=because
-15	ma'àikàta	ma'àikàciː	NOUN	_	Number=Plur	19	subj	_	Gloss=worker.Plur|SpaceAfter=No|wordform=ma'àikàtansù
-16	-n	na	PART	_	Case=Gen|PartType=Case	15	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
-17	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	16	comp	_	Gloss=3Plur.Gen
-18	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	19	subj/m	_	Gloss=3Plur|SpaceAfter=No|wordform=sun
-19	n	aː	AUX	_	Aspect=Perf|Copula=No|Number=Plur	14	comp	_	Gloss=Perf.Plur
-20	yi	yi	VERB	_	_	19	comp:aux	_	Gloss=do
-21	yaːjì	yaːjìː	NOUN	_	Gender=Masc	20	comp:pred	_	Compound=Yes|Gloss=hot_spice.Masc|SpaceAfter=No|wordform=yaːjìn
-22	-n	na	PART	_	Case=Gen|PartType=Case	21	udep/m	_	Gloss=Gen.Fem
-23	aikìː	aikìː	NOUN	_	Gender=Masc	22	comp	_	Gloss=work.Masc|SpaceAfter=No
-24	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
+9	kamfanoːnin-ìnshoːr̃àː	kamfànin-ìnshoːr̃àr̃	NOUN	_	Number=Plur	7	conj:coord	_	Gloss=insurance_company.Plur|wordform=kamfanoːnin-ìnshoːr̃àr̃
+10	-r̃	-r̃	PART	_	Case=Gen|PartType=Case	9	udep/m	_	Gloss=Gen.Fem
+11	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	10	comp	_	Gloss=country.Fem.Def
+12	sabòːdà	sabòːdà	SCONJ	_	_	6	mod	_	Gloss=because
+13	ma'àikàta	ma'àikàciː	NOUN	_	Number=Plur	17	subj	_	Gloss=worker.Plur|SpaceAfter=No|wordform=ma'àikàtansù
+14	-n	na	PART	_	Case=Gen|PartType=Case	13	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
+15	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	14	comp	_	Gloss=3Plur.Gen
+16	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	17	subj/m	_	Gloss=3Plur|SpaceAfter=No|wordform=sun
+17	n	aː	AUX	_	Aspect=Perf|Copula=No|Number=Plur	12	comp	_	Gloss=Perf.Plur
+18	yi	yi	VERB	_	_	17	comp:aux	_	Gloss=do
+19	yaːjì	yaːjìː	NOUN	_	Gender=Masc	18	comp:pred	_	Compound=Yes|Gloss=hot_spice.Masc|SpaceAfter=No|wordform=yaːjìn
+20	-n	na	PART	_	Case=Gen|PartType=Case	19	udep/m	_	Gloss=Gen.Fem
+21	aikìː	aikìː	NOUN	_	Gender=Masc	20	comp	_	Gloss=work.Masc|SpaceAfter=No
+22	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_19
 # text_en = Their strike showed their support to the workers of the Bank for Niger Development who were left jobless after the goverment of the country decided to close the bank.

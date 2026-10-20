@@ -353,10 +353,10 @@
 27	.	.	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 
 # sent_id = 01_Umaru_Dikko_11
+# text = à shèːkarà-r̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà bìyar̃ nèː kuma wasu ꞌyan-ƙasaː -r̃ Ìsr̃aːꞌiːlà suː ukù, dà wani ɗa-n lèːƙe-n àsiːr̃ì mùtumì-n Nàjeːr̃iyàː, su-kà amsà lâifi-n ƙòːƙari-n saːcè Ùːmar̃ù Dikkò.
 # text_en = In nineteen eighty-five, some Israeli, three in number, and a Nigerian spy, answered to the crime of trying to kidnap Umaru Dikko.
-# text = à shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà bìyar̃ nèː kuma wasu ꞌyan ƙasar̃ Ìsr̃aːꞌiːlà suː ukù, dà wani ɗan lèːƙen àsiːr̃ì mùtumìn Nàjeːr̃iyàː, sukà amsà lâifin ƙòːƙarin saːcè Ùːmar̃ù Dikkò.
 # text_ortho = À shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà bìyar̃ nèː kuma wasu ꞌyan ƙasar̃ Ìsr̃aːꞌiːlà suː ukù, dà wani ɗan lèːƙen àsiːr̃ì mùtumìn Nàjeːr̃iyàː, sukà amsà lâifin ƙòːƙarin saːcè Ùːmar̃ù Dikkò.
-1	à	à	ADP	_	_	35	mod	_	Gloss=at
+1	à	à	ADP	_	_	33	mod	_	Gloss=at
 2	shèːkarà	shèːkaràː	NOUN	_	Gender=Fem	1	comp	_	Gloss=year.Fem|SpaceAfter=No|wordform=shèːkaràr̃
 3	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	2	mod/m	_	Gloss=Gen.Fem
 4	alìf	alìf	NUM	_	_	3	comp	_	Gloss=one_thousand
@@ -370,36 +370,34 @@
 12	nèː	neː	PART	_	PartType=Foc	1	discourse@foc	_	Gloss=Emph
 13	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 14	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	15	det	_	Gloss=some.Plur.Spec
-15	ꞌya	ɗaː	NOUN	_	Number=Plur	35	subj	_	Compound=Yes|Gloss=child.Plur|SpaceAfter=No|wordform=ꞌyan
-16	-n	na	PART	_	Case=Gen|PartType=Case	15	udep/m	_	Gloss=Gen.Fem
-17	ƙasa	ƙasaː	VERB	_	Gender=Fem	16	comp	_	Gloss=country.Fem|SpaceAfter=No|wordform=ƙasar̃
-18	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	15	mod/m	_	Gloss=Gen.Fem
-19	Ìsr̃aːꞌiːlà	Ìsr̃aːꞌiːlà	PROPN	_	_	18	comp	_	Gloss=Israel
-20	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	15	conj:appos	_	Gloss=3Plur.Nom
-21	ukù	ukù	NUM	_	_	20	mod:num	_	Gloss=three|SpaceAfter=No
-22	,	,	PUNCT	_	_	25	punct	_	Gloss=PUNCT
-23	dà	dà	CCONJ	_	_	25	cc	_	Gloss=and
-24	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	25	det	_	Gloss=some.Masc.Spec
-25	ɗa	ɗaː	NOUN	_	Gender=Masc	15	conj:coord	_	Compound=Yes|Gloss=child.Masc|SpaceAfter=No|wordform=ɗan
+15	ꞌyan-ƙasaː	ɗan-ƙasaː	NOUN	_	Number=Plur	33	subj	_	Compound=Yes|Gloss=citizen.Plur|wordform=ꞌyan-ƙasar̃
+16	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	15	mod/m	_	Gloss=Gen.Fem
+17	Ìsr̃aːꞌiːlà	Ìsr̃aːꞌiːlà	PROPN	_	_	16	comp	_	Gloss=Israel
+18	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	15	conj:appos	_	Gloss=3Plur.Nom
+19	ukù	ukù	NUM	_	_	18	mod:num	_	Gloss=three|SpaceAfter=No
+20	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
+21	dà	dà	CCONJ	_	_	23	cc	_	Gloss=and
+22	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	23	det	_	Gloss=some.Masc.Spec
+23	ɗa	ɗaː	NOUN	_	Gender=Masc	15	conj:coord	_	Compound=Yes|Gloss=child.Masc|SpaceAfter=No|wordform=ɗan
+24	-n	na	PART	_	Case=Gen|PartType=Case	23	udep/m	_	Gloss=Gen.Fem
+25	lèːƙe	leːƙ-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	24	comp	_	Compound=Yes|Gloss=peep.Vnoun.Masc|SpaceAfter=No|wordform=lèːƙen
 26	-n	na	PART	_	Case=Gen|PartType=Case	25	udep/m	_	Gloss=Gen.Fem
-27	lèːƙe	leːƙ-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	26	comp	_	Compound=Yes|Gloss=peep.Vnoun.Masc|SpaceAfter=No|wordform=lèːƙen
-28	-n	na	PART	_	Case=Gen|PartType=Case	27	udep/m	_	Gloss=Gen.Fem
-29	àsiːr̃ì	àsiːr̃ì	NOUN	_	Gender=Masc	28	comp	_	Gloss=secret.Masc
-30	mùtumì	mùtûm	NOUN	_	Gender=Masc	25	conj:appos	_	Gloss=person.Masc|SpaceAfter=No|wordform=mùtumìn
-31	-n	na	PART	_	Case=Gen|PartType=Case	30	mod/m	_	Gloss=Gen.Masc/Plur
-32	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	31	comp	_	Gloss=Nigeria|SpaceAfter=No
-33	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
-34	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	35	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
-35	kà	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur
-36	amsà	ams-	VERB	_	_	35	comp:aux	_	Gloss=answer
-37	lâifi	lâifiː	NOUN	_	Gender=Masc	36	comp:obj	_	Gloss=crime.Masc|SpaceAfter=No|wordform=lâifin
-38	-n	na	PART	_	Case=Gen|PartType=Case	37	mod/m	_	Gloss=Gen.Masc/Plur
-39	ƙòːƙari	ƙòːƙariː	NOUN	_	Gender=Masc	38	comp	_	Gloss=effort.Masc|SpaceAfter=No|wordform=ƙòːƙarin
-40	-n	na	PART	_	Case=Gen|PartType=Case	39	udep/m	_	Gloss=Gen.Masc/Plur
-41	saːcè	saːt-	VERB	_	_	40	comp	_	Gloss=kidnap
-42	Ùːmar̃ù	Ùːmar̃ù	PROPN	_	_	41	comp:obj	_	Gloss=Umaru
-43	Dikkò	Dikkò	PROPN	_	_	42	flat@name	_	Gloss=Dikko|SpaceAfter=No
-44	.	.	PUNCT	_	_	35	punct	_	Gloss=PUNCT
+27	àsiːr̃ì	àsiːr̃ì	NOUN	_	Gender=Masc	26	comp	_	Gloss=secret.Masc
+28	mùtumì	mùtûm	NOUN	_	Gender=Masc	23	conj:appos	_	Gloss=person.Masc|SpaceAfter=No|wordform=mùtumìn
+29	-n	na	PART	_	Case=Gen|PartType=Case	28	mod/m	_	Gloss=Gen.Masc/Plur
+30	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	29	comp	_	Gloss=Nigeria|SpaceAfter=No
+31	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
+32	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	33	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
+33	kà	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur
+34	amsà	ams-	VERB	_	_	33	comp:aux	_	Gloss=answer
+35	lâifi	lâifiː	NOUN	_	Gender=Masc	34	comp:obj	_	Gloss=crime.Masc|SpaceAfter=No|wordform=lâifin
+36	-n	na	PART	_	Case=Gen|PartType=Case	35	mod/m	_	Gloss=Gen.Masc/Plur
+37	ƙòːƙari	ƙòːƙariː	NOUN	_	Gender=Masc	36	comp	_	Gloss=effort.Masc|SpaceAfter=No|wordform=ƙòːƙarin
+38	-n	na	PART	_	Case=Gen|PartType=Case	37	udep/m	_	Gloss=Gen.Masc/Plur
+39	saːcè	saːt-	VERB	_	_	38	comp	_	Gloss=kidnap
+40	Ùːmar̃ù	Ùːmar̃ù	PROPN	_	_	39	comp:obj	_	Gloss=Umaru
+41	Dikkò	Dikkò	PROPN	_	_	40	flat@name	_	Gloss=Dikko|SpaceAfter=No
+42	.	.	PUNCT	_	_	33	punct	_	Gloss=PUNCT
 
 # sent_id = 01_Umaru_Dikko_12
 # text_en = Long ago, they were sentenced to a long imprisonment.
@@ -580,7 +578,7 @@
 
 # sent_id = 01_Umaru_Dikko_15a
 # text_en = He said that he should be given the status of refugee here in Great-Britain.
-# text = ya cèː shiː yaː càncànci à ɗàukeː shì à matsayin ɗan gudùn hijir̃aː à nân Bìr̃taːniyà,
+# text = ya= cèː shiː y-aː càncànci a-_̀ ɗàukeː -shì à matsayi-n ɗan-gudùn-hijir̃aːà nân Bìr̃taːniyà,
 # text_ortho = Ya cèː shiː yaː càncànci à ɗàukeː shì à matsayin ɗan gudùn hijir̃aː à nân Bìr̃taːniyà, yanà mài cêwaː zâi kasànceː cikin wani mùmmuːnan haɗàr̃iː ìdan ya koːmàː gidaː Nàjeːr̃iyàː.
 1-2	ya=	_	_	_	_	_	_	_	_
 1	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	2	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
@@ -597,15 +595,11 @@
 12	à	à	ADP	_	_	10	comp:obl	_	Gloss=at
 13	matsayi	matsayiː	NOUN	_	Gender=Masc	12	comp	_	Gloss=position.Masc|SpaceAfter=No|wordform=matsayin
 14	-n	na	PART	_	Case=Gen|PartType=Case	13	mod/m	_	Gloss=Gen.Masc/Plur
-15	ɗa	ɗaː	NOUN	_	Gender=Masc	14	comp	_	Compound=Yes|Gloss=child.Masc|SpaceAfter=No|wordform=ɗan
-16	-n	na	PART	_	Case=Gen|PartType=Case	15	udep/m	_	Gloss=Gen.Fem
-17	gudù	gudùː	NOUN	_	Gender=Masc	16	comp	_	Gloss=running.Masc|SpaceAfter=No|wordform=gudùn
-18	-n	na	PART	_	Case=Gen|PartType=Case	15	udep/m	_	Gloss=Gen.Masc/Plur
-19	hijir̃aː	hijir̃aː	NOUN	_	Gender=Fem	18	comp	_	Gloss=refuge.Fem
-20	à	à	ADP	_	_	10	mod	_	Gloss=at
-21	nân	nân	ADV	_	Deixis=ProxS|PronType=Dem	20	comp	_	Gloss=ProxS
-22	Bìr̃taːniyà	Bìr̃taːniyà	PROPN	_	_	21	conj:appos	_	Gloss=Great_Britain|SpaceAfter=No
-23	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
+15	ɗan-gudùn-hijir̃aː	ɗan-gudùn-hijir̃aː	NOUN	_	Gender=Masc	14	comp	_	Compound=Yes|Gloss=refugee|SpaceAfter=No
+16	à	à	ADP	_	_	10	mod	_	Gloss=at
+17	nân	nân	ADV	_	Deixis=ProxS|PronType=Dem	16	comp	_	Gloss=ProxS
+18	Bìr̃taːniyà	Bìr̃taːniyà	PROPN	_	_	17	conj:appos	_	Gloss=Great_Britain|SpaceAfter=No
+19	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = 01_Umaru_Dikko_15b
 # text_en = He said that he would face a serious danger if he went back to Nigeria.

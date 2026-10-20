@@ -250,7 +250,7 @@
 # sent_id = 09_Salman_Rushdie_9b
 # text_en = Because of this, on the groud floor, two people started manifesting their opposition to the publication of this book in English.
 # text_ortho = sabòːdà hakà à hawaː na ɗaya sai wasu mutàneː suː biyu sukà shìga yîn zàngà-zangà ta ƙîn jinin à bugà wannàn littaːfìn dà harshèn Tuːr̃anciː.
-# text = sabòːdà hakà à hawaː na ɗaya sai wasu mutàneː suː biyu su-kà= shìga yî-n zàngà-zangà ta ƙî-n jini-n a-_̀= bugà wannàn littaːfìn dà harshè-n Tuːr̃anciː.
+# text = sabòːdà hakà à hawaː na ɗaya sai wasu mutàneː suː biyu su-kà shìga yî-n zàngà-zangà ta ƙîn-jiniː -n a-_̀ bugà wannàn littaːfìn dà harshè-n Tuːr̃anciː.
 1	sabòːdà	sabòːdà	ADP	_	_	13	mod	_	Gloss=because_of
 2	hakà	hakà	ADV	_	_	1	comp	_	Gloss=thus
 3	à	à	ADP	_	_	13	mod	_	Gloss=at
@@ -269,20 +269,18 @@
 16	-n	na	PART	_	Case=Gen|PartType=Case	15	udep/m	_	Gloss=Gen.Masc/Plur
 17	zàngà-zangà	zàngà-zangà	NOUN	_	Gender=Fem	16	comp	_	Gloss=demonstration.Fem
 18	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	17	mod	_	Gloss=Gen.Fem
-19	ƙî	ƙi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	18	comp	_	Compound=Yes|Gloss=hate.Vnoun.Masc|Idiom=Yes|SpaceAfter=No|wordform=ƙîn
-20	-n	na	PART	_	Case=Gen|PartType=Case	19	udep/m	_	Gloss=Gen.Masc/Plur|InIdiom=Yes
-21	jini	jiniː	NOUN	_	Gender=Masc	20	comp	_	Compound=Yes|Gloss=blood.Masc.|InIdiom=Yes|SpaceAfter=No|wordform=jinin
-22	-n	na	PART	_	Case=Gen|PartType=Case	19	udep/m	_	Gloss=Gen.Masc/Plur
-23	a-	a	PRON	_	Person=4|PronType=PrsSubj	24	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
-24	_̀	_̀	AUX	_	Copula=No|Mood=Sub	22	comp	_	Gloss=Sub|wordform=_̀=
-25	bugà	bug-	VERB	_	_	24	comp:aux	_	Gloss=print
-26	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	27	det	_	Gloss=ProxS.Masc
-27	littaːfìn	littaːfìː	NOUN	_	Definite=Def|Gender=Masc	25	comp:obj	_	Gloss=book.Masc.Prev.Ref
-28	dà	dà	ADP	_	_	25	mod	_	Gloss=with
-29	harshè	harshèː	NOUN	_	Gender=Masc	28	comp	_	Compound=Yes|Gloss=tongue.Masc|SpaceAfter=No|wordform=harshèn
-30	-n	na	PART	_	Case=Gen|PartType=Case	29	udep/m	_	Gloss=Gen.Fem
-31	Tuːr̃anciː	Tuːr̃anciː	PROPN	_	_	30	comp	_	Gloss=English|SpaceAfter=No
-32	.	.	PUNCT	_	_	13	punct	_	Gloss=PUNCT
+19	ƙîn-jiniː	ƙîn-jiniː	VERB	_	Gender=Masc	18	comp	_	Compound=Yes|Gloss=opposition.Masc|wordform=ƙîn-jinin
+20	-n	na	PART	_	Case=Gen|PartType=Case	19	udep/m	_	Gloss=Gen.Masc/Plur
+21	a-	a	PRON	_	Person=4|PronType=PrsSubj	22	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
+22	_̀	_̀	AUX	_	Copula=No|Mood=Sub	20	comp	_	Gloss=Sub|wordform=_̀=
+23	bugà	bug-	VERB	_	_	22	comp:aux	_	Gloss=print
+24	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	25	det	_	Gloss=ProxS.Masc
+25	littaːfìn	littaːfìː	NOUN	_	Definite=Def|Gender=Masc	23	comp:obj	_	Gloss=book.Masc.Prev.Ref
+26	dà	dà	ADP	_	_	23	mod	_	Gloss=with
+27	harshè	harshèː	NOUN	_	Gender=Masc	26	comp	_	Compound=Yes|Gloss=tongue.Masc|SpaceAfter=No|wordform=harshèn
+28	-n	na	PART	_	Case=Gen|PartType=Case	27	udep/m	_	Gloss=Gen.Fem
+29	Tuːr̃anciː	Tuːr̃anciː	PROPN	_	_	28	comp	_	Gloss=English|SpaceAfter=No
+30	.	.	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 
 # sent_id = 09_Salman_Rushdie_10
 # text_en = Well, then, a man attacked them with a screwdriver, and stabbed one of them with this screwdriver, so that it inflicted him a serious injury.
@@ -540,43 +538,37 @@
 # sent_id = 09_Salman_Rushdie_18
 # text_en = Then, some secret policement and some journalists helped to catch him, handcuffed him and took him out.
 # text_ortho = Shiːkèːnan sai 'yan sàndan ciki tàːre dà wasu 'yan jàːr̃ìːduː sukà taimàkaː akà kaːmèː shi akà sakàː masà ankwàː à hannunsà akà yi wàje dà shiː.
-# text = shiːkèːnan sai 'yan sàndan ciki tàːre dà wasu 'yan jàːr̃ìːduː sukà taimàkaː akà kaːmèː shi akà sakàː masà ankwàː à hannunsà akà yi wàje dà shiː.
-1	shiːkèːnan	shiːkèːnan	INTJ	_	_	15	discourse	_	Gloss=OK|wordform=Shikenan
-2	sai	sai	ADV	_	_	15	mod	_	Gloss=then
-3	'ya	ɗaː	NOUN	_	Number=Plur	15	subj	_	Compound=Yes|Gloss=child.Plur|SpaceAfter=No|wordform='yan
-4	-n	na	PART	_	Case=Gen|PartType=Case	3	udep/m	_	Gloss=Gen.Fem
-5	sànda	sàndaː	NOUN	_	Gender=Masc	4	comp	_	Compound=Yes|Gloss=baton.Masc|SpaceAfter=No|wordform=sàndan
-6	-n	na	PART	_	Case=Gen|PartType=Case	3	mod/m	_	Gloss=Gen.Masc/Plur
-7	ciki	ciki	ADV	_	_	6	comp	_	Gloss=inside
-8	tàːre	tàːre	ADV	_	_	9	mod	_	Gloss=together
-9	dà	dà	CCONJ	_	_	11	cc	_	Gloss=and
-10	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	11	det	_	Gloss=some.Plur.Spec
-11	'ya	ɗaː	NOUN	_	Number=Plur	3	conj:coord	_	Compound=Yes|Gloss=child.Plur|SpaceAfter=No|wordform='yan
-12	-n	na	PART	_	Case=Gen|PartType=Case	11	udep/m	_	Gloss=Gen.Fem
-13	jàːr̃ìːduː	jàːr̃iːdàː	NOUN	_	Number=Plur	12	comp	_	Gloss=newspaper.Plur
-14	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	15	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
-15	kà	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur
-16	taimàkaː	taimak-	VERB	_	_	15	comp:aux	_	Gloss=help
-17	a-	a	PRON	_	Person=4|PronType=PrsSubj	18	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
-18	kà	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	15	parataxis:conj	_	Gloss=Perf.Rel.Plur
-19	kaːmèː	kaːm-	VERB	_	_	18	comp:aux	_	Gloss=catch
-20	-shi	-shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	19	comp:obj/m	_	Gloss=-3Masc.Acc|wordform=shi
-21	a-	a	PRON	_	Person=4|PronType=PrsSubj	22	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
-22	kà	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	18	parataxis:conj	_	Gloss=Perf.Rel.Plur
-23	sakàː	sak-	VERB	_	_	22	comp:aux	_	Gloss=release
-24	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	23	comp:obl	_	Gloss=3Masc.Dat
-25	ankwàː	ankwàː	NOUN	_	Gender=Fem	23	comp:obj	_	Gloss=handcuffs.Fem
-26	à	à	ADP	_	_	23	comp:obl	_	Gloss=at
-27	hannu	hannuː	NOUN	_	Gender=Masc	26	comp	_	Gloss=hand.Masc|SpaceAfter=No|wordform=hannunsà|wordfrom=hannunsà
-28	-n	na	PART	_	Case=Gen|PartType=Case	27	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
-29	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	28	comp:obj/m	_	Gloss=3Masc.Gen
-30	a-	a	PRON	_	Person=4|PronType=PrsSubj	31	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
-31	kà	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	22	parataxis:conj	_	Gloss=Perf.Rel.Plur
-32	yi	yi	VERB	_	_	31	comp:aux	_	Gloss=do
-33	wàje	wàje	ADV	_	_	32	comp:pred	_	Gloss=outside
-34	dà	dà	ADP	_	_	32	comp:obl	_	Gloss=with
-35	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	34	comp	_	Gloss=3Masc.Nom|SpaceAfter=No
-36	.	.	PUNCT	_	_	15	punct	_	Gloss=PUNCT
+# text = shiːkèːnan sai 'yan-sàndan-cikitàːre dà wasu 'yan-jàːr̃ìːduː su-kà taimàkaː a-kà kaːmèː -shi a-kà sakàː masà ankwàː à hannu-n-sà a-kà yi wàje dà shiː.
+1	shiːkèːnan	shiːkèːnan	INTJ	_	_	9	discourse	_	Gloss=OK|wordform=Shikenan
+2	sai	sai	ADV	_	_	9	mod	_	Gloss=then
+3	'yan-sàndan-ciki	ɗan-sàndan-ciki	NOUN	_	Number=Plur	9	subj	_	Compound=Yes|Gloss=secret_police.Plur|SpaceAfter=No
+4	tàːre	tàːre	ADV	_	_	5	mod	_	Gloss=together
+5	dà	dà	CCONJ	_	_	7	cc	_	Gloss=and
+6	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	7	det	_	Gloss=some.Plur.Spec
+7	'yan-jàːr̃ìːduː	ɗan-jàːr̃iːdàː	NOUN	_	Number=Plur	3	conj:coord	_	Compound=Yes|Gloss=journalist.Plur
+8	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	9	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
+9	kà	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur
+10	taimàkaː	taimak-	VERB	_	_	9	comp:aux	_	Gloss=help
+11	a-	a	PRON	_	Person=4|PronType=PrsSubj	12	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
+12	kà	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	9	parataxis:conj	_	Gloss=Perf.Rel.Plur
+13	kaːmèː	kaːm-	VERB	_	_	12	comp:aux	_	Gloss=catch
+14	-shi	-shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	13	comp:obj/m	_	Gloss=-3Masc.Acc|wordform=shi
+15	a-	a	PRON	_	Person=4|PronType=PrsSubj	16	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
+16	kà	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	12	parataxis:conj	_	Gloss=Perf.Rel.Plur
+17	sakàː	sak-	VERB	_	_	16	comp:aux	_	Gloss=release
+18	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	17	comp:obl	_	Gloss=3Masc.Dat
+19	ankwàː	ankwàː	NOUN	_	Gender=Fem	17	comp:obj	_	Gloss=handcuffs.Fem
+20	à	à	ADP	_	_	17	comp:obl	_	Gloss=at
+21	hannu	hannuː	NOUN	_	Gender=Masc	20	comp	_	Gloss=hand.Masc|SpaceAfter=No|wordform=hannunsà|wordfrom=hannunsà
+22	-n	na	PART	_	Case=Gen|PartType=Case	21	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
+23	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	22	comp:obj/m	_	Gloss=3Masc.Gen
+24	a-	a	PRON	_	Person=4|PronType=PrsSubj	25	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
+25	kà	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	16	parataxis:conj	_	Gloss=Perf.Rel.Plur
+26	yi	yi	VERB	_	_	25	comp:aux	_	Gloss=do
+27	wàje	wàje	ADV	_	_	26	comp:pred	_	Gloss=outside
+28	dà	dà	ADP	_	_	26	comp:obl	_	Gloss=with
+29	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	28	comp	_	Gloss=3Masc.Nom|SpaceAfter=No
+30	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 
 # sent_id = 09_Salman_Rushdie_19
 # text_en = When they were taking him away, he talked and said that him, he loved Japan, and Japan should not get involved in this matter.
@@ -700,7 +692,7 @@
 # sent_id = 09_Salman_Rushdie_21
 # text_en = They went on the street manifesting their condemnation of that book that was going to be published in Japanese.
 # text_ortho = Sun fitoː kân tiːtunàː sunàː zàngà-zangà ta ƙîn jinin wannàn littaːfìː dà akèː sôn bugàːwaː à harshèn Japananciː ɗîn.
-# text = su-n= fitoː kân tiːtunàː su-nàː zàngà-zangà ta ƙî-n jini-n wannàn littaːfìː dà a-kèː sô-n bugàːwaː à harshè-n Japananciː ɗîn.
+# text = su-n fitoː kân tiːtunàː su-nàː zàngà-zangà ta ƙîn-jiniː -n wannàn littaːfìː dà a-kèː sô-n bugàːwaː à harshè-n Japananciː ɗîn.
 1	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	2	subj/m	_	Gloss=3Plur|SpaceAfter=No|wordform=sun
 2	n	aː	AUX	_	Aspect=Perf|Copula=No|Number=Plur	0	root	_	Gloss=Perf.Plur
 3	fitoː	fit-	VERB	_	_	2	comp:aux	_	Gloss=come_out
@@ -710,24 +702,22 @@
 7	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	2	parataxis:conj	_	Gloss=Prog|wordform=sunàː
 8	zàngà-zangà	zàngà-zangà	NOUN	_	Gender=Fem	7	comp:pred	_	Gloss=demonstration.Fem
 9	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	8	mod	_	Gloss=Gen.Fem
-10	ƙî	ƙi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	9	comp	_	Compound=Yes|Gloss=hate.Vnoun.Masc|Idiom=Yes|SpaceAfter=No|wordform=ƙîn
-11	-n	na	PART	_	Case=Gen|PartType=Case	10	udep/m	_	Gloss=Gen.Masc/Plur|InIdiom=Yes
-12	jini	jiniː	NOUN	_	Gender=Masc	11	comp	_	Compound=Yes|Gloss=blood.Masc|InIdiom=Yes|SpaceAfter=No|wordform=jinin
-13	-n	na	PART	_	Case=Gen|PartType=Case	10	udep/m	_	Gloss=Gen.Masc/Plur
-14	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	13	comp	_	Gloss=ProxS.Masc
-15	littaːfìː	littaːfìː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=book.Masc|RelAnt=Yes
-16	dà	dà	SCONJ	_	_	15	mod@relcl	_	Gloss=CompRel|Relz=Word
-17	a-	a-	PRON	_	Person=4|PronType=Prs	18	subj/m	_	Gloss=4|SpaceAfter=No
-18	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	16	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
-19	sô	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	18	comp:pred	_	Gloss=want.Vnoun.Masc|SpaceAfter=No|wordform=sôn
-20	-n	na	PART	_	Case=Gen|PartType=Case	19	udep/m	_	Gloss=Gen.Masc/Plur
-21	bugàːwaː	bug-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	20	comp	_	Gloss=print.Vnoun.Fem|RelRole=obj
-22	à	à	ADP	_	_	21	mod	_	Gloss=at
-23	harshè	harshèː	NOUN	_	Gender=Masc	22	comp	_	Compound=Yes|Gloss=tongue.Masc|SpaceAfter=No|wordform=harshèn
-24	-n	na	PART	_	Case=Gen|PartType=Case	23	udep/m	_	Gloss=Gen.Fem
-25	Japananciː	Japananciː	PROPN	_	_	24	comp	_	Gloss=Japanese
-26	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	23	det	_	Gloss=Def|SpaceAfter=No
-27	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
+10	ƙîn-jiniː	ƙîn-jiniː	VERB	_	Gender=Masc	9	comp	_	Compound=Yes|Gloss=opposition.Masc|wordform=ƙîn-jinin
+11	-n	na	PART	_	Case=Gen|PartType=Case	10	udep/m	_	Gloss=Gen.Masc/Plur
+12	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	13	det	_	Gloss=ProxS.Masc
+13	littaːfìː	littaːfìː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=book.Masc|RelAnt=Yes
+14	dà	dà	SCONJ	_	_	13	mod@relcl	_	Gloss=CompRel|Relz=Word
+15	a-	a-	PRON	_	Person=4|PronType=Prs	16	subj/m	_	Gloss=4|SpaceAfter=No
+16	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	14	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
+17	sô	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	16	comp:pred	_	Gloss=want.Vnoun.Masc|SpaceAfter=No|wordform=sôn
+18	-n	na	PART	_	Case=Gen|PartType=Case	17	udep/m	_	Gloss=Gen.Masc/Plur
+19	bugàːwaː	bug-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	18	comp	_	Gloss=print.Vnoun.Fem|RelRole=obj
+20	à	à	ADP	_	_	19	mod	_	Gloss=at
+21	harshè	harshèː	NOUN	_	Gender=Masc	20	comp	_	Compound=Yes|Gloss=tongue.Masc|SpaceAfter=No|wordform=harshèn
+22	-n	na	PART	_	Case=Gen|PartType=Case	21	udep/m	_	Gloss=Gen.Fem
+23	Japananciː	Japananciː	PROPN	_	_	22	comp	_	Gloss=Japanese
+24	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	21	det	_	Gloss=Def|SpaceAfter=No
+25	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = 09_Salman_Rushdie_22
 # text = à yâu ɗîn kuma ɗaya dàgà cikin shùːgàbànni-n wannàn ƙungìyaː ta Mùsùlmiː y-aː= cêː lalleː suː bàː zâː-sù ƙyaːlè Gianni Palma dà râ-n-sà ba, dòːmin kùwa y-aː= ƙàːlùːbàlànci àl'ummà-r̃ Mùsùlmiː bàːkiː ɗaya-n-sù .

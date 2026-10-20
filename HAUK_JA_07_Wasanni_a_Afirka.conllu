@@ -420,7 +420,7 @@
 
 # sent_id = 07_Wasanni_a_Afirka_10
 # text_en = The secretary continued by saying that this match does not contravene the government policy since Lasisi's opponent is not South-African, and the fight will not take place in South-Africa.
-# text = sakatar̃èn ya=ƙaːràː dà cêːwaː yî-n wannàn dambe bài=saːɓàː wà manufoːfi-n gwamnatì ba, tun dà ya kè àboːki-n dambe -n Lasisi bàː ɗa-n Afir̃kà ta Kudù ba nèː, kuma bàː à Afir̃kà ta Kudù zaː'à=yi dambên ba.
+# text = sakatar̃èn ya= ƙaːràː dà cêːwaː yî-n wannàn dambe bà-ì-_̀ saːɓàː wà manufoːfi-n gwamnatì ba, tun dà ya kè àboːkin-dambeː -n Lasisi bàː ɗa-n Afir̃kà ta Kudù ba nèː, kuma bàː à Afir̃kà ta Kudù zâː-'à yi dambên ba.
 # text_ortho = Sakatar̃èn ya ƙaːràː dà cêːwaː yîn wannàn dambe bài saːɓàː wà manufoːfin Gwamnatì ba, tun dà yakè àboːkin damben Lasisi bàː ɗan Afir̃kà ta Kudù ba nèː, kuma bàː à Afir̃kà ta Kudù zaː à yi dambên ba.
 1	sakatar̃èn	sakatar̃èː	NOUN	_	Definite=Def|Gender=Masc	3	subj	_	Gloss=secretary.Masc.Def
 2-3	ya=	_	_	_	_	_	_	_	_
@@ -447,32 +447,30 @@
 22	dà	dà	SCONJ	_	_	21	comp	_	Gloss=COMP|InIdiom=Yes
 23	ya	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	24	subj/m	_	Gloss=3Masc|InIdiom=Yes
 24	kè	nàː	AUX	_	Aspect=Prog|Copula=Yes	22	comp	_	Gloss=bePred.Rel2|InIdiom=Yes|Relative=Variante|wordform=yakè
-25	àboːki	àboːkiː	NOUN	_	Gender=Masc	37	subj	_	Compound=Yes|Gloss=comrade.Masc|SpaceAfter=No|wordform=àboːkin
+25	àboːkin-dambeː	àboːkin-dambeː	NOUN	_	Gender=Masc	35	subj	_	Compound=Yes|Gloss=boxing_competitor.Masc|wordform=àboːkin-damben
 26	-n	na	PART	_	Case=Gen|PartType=Case	25	udep/m	_	Gloss=Gen.Masc/Plur
-27	dambe	dambeː	NOUN	_	Gender=Masc	26	comp	_	Gloss=boxing.Masc
-28	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	25	mod/m	_	Gloss=Gen.Masc/Plur
-29	Lasisi	Lasisi	PROPN	_	_	28	comp	_	Gloss=Lasisi
-30	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	31	mod	_	Gloss=Neg
-31	ɗa	ɗaː	NOUN	_	Gender=Masc	37	comp:pred	_	Compound=Yes|Gloss=child.Masc|SpaceAfter=No|wordform=ɗan
-32	-n	na	PART	_	Case=Gen|PartType=Case	31	udep/m	_	Gloss=Gen.Fem
-33	Afir̃kà	Afir̃kà	PROPN	_	_	32	comp	_	Gloss=Africa
-34	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	33	mod	_	Gloss=Gen.Fem
-35	Kudù	Kudù	PROPN	_	_	34	comp	_	Gloss=Kudù
-36	ba	ba	PART	_	PartType=Neg|Polarity=Neg	31	mod	_	Gloss=Neg
-37	nèː	neː	AUX	_	Copula=Yes	21	comp	_	Gloss=Equ.Masc/Plur|SpaceAfter=No
-38	,	,	PUNCT	_	_	41	punct	_	Gloss=PUNCT
-39	kuma	kuma	CCONJ	_	_	41	cc	_	Gloss=also
-40	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	41	mod	_	Gloss=Neg
-41	à	à	ADP	_	_	37	conj:coord	_	Gloss=at
-42	Afir̃kà	Afir̃kà	PROPN	_	_	41	comp	_	Gloss=Africa
-43	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	42	mod	_	Gloss=Gen.Fem
-44	Kudù	Kudù	PROPN	_	_	43	comp	_	Gloss=Kudù
-45	zâː	zâː	AUX	_	Copula=No|Tense=Fut	41	parataxis:conj	_	Gloss=Fut|SpaceAfter=No|wordform=zaː-
-46	-'à	a	PRON	_	Person=4|PronType=PrsSubj	45	subj/m	_	Gloss=4|wordform=zaː'à
-47	yi	yi	VERB	_	_	45	comp:aux	_	Gloss=do
-48	dambên	dambe	NOUN	_	Definite=Def|Gender=Masc	47	comp:pred	_	Gloss=boxing.Masc.Def
-49	ba	ba	PART	_	PartType=Neg|Polarity=Neg	41	mod	_	Gloss=Neg|SpaceAfter=No
-50	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
+27	Lasisi	Lasisi	PROPN	_	_	26	comp	_	Gloss=Lasisi
+28	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	29	mod	_	Gloss=Neg
+29	ɗa	ɗaː	NOUN	_	Gender=Masc	35	comp:pred	_	Compound=Yes|Gloss=child.Masc|SpaceAfter=No|wordform=ɗan
+30	-n	na	PART	_	Case=Gen|PartType=Case	29	udep/m	_	Gloss=Gen.Fem
+31	Afir̃kà	Afir̃kà	PROPN	_	_	30	comp	_	Gloss=Africa
+32	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	31	mod	_	Gloss=Gen.Fem
+33	Kudù	Kudù	PROPN	_	_	32	comp	_	Gloss=Kudù
+34	ba	ba	PART	_	PartType=Neg|Polarity=Neg	29	mod	_	Gloss=Neg
+35	nèː	neː	AUX	_	Copula=Yes	21	comp	_	Gloss=Equ.Masc/Plur|SpaceAfter=No
+36	,	,	PUNCT	_	_	39	punct	_	Gloss=PUNCT
+37	kuma	kuma	CCONJ	_	_	39	cc	_	Gloss=also
+38	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	39	mod	_	Gloss=Neg
+39	à	à	ADP	_	_	35	conj:coord	_	Gloss=at
+40	Afir̃kà	Afir̃kà	PROPN	_	_	39	comp	_	Gloss=Africa
+41	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	40	mod	_	Gloss=Gen.Fem
+42	Kudù	Kudù	PROPN	_	_	41	comp	_	Gloss=Kudù
+43	zâː	zâː	AUX	_	Copula=No|Tense=Fut	39	parataxis:conj	_	Gloss=Fut|SpaceAfter=No|wordform=zaː-
+44	-'à	a	PRON	_	Person=4|PronType=PrsSubj	43	subj/m	_	Gloss=4|wordform=zaː'à
+45	yi	yi	VERB	_	_	43	comp:aux	_	Gloss=do
+46	dambên	dambe	NOUN	_	Definite=Def|Gender=Masc	45	comp:pred	_	Gloss=boxing.Masc.Def
+47	ba	ba	PART	_	PartType=Neg|Polarity=Neg	39	mod	_	Gloss=Neg|SpaceAfter=No
+48	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
 # sent_id = 07_Wasanni_a_Afirka_11
 # text_en = This crisis made many sports fans to take part in the discussion, so much so that a Nigerian newspaper called 'Sunday Concord' commented the discussin saying that Lasisi should be allowed to take part in the game.

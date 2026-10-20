@@ -14,8 +14,8 @@
 10	Yâmma	yâmma	ADV	_	_	9	comp	_	Gloss=west
 
 # sent_id = 02_Yarima_Charles_2
-# text_en = For most Nigerians, the recent apparition of the boad named "Britannia" on the bay of Lagos, was the first sign that announced that members of the British royal family were visiting Nigeria.
-# text = gà mafìː yawanci-n ꞌyan Nàːjeːr̃iyàː, ɓullôːwa-r̃ jirgi-n ruwân nan mài suːnaː « Britannia » à gaːɓà-r̃ Tèːk-r̃ Ìkko kwaːna-n baːya, ita cèː àlaːmàː ta farkoː dà ta= nuːnà cêːwaː 'ya-n gida -n sàrautà-r̃ Bìrtaːniyà sunàː= zìyaːr̃à-r̃ Nàːjeːr̃iyàː.
+# text = gà mafìː yawanci-n ꞌya-n Nàːjeːr̃iyàː, ɓullôːwa-r̃ jirgi-n ruwân nan mài suːnaː « Britannia » à gaːɓà-r̃ Tèːk-r̃ Ìkko kwaːna-n baːya, ita cèː àlaːmàː ta farkoː dà ta= nuːnà cêːwaː 'yan-gidaː -n sàrautà-r̃ Bìrtaːniyà su-nàː zìyaːr̃à-r̃ Nàːjeːr̃iyàː.
+# text_en = For most Nigerians, the recent apparition of the boat named "Britannia" on the bay of Lagos, was the first sign that announced that members of the British royal family were visiting Nigeria.
 # text_ortho = Gà mafìː yawancin ꞌyan Nàːjeːr̃iyàː, ɓullôːwar jirgin ruwân nan mài suːnaː « Britannia » à gaːɓàr̃ tèːkun Ìkko kwaːnan baːya, ita cèː àlaːmàː ta farkoː dà ta nuːnà cêːwaː 'yan gidan sàrautàr̃ Bìrtaːniyàː sunàː zìyaːr̃àr̃ Nàːjeːr̃iyàː.
 1	gà	gà	ADP	_	_	31	mod	_	Gloss=to
 2	mafìː	mafìː	PART	_	PartType=Der	1	comp	_	Gloss=exceeding_in
@@ -57,19 +57,17 @@
 37	_	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	35	comp	_	Gloss=Perf.Rel.Sing|Relz=Affix
 38	nuːnà	nuːn-	VERB	_	_	37	comp:aux	_	ClauseType=Rel|Gloss=show|RelRole=subj
 39	cêːwaː	cêːwaː	SCONJ	_	_	38	comp:obj	_	Gloss=COMP
-40	'ya	ɗaː	NOUN	_	Number=Plur	48	subj	_	Compound=Yes|Gloss=child.Plur|SpaceAfter=No|wordform='yan
-41	-n	na	PART	_	Case=Gen|PartType=Case	40	udep/m	_	Gloss=Gen.Fem
-42	gida	gidaː	NOUN	_	Gender=Masc	41	comp	_	Gloss=house.Masc
-43	-n	na	NOUN	_	Gender=Masc	40	udep/m	_	Gloss=house.Masc
-44	sàrautà	sàrautàː	NOUN	_	Gender=Fem	43	comp:obj	_	Gloss=royalty.Fem|SpaceAfter=No|wordform=sàrautàr̃
-45	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	44	mod/m	_	Gloss=Gen.Fem
-46	Bìrtaːniyà	Bìrtaːniyà	PROPN	_	_	45	comp	_	Gloss=Great-Britain
-47	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	48	subj/m	_	Gloss=3Plur|SpaceAfter=No
-48	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	39	comp	_	Gloss=Prog|wordform=sunàː
-49	zìyaːr̃à	ziyaːr̃-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	48	comp:pred	_	Gloss=visit.Vnoun.Fem|SpaceAfter=No|wordform=zìyaːr̃àr̃
-50	-r̃	na	PART	_	Case=Gen|PartType=Case	49	udep/m	_	Gloss=Gen.Fem
-51	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	50	comp	_	Gloss=Nigeria|SpaceAfter=No
-52	.	.	PUNCT	_	_	31	punct	_	Gloss=PUNCT
+40	'yan-gidaː	ɗan-gidaː	NOUN	_	Number=Plur	46	subj	_	Compound=Yes|Gloss=member.Plur|wordform='yan-gidan
+41	-n	na	NOUN	_	Gender=Masc	40	udep/m	_	Gloss=house.Masc
+42	sàrautà	sàrautàː	NOUN	_	Gender=Fem	41	comp	_	Gloss=royalty.Fem|SpaceAfter=No|wordform=sàrautàr̃
+43	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	42	mod/m	_	Gloss=Gen.Fem
+44	Bìrtaːniyà	Bìrtaːniyà	PROPN	_	_	43	comp	_	Gloss=Great-Britain
+45	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	46	subj/m	_	Gloss=3Plur|SpaceAfter=No
+46	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	39	comp	_	Gloss=Prog|wordform=sunàː
+47	zìyaːr̃à	ziyaːr̃-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	46	comp:pred	_	Gloss=visit.Vnoun.Fem|SpaceAfter=No|wordform=zìyaːr̃àr̃
+48	-r̃	na	PART	_	Case=Gen|PartType=Case	47	udep/m	_	Gloss=Gen.Fem
+49	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	48	comp	_	Gloss=Nigeria|SpaceAfter=No
+50	.	.	PUNCT	_	_	31	punct	_	Gloss=PUNCT
 
 # sent_id = 02_Yarima_Charles_3
 # text = yâːraː ƙanaːnàː dà kèː= kân gadoːjiː na bir̃ni-n Ìkko su- nàː tàllà-n tarkò-n ɓeːr̃aː, dà kamfàːyeː, dà agoːgunàn " Rolex" na jàbu à tsàːkaːnin cùnkoːso-n moːtoːci, duk sun= daːkatar̃ dà tàllàce-tàllàce-n-sù dòːmin sù= yi kallo-n hàdàː-hadâr̃ dà ta- kèː àukuwaː à bàːki-n tèːkûn.
