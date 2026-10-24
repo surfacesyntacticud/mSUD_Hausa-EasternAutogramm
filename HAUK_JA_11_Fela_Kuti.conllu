@@ -155,7 +155,7 @@
 2	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	1	comp	_	Gloss=time.Masc.Def|RelAnt=Yes
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=CompRel|Relz=Word
 4	ya-	ya-	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	Gloss=3Masc-|SpaceAfter=No
-5	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	3	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=mod|Relz=Affix|wordform=yakề
+5	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	3	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=mod|Relz=Affix|wordform=yakề
 6	yî	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	5	comp:aux	_	Compound=Yes|Gloss=do.Vnoun.Masc|wordform=yîn
 7	-n	na	PART	_	Case=Gen|PartType=Case	6	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 8	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	9	det	_	Gloss=ProxS.Masc
@@ -826,7 +826,7 @@
 15	wàːƙe-wàːƙên	waːƙàː	NOUN	_	Definite=Def|Number=Plur	13	conj:coord	_	Gloss=song.Plur.Def|RelAnt=Yes
 16	dà	dà	SCONJ	_	_	15	mod@relcl	_	Gloss=CompRel|Relz=Word
 17	ya-	ya-	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	18	subj/m	_	Gloss=3Masc-|SpaceAfter=No
-18	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	16	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=yakèː
+18	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	16	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=yakèː
 19	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	18	comp:aux	_	Gloss=do.Vnoun.Masc|RelPos=Yes
 20	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 

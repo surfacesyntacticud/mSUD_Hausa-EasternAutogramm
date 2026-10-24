@@ -137,7 +137,7 @@
 12	mùtumìn	mùtûm	NOUN	_	Definite=Def|Gender=Masc	11	conj:appos	_	Gloss=person.Masc.Def|RelAnt=Yes
 13	dà	dà	SCONJ	_	_	12	mod@relcl	_	Gloss=CompRel|Relz=Word
 14	ya-	ya-	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	15	subj/m	_	Gloss=3Masc-|SpaceAfter=No
-15	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	13	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix|wordform=yakèː
+15	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	13	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix|wordform=yakèː
 16	sô	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	15	comp:aux	_	Compound=Yes|Gloss=want.Vnoun.Masc.|wordform=sôn
 17	-n	na	PART	_	Case=Gen|PartType=Case	16	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 18	a-	a	PRON	_	Person=4|PronType=PrsSubj	19	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à

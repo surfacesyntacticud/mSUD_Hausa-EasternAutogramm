@@ -711,7 +711,7 @@
 18	Ø	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	15	comp:cleft	_	Gloss=Perf.Rel.Sing|wordform=UNDERSCORE
 19	sâː	sâː	VERB	_	_	18	comp:aux	_	ClauseType=Cleft|Gloss=cause
 20	ya	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	21	subj/m	_	Gloss=3Masc
-21	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	19	comp:obj	_	Gloss=Prog.Rel|wordform=yakèː
+21	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	19	comp:obj	_	Gloss=Prog.Rel|wordform=yakèː
 22	sô	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	21	comp:aux	_	Compound=Yes|Gloss=want.Vnoun.Masc.|wordform=sôn
 23	-n	na	PART	_	Case=Gen|PartType=Case	22	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 24	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	25	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yà

@@ -636,7 +636,7 @@
 9	Saibou	Saibou	PROPN	_	_	8	flat@name	_	Gloss=Saibou
 10	"	"	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 11	ya-	ya-	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	12	subj/m	_	Gloss=3Masc-|SpaceAfter=No
-12	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	5	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=yakèː
+12	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	5	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=yakèː
 13	fùskantàː	fuskant-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	12	comp:aux	_	Gloss=face.Vnoun.Fem|RelRole=obj
 14	à	à	ADP	_	_	13	comp:obl	_	Gloss=at
 15	kân	kân	ADP	_	_	14	comp	_	Gloss=top

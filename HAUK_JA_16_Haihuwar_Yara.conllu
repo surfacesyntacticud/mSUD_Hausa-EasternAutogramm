@@ -604,7 +604,7 @@
 2	loːkàcîn	loːkàcîː	NOUN	_	Definite=Def|Gender=Masc	1	comp	_	Gloss=time.Masc.Def|RelAnt=Yes
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=CompRel|Relz=Word
 4	ya-	ya-	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	Gloss=3Masc-|SpaceAfter=No
-5	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	3	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=mod|Relz=Affix|wordform=yakề
+5	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	3	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=mod|Relz=Affix|wordform=yakề
 6	buːɗè	buːɗ-	VERB	_	_	5	comp:aux	_	Gloss=open
 7	tàːrôn	tàːroː	NOUN	_	Definite=Def|Gender=Masc	6	comp:obj	_	Gloss=meeting.Masc.Def
 8	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
