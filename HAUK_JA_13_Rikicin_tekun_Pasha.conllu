@@ -211,7 +211,7 @@
 28	ƙàwànceː	ƙàwànceː	NOUN	_	Gender=Masc	27	comp	_	Gloss=coalition.Masc
 29	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	30	subj/m	_	Gloss=3Plur-|SpaceAfter=No
 30	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	25	comp	_	ClauseType=Rel|Gloss=be.Rel|Relz=Affix|wordform=sukèː
-31	_	yi	VERB	_	_	30	comp:pred	_	Gloss=do|RelRole=pred|wordform=Ø
+31	Ø	yi	VERB	_	_	30	comp:pred	_	Gloss=do|RelRole=pred
 32	wà	mà	ADP	_	Case=Dat	31	comp:obl	_	Gloss=Dat
 33	Ìr̃aːƙì	Ìr̃aːƙì	PROPN	_	_	32	comp	_	Gloss=Irak
 34	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
