@@ -142,7 +142,7 @@
 10	fitoː	fit-	VERB	_	_	8	comp:aux	_	Gloss=go_out
 11	fiːliː	fiːliː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=open_space.Masc
 12	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	13	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
-13	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	10	mod	_	Gloss=Perf.Sing
+13	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	10	parataxis@mod	_	Gloss=Perf.Sing
 14	bayyànà	bayyan-	VERB	_	_	13	comp:aux	_	Gloss=explain
 15	tàkàr̃dûn	tàkàr̃gàː	NOUN	_	Definite=Def|Number=Plur	14	comp:obj	_	Gloss="paper.Plur.Def"|RelAnt=Yes
 16	dà	dà	SCONJ	_	_	15	mod@relcl	_	Gloss=CompRel|Relz=Word

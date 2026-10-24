@@ -194,7 +194,7 @@
 7	kàːfìn	kàːfìn	SCONJ	_	_	3	mod	_	Gloss=before
 8	àfàreːtàː	àfàreːtàː	NOUN	_	Gender=Masc	10	subj	_	Gloss=operator.Masc
 9	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	10	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yà
-10	_̀	_̀	AUX	_	Copula=No|Mood=Sub	7	mod	_	Gloss=Sub|wordform=_̀=
+10	_̀	_̀	AUX	_	Copula=No|Mood=Sub	7	comp	_	Gloss=Sub|wordform=_̀=
 11	haɗàː	haɗ-	VERB	_	_	10	comp:aux	_	Gloss=connect
 12	ka	ka	PRON	_	Gender=Masc|Person=2|PronType=Prs	11	comp:obj	_	Gloss=2.Masc.Acc
 13	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT

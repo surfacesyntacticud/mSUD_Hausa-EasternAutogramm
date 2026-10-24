@@ -912,7 +912,7 @@
 29	-ì	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	28	subj/m	_	Gloss=-3Masc|SpaceBefore=No|wordform=bài
 30	daɗèː	daɗ-	VERB	_	_	28	comp:aux	_	ClauseType=Rel|Gloss=last
 31	ya-	ya-	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	32	subj/m	_	Gloss=3Masc-|SpaceAfter=No
-32	nàː	nàː	AUX	_	Copula=Yes	30	mod	_	Gloss=be.Pred|wordform=yanàː
+32	nàː	nàː	AUX	_	Copula=Yes	30	parataxis@mod	_	Gloss=be.Pred|wordform=yanàː
 33	kâi	kâi	ADP	_	Gender=Masc	32	comp:pred	_	Gloss=top.Masc|RelRole=obj
 34	ba	ba	PART	_	PartType=Neg|Polarity=Neg	30	mod	_	Gloss=Neg
 35	.	.	PUNCT	_	_	20	punct	_	Gloss=PUNCT

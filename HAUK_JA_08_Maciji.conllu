@@ -120,7 +120,7 @@
 5	kwaːnaː	kwaːnaː	NOUN	_	Gender=Masc	3	comp:pred	_	Gloss=day.Masc
 6	ukù	ukù	NUM	_	_	5	mod:num	_	Gloss=three
 7	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	8	subj/m	_	Gloss=3Plur|SpaceAfter=No
-8	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	3	mod	_	Gloss=Prog|wordform=sunàː
+8	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	3	parataxis@mod	_	Gloss=Prog|wordform=sunàː
 9	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	10	mod	_	Gloss=Iter
 10	dafà	dafàː	VERB	_	_	8	comp:pred	_	Gloss=cook
 11	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	12	det	_	Gloss=ProxS.Masc
@@ -336,7 +336,7 @@
 23	kà	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	21	comp	_	Gloss=Perf.Rel.Plur|Relz=Affix
 24	ɗaukàː	ɗauk-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	23	comp:aux	_	ClauseType=Rel|Gloss=take|RelRole=obj
 25	a-	a-	PRON	_	Person=4|PronType=Prs	26	subj/m	_	Gloss=4|SpaceAfter=No
-26	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	24	mod	_	Gloss=Prog|wordform=anàː
+26	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	24	parataxis@mod	_	Gloss=Prog|wordform=anàː
 27	dafà	dafàː	VERB	_	_	26	comp:pred	_	Gloss=cook
 28	macìːjîn	macìːjiː	NOUN	_	Definite=Def|Number=Plur	27	comp:obj	_	Gloss=snake.Plur.Def
 29	kàːfin	kàːfin	SCONJ	_	_	27	mod	_	Gloss=before

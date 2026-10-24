@@ -668,7 +668,7 @@
 38	-'à	a	PRON	_	Person=4|PronType=PrsSubj	37	subj/m	_	Gloss=4|SpaceBefore=No|wordform=zaː'à
 39	taːràː	taːr-	VERB	_	_	37	comp:aux	_	ClauseType=Cleft|Gloss=gather
 40	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	41	subj/m	_	Gloss=3.Plur-|SpaceAfter=No|wordform=sù
-41	_̀	_̀	AUX	_	Copula=No|Mood=Sub	39	mod	_	Gloss=Sub|wordform=_̀=
+41	_̀	_̀	AUX	_	Copula=No|Mood=Sub	39	parataxis@mod	_	Gloss=Sub|wordform=_̀=
 42	yi	yi	VERB	_	_	41	comp:aux	_	Gloss=do
 43	kallo	kalloː	NOUN	_	Gender=Masc	42	comp:pred	_	Gloss=watching.Masc|wordform=kallon
 44	-n	na	PART	_	Case=Gen|PartType=Case	43	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
