@@ -552,7 +552,7 @@
 14	_̀	_̀	AUX	_	Copula=No|Mood=Sub	12	parataxis:mod	_	Gloss=Sub|wordform=_̀=
 15	yi	yi	VERB	_	_	14	comp:aux	_	Gloss=do
 16	wàːsân	wàːsaː	NOUN	_	Definite=Def|Gender=Masc	15	comp:pred	_	Gloss=game.Masc.Def
-17	.	.	PUNCT	_	_	7	comp:obj	_	Gloss=PUNCT
+17	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
 # sent_id = 07_Wasanni_a_Afirka_13
 # text_en = Well now here are some of the results of the football games of the African Cup.

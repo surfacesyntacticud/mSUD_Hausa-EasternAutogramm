@@ -43,8 +43,8 @@
 1	ka	ka	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	2	subj/m	_	Gloss=2Masc
 2	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog|wordform=tanàː
 3	cîː	ci	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	2	comp:aux	_	Gloss=proceed.Vnoun.Masc
-4	gàba	gàba	ADV	_	_	2	comp:obl	_	Gloss=in_front
-5	dà	dà	ADP	_	_	2	comp:obl	_	Gloss=with
+4	gàba	gàba	ADV	_	_	3	compound	_	Gloss=in_front
+5	dà	dà	ADP	_	_	3	comp:obl	_	Gloss=with
 6	shirì	shiry-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	5	comp	_	Gloss=prepare.Vnoun.Masc|wordform=shirìn
 7	-n	na	PART	_	Case=Gen|PartType=Case	6	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 8	baːyar̃	baː	VERB	_	Voice=Cau	7	comp	_	Gloss=give.Cau

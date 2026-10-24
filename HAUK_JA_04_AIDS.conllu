@@ -97,8 +97,8 @@
 8	mutàːneː	mùtûm	NOUN	_	Number=Plur	7	comp	_	Gloss=people.Plur
 9	dàbam	dàbam	ADJ	_	_	8	mod	_	Gloss=different
 10	dàbam	dàbam	ADJ	_	_	9	conj:redup	_	Gloss=different
-11	àlluːràː	àlluːràː	NOUN	_	Gender=Fem	5	comp:pred	_	Gloss=injection.Fem
-12	dà	dà	ADP	_	_	5	comp:obl	_	Gloss=with
+11	àlluːràː	àlluːràː	NOUN	_	Gender=Fem	6	comp:pred	_	Gloss=injection.Fem
+12	dà	dà	ADP	_	_	6	comp:obl	_	Gloss=with
 13	àlluːràː	àlluːràː	NOUN	_	Gender=Fem	12	comp	_	Gloss=needle.Fem
 14	gùdaː	gùdaː	NUM	_	Gender=Masc	13	mod:num	_	Gloss=unit/one.Masc
 15	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
@@ -494,8 +494,8 @@
 16	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 04_AIDS_13
-# text_en = The Misister, who is the head of the committed on AIDS, continued by saying taht the committee insist that the hospitals should make sure of the quality of the blood that they will inject to the patients, although he said that their main problem is the lack of machines to test the blood.
 # text = ministàn, wandà shiː nèː shùːgàba-n kwàmìtî kân cùːta-r̃ AIDS, ya= ƙaːràː dà cêːwaː kwàmìtî-n-sà ya nàː naːnàːtaː wà asibitoːciː su-_̀= tabbatar̃ dà kyâu-n jinîn dà zaː-sù= ɗuːràː wà maràsaː laːfiyàː, koː dà ya kè y-aː= cêː bàbbar̃ màtsalàː ita cèː rashì-n naːꞌuːr̃oːr̃i-n duːbà jiniː.
+# text_en = The Misister, who is the head of the committed on AIDS, continued by saying that the committee insist that the hospitals should make sure of the quality of the blood that they will inject to the patients, although he said that their main problem is the lack of machines to test the blood.
 # text_ortho = Ministàn, wandà shiː nèː shùːgàban kwàmìtî kân cùːtar̃ AIDS, ya ƙaːràː dà cêːwaː kwàmìtînsà yanàː naːnàːtaː wà asibitoːciː sù tabbatar̃ dà kyâun jinîn dà zaː sù ɗuːràː wà maràsaː laːfiyàː, koː dà yakè yaː cêː bàbbar̃ màtsalàː ita cèː rashìn naːꞌur̃oːr̃in duːbà jiniː.
 1	ministàn	ministàː	NOUN	_	Definite=Def|Gender=Masc	15	subj	_	Gloss=minister.Masc.Def
 2	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -525,7 +525,7 @@
 25	wà	mà	ADP	_	Case=Dat	24	comp:obl	_	Gloss=Dat
 26	asibitoːciː	asìbitì	NOUN	_	Number=Plur	25	comp	_	Gloss=hospital.Plur
 27	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	28	subj/m	_	Gloss=3.Plur-|SpaceAfter=No|wordform=sù
-28	_̀	_̀	AUX	_	Copula=No|Mood=Sub	23	comp:obj	_	Gloss=Sub|wordform=_̀=
+28	_̀	_̀	AUX	_	Copula=No|Mood=Sub	24	comp:obj	_	Gloss=Sub|wordform=_̀=
 29	tabbatar̃	tabbat-	VERB	_	Voice=Cau	28	comp:aux	_	Gloss=be_sure.Cau
 30	dà	dà	ADP	_	_	29	comp:obl	_	Gloss=with
 31	kyâu	kyâu	NOUN	_	Gender=Masc	30	comp	_	Gloss=quality.Masc|wordform=kyâun
