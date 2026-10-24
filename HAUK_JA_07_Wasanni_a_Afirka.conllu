@@ -26,8 +26,8 @@
 12	rìkicîn	rìkiciː	NOUN	_	Definite=Def|Gender=Masc	11	comp	_	Gloss=crisis.Masc.Def|RelAnt=Yes
 13	dà	dà	SCONJ	_	_	12	mod@relcl	_	Gloss=CompRel|Relz=Word
 14	a-	a-	PRON	_	Person=4|PronType=Prs	15	subj/m	_	Gloss=4|SpaceAfter=No
-15	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	13	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
-16	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	15	comp:pred	_	Gloss=do.Vnoun.Masc|RelRole=pred
+15	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	13	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
+16	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	15	comp:aux	_	Gloss=do.Vnoun.Masc|RelRole=pred
 17	can	can	ADV	_	Deixis=Remt|PronType=Dem	16	mod	_	Gloss=Remt
 18	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	17	conj:appos	_	Gloss=Nigeria
 19	gàme	gàme	ADV	_	_	20	mod	_	Gloss=together
@@ -211,7 +211,7 @@
 44	,	,	PUNCT	_	_	47	punct	_	Gloss=PUNCT
 45	kuma	kuma	CCONJ	_	_	47	cc	_	Gloss=also
 46	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	47	subj/m	_	Gloss=3Fem-|SpaceAfter=No
-47	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	25	conj:coord	_	Gloss=Prog|wordform=tanàː
+47	nàː	nàː	AUX	_	Aspect=Prog	25	conj:coord	_	Gloss=Prog|wordform=tanàː
 48	hulɗàː	hulɗàː	VERB	_	Gender=Fem	47	comp:pred	_	Gloss=dealing.Fem
 49	dà	dà	ADP	_	_	48	comp:obl	_	Gloss=with
 50	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	49	comp	_	Gloss=3Fem.Nom
@@ -488,7 +488,7 @@
 12	dà	dà	ADP	_	_	8	mod	_	Gloss=with
 13	daːmaː	daːmaː	NOUN	_	Gender=Fem	12	comp	_	Gloss=opportunity.Fem
 14	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	15	subj/m	_	Gloss=3Plur|SpaceAfter=No
-15	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	7	comp:obj	_	Gloss=Prog|wordform=sunàː
+15	nàː	nàː	AUX	_	Aspect=Prog	7	comp:obj	_	Gloss=Prog|wordform=sunàː
 16	tsoːmà	tsoːm-	VERB	_	_	15	comp:pred	_	Gloss=soak
 17	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	16	comp:obj	_	Gloss=mouth.Masc
 18	à	à	ADP	_	_	16	comp:obl	_	Gloss=at
@@ -502,8 +502,8 @@
 26	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	25	comp	_	Gloss=Nigeria
 27	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	24	mod@relcl	_	Gloss=Pron.Fem.Rel|Relz=Word
 28	a-	a-	PRON	_	Person=4|PronType=Prs	29	subj/m	_	Gloss=4|SpaceAfter=No
-29	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	27	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
-30	kiràː	kiraː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	29	comp:pred	_	Gloss=call.Vnoun.Masc|RelRole=obj
+29	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	27	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
+30	kiràː	kiraː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	29	comp:aux	_	Gloss=call.Vnoun.Masc|RelRole=obj
 31	"	"	PUNCT	_	_	32	punct	_	Gloss=PUNCT
 32	Sunday	Sunday	PROPN	_	_	30	comp:pred	_	Gloss=Sunday
 33	Concord	Concord	PROPN	_	_	32	flat@name	_	Gloss=Concord
@@ -517,8 +517,8 @@
 41	bàtûn	bàtuː	NOUN	_	Definite=Def|Gender=Masc	40	comp	_	Gloss=discussion.Masc.Def
 42	,	,	PUNCT	_	_	44	punct	_	Gloss=PUNCT
 43	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	44	subj/m	_	Gloss=3Fem-|SpaceAfter=No
-44	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	36	parataxis:conj	_	Gloss=Prog|wordform=tanàː
-45	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	44	comp:pred	_	Gloss=say.Vnoun.Fem
+44	nàː	nàː	AUX	_	Aspect=Prog	36	parataxis:conj	_	Gloss=Prog|wordform=tanàː
+45	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	44	comp:aux	_	Gloss=say.Vnoun.Fem
 46	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	47	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
 47	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	45	comp:obj	_	Gloss=Perf.Sing
 48	kàmaːtà	kamaːt-	VERB	_	_	47	comp:aux	_	Gloss=be_appropriate

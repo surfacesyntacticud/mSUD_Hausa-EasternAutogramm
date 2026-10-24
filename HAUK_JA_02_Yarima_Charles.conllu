@@ -63,8 +63,8 @@
 43	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	42	mod/m	_	Gloss=Gen.Fem|SpaceBefore=No
 44	Bìrtaːniyà	Bìrtaːniyà	PROPN	_	_	43	comp	_	Gloss=Great-Britain
 45	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	46	subj/m	_	Gloss=3Plur|SpaceAfter=No
-46	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	39	comp	_	Gloss=Prog|wordform=sunàː
-47	zìyaːr̃à	ziyaːr̃-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	46	comp:pred	_	Gloss=visit.Vnoun.Fem|wordform=zìyaːr̃àr̃
+46	nàː	nàː	AUX	_	Aspect=Prog	39	comp	_	Gloss=Prog|wordform=sunàː
+47	zìyaːr̃à	ziyaːr̃-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	46	comp:aux	_	Gloss=visit.Vnoun.Fem|wordform=zìyaːr̃àr̃
 48	-r̃	na	PART	_	Case=Gen|PartType=Case	47	udep/m	_	Gloss=Gen.Fem|SpaceBefore=No
 49	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	48	comp	_	Gloss=Nigeria
 50	.	.	PUNCT	_	_	31	punct	_	Gloss=PUNCT
@@ -124,8 +124,8 @@
 49	hàdàː-hadâr̃	hàdàː-hadaː	NOUN	_	Definite=Def|Gender=Fem	48	comp	_	Gloss=confusion.Fem.Def|RelAnt=Yes
 50	dà	dà	SCONJ	_	_	49	mod@relcl	_	Gloss=CompRel|Relz=Word
 51	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	52	subj/m	_	Gloss=3Fem-|SpaceAfter=No
-52	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	50	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix|wordform=takèː
-53	àukuwaː	auk-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	52	comp:pred	_	Gloss=take_place.Vnoun.Fem
+52	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	50	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix|wordform=takèː
+53	àukuwaː	auk-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	52	comp:aux	_	Gloss=take_place.Vnoun.Fem
 54	à	à	ADP	_	_	52	mod	_	Gloss=at
 55	bàːki	bàːkiː	NOUN	_	Gender=Masc	54	comp	_	Compound=Yes|Gloss=shore.Masc|wordform=bàːkin
 56	-n	na	PART	_	Case=Gen|PartType=Case	55	udep/m	_	Gloss=Gen.Fem|SpaceBefore=No

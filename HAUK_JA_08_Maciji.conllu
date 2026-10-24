@@ -120,7 +120,7 @@
 5	kwaːnaː	kwaːnaː	NOUN	_	Gender=Masc	3	comp:pred	_	Gloss=day.Masc
 6	ukù	ukù	NUM	_	_	5	mod:num	_	Gloss=three
 7	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	8	subj/m	_	Gloss=3Plur|SpaceAfter=No
-8	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	3	parataxis@mod	_	Gloss=Prog|wordform=sunàː
+8	nàː	nàː	AUX	_	Aspect=Prog	3	parataxis@mod	_	Gloss=Prog|wordform=sunàː
 9	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	10	mod	_	Gloss=Iter
 10	dafà	dafàː	VERB	_	_	8	comp:pred	_	Gloss=cook
 11	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	12	det	_	Gloss=ProxS.Masc
@@ -176,7 +176,7 @@
 31	-n	na	PART	_	Case=Gen|PartType=Case	30	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 32	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	33	det	_	Gloss=some.Masc.Spec
 33	àbù	àbù	NOUN	_	Gender=Masc	34	subj	_	Gloss=thing.Masc
-34	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	31	comp	_	Gloss=Prog
+34	nàː	nàː	AUX	_	Aspect=Prog	31	comp	_	Gloss=Prog
 35	mur̃ɗàː	mur̃ɗ-	VERB	_	_	34	comp:pred	_	Gloss=twist
 36	musù	musù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	35	comp:obl	_	Gloss=3Plur.Dat
 37	cikin	cikin	ADP	_	_	35	mod	_	Gloss=inside
@@ -259,8 +259,8 @@
 1	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	12	mod	_	Gloss=time.Masc.Def|RelAnt=Yes
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=CompRel|Relz=Word
 3	hakàn	hakàn	PRON	_	_	4	subj	_	Gloss=this
-4	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	2	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
-5	fàːruwaː	faːr-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	4	comp:pred	_	Gloss=happen.Vnoun.Fem
+4	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	2	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
+5	fàːruwaː	faːr-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	4	comp:aux	_	Gloss=happen.Vnoun.Fem
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	8	det	_	Gloss=some.Plur.Spec
 8	jàːmi'a	jàːmi'iː	ADJ	_	Number=Plur	12	subj	_	Gloss=official.Plur|wordform=jàːmi'an
@@ -336,7 +336,7 @@
 23	kà	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	21	comp	_	Gloss=Perf.Rel.Plur|Relz=Affix
 24	ɗaukàː	ɗauk-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	23	comp:aux	_	ClauseType=Rel|Gloss=take|RelRole=obj
 25	a-	a-	PRON	_	Person=4|PronType=Prs	26	subj/m	_	Gloss=4|SpaceAfter=No
-26	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	24	parataxis@mod	_	Gloss=Prog|wordform=anàː
+26	nàː	nàː	AUX	_	Aspect=Prog	24	parataxis@mod	_	Gloss=Prog|wordform=anàː
 27	dafà	dafàː	VERB	_	_	26	comp:pred	_	Gloss=cook
 28	macìːjîn	macìːjiː	NOUN	_	Definite=Def|Number=Plur	27	comp:obj	_	Gloss=snake.Plur.Def
 29	kàːfin	kàːfin	SCONJ	_	_	27	mod	_	Gloss=before
@@ -372,8 +372,8 @@
 20	-n	na	PART	_	Case=Gen|PartType=Case	19	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 21	dàbboːbiː	dabbàː	NOUN	_	Number=Plur	20	comp	_	Gloss=animal.Plur
 22	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	23	subj/m	_	Gloss=3Plur|SpaceAfter=No
-23	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	19	mod@relcl	_	Gloss=Prog|wordform=sunàː
-24	tàfiyàː	tàfiyàː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	23	comp:pred	_	Gloss=go.Vnoun.Fem
+23	nàː	nàː	AUX	_	Aspect=Prog	19	mod@relcl	_	Gloss=Prog|wordform=sunàː
+24	tàfiyàː	tàfiyàː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	23	comp:aux	_	Gloss=go.Vnoun.Fem
 25	dà	dà	ADP	_	_	24	comp:obl	_	Gloss=with
 26	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	25	comp	_	Gloss=3Plur.Nom
 27	gidaː	gidaː	NOUN	_	Gender=Masc	24	comp:obj@G	_	Gloss=home.Masc

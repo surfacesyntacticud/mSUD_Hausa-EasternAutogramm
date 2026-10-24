@@ -236,8 +236,8 @@
 10	algaitàː	algaitàː	NOUN	_	Gender=Fem	9	comp	_	Gloss=wind_instrument_sp.Fem
 11	dà	dà	SCONJ	_	_	5	mod@relcl	_	Gloss=CompRel|Relz=Word
 12	a-	a-	PRON	_	Person=4|PronType=Prs	13	subj/m	_	Gloss=4|SpaceAfter=No
-13	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	11	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
-14	kiràː	kiraː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	13	comp:pred	_	Gloss=call.Vnoun.Masc|RelRole=obj
+13	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	11	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
+14	kiràː	kiraː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	13	comp:aux	_	Gloss=call.Vnoun.Masc|RelRole=obj
 15	"	"	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 16	saxophone	saxophone	NOUN	_	_	14	comp:pred	_	Gloss=saxophone
 17	"	"	PUNCT	_	_	16	punct	_	Gloss=PUNCT
@@ -307,8 +307,8 @@
 41	makàɗa	makàɗiː	NOUN	_	Number=Plur	40	comp	_	Gloss=musician|wordform=makàɗaː
 42	-n	na	PART	_	Case=Gen|PartType=Case	41	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 43	-aː	-aː	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	42	comp:obj/m	_	Gloss=1Sing.Gen|SpaceBefore=No
-44	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	37	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix
-45	buːsàːwaː	buːs-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	44	comp:pred	_	Gloss=blow.Vnoun.Fem|RelRole=obj
+44	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	37	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix
+45	buːsàːwaː	buːs-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	44	comp:aux	_	Gloss=blow.Vnoun.Fem|RelRole=obj
 46	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 47	"	"	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 
@@ -360,7 +360,7 @@
 14	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	13	comp:obj	_	Gloss=use.Masc
 15	dà	dà	ADP	_	_	14	comp:obl	_	Gloss=with
 16	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	15	comp	_	Gloss=3Fem.Nom
-17	fìye	fi	VERB	_	VerbForm=Part	13	mod	_	Gloss=exceed.Part
+17	fìye	fi	VERB	_	ExtPos=ADV|VerbForm=Part	13	mod	_	Gloss=exceed.Part
 18	dà	dà	ADP	_	_	17	comp:obl	_	Gloss=with
 19	bàdùːjalaː	bàdùːja	NOUN	_	Gender=Fem	18	comp:obl	_	Gloss=bugle.Fem
 20	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
@@ -674,8 +674,8 @@
 19	-r̃	na	PART	_	Case=Gen|PartType=Case	18	mod@poss/m	_	Gloss=Gen.Fem|SpaceBefore=No|wordform=-t
 20	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	19	comp:obj/m	_	Gloss=3Masc.Gen|SpaceBefore=No
 21	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	18	conj:appos	_	Gloss=Nigeria
-22	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	17	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix
-23	fùskantàː	fuskant-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	22	comp:pred	_	Gloss=face.Vnoun.Fem|RelRole=obj
+22	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	17	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix
+23	fùskantàː	fuskant-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	22	comp:aux	_	Gloss=face.Vnoun.Fem|RelRole=obj
 24	,	,	PUNCT	_	_	25	punct	_	Gloss=PUNCT
 25	har̃	har̃	SCONJ	_	_	11	mod	_	Gloss=up_to
 26-27	ya=	_	_	_	_	_	_	_	_
@@ -754,7 +754,7 @@
 6	-sà	-sà	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	5	comp	_	Gloss=3Masc.Gen|SpaceBefore=No
 7	mài	mài	PART	_	Number=Sing|PartType=Der	4	mod	_	Gloss=owner_of.Sing
 8	shèːkàruː	shèːkaràː	NOUN	_	Number=Plur	7	compound	_	Gloss=year.Plur
-9	fìye	fi	VERB	_	VerbForm=Part	8	mod	_	Gloss=exceed.Part
+9	fìye	fi	VERB	_	ExtPos=ADV|VerbForm=Part	8	mod	_	Gloss=exceed.Part
 10	dà	dà	ADP	_	_	9	comp:obl	_	Gloss=with
 11	sàbà'in	sàbà'in	NUM	_	_	10	comp	_	Gloss=seventy
 12	à	à	ADP	_	_	8	mod	_	Gloss=at

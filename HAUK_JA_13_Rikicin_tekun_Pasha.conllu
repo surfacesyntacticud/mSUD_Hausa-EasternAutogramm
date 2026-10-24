@@ -50,8 +50,8 @@
 27	dà	dà	SCONJ	_	_	26	mod@relcl	_	Gloss=CompRel|Relz=Word
 28	yànzu	yànzu	ADV	_	_	30	mod	_	Gloss=now
 29	a-	a-	PRON	_	Person=4|PronType=Prs	30	subj/m	_	Gloss=4|SpaceAfter=No
-30	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	27	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
-31	rarràbâːwaː	rarràb-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	30	comp:pred	_	Gloss=distribute.Vnoun.Fem|RelRole=obj
+30	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	27	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
+31	rarràbâːwaː	rarràb-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	30	comp:aux	_	Gloss=distribute.Vnoun.Fem|RelRole=obj
 32	à	à	ADP	_	_	31	mod	_	Gloss=at
 33	ƙasâr̃	ƙasaː	VERB	_	Definite=Def|Gender=Fem	32	comp	_	Gloss=country.Fem.Def
 34	dà	dà	ADP	_	_	31	mod	_	Gloss=with
@@ -108,8 +108,8 @@
 26	dà	dà	ADP	_	_	25	mod	_	Gloss=with
 27	daːmaː	daːmaː	NOUN	_	Gender=Fem	26	comp	_	Gloss=chance.Fem
 28	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	29	subj/m	_	Gloss=3Plur|SpaceAfter=No
-29	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	24	comp:obj	_	Gloss=Prog|wordform=sunaː
-30	goːyo	goːy-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	29	comp:pred	_	Gloss=support.Vnoun.Masc|wordform=goːyon
+29	nàː	nàː	AUX	_	Aspect=Prog	24	comp:obj	_	Gloss=Prog|wordform=sunaː
+30	goːyo	goːy-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	29	comp:aux	_	Gloss=support.Vnoun.Masc|wordform=goːyon
 31	-n	na	PART	_	Case=Gen|PartType=Case	30	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 32	baːya	baːyaː	NOUN	_	Gender=Masc	31	comp	_	Gloss=back.Masc|wordform=baːyan
 33	-n	na	PART	_	Case=Gen|PartType=Case	32	mod/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
@@ -184,8 +184,8 @@
 1	hakà	hakà	ADV	_	_	4	mod	_	Gloss=thus
 2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 3	a-	a-	PRON	_	Person=4|PronType=Prs	4	subj/m	_	Gloss=4|SpaceAfter=No
-4	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	Gloss=Prog|wordform=and
-5	zàto	zat-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	4	comp:pred	_	Gloss=think.Vnoun.Masc|wordform=zàton
+4	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog|wordform=and
+5	zàto	zat-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	4	comp:aux	_	Gloss=think.Vnoun.Masc|wordform=zàton
 6	-n	na	PART	_	Case=Gen|PartType=Case	5	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 7	cêːwaː	cêːwaː	SCONJ	_	_	6	comp	_	Gloss=COMP
 8	à	à	ADP	_	_	13	mod	_	Gloss=at
@@ -193,7 +193,7 @@
 10	-n	na	PART	_	Case=Gen|PartType=Case	9	mod/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 11	yànzu	yànzu	ADV	_	_	10	comp	_	Gloss=now
 12	a-	a-	PRON	_	Person=4|PronType=Prs	13	subj/m	_	Gloss=4|SpaceAfter=No
-13	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	7	comp	_	Gloss=Prog|wordform=and
+13	nàː	nàː	AUX	_	Aspect=Prog	7	comp	_	Gloss=Prog|wordform=and
 14	rarràbà	rarrab-	VERB	_	_	13	comp:pred	_	Gloss=distribute
 15	wasu	wasu	DET	_	Definite=Spec|Number=Plur	16	det	_	Gloss=some.Plur.Spec
 16	tàkàr̃duː	takàr̃daː	NOUN	_	Number=Plur	14	comp:obj	_	Gloss=paper.Plur
@@ -353,8 +353,8 @@
 9	à	à	ADP	_	_	8	mod	_	Gloss=at
 10	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	9	comp	_	Gloss=Nigeria
 11	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	12	subj/m	_	Gloss=3Plur|SpaceAfter=No
-12	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	5	comp:obj	_	Gloss=Prog|wordform=sunàː
-13	sôː	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	12	comp:pred	_	Gloss=want.Vnoun.Masc
+12	nàː	nàː	AUX	_	Aspect=Prog	5	comp:obj	_	Gloss=Prog|wordform=sunàː
+13	sôː	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	12	comp:aux	_	Gloss=want.Vnoun.Masc
 14	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	15	subj/m	_	Gloss=3.Plur-|SpaceAfter=No|wordform=sù
 15	_̀	_̀	AUX	_	Copula=No|Mood=Sub	13	comp:obj	_	Gloss=Sub|wordform=_̀=
 16	nuːnà	nuːn-	VERB	_	_	15	comp:aux	_	Gloss=show
@@ -431,8 +431,8 @@
 3	shùgàbànni	shùgàbàː	NOUN	_	Number=Plur	6	subj	_	Gloss=leader.Plur|wordform=shùgàbànnin
 4	-n	na	PART	_	Case=Gen|PartType=Case	3	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 5	mùsùlmiː	mùsùlmiː	NOUN	_	Number=Plur	4	comp	_	Gloss=muslim.Plur
-6	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	2	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix
-7	nuːnàːwaː	nuːn-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	6	comp:pred	_	Gloss=show.Vnoun.Fem|RelRole=obj
+6	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	2	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix
+7	nuːnàːwaː	nuːn-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	6	comp:aux	_	Gloss=show.Vnoun.Fem|RelRole=obj
 8	t-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	9	subj/m	_	Gloss=3Fem|SpaceAfter=No|wordform=taː
 9	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing
 10	biyoː	biyaː	VERB	_	_	9	comp:aux	_	Gloss=follow

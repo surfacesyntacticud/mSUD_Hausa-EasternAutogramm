@@ -101,8 +101,8 @@
 17	-n	na	PART	_	Case=Gen|PartType=Case	16	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 18	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	17	comp	_	Gloss=thing.Masc.Def|RelAnt=Yes
 19	dà	dà	SCONJ	_	_	18	mod@relcl	_	Gloss=CompRel|Relz=Word
-20	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	19	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
-21	fàːruwaː	faːr-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	20	comp:pred	_	Gloss=happen.Vnoun.Fem
+20	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	19	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
+21	fàːruwaː	faːr-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	20	comp:aux	_	Gloss=happen.Vnoun.Fem
 22	.	.	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 
 # sent_id = 03_Barayi_a_Ikko_4
@@ -282,8 +282,8 @@
 1	yàːyîn	yàːyîː	NOUN	_	Definite=Def|Gender=Masc	17	mod	_	Gloss=time.Def|RelAnt=Yes
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP.Rel|Relz=Word
 3	hakàn	hakàn	PRON	_	_	4	subj	_	Gloss=this
-4	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	2	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix
-5	fàːruwaː	faːr-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	4	comp:pred	_	Gloss=happen.Vnoun.Fem|RelRole=mod
+4	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	2	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix
+5	fàːruwaː	faːr-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	4	comp:aux	_	Gloss=happen.Vnoun.Fem|RelRole=mod
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	hêdkwatà	hêdkwatàː	NOUN	_	Gender=Fem	17	subj	_	Gloss=headquarter.Fem|wordform=hêdkwatàr̃
 8	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	7	mod/m	_	Gloss=Gen.Fem|SpaceBefore=No
@@ -305,8 +305,8 @@
 24	sàːce-sàːcên	saːcìː	NOUN	_	Definite=Def|Number=Plur	22	conj:coord	_	Gloss=theft.Plur.Def|RelAnt=Yes
 25	dà	dà	SCONJ	_	_	24	mod@relcl	_	Gloss=CompRel|Relz=Word
 26	a-	a-	PRON	_	Person=4|PronType=Prs	27	subj/m	_	Gloss=4|SpaceAfter=No
-27	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	25	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
-28	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	27	comp:pred	_	Gloss=do.Vnoun.Masc|RelPos=Yes
+27	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	25	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
+28	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	27	comp:aux	_	Gloss=do.Vnoun.Masc|RelPos=Yes
 29	à	à	ADP	_	_	28	mod	_	Gloss=at
 30	cikin	cikin	ADP	_	_	29	comp	_	Gloss=inside
 31	Nàːjeːr̃iyàr̃	Nàːjeːr̃iyàː	PROPN	_	Definite=Def|Gender=Fem	30	comp	_	Gloss=Nigeria.Def
@@ -495,7 +495,7 @@
 40	sàːce-sàːcên	saːcìː	NOUN	_	Definite=Def|Number=Plur	39	comp	_	Gloss=theft.Plur.Def|RelAnt=Yes
 41	dà	dà	SCONJ	_	_	40	mod@relcl	_	Gloss=CompRel|Relz=Word
 42	a-	a-	PRON	_	Person=4|PronType=Prs	43	subj/m	_	Gloss=4|SpaceAfter=No
-43	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	41	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
-44	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	43	comp:pred	_	Gloss=do.Vnoun.Masc|RelPos=Yes
+43	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	41	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
+44	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	43	comp:aux	_	Gloss=do.Vnoun.Masc|RelPos=Yes
 45	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 

@@ -41,8 +41,8 @@
 # text_ortho = Tanàː cîː gàba dà shirìn baːyar̃ dà mulkìː gà farar̃-hùːlaː, kuma tanàː àlfahàr̃iː dà irìn abuːbuwàn dà ta yi danganèː dà kaːrè haƙƙìn bìl-Adamà .
 # text = ka nàː cîː gàba dà shirì-n baːyar̃ dà mulkìː gà farar̃-hùːlaː, kuma ta-nàː àlfahàr̃iː dà irì-n abuːbuwàn dà ta= yi danganèː dà kaːrè haƙƙì-n bìl-Adamà .
 1	ka	ka	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	2	subj/m	_	Gloss=2Masc
-2	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	Gloss=Prog|wordform=tanàː
-3	cîː	ci	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	2	comp:pred	_	Gloss=proceed.Vnoun.Masc
+2	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog|wordform=tanàː
+3	cîː	ci	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	2	comp:aux	_	Gloss=proceed.Vnoun.Masc
 4	gàba	gàba	ADV	_	_	2	comp:obl	_	Gloss=in_front
 5	dà	dà	ADP	_	_	2	comp:obl	_	Gloss=with
 6	shirì	shiry-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	5	comp	_	Gloss=prepare.Vnoun.Masc|wordform=shirìn
@@ -256,7 +256,7 @@
 36	-	-	PUNCT	_	_	39	punct	_	Gloss=PUNCT|SpaceAfter=No|SpaceBefore=No
 37	wàːtòː	wàːtòː	CCONJ	_	_	39	cc	_	Gloss=i.e.
 38	a-	a-	PRON	_	Person=4|PronType=Prs	39	subj/m	_	Gloss=4|SpaceAfter=No
-39	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	22	conj:reform	_	Gloss=Prog|wordform=anàː
+39	nàː	nàː	AUX	_	Aspect=Prog	22	conj:reform	_	Gloss=Prog|wordform=anàː
 40	tsarèː	tsar-	VERB	_	_	39	comp:pred	_	Gloss=imprison
 41	mutàneː	mùtûm	NOUN	_	Number=Plur	40	comp:obj	_	Gloss=man.Plur
 42	sabòːdà	sabòːdà	ADP	_	_	40	mod	_	Gloss=because_of
@@ -312,8 +312,8 @@
 13	Ìkko	Ìkko	PROPN	_	_	12	comp	_	Gloss=Lagos
 14	indà	indà	ADV	_	ExtPos=SCONJ|PronType=Rel	11	mod:appos@relcl	_	Gloss=where.Rel|Relz=Word
 15	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	16	subj/m	_	Gloss=3Plur|SpaceAfter=No
-16	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	14	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=mod|Relz=Affix|wordform=sukèː
-17	neːma	neːm-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	16	comp:pred	_	Compound=Yes|Gloss=seek.Vnoun.Masc|wordform=neːman
+16	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	14	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=mod|Relz=Affix|wordform=sukèː
+17	neːma	neːm-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	16	comp:aux	_	Compound=Yes|Gloss=seek.Vnoun.Masc|wordform=neːman
 18	-n	na	PART	_	Case=Gen|PartType=Case	17	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 19	a-	a	PRON	_	Person=4|PronType=PrsSubj	20	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
 20	_̀	_̀	AUX	_	Copula=No|Mood=Sub	18	comp	_	Gloss=Sub|wordform=_̀=

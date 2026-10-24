@@ -153,8 +153,8 @@
 21	-n	na	PART	_	Case=Gen|PartType=Case	20	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 22	kòːgiː	kòːgiː	NOUN	_	Gender=Masc	21	comp	_	Gloss=river.Masc
 23	ya-	ya-	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	24	subj/m	_	Gloss=3Masc-|SpaceAfter=No
-24	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	19	mod@relcl	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=yakèː
-25	bîː	bi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	24	comp:pred	_	Gloss=follow.Vnoun.Masc|RelRole=mod
+24	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	19	mod@relcl	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=yakèː
+25	bîː	bi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	24	comp:aux	_	Gloss=follow.Vnoun.Masc|RelRole=mod
 26	zuwàː	zuwàː	ADP	_	_	16	comp:obl	_	Gloss=towards
 27	cikin	cikin	ADP	_	_	26	comp	_	Gloss=inside
 28	kwarìː	kwarìː	NOUN	_	Gender=Masc	27	comp	_	Gloss=valley.Masc
@@ -393,7 +393,7 @@
 29	-n	na	PART	_	Case=Gen|PartType=Case	28	mod/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 30	wurîn	wuriː	NOUN	_	Definite=Def|Gender=Masc	29	comp	_	Gloss=place.Masc.Def
 31	a-	a-	PRON	_	Person=4|PronType=Prs	32	subj/m	_	Gloss=4|SpaceAfter=No
-32	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	24	comp	_	ClauseType=Rel|Gloss=Prog|wordform=anàː
+32	nàː	nàː	AUX	_	Aspect=Prog	24	comp	_	ClauseType=Rel|Gloss=Prog|wordform=anàː
 33	iyà	iy-	VERB	_	_	32	comp:pred	_	Gloss=be_able_to
 34	saːmù	saːmùː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	33	comp:obj	_	Gloss=get.Vnoun.Masc|RelRole=mod|wordform=saːmùn
 35	-n	na	PART	_	Case=Gen|PartType=Case	34	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
@@ -489,8 +489,8 @@
 6	wandà	wandà	PRON	_	ExtPos=SCONJ|Gender=Masc|PronType=Rel	1	mod@relcl	_	Gloss=Pron.Masc.Rel|Relz=Word
 7	manàzàr̃tân	manàzàr̃ciː	NOUN	_	Definite=Def|Number=Plur	9	subj	_	Gloss=investigator.Plur.Def
 8	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	9	subj/m	_	Gloss=3Plur|SpaceAfter=No
-9	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	6	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=sukèː
-10	gani	ganiː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	9	comp:pred	_	Compound=Yes|Gloss=see.Vnoun.Masc.|wordform=ganin
+9	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	6	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=sukèː
+10	gani	ganiː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	9	comp:aux	_	Compound=Yes|Gloss=see.Vnoun.Masc.|wordform=ganin
 11	-n	na	PART	_	Case=Gen|PartType=Case	10	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 12	zâː	zâː	AUX	_	Copula=No|Tense=Fut	11	udep/m	_	Gloss=Fut|SpaceForm=zâi|wordform=zâ-
 13	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	12	subj/m	_	Gloss=3Masc|SpaceBefore=No|wordform=zâi
@@ -548,8 +548,8 @@
 29	-n	na	PART	_	Case=Gen|PartType=Case	28	udep/m	_	Gloss=Gen.Fem|SpaceBefore=No
 30	samàn	samàː	NOUN	_	Definite=Def	29	comp	_	Gloss=above.Def
 31	dà	dà	SCONJ	_	_	28	mod@relcl	_	Gloss=CompRel|Relz=Word
-32	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	31	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
-33	shìgaː	shig-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	32	comp:pred	_	Gloss=enter.Fem.Vnoun.
+32	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	31	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
+33	shìgaː	shig-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	32	comp:aux	_	Gloss=enter.Fem.Vnoun.
 34	cikin	cikin	ADP	_	_	33	comp:obl	_	Gloss=inside|wordfrom=cikinsà
 35	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	34	comp	_	Gloss=3Masc.Gen|SpaceBefore=No
 36	ba	ba	PART	_	PartType=Neg|Polarity=Neg	13	mod	_	Gloss=Neg
@@ -669,7 +669,7 @@
 11	shidà	shidà	NUM	_	_	9	conj:coord	_	Gloss=six
 12	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
 13	mutàneː	mùtûm	NOUN	_	Number=Plur	22	subj	_	Gloss=man.Plur
-14	fìye	fi	VERB	_	VerbForm=Part	13	mod	_	Gloss=exceed.Part
+14	fìye	fi	VERB	_	ExtPos=ADV|VerbForm=Part	13	mod	_	Gloss=exceed.Part
 15	dà	dà	ADP	_	_	14	comp:obl	_	Gloss=with
 16	dubuː	dubuː	NOUN	_	Gender=Fem	15	comp	_	Gloss=thousand.Fem
 17	dà	dà	CCONJ	_	_	18	cc	_	Gloss=and|wordform=ɗà
