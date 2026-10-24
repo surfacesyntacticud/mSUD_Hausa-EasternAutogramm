@@ -947,7 +947,7 @@
 52	dà	dà	SCONJ	_	_	51	mod@relcl	_	Gloss=CompRel|Relz=Word
 53	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	54	subj	_	Gloss=country.Fem.Def
 54	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	52	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix
-55	fùskantàː	fuskant-	VERB	_	_	54	comp:pred	_	Gloss=face|RelRole=obj
+55	fùskantàː	fuskant-	VERB	_	_	54	comp:aux	_	Gloss=face|RelRole=obj
 56	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = 11_Fela_Kuti_25

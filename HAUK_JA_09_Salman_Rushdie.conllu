@@ -341,7 +341,7 @@
 12	asìbitì	asìbitì	NOUN	_	Gender=Masc	11	comp	_	Gloss=hospital.Masc
 13	a-	a-	PRON	_	Person=4|PronType=Prs	14	subj/m	_	Gloss=4|SpaceAfter=No
 14	nàː	nàː	AUX	_	Aspect=Prog	9	parataxis:conj	_	Gloss=Prog|wordform=anàː
-15	yi	yi	VERB	_	_	14	comp:pred	_	Gloss=do
+15	yi	yi	VERB	_	_	14	comp:aux	_	Gloss=do
 16	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	15	comp:obl	_	Gloss=3Masc.Dat
 17	maːgàniː	maːgàniː	NOUN	_	Gender=Masc	15	comp:pred	_	Gloss=medicine.Masc
 18	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT

@@ -394,7 +394,7 @@
 30	wurîn	wuriː	NOUN	_	Definite=Def|Gender=Masc	29	comp	_	Gloss=place.Masc.Def
 31	a-	a-	PRON	_	Person=4|PronType=Prs	32	subj/m	_	Gloss=4|SpaceAfter=No
 32	nàː	nàː	AUX	_	Aspect=Prog	24	comp	_	ClauseType=Rel|Gloss=Prog|wordform=anàː
-33	iyà	iy-	VERB	_	_	32	comp:pred	_	Gloss=be_able_to
+33	iyà	iy-	VERB	_	_	32	comp:aux	_	Gloss=be_able_to
 34	saːmù	saːmùː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	33	comp:obj	_	Gloss=get.Vnoun.Masc|RelRole=mod|wordform=saːmùn
 35	-n	na	PART	_	Case=Gen|PartType=Case	34	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 36	irì	irìː	NOUN	_	Gender=Masc	35	comp	_	Compound=Yes|Gloss=type_of.Masc.|wordform=irìn

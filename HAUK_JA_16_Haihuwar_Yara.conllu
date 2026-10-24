@@ -106,7 +106,7 @@
 39	dà	dà	SCONJ	_	_	33	mod@relcl	_	Gloss=CompRel|Relz=Word
 40	maːtaː	màːtaː	NOUN	_	Number=Plur	41	subj	_	Gloss=woman.Plur
 41	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	39	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix
-42	fùskantàː	fuskant-	VERB	_	_	41	comp:pred	_	Gloss=face|RelRole=obj
+42	fùskantàː	fuskant-	VERB	_	_	41	comp:aux	_	Gloss=face|RelRole=obj
 43	wajen	wajen	ADP	_	_	42	comp:obl	_	Gloss=about
 44	haihùwaː	haihùwaː	NOUN	_	Gender=Fem	43	comp	_	Gloss=giving_birth.Fem
 45	.	.	PUNCT	_	_	23	punct	_	Gloss=PUNCT
@@ -330,7 +330,7 @@
 45	ceː	neː	AUX	_	Copula=Yes|Gender=Fem	42	comp	_	Gloss=Equ.Fem|RelRole=subj
 46	dà	dà	SCONJ	_	_	44	mod@relcl	_	Gloss=CompRel|Relz=Word
 47	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	46	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
-48	nuːnà	nuːn-	VERB	_	_	47	comp:pred	_	Gloss=show
+48	nuːnà	nuːn-	VERB	_	_	47	comp:aux	_	Gloss=show
 49	koː	koː	SCONJ	_	_	48	comp:obj	_	Gloss=or
 50	tagwàːyeː	tagwàːyeː	NOUN	_	Number=Plur	49	comp	_	Gloss=twins
 51	neː	neː	PART	_	PartType=Foc	50	discourse@foc	_	Gloss=Emph

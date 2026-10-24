@@ -812,7 +812,7 @@
 11	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 12	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	13	subj/m	_	Gloss=3Plur|SpaceAfter=No
 13	nàː	nàː	AUX	_	Aspect=Prog	4	parataxis:conj	_	Gloss=Prog|wordform=sunàː
-14	kunnà	kunn-	VERB	_	_	13	comp:pred	_	Gloss=light
+14	kunnà	kunn-	VERB	_	_	13	comp:aux	_	Gloss=light
 15	wutaː	wutaː	NOUN	_	Gender=Masc	14	comp:obj	_	Gloss=fire.Masc
 16	gà	gà	ADP	_	_	14	comp:obl	_	Gloss=to
 17	kantunàː	kàntiː	NOUN	_	Number=Plur	16	comp	_	Gloss=shop.Plur

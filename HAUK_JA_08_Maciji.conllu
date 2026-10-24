@@ -122,7 +122,7 @@
 7	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	8	subj/m	_	Gloss=3Plur|SpaceAfter=No
 8	nàː	nàː	AUX	_	Aspect=Prog	3	parataxis@mod	_	Gloss=Prog|wordform=sunàː
 9	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	10	mod	_	Gloss=Iter
-10	dafà	dafàː	VERB	_	_	8	comp:pred	_	Gloss=cook
+10	dafà	dafàː	VERB	_	_	8	comp:aux	_	Gloss=cook
 11	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	12	det	_	Gloss=ProxS.Masc
 12	kùmurciː	kùmurciː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=cobra.Masc
 13	kàːfin	kàːfin	SCONJ	_	_	10	mod	_	Gloss=before
@@ -177,7 +177,7 @@
 32	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	33	det	_	Gloss=some.Masc.Spec
 33	àbù	àbù	NOUN	_	Gender=Masc	34	subj	_	Gloss=thing.Masc
 34	nàː	nàː	AUX	_	Aspect=Prog	31	comp	_	Gloss=Prog
-35	mur̃ɗàː	mur̃ɗ-	VERB	_	_	34	comp:pred	_	Gloss=twist
+35	mur̃ɗàː	mur̃ɗ-	VERB	_	_	34	comp:aux	_	Gloss=twist
 36	musù	musù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	35	comp:obl	_	Gloss=3Plur.Dat
 37	cikin	cikin	ADP	_	_	35	mod	_	Gloss=inside
 38	cikkunà	cikìː	NOUN	_	Number=Plur	37	comp	_	Gloss=belly.Plur|wordform=cikkunànsù
@@ -337,7 +337,7 @@
 24	ɗaukàː	ɗauk-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	23	comp:aux	_	ClauseType=Rel|Gloss=take|RelRole=obj
 25	a-	a-	PRON	_	Person=4|PronType=Prs	26	subj/m	_	Gloss=4|SpaceAfter=No
 26	nàː	nàː	AUX	_	Aspect=Prog	24	parataxis@mod	_	Gloss=Prog|wordform=anàː
-27	dafà	dafàː	VERB	_	_	26	comp:pred	_	Gloss=cook
+27	dafà	dafàː	VERB	_	_	26	comp:aux	_	Gloss=cook
 28	macìːjîn	macìːjiː	NOUN	_	Definite=Def|Number=Plur	27	comp:obj	_	Gloss=snake.Plur.Def
 29	kàːfin	kàːfin	SCONJ	_	_	27	mod	_	Gloss=before
 30	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	31	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yà

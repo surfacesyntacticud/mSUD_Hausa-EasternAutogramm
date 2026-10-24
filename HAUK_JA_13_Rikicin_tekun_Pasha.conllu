@@ -169,7 +169,7 @@
 37	shar̃hìː	shar̃hìː	NOUN	_	Gender=Masc	36	comp:obj	_	Gloss=criticism.Masc|RelAnt=Yes
 38	dà	dà	SCONJ	_	_	37	mod@relcl	_	Gloss=CompRel|Relz=Word
 39	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	38	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
-40	nuːnà	nuːn-	VERB	_	_	39	comp:pred	_	Gloss=show
+40	nuːnà	nuːn-	VERB	_	_	39	comp:aux	_	Gloss=show
 41	ƙî	ƙi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	40	comp:obj	_	Gloss=hate.Vnoun.Masc|wordform=ƙîn
 42	-n	na	PART	_	Case=Gen|PartType=Case	41	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 43	jini	jiniː	NOUN	_	Gender=Masc	42	comp	_	Gloss=blood.Masc|wordform=jinin
@@ -194,7 +194,7 @@
 11	yànzu	yànzu	ADV	_	_	10	comp	_	Gloss=now
 12	a-	a-	PRON	_	Person=4|PronType=Prs	13	subj/m	_	Gloss=4|SpaceAfter=No
 13	nàː	nàː	AUX	_	Aspect=Prog	7	comp	_	Gloss=Prog|wordform=and
-14	rarràbà	rarrab-	VERB	_	_	13	comp:pred	_	Gloss=distribute
+14	rarràbà	rarrab-	VERB	_	_	13	comp:aux	_	Gloss=distribute
 15	wasu	wasu	DET	_	Definite=Spec|Number=Plur	16	det	_	Gloss=some.Plur.Spec
 16	tàkàr̃duː	takàr̃daː	NOUN	_	Number=Plur	14	comp:obj	_	Gloss=paper.Plur
 17	à	à	ADP	_	_	14	mod	_	Gloss=at
@@ -211,7 +211,7 @@
 28	ƙàwànceː	ƙàwànceː	NOUN	_	Gender=Masc	27	comp	_	Gloss=coalition.Masc
 29	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	30	subj/m	_	Gloss=3Plur-|SpaceAfter=No
 30	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	25	comp	_	ClauseType=Rel|Gloss=be.Rel|Relz=Affix|wordform=sukèː
-31	Ø	yi	VERB	_	_	30	comp:pred	_	Gloss=do|RelRole=pred
+31	Ø	yi	VERB	_	_	30	comp:aux	_	Gloss=do|RelRole=pred
 32	wà	mà	ADP	_	Case=Dat	31	comp:obl	_	Gloss=Dat
 33	Ìr̃aːƙì	Ìr̃aːƙì	PROPN	_	_	32	comp	_	Gloss=Irak
 34	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
@@ -391,7 +391,7 @@
 46	-n	na	PART	_	Case=Gen|PartType=Case	45	mod/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 47	ƙàwànceː	ƙàwànceː	NOUN	_	Gender=Masc	46	comp	_	Gloss=coalition.Masc
 48	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	44	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix
-49	kai	kai	VERB	_	_	48	comp:pred	_	Gloss=reach/carry_to|RelRole=obj
+49	kai	kai	VERB	_	_	48	comp:aux	_	Gloss=reach/carry_to|RelRole=obj
 50	wà	mà	ADP	_	Case=Dat	49	comp:obl	_	Gloss=Dat
 51	Ìr̃aːƙì	Ìr̃aːƙì	PROPN	_	_	50	comp	_	Gloss=Irak
 52	,	,	PUNCT	_	_	53	punct	_	Gloss=PUNCT

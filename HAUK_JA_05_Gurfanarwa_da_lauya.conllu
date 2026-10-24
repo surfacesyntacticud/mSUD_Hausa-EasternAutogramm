@@ -394,7 +394,7 @@
 19	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	20	subj/m	_	Gloss=3Fem-|SpaceAfter=No
 20	nàː	nàː	AUX	_	Aspect=Prog	18	comp:obj	_	Gloss=Prog|wordform=tanàː
 21	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	22	mod	_	Gloss=Iter
-22	laːlàːtà	laːlat-	VERB	_	_	20	comp:pred	_	Gloss=spoil
+22	laːlàːtà	laːlat-	VERB	_	_	20	comp:aux	_	Gloss=spoil
 23	haːli	haːliː	NOUN	_	Gender=Masc	22	comp:obj	_	Gloss=situation.Masc|wordform=haːlin
 24	-n	na	PART	_	Case=Gen|PartType=Case	23	mod/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 25	ràːyuwa	ràːyuwaː	NOUN	_	Gender=Fem	24	comp	_	Gloss=life.Fem|wordform=ràːyuwar̃

@@ -176,7 +176,7 @@
 
 # sent_id = 02_Yarima_Charles_5
 # text_en = The house is right by the sea, and up till now it is interesting and nice-looking despite the modern improvements that were doen when Nigeria was full of petrol money.
-# text = gidân nàːgab dà bàːki-n tèːku kuma har̃ yànzu ya nàː dà ba-n shàꞌawàː dà haskàkâːwaː duk dà gyàːre-gyàːre-n zaːmàniː dà a-kà= yi masà loːkàcîn dà Nàːjeːr̃iyàː ta-kèː cìke dà ar̃zìki-n mâ-n feːtùr̃.
+# text = gidân nàː gab dà bàːki -n tèːku kuma har̃ yànzu ya nàː dà ba -n shàꞌawàː dà haskàkâːwaː duk dà gyàːre-gyàːre -n zaːmàniː dà a-kà yi masà loːkàcîn dà Nàːjeːr̃iyàː ta-kèː cìke dà ar̃zìki -n mâ -n feːtùr̃ .
 # text_ortho = Gidân nàː gab dà bàːkin tèːku kuma har̃ yànzu yanàː dà ban shàꞌawàː da haskàkâːwaː duk dà gyàːre-gyàːren zaːmàniː dà akà yi masà loːkàcîn dà Nàːjeːr̃iyàː takèː cìke dà ar̃zìkin mân feːtùr̃.
 1	gidân	gidaː	NOUN	_	Definite=Def|Gender=Masc	2	subj	_	Gloss=house.Masc.Def
 2	nàː	nàː	AUX	_	Copula=Yes	0	root	_	Gloss=be.Pred
@@ -211,7 +211,7 @@
 31	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	33	subj	_	Gloss=Nigeria
 32	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	33	subj/m	_	Gloss=3Fem-|SpaceAfter=No
 33	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	30	comp	_	Gloss=Prog.Rel|wordform=takèː
-34	cìke	cik-	VERB	_	_	33	comp:pred	_	Gloss=fill.Stat
+34	cìke	cik-	VERB	_	ExtPos=ADV	33	comp:pred	_	Gloss=fill.Stat
 35	dà	dà	CCONJ	_	_	34	comp:obl	_	Gloss=and
 36	ar̃zìki	ar̃zìkiː	NOUN	_	Gender=Masc	35	comp:obj	_	Gloss=wealth.Masc|wordform=ar̃zìkin
 37	-n	na	PART	_	Case=Gen|PartType=Case	36	mod/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No

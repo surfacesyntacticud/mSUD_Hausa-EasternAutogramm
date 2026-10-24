@@ -202,7 +202,7 @@
 35	indà	indà	ADV	_	ExtPos=SCONJ|PronType=Rel	28	mod:appos@relcl	_	Gloss=where.Rel|Relz=Word
 36	gwamnatìn	gwamnatì	NOUN	_	Definite=Def|Gender=Fem	37	subj	_	Gloss=government.Fem.Def
 37	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	35	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=mod|Relz=Affix
-38	nuːnà	nuːn-	VERB	_	_	37	comp:pred	_	Gloss=show
+38	nuːnà	nuːn-	VERB	_	_	37	comp:aux	_	Gloss=show
 39	waːriya	waːriyaː	NOUN	_	Gender=Fem	38	comp:obj	_	Gloss=separation.Fem|wordform=waːriyar̃
 40	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	39	mod/m	_	Gloss=Gen.Fem|SpaceBefore=No
 41	launì	launìː	NOUN	_	Gender=Masc	40	comp	_	Gloss=colour.Masc|wordform=launìn
@@ -212,7 +212,7 @@
 45	kuma	kuma	CCONJ	_	_	47	cc	_	Gloss=also
 46	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	47	subj/m	_	Gloss=3Fem-|SpaceAfter=No
 47	nàː	nàː	AUX	_	Aspect=Prog	25	conj:coord	_	Gloss=Prog|wordform=tanàː
-48	hulɗàː	hulɗàː	VERB	_	Gender=Fem	47	comp:pred	_	Gloss=dealing.Fem
+48	hulɗàː	hulɗàː	VERB	_	Gender=Fem	47	comp:aux	_	Gloss=dealing.Fem
 49	dà	dà	ADP	_	_	48	comp:obl	_	Gloss=with
 50	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	49	comp	_	Gloss=3Fem.Nom
 51	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
@@ -489,7 +489,7 @@
 13	daːmaː	daːmaː	NOUN	_	Gender=Fem	12	comp	_	Gloss=opportunity.Fem
 14	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	15	subj/m	_	Gloss=3Plur|SpaceAfter=No
 15	nàː	nàː	AUX	_	Aspect=Prog	7	comp:obj	_	Gloss=Prog|wordform=sunàː
-16	tsoːmà	tsoːm-	VERB	_	_	15	comp:pred	_	Gloss=soak
+16	tsoːmà	tsoːm-	VERB	_	_	15	comp:aux	_	Gloss=soak
 17	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	16	comp:obj	_	Gloss=mouth.Masc
 18	à	à	ADP	_	_	16	comp:obl	_	Gloss=at
 19	bàtûn	bàtuː	NOUN	_	Definite=Def|Gender=Masc	18	comp	_	Gloss=discussion.Masc.Def

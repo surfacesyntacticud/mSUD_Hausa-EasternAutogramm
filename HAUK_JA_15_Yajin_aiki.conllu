@@ -367,7 +367,7 @@
 22	gwamnatì	gwamnatì	NOUN	_	Gender=Fem	24	subj	_	Gloss=government.Fem
 23	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	24	subj/m	_	Gloss=3Fem-|SpaceAfter=No
 24	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	21	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=takèː
-25	kashèː	kas-	VERB	_	_	24	comp:pred	_	Gloss=kill|RelRole=obj
+25	kashèː	kas-	VERB	_	_	24	comp:aux	_	Gloss=kill|RelRole=obj
 26	wà	mà	ADP	_	Case=Dat	25	comp:obl	_	Gloss=Dat
 27	ilìmiː	ilìmiː	NOUN	_	Gender=Masc	26	comp	_	Gloss=education.Masc
 28	à	à	ADP	_	_	24	mod	_	Gloss=at
@@ -854,7 +854,7 @@
 10	taːsù	taːsù	PRON	_	Case=Gen|Gender=Fem|PronType=Prs	9	mod@poss	_	CaseAf=Gen|Gloss=Gen.Fem-3PlurGen|MSeg=taː-sù|NumberAf=Plur|PersonAf=3|wordform=taː
 11	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	12	subj/m	_	Gloss=3Fem-|SpaceAfter=No
 12	nàː	nàː	AUX	_	Aspect=Prog	8	comp	_	Gloss=Prog|wordform=tanàː
-13	bâi	bâː	VERB	_	_	12	comp:pred	_	Gloss=give
+13	bâi	bâː	VERB	_	_	12	comp:aux	_	Gloss=give
 14	wà	mà	ADP	_	Case=Dat	13	comp:obl	_	Gloss=Dat
 15	ma'àikàtaː	ma'àikàciː	NOUN	_	Number=Plur	14	comp	_	Gloss=worker.Plur
 16	'ya	ɗaː	NOUN	_	Number=Plur	15	mod	_	Compound=Yes|Gloss=child.Plur|wordform='yan

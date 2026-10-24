@@ -92,7 +92,7 @@
 3	ìdan	ìdan	SCONJ	_	_	40	mod	_	Gloss=if
 4	a-	a-	PRON	_	Person=4|PronType=Prs	5	subj/m	_	Gloss=4|SpaceAfter=No
 5	nàː	nàː	AUX	_	Aspect=Prog	3	comp	_	Gloss=Prog|wordform=anàː
-6	yi	yi	VERB	_	_	5	comp:pred	_	Gloss=do
+6	yi	yi	VERB	_	_	5	comp:aux	_	Gloss=do
 7	wà	mà	ADP	_	Case=Dat	6	comp:obl	_	Gloss=Dat
 8	mutàːneː	mùtûm	NOUN	_	Number=Plur	7	comp	_	Gloss=people.Plur
 9	dàbam	dàbam	ADJ	_	_	8	mod	_	Gloss=different
@@ -186,7 +186,7 @@
 5	namijì	namijì	NOUN	_	Gender=Masc	4	comp	_	Gloss=man.Masc
 6	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	7	subj/m	_	Gloss=3Fem-|SpaceAfter=No
 7	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog|wordform=tanàː
-8	iyà	iy-	VERB	_	_	7	comp:pred	_	Gloss=be_able_to
+8	iyà	iy-	VERB	_	_	7	comp:aux	_	Gloss=be_able_to
 9	baː	baː	VERB	_	_	8	comp:obj	_	Gloss=give
 10	-shì	-shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	9	comp:obj@R/m	_	Gloss=-3Masc.Acc|SpaceBefore=No|wordform=shì
 11	ƙwaːyoːyi	ƙwàːyaː	NOUN	_	Number=Plur	9	comp:obj@T	_	Gloss=virus.Plur|wordform=ƙwaːyoːyin

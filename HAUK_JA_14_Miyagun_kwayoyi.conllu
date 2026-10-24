@@ -748,7 +748,7 @@
 27	dà	dà	SCONJ	_	_	25	mod@relcl	_	Gloss=CompRel|Relz=Word
 28	a-	a-	PRON	_	Person=4|PronType=Prs	29	subj/m	_	Gloss=4|SpaceAfter=No
 29	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	27	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=pred|Relz=Affix|wordform=akề
-30	yi	yi	VERB	_	_	29	comp:pred	_	Gloss=do|RelPos=Yes
+30	yi	yi	VERB	_	_	29	comp:aux	_	Gloss=do|RelPos=Yes
 31	wà	mà	ADP	_	Case=Dat	30	comp:obl	_	Gloss=Dat
 32	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	34	det	_	Gloss=some.Masc.Spec
 33	bàbban	bàbba	ADJ	_	Gender=Masc	34	mod	_	Gloss=big.Masc
@@ -875,7 +875,7 @@
 5	har̃	har̃	ADV	_	_	7	mod	_	Gloss=even
 6	a-	a-	PRON	_	Person=4|PronType=Prs	7	subj/m	_	Gloss=4|SpaceAfter=No
 7	nàː	nàː	AUX	_	Aspect=Prog	4	comp:obj	_	Gloss=Prog|wordform=anàː
-8	rarràbà	rarrab-	VERB	_	_	7	comp:pred	_	Gloss=distribute
+8	rarràbà	rarrab-	VERB	_	_	7	comp:aux	_	Gloss=distribute
 9	hoːtunà	hòːtoː	NOUN	_	Number=Plur	8	comp:obj	_	Compound=Yes|Gloss=photocopy.Plur|wordform=hoːtunàn
 10	-n	na	PART	_	Case=Gen|PartType=Case	9	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 11	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	12	det	_	Gloss=some.Plur.Spec
