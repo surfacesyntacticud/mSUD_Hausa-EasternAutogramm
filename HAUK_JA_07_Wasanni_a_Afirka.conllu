@@ -444,7 +444,7 @@
 20	tun	tun	SCONJ	_	ExtPos=SCONJ	13	mod	_	Gloss=since|Idiom=Yes
 21	dà	dà	SCONJ	_	_	20	comp	_	Gloss=COMP|InIdiom=Yes
 22	ya	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	23	subj/m	_	Gloss=3Masc|InIdiom=Yes
-23	kè	nàː	AUX	_	Aspect=Prog	21	comp	_	Gloss=bePred.Rel2|InIdiom=Yes|Relative=Variante|wordform=yakè
+23	kè	nàː	AUX	_	Aspect=Prog|Copula=Yes	21	comp	_	Gloss=bePred.Rel2|InIdiom=Yes|Relative=Variante|wordform=yakè
 24	àboːkin-dambeː	àboːkin-dambeː	NOUN	_	Gender=Masc	34	subj	_	Compound=Yes|Gloss=boxing_competitor.Masc|wordform=àboːkin-damben
 25	-n	na	PART	_	Case=Gen|PartType=Case	24	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 26	Lasisi	Lasisi	PROPN	_	_	25	comp	_	Gloss=Lasisi

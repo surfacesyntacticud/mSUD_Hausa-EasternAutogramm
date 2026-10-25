@@ -364,7 +364,7 @@
 2	ꞌyàːꞌyàː	ꞌyàːꞌyàː	ADV	_	PronType=Int	0	root	_	Gloss=how
 3	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	5	subj	_	Gloss=thing.Masc.Def
 4	ya	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	Gloss=3Masc
-5	kè	nàː	AUX	_	Aspect=Prog	2	comp:cleft	_	ClauseType=Int|Gloss=bePred.Rel2|Relative=Variante|wordform=yakè
+5	kè	nàː	AUX	_	Aspect=Prog|Copula=Yes	2	comp:cleft	_	ClauseType=Int|Gloss=bePred.Rel2|Relative=Variante|wordform=yakè
 6	à	à	ADP	_	_	5	mod	_	Gloss=at
 7	ƙasa	ƙasaː	NOUN	_	Gender=Fem	6	comp	_	Gloss=country.Fem|wordform=ƙasar̃
 8	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	7	mod/m	_	Gloss=Gen.Fem|SpaceBefore=No
@@ -542,7 +542,7 @@
 42	koː	koː	SCONJ	_	ExtPos=SCONJ	29	mod	_	Gloss=even_if|Idiom=Yes
 43	dà	dà	SCONJ	_	_	42	comp	_	Gloss=COMP|InIdiom=Yes
 44	ya	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	45	subj/m	_	Gloss=3Masc|InIdiom=Yes
-45	kè	nàː	AUX	_	Aspect=Prog	43	comp	_	Gloss=bePred.Rel2|InIdiom=Yes|Relative=Variante|wordform=yakè
+45	kè	nàː	AUX	_	Aspect=Prog|Copula=Yes	43	comp	_	Gloss=bePred.Rel2|InIdiom=Yes|Relative=Variante|wordform=yakè
 46	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	47	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
 47	aː	aː	AUX	_	Aspect=Perf|Number=Sing	42	comp	_	Gloss=Perf.Sing
 48	cêː	cêː	VERB	_	_	47	comp:aux	_	Gloss=say

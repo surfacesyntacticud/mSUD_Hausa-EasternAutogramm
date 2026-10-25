@@ -210,7 +210,7 @@
 27	-n	na	PART	_	Case=Gen|PartType=Case	26	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 28	ƙàwànceː	ƙàwànceː	NOUN	_	Gender=Masc	27	comp	_	Gloss=coalition.Masc
 29	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	30	subj/m	_	Gloss=3Plur-|SpaceAfter=No
-30	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	25	comp	_	ClauseType=Rel|Gloss=be.Rel|Relz=Affix|wordform=sukèː
+30	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	25	comp	_	ClauseType=Rel|Gloss=be.Rel|Relz=Affix|wordform=sukèː
 31	Ø	yi	VERB	_	_	30	comp:aux	_	Gloss=do|RelRole=pred
 32	wà	mà	ADP	_	Case=Dat	31	comp:obl	_	Gloss=Dat
 33	Ìr̃aːƙì	Ìr̃aːƙì	PROPN	_	_	32	comp	_	Gloss=Irak

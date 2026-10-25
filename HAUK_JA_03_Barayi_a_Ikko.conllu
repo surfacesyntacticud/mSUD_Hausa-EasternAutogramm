@@ -360,7 +360,7 @@
 26	koː	koː	SCONJ	_	ExtPos=SCONJ	5	mod	_	Gloss=even_if|Idiom=Yes
 27	dà	dà	SCONJ	_	_	26	comp	_	Gloss=COMP|InIdiom=Yes
 28	ya	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	29	subj/m	_	Gloss=3Masc|InIdiom=Yes
-29	kè	nàː	AUX	_	Aspect=Prog	27	comp	_	Gloss=bePred.Rel2|InIdiom=Yes|Relative=Variante|wordform=yakè
+29	kè	nàː	AUX	_	Aspect=Prog|Copula=Yes	27	comp	_	Gloss=bePred.Rel2|InIdiom=Yes|Relative=Variante|wordform=yakè
 30	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	31	det	_	Gloss=ProxS.Masc
 31	adàdiː	adàdiː	NOUN	_	Gender=Masc	32	subj	_	Gloss=total.Masc
 32	bà	bà	AUX	_	Aspect=Perf|Polarity=Neg	26	comp	_	Gloss=Neg.Perf|wordform=bà-
