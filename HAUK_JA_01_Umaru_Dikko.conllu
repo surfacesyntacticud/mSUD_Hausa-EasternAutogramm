@@ -35,7 +35,7 @@
 6	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	5	comp	_	Gloss=Gen
 7	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	6	comp	_	Gloss=Nigeria
 8	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	9	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
-9	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing
+9	aː	aː	AUX	_	Aspect=Perf|Number=Sing	0	root	_	Gloss=Perf.Sing
 10	tseːrèː	tseːr-	VERB	_	_	9	comp:aux	_	Gloss=flee
 11	neː	neː	PART	_	PartType=Foc	10	discourse@foc	_	Gloss=Emph
 12	dàgà	dàgà	ADP	_	_	10	comp:obl	_	Gloss=from
@@ -47,7 +47,7 @@
 18	dà	dà	SCONJ	_	_	15	mod@relcl	_	Gloss=CompRel|Relz=Word
 19	soːjà	soːjà	NOUN	_	Number=Plur	21	subj	_	Gloss=soldiers.Plur
 20	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	21	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
-21	kà	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	18	comp	_	Gloss=Perf.Rel.Plur|Relz=Affix
+21	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	18	comp	_	Gloss=Perf.Rel.Plur|Relz=Affix
 22	yi	yi	VERB	_	_	21	comp:aux	_	ClauseType=Rel|Gloss=do|RelRole=pred
 23	à	à	ADP	_	_	22	comp:obl	_	Gloss=at
 24	wata	wataː	NOUN	_	Gender=Masc	23	comp	_	Gloss=month.Masc|wordform=watan
@@ -67,7 +67,7 @@
 38	,	,	PUNCT	_	_	39	punct	_	Gloss=PUNCT
 39	indà	indà	ADV	_	ExtPos=SCONJ|PronType=Rel	24	mod:appos@relcl	_	Gloss=where.Rel|Relz=Word
 40	a-	a	PRON	_	Person=4|PronType=PrsSubj	41	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
-41	kà	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	39	comp:obj	_	Gloss=Perf.Rel.Plur|Relz=Affix
+41	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	39	comp:obj	_	Gloss=Perf.Rel.Plur|Relz=Affix
 42	hamɓarar̃	hamɓar-	VERB	_	Voice=Cau	41	comp:aux	_	ClauseType=Rel|Gloss=overthrow.Cau|RelRole=mod
 43	dà	dà	ADP	_	_	42	comp:obl	_	Gloss=with
 44	gwamnat	gwamnatì	NOUN	_	Gender=Fem	43	comp	_	Gloss=government.Fem|wordform=gwamnatìn
@@ -89,13 +89,13 @@
 4	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 5-6	ya=	_	_	_	_	_	_	_	_
 5	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
-6	Ø	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=UNDERSCORE
+6	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=UNDERSCORE
 7	tsallàkaː	tsallak-	VERB	_	_	6	comp:aux	_	Gloss=cross_over
 8	kân	kân	ADP	_	_	7	comp:obl	_	Gloss=on
 9	iyàːkaː	iyàːkaː	NOUN	_	Gender=Fem	8	comp	_	Gloss=border.Fem
 10-11	ya=	_	_	_	_	_	_	_	_
 10	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	11	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
-11	Ø	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	6	parataxis:conj	_	Gloss=Perf.Rel.Sing|wordform=UNDERSCORE
+11	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	6	parataxis:conj	_	Gloss=Perf.Rel.Sing|wordform=UNDERSCORE
 12	shìga	shig-	VERB	_	_	11	comp:aux	_	Gloss=enter
 13	cikin	cikin	ADP	_	_	12	comp:obl	_	Gloss=inside
 14	ƙasa	ƙasaː	NOUN	_	Gender=Fem	13	comp	_	Gloss=country.Fem|wordform=ƙasar̃
@@ -105,12 +105,12 @@
 18	ƙiːlà	ƙiːlà	ADV	_	_	19	mod	_	Gloss=maybe
 19	baːyan	baːyan	SCONJ	_	_	12	mod	_	Gloss=after
 20	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	21	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
-21	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	19	comp	_	Gloss=Perf.Sing
+21	aː	aː	AUX	_	Aspect=Perf|Number=Sing	19	comp	_	Gloss=Perf.Sing
 22	ɓad	ɓat-	VERB	_	Voice=Cau	21	comp:aux	_	Gloss=dispose_of.Cau
 23	dà	dà	ADP	_	_	22	mod	_	Gloss=with
 24	kàmaː	kàmaː	NOUN	_	Gender=Fem	23	comp	_	Gloss=appearance.Fem
 25	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	26	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
-26	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	21	parataxis:conj	_	Gloss=Perf.Sing
+26	aː	aː	AUX	_	Aspect=Perf|Number=Sing	21	parataxis:conj	_	Gloss=Perf.Sing
 27	yi	yi	VERB	_	_	26	comp:aux	_	Gloss=do
 28	shìgaː	shig-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	27	comp:pred	_	Gloss=enter.VNoun.Fem
 29	irì	irìː	NOUN	_	Gender=Masc	28	mod	_	Gloss=type_of.Masc|wordform=irìn
@@ -125,7 +125,7 @@
 # text_ortho = Baːyan yaː yi kwaːnaː ukù à can nèː ya zoː nân Landàn à jirgin samà.
 1	baːyan	baːyan	SCONJ	_	_	11	mod	_	Gloss=after
 2	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
-3	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	1	comp	_	Gloss=Perf.Sing
+3	aː	aː	AUX	_	Aspect=Perf|Number=Sing	1	comp	_	Gloss=Perf.Sing
 4	yi	yi	VERB	_	_	3	comp:aux	_	Gloss=do
 5	kwaːnaː	kwaːnaː	NOUN	_	Gender=Masc	4	comp:pred	_	Gloss=day.Masc
 6	ukù	ukù	NUM	_	_	5	mod:num	_	Gloss=three
@@ -134,7 +134,7 @@
 9	nèː	neː	PART	_	PartType=Foc	1	discourse@foc	_	Gloss=Emph
 10-11	ya=	_	_	_	_	_	_	_	_
 10	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	11	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
-11	Ø	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=UNDERSCORE
+11	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=UNDERSCORE
 12	zoː	zoː	VERB	_	_	11	comp:aux	_	ClauseType=Cleft|Gloss=go
 13	nân	nân	ADV	_	Deixis=ProxS|PronType=Dem	12	comp:obj@G	_	Gloss=ProxS
 14	Landàn	Landàn	PROPN	_	Definite=Def|Gender=Masc	13	conj:appos	_	Gloss=London
@@ -159,7 +159,7 @@
 9	Dikkò	Dikkò	PROPN	_	_	8	flat@name	_	Gloss=Dikko
 10-11	ya=	_	_	_	_	_	_	_	_
 10	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	11	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
-11	Ø	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=UNDERSCORE
+11	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=UNDERSCORE
 12	kai	kai	VERB	_	_	11	comp:aux	_	Gloss=reach/carry_to
 13	gà	gà	ADP	_	_	12	comp:obl	_	Gloss=to
 14	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	16	det	_	Gloss=some.Masc.Spec
@@ -168,7 +168,7 @@
 17	baːyân	baːyân	SCONJ	_	ExtPos=SCONJ	12	mod	_	Gloss=after|Idiom=Yes
 18	dà	dà	SCONJ	_	_	17	comp	_	Gloss=COMP|InIdiom=Yes
 19	a-	a	PRON	_	Person=4|PronType=PrsSubj	20	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
-20	kà	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	18	comp	_	Gloss=Perf.Rel.Plur
+20	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	18	comp	_	Gloss=Perf.Rel.Plur
 21	yi	yi	VERB	_	_	20	comp:aux	_	Gloss=do
 22	ƙòːƙari	ƙòːƙariː	NOUN	_	Gender=Masc	21	comp:pred	_	Gloss=effort.Masc|wordform=ƙòːƙarin
 23	-n	na	PART	_	Case=Gen|PartType=Case	22	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
@@ -184,14 +184,14 @@
 # text_ortho = Waɗàndà sukà yi niyyàr̃ saːcèː shîn sun cafkèː shi à kân tiːtìn Landàn, sukà sâː masà ankwàː, sukà ɗuːràː masà ƙwàːyaː, sànnan sukà sâː shi à cikin wani kaːtòn àkwàːtì, sukà sâː ƙuːsàː sukà rufèː àkwàːtìn gam, sunàː shirin kai shì Nàːjeːr̃iyàː.
 1	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	10	subj	_	Gloss=Pron.Plur.Rel|RelAnt=Yes|Relz=Word
 2	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	3	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
-3	kà	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	1	mod@relcl	_	Gloss=Perf.Rel.Plur|Relz=Affix
+3	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	1	mod@relcl	_	Gloss=Perf.Rel.Plur|Relz=Affix
 4	yi	yi	VERB	_	_	3	comp:aux	_	ClauseType=Rel|Gloss=do
 5	niyyà	niyyàː	NOUN	_	Gender=Fem	4	comp:pred	_	Gloss=attempt.Fem|wordform=niyyàr̃
 6	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	5	mod/m	_	Gloss=Gen.Fem|SpaceBefore=No
 7	saːcèː	saːt-	VERB	_	_	6	comp	_	Gloss=kidnap
 8	-shîn	-shi	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Person=3|PronType=Prs	7	comp:obj/m	_	Gloss=-3Sing.Acc.Def|RelPos=Yes|SpaceBefore=No|wordform=shîn
 9	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	10	subj/m	_	Gloss=3Plur|SpaceAfter=No|wordform=sun
-10	n	aː	AUX	_	Aspect=Perf|Copula=No|Number=Plur	0	root	_	Gloss=Perf.Plur
+10	n	aː	AUX	_	Aspect=Perf|Number=Plur	0	root	_	Gloss=Perf.Plur
 11	cafkèː	cafk-	VERB	_	_	10	comp:aux	_	Gloss=seize
 12	-shi	-shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	11	comp:obj/m	_	Gloss=-3Masc.Acc|SpaceBefore=No|wordform=shi
 13	à	à	ADP	_	_	11	comp:obl	_	Gloss=at
@@ -201,20 +201,20 @@
 17	Landàn	Landàn	PROPN	_	_	16	comp	_	Gloss=London
 18	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
 19	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	20	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
-20	kà	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	10	parataxis:conj	_	Gloss=Perf.Rel.Plur
+20	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	10	parataxis:conj	_	Gloss=Perf.Rel.Plur
 21	sâː	sâː	VERB	_	_	20	comp:aux	_	Gloss=put
 22	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	21	comp:obl	_	Gloss=3Masc.Dat
 23	ankwàː	ankwàː	NOUN	_	Gender=Fem	21	comp:obj	_	Gloss=handcuffs.Fem
 24	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
 25	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	26	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
-26	kà	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	20	parataxis:conj	_	Gloss=Perf.Rel.Plur
+26	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	20	parataxis:conj	_	Gloss=Perf.Rel.Plur
 27	ɗuːràː	ɗuːr-	VERB	_	_	26	comp:aux	_	Gloss=pour
 28	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	27	comp:obl	_	Gloss=3Masc.Dat
 29	ƙwàːyaː	ƙwàːyaː	NOUN	_	Gender=Fem	27	comp:obj	_	Gloss=drugs.Fem
 30	,	,	PUNCT	_	_	33	punct	_	Gloss=PUNCT
 31	sànnan	sànnan	ADV	_	_	33	mod	_	Gloss=then
 32	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	33	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
-33	kà	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	26	parataxis:conj	_	Gloss=Perf.Rel.Plur
+33	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	26	parataxis:conj	_	Gloss=Perf.Rel.Plur
 34	sâː	sâː	VERB	_	_	33	comp:aux	_	Gloss=put
 35	-shi	-shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	34	comp:obj/m	_	Gloss=-3Masc.Acc|SpaceBefore=No|wordform=shi
 36	à	à	ADP	_	_	34	comp:obl	_	Gloss=at
@@ -224,11 +224,11 @@
 40	àkwàːtì	àkwàːtì	NOUN	_	Gender=Masc	37	comp	_	Gloss=box.Masc
 41	,	,	PUNCT	_	_	43	punct	_	Gloss=PUNCT
 42	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	43	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
-43	kà	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	33	parataxis:conj	_	Gloss=Perf.Rel.Plur
+43	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	33	parataxis:conj	_	Gloss=Perf.Rel.Plur
 44	sâː	sâː	VERB	_	_	43	comp:aux	_	Gloss=put
 45	ƙuːsàː	ƙuːsàː	NOUN	_	Gender=Fem	44	comp:obj	_	Gloss=nail.Fem
 46	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	47	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
-47	kà	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	43	parataxis:conj	_	Gloss=Perf.Rel.Plur
+47	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	43	parataxis:conj	_	Gloss=Perf.Rel.Plur
 48	rufèː	ruf-	VERB	_	_	47	comp:aux	_	Gloss=close
 49	àkwàːtìn	àkwàːtì	NOUN	_	Definite=Def|Gender=Masc	48	comp:obj	_	Gloss=box.Masc.Def
 50	gam	gam	IDEO	_	_	48	mod	_	Gloss=tight
@@ -251,7 +251,7 @@
 3	àkwàːtìn	àkwàːtì	NOUN	_	Definite=Def|Gender=Masc	2	comp	_	Gloss=box.Masc.Def
 4	sai	sai	ADV	_	_	6	mod	_	Gloss=then
 5	a-	a	PRON	_	Person=4|PronType=PrsSubj	6	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
-6	kà	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur
+6	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur
 7	r̃ubùːtaː	r̃ubuːt-	NOUN	_	_	6	comp:aux	_	Gloss=write
 8	"	"	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 9	zuwàː	zuwàː	ADP	_	_	7	comp:obj	_	Gloss=towards
@@ -290,7 +290,7 @@
 4	indà	indà	ADV	_	PronType=Rel	3	comp	_	Gloss=where.Rel|RelAnt=Yes|Relz=Word
 5-6	ya=	_	_	_	_	_	_	_	_
 5	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
-6	Ø	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	4	mod@relcl	_	Gloss=Perf.Rel.Sing|Relz=Affix|wordform=UNDERSCORE
+6	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	4	mod@relcl	_	Gloss=Perf.Rel.Sing|Relz=Affix|wordform=UNDERSCORE
 7	kàmaːtà	kamaːt-	VERB	_	_	6	comp:aux	_	ClauseType=Rel|Gloss=be_appropriate
 8	a-	a	PRON	_	Person=4|PronType=PrsSubj	9	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
 9	_̀	_̀	AUX	_	Copula=No|Mood=Sub	7	comp:obj@agent	_	Gloss=Sub|wordform=_̀=
@@ -298,7 +298,7 @@
 11	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	10	comp:obj	_	Gloss=Pron.Masc.Rel|RelAnt=Yes|Relz=Word
 12-13	ya=	_	_	_	_	_	_	_	_
 12	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	13	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
-13	Ø	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	11	mod@relcl	_	Gloss=Perf.Rel.Sing|Relz=Affix|wordform=UNDERSCORE
+13	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	11	mod@relcl	_	Gloss=Perf.Rel.Sing|Relz=Affix|wordform=UNDERSCORE
 14	aikàː	aik-	VERB	_	_	13	comp:aux	_	ClauseType=Rel|Gloss=send|RelRole=obj
 15	dà	dà	ADP	_	_	14	comp:obl	_	Gloss=with
 16	àkwàːtìn	àkwàːtì	NOUN	_	Definite=Def|Gender=Masc	15	comp	_	Gloss=box.Masc.Def
@@ -306,7 +306,7 @@
 18	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 19	sai	sai	ADV	_	_	21	mod	_	Gloss=then
 20	a-	a	PRON	_	Person=4|PronType=PrsSubj	21	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
-21	kà	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur
+21	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur
 22	r̃ubùːtà	r̃ubuːt-	VERB	_	_	21	comp:aux	_	Gloss=write
 23	oːfishi	oːfishiː	NOUN	_	Gender=Masc	22	comp:obj	_	Gloss=office.Masc|wordform=oːfishin
 24	-n	na	PART	_	Case=Gen|PartType=Case	23	mod/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
@@ -327,7 +327,7 @@
 2	Allàh	Allàh	PROPN	_	_	4	subj	_	Gloss=Allàh
 3-4	ya=	_	_	_	_	_	_	_	_
 3	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
-4	Ø	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	1	mod@relcl	_	Gloss=Perf.Rel.Sing|Relz=Affix|wordform=UNDERSCORE
+4	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	1	mod@relcl	_	Gloss=Perf.Rel.Sing|Relz=Affix|wordform=UNDERSCORE
 5	ɗigàː	ɗig-	VERB	_	_	4	comp:aux	_	ClauseType=Rel|Gloss=pour|RelRole=mod
 6	wà	mà	ADP	_	Case=Dat	5	comp:obl	_	Gloss=Dat
 7	gàːri	gàːriː	NOUN	_	Gender=Masc	6	comp	_	Gloss=cassava_flour.Masc|wordform=gàːrin
@@ -340,7 +340,7 @@
 14	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	15	det	_	Gloss=ProxS.Masc
 15	àkwàːtì	àkwàːtì	NOUN	_	Gender=Masc	17	subj	_	Gloss=box.Masc
 16	dai	dai	PART	_	PartType=Top	15	discourse@top	_	Gloss=anyway
-17	bà	bà	AUX	_	Aspect=Perf|Copula=No|Polarity=Neg	12	comp:cleft	_	Gloss=Neg.Perf|wordform=bà-
+17	bà	bà	AUX	_	Aspect=Perf|Polarity=Neg	12	comp:cleft	_	Gloss=Neg.Perf|wordform=bà-
 18	-ì	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	17	subj/m	_	Gloss=-3Masc|SpaceBefore=No|wordform=bài
 19	sàːmi	saːm-	VERB	_	_	17	comp:aux	_	ClauseType=cleft|Gloss=get
 20	taːshìː	taːs-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	19	comp:obj	_	Gloss=rise.Vnoun.Masc
@@ -387,7 +387,7 @@
 30	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	29	comp	_	Gloss=Nigeria
 31	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
 32	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	33	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sukà
-33	kà	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur
+33	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur
 34	amsà	ams-	VERB	_	_	33	comp:aux	_	Gloss=answer
 35	lâifi	lâifiː	NOUN	_	Gender=Masc	34	comp:obj	_	Gloss=crime.Masc|wordform=lâifin
 36	-n	na	PART	_	Case=Gen|PartType=Case	35	mod/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
@@ -404,7 +404,7 @@
 # text_ortho = Tùni akà yankèː musù hukuncìn daurìː mài tsawoː à kûr̃kukùː.
 1	tùni	tùni	ADV	_	_	3	mod	_	Gloss=long_ago
 2	a-	a	PRON	_	Person=4|PronType=PrsSubj	3	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=akà
-3	kà	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur
+3	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur
 4	yankèː	yank-	VERB	_	_	3	comp:aux	_	Gloss=cut
 5	musù	musù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	4	comp:obl	_	Gloss=3Plur.Dat
 6	hukuncì	hukuncìː	NOUN	_	Gender=Masc	4	comp:obj	_	Gloss=sentence.Masc|wordform=hukuncìn
@@ -428,10 +428,10 @@
 6	mài	mài	PART	_	Number=Sing|PartType=Der	9	subj	_	Gloss=owner_of.Sing
 7	shàr̃iꞌàː	shàr̃iꞌàː	NOUN	_	Gender=Fem	6	compound	_	Gloss=justice.Fem
 8	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	9	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
-9	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing
+9	aː	aː	AUX	_	Aspect=Perf|Number=Sing	0	root	_	Gloss=Perf.Sing
 10	cêː	cêː	VERB	_	_	9	comp:aux	_	Gloss=say
 11	a-	a	PRON	_	Person=4|PronType=PrsSubj	12	subj/m	_	Gloss=4|SpaceAfter=No|wordform=an
-12	n	aː	AUX	_	Aspect=Perf|Copula=No|Number=Plur	10	comp:obj	_	Gloss=Perf.Plur
+12	n	aː	AUX	_	Aspect=Perf|Number=Plur	10	comp:obj	_	Gloss=Perf.Plur
 13	bayyànà	bayyan-	VERB	_	_	12	comp:aux	_	Gloss=describe
 14	Ùːmar̃ù	Ùːmar̃ù	PROPN	_	_	13	comp:obj	_	Gloss=Umaru
 15	Dikkò	Dikkò	PROPN	_	_	14	flat@name	_	Gloss=Dikko
@@ -444,7 +444,7 @@
 22	ɓàraːwòː	ɓàraːwòː	NOUN	_	Gender=Masc	23	comp:pred	_	Gloss=thief.Masc|RelAnt=Yes
 23	neː	neː	AUX	_	Copula=Yes	17	comp	_	Gloss=Equ.Masc/Plur
 24	dà	dà	SCONJ	_	_	22	mod@relcl	_	Gloss=CompRel|Relz=Word
-25	bà	bà	AUX	_	Aspect=Perf|Copula=No|Polarity=Neg	24	comp	_	Gloss=Neg.Perf|wordform=bà-
+25	bà	bà	AUX	_	Aspect=Perf|Polarity=Neg	24	comp	_	Gloss=Neg.Perf|wordform=bà-
 26	-'à	a	PRON	_	Person=4|PronType=PrsSubj	25	subj/m	_	Gloss=-4|SpaceBefore=No|wordform=bà'à
 27	taɓà	taɓ-	VERB	_	_	25	comp:aux	_	ClauseType=Rel|Gloss=have_already
 28	yî	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	27	comp:obj	_	Compound=Yes|Gloss=do.Vnoun.Masc.|wordform=yîn
@@ -485,7 +485,7 @@
 20	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	19	comp	_	Gloss=Nigeria
 21-22	ta=	_	_	_	_	_	_	_	_
 21	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	22	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=ta
-22	Ø	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=UNDERSCORE
+22	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=UNDERSCORE
 23	bùkàːci	bukaːt-	VERB	_	_	22	comp:aux	_	Gloss=require
 24	Bìr̃taːniyà	Bìr̃taːniyà	PROPN	_	_	26	subj	_	Gloss=Great_Britain
 25	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	26	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tà
@@ -537,12 +537,12 @@
 14	Ùːmar̃ù	Ùːmar̃ù	PROPN	_	_	17	subj	_	Gloss=Umaru
 15	Dikkò	Dikkò	PROPN	_	_	14	flat@name	_	Gloss=Dikko
 16	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	17	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
-17	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing
+17	aː	aː	AUX	_	Aspect=Perf|Number=Sing	0	root	_	Gloss=Perf.Sing
 18	shaː	shaː	VERB	_	_	17	comp:aux	_	Gloss=keep_doing
 19	naːnàːtà	naːnaːt-	VERB	_	_	18	comp:obj	_	Gloss=repeat
 20	cêːwaː	cêːwaː	SCONJ	_	_	19	comp:obj	_	Gloss=COMP|wordform=cêwaː
 21	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	22	subj	_	Gloss=3Masc.Nom
-22	bà	bà	AUX	_	Aspect=Perf|Copula=No|Polarity=Neg	20	comp	_	Gloss=Neg.Perf|wordform=bà-
+22	bà	bà	AUX	_	Aspect=Perf|Polarity=Neg	20	comp	_	Gloss=Neg.Perf|wordform=bà-
 23	-ì	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	22	subj/m	_	Gloss=-3Masc|SpaceBefore=No|wordform=bài
 24	sàːci	saːt-	VERB	_	_	22	comp:aux	_	Gloss=steal
 25	kuɗiː	kuɗiː	NOUN	_	Gender=Masc	24	comp:obj	_	Gloss=money.Masc
@@ -569,7 +569,7 @@
 46	zàrgi	zarg-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	45	comp:aux	_	Compound=Yes|Gloss=accuse.Vnoun.Masc.|wordform=zàrgin
 47	-n	na	PART	_	Case=Gen|PartType=Case	46	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 48	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	49	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
-49	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	47	comp	_	Gloss=Perf.Sing
+49	aː	aː	AUX	_	Aspect=Perf|Number=Sing	47	comp	_	Gloss=Perf.Sing
 50	aikàtaː	aikat-	VERB	_	_	49	comp:aux	_	Gloss=do|RelRole=obj
 51	.	.	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 
@@ -579,11 +579,11 @@
 # text_ortho = Ya cèː shiː yaː càncànci à ɗàukeː shì à matsayin ɗan gudùn hijir̃aː à nân Bìr̃taːniyà, yanà mài cêwaː zâi kasànceː cikin wani mùmmuːnan haɗàr̃iː ìdan ya koːmàː gidaː Nàjeːr̃iyàː.
 1-2	ya=	_	_	_	_	_	_	_	_
 1	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	2	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
-2	Ø	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=UNDERSCORE
+2	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=UNDERSCORE
 3	cèː	cêː	VERB	_	Gender=Fem	2	comp:aux	_	Gloss=be.Fem
 4	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	6	dislocated@subj	_	Gloss=3Masc.Nom
 5	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
-6	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	3	comp:obj	_	Gloss=Perf.Sing
+6	aː	aː	AUX	_	Aspect=Perf|Number=Sing	3	comp:obj	_	Gloss=Perf.Sing
 7	càncànci	cancant-	VERB	_	_	6	comp:aux	_	Gloss=be_appropriate
 8	a-	a	PRON	_	Person=4|PronType=PrsSubj	9	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
 9	_̀	_̀	AUX	_	Copula=No|Mood=Sub	7	comp:obj@agent	_	Gloss=Sub|wordform=_̀=
@@ -616,7 +616,7 @@
 12	ìdan	ìdan	SCONJ	_	_	7	mod	_	Gloss=if
 13-14	ya=	_	_	_	_	_	_	_	_
 13	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	14	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
-14	Ø	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	12	comp	_	Gloss=Perf.Rel.Sing|wordform=UNDERSCORE
+14	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	12	comp	_	Gloss=Perf.Rel.Sing|wordform=UNDERSCORE
 15	koːmàː	koːm-	VERB	_	_	14	comp:aux	_	Gloss=go_(back)_to
 16	gidaː	gidaː	NOUN	_	Gender=Masc	15	comp:obj@G	_	Gloss=home.Masc
 17	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	16	mod	_	Gloss=Nigeria
@@ -632,7 +632,7 @@
 4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=CompRel|Relz=Word
 5-6	ya=	_	_	_	_	_	_	_	_
 5	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
-6	Ø	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	4	comp	_	Gloss=Perf.Rel.Sing|Relz=Affix|wordform=UNDERSCORE
+6	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	4	comp	_	Gloss=Perf.Rel.Sing|Relz=Affix|wordform=UNDERSCORE
 7	kai	kai	VERB	_	_	6	comp:aux	_	ClauseType=Rel|Gloss=reach/carry_to|RelRole=mod
 8	ƙaːra	ƙaːraː	NOUN	_	Gender=Fem	7	comp:obj	_	Gloss=complaint.Fem|wordform=ƙaːrar̃
 9	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	8	mod/m	_	Gloss=Gen.Fem|SpaceBefore=No
@@ -652,7 +652,7 @@
 23	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	0	root	_	Gloss=say.Vnoun.Fem|wordform=cêwaː
 24-25	ya=	_	_	_	_	_	_	_	_
 24	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	25	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
-25	Ø	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	23	comp:cleft	_	Gloss=Perf.Rel.Sing|wordform=UNDERSCORE
+25	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	23	comp:cleft	_	Gloss=Perf.Rel.Sing|wordform=UNDERSCORE
 26	yi	yi	VERB	_	_	25	comp:aux	_	ClauseType=Cleft|Gloss=do
 27	,	,	PUNCT	_	_	36	punct	_	Gloss=PUNCT
 28	"	"	PUNCT	_	_	36	punct	_	Gloss=PUNCT
@@ -708,7 +708,7 @@
 16	neː	neː	PART	_	PartType=Foc	15	discourse@foc	_	Gloss=Emph
 17-18	ya=	_	_	_	_	_	_	_	_
 17	ya-	ya	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	18	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
-18	Ø	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	15	comp:cleft	_	Gloss=Perf.Rel.Sing|wordform=UNDERSCORE
+18	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	15	comp:cleft	_	Gloss=Perf.Rel.Sing|wordform=UNDERSCORE
 19	sâː	sâː	VERB	_	_	18	comp:aux	_	ClauseType=Cleft|Gloss=cause
 20	ya	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	21	subj/m	_	Gloss=3Masc
 21	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	19	comp:obj	_	Gloss=Prog.Rel|wordform=yakèː
@@ -742,7 +742,7 @@
 10	Dove-Edwin	Dove-Edwin	PROPN	_	_	9	flat@name	_	Gloss=Dove-Edwin
 11	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 12	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	13	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
-13	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing
+13	aː	aː	AUX	_	Aspect=Perf|Number=Sing	0	root	_	Gloss=Perf.Sing
 14	fàďaː	faɗ-	VERB	_	_	13	comp:aux	_	Gloss=say
 15	à	à	ADP	_	_	14	mod	_	Gloss=at
 16	bàːra	bàːra	ADV	_	_	15	comp	_	Gloss=last_year
@@ -759,7 +759,7 @@
 27	cêːwaː	cêːwaː	SCONJ	_	_	26	comp:obj	_	Gloss=COMP|wordform=cêwaː
 28	ìdan	ìdan	SCONJ	_	_	33	mod	_	Gloss=if
 29	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	30	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
-30	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	28	comp	_	Gloss=Perf.Sing
+30	aː	aː	AUX	_	Aspect=Perf|Number=Sing	28	comp	_	Gloss=Perf.Sing
 31	koːmàː	koːm-	VERB	_	_	30	comp:aux	_	Gloss=go_(back)_to
 32	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	31	comp:obj@G	_	Gloss=Nigeria
 33	kashèː	kas-	VERB	_	_	27	comp	_	Gloss=kill
@@ -790,7 +790,7 @@
 15	-n	na	PART	_	Case=Gen|PartType=Case	14	mod/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 16	Bìr̃taːniyà	Bìr̃taːniyà	PROPN	_	_	15	comp	_	Gloss=Great_Britain
 17	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	18	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yaː
-18	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing
+18	aː	aː	AUX	_	Aspect=Perf|Number=Sing	0	root	_	Gloss=Perf.Sing
 19	gayàː	gay-	VERB	_	_	18	comp:aux	_	Gloss=tell
 20	wà	mà	ADP	_	Case=Dat	19	comp:obl	_	Gloss=Dat
 21	Ùːmar̃ù	Ùːmar̃ù	PROPN	_	_	20	comp	_	Gloss=Umaru
@@ -804,7 +804,7 @@
 29	-n	na	PART	_	Case=Gen|PartType=Case	28	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 30	dai	dai	PART	_	PartType=Top	28	discourse@top	_	Gloss=anyway
 31	k-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	32	subj/m	_	Gloss=2Masc|SpaceAfter=No|wordform=kaː
-32	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	29	comp	_	Gloss=Perf.Sing
+32	aː	aː	AUX	_	Aspect=Perf|Number=Sing	29	comp	_	Gloss=Perf.Sing
 33	tseːroː	tseːr-	VERB	_	_	32	comp:aux	_	Gloss=flee
 34	dàgà	dàgà	ADP	_	_	33	comp:obl	_	Gloss=from
 35	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	34	comp	_	Gloss=Nigeria
@@ -813,7 +813,7 @@
 38	wai	wai	PART	_	Evident=Nfh	39	discourse	_	Gloss=reportedly
 39	don	don	SCONJ	_	_	33	mod	_	Gloss=because
 40	ka	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	41	subj/m	_	Gloss=2Masc
-41	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	39	comp	_	Gloss=Prog|wordform=kanàː
+41	nàː	nàː	AUX	_	Aspect=Prog	39	comp	_	Gloss=Prog|wordform=kanàː
 42	tsòːro	tsòːroː	NOUN	_	Gender=Masc	41	comp:pred	_	Gloss=fear.Masc|wordform=tsòːron
 43	-n	na	PART	_	Case=Gen|PartType=Case	42	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 44	zâː	zâː	AUX	_	Copula=No|Tense=Fut	43	comp	_	Gloss=Fut|wordform=zaː-
@@ -825,7 +825,7 @@
 50	sai	sai	CCONJ	_	_	51	cc	_	Gloss=but_only
 51	don	don	SCONJ	_	_	39	conj:coord	_	Gloss=because
 52	ka	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	53	subj/m	_	Gloss=2Masc
-53	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	51	comp	_	Gloss=Prog|wordform=kanàː
+53	nàː	nàː	AUX	_	Aspect=Prog	51	comp	_	Gloss=Prog|wordform=kanàː
 54	tsòːro	tsòːroː	NOUN	_	Gender=Masc	53	comp:pred	_	Gloss=fear.Masc|wordform=tsòːron
 55	-n	na	PART	_	Case=Gen|PartType=Case	54	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 56	zâː	zâː	AUX	_	Copula=No|Tense=Fut	55	comp	_	Gloss=Fut|wordform=zaː-
