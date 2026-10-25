@@ -255,7 +255,7 @@
 # sent_id = 14_Miyagun_kwayoyi_7
 # text_en = The agendy added that that it is searching for a suspect who is thought to be in America now.
 # text_ortho = Hùkuːmàr̃ taː kuma cêː anàː ƙòːkarin neːman wani dà akèː zàrgiː, wàndà kuma akèː jîn cêːwaː yanàː Amìr̃kà yànzu.
-# text = hùkuːmàr̃ t-aː= kuma cêː a-nàː ƙòːkari-n neːma-n wani dà a-kèː zàrgiː, wàndà kuma a-kèː jî-n cêːwaː ya-nàː Amìr̃kà yànzu.
+# text = hùkuːmàr̃ t-aː kuma cêː a-nàː ƙòːkari -n neːma -n wani dà a-kèː zàrgiː , wàndà kuma a-kèː jî -n cêːwaː ya nàː Amìr̃kà yànzu .
 1	hùkuːmàr̃	hùkuːmàː	NOUN	_	Definite=Def|Gender=Fem	3	subj	_	Gloss=agency.Fem.Def
 2	t-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	3	subj/m	_	Gloss=3Fem|SpaceAfter=No|wordform=taː
 3	aː	aː	AUX	_	Aspect=Perf|Number=Sing	0	root	_	Gloss=Perf.Sing
@@ -280,7 +280,7 @@
 22	jî	ji	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	21	comp:aux	_	Gloss=hear.Vnoun.Masc|wordform=jîn
 23	-n	na	PART	_	Case=Gen|PartType=Case	22	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 24	cêːwaː	cêːwaː	SCONJ	_	_	23	comp	_	Gloss=COMP
-25	ya-	ya	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=PrsSubj	26	subj/m	_	Gloss=3Masc|SpaceAfter=No
+25	ya	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	26	subj/m	_	Gloss=3Masc
 26	nàː	nàː	AUX	_	Copula=Yes	24	comp	_	Gloss=be.Pred|RelRole=subj|wordform=yanaː
 27	Amìr̃kà	Amìr̃kà	PROPN	_	_	26	comp:pred	_	Gloss=America
 28	yànzu	yànzu	ADV	_	_	26	mod	_	Gloss=now|wordform=yanzu

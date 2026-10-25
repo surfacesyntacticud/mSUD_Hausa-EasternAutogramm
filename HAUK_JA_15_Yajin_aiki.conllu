@@ -181,8 +181,8 @@
 6	'Ya	ɗaː	NOUN	_	Number=Plur	5	comp	_	Compound=Yes|Gloss=child.Plur|wordform='Yan
 7	-n	na	PART	_	Case=Gen|PartType=Case	6	udep/m	_	Gloss=Gen.Fem|SpaceBefore=No
 8	Ƙoːdagôn	ƙoːdagoː	NOUN	_	Definite=Def|Gender=Masc	7	comp	_	Gloss=labour.Masc.Def
-9	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	10	subj/m	_	Gloss=3Fem|SpaceAfter=No
-10	nàː	nàː	AUX	_	Copula=Yes	0	root	_	Gloss=be.Pred|wordform=tanàː
+9	ta	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	10	subj	_	Gloss=3Fem
+10	nàː	nàː	AUX	_	Copula=Yes	0	root	_	Gloss=be.Pred
 11	dàgà	dàgà	ADP	_	ExtPos=ADP	10	mod	_	Gloss=from
 12	kân	kân	ADP	_	_	11	comp	_	Gloss=top_of
 13	gàba	gàbaː	NOUN	_	_	12	mod	_	Gloss=fro|wordform=gàban
@@ -911,8 +911,8 @@
 28	bà	bà	AUX	_	Aspect=Perf|Polarity=Neg	27	comp	_	Gloss=Neg.Perf|wordform=bà-
 29	-ì	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	28	subj/m	_	Gloss=-3Masc|SpaceBefore=No|wordform=bài
 30	daɗèː	daɗ-	VERB	_	_	28	comp:aux	_	ClauseType=Rel|Gloss=last
-31	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	32	subj/m	_	Gloss=3Masc|SpaceAfter=No
-32	nàː	nàː	AUX	_	Copula=Yes	30	parataxis@mod	_	Gloss=be.Pred|wordform=yanàː
+31	ya	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	32	subj	_	Gloss=3Masc
+32	nàː	nàː	AUX	_	Copula=Yes	30	parataxis@mod	_	Gloss=be.Pred
 33	kâi	kâi	ADP	_	Gender=Masc	32	comp:pred	_	Gloss=top.Masc|RelRole=obj
 34	ba	ba	PART	_	PartType=Neg|Polarity=Neg	30	mod	_	Gloss=Neg
 35	.	.	PUNCT	_	_	20	punct	_	Gloss=PUNCT

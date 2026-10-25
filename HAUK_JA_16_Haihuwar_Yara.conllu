@@ -22,8 +22,8 @@
 5	wannàn	nân	DET	_	Deixis=ProxS|Gender=Fem|PronType=Dem	6	det	_	Gloss=ProxS.Fem
 6	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Def|Gender=Fem	4	comp	_	Gloss=year.Fem.Def|RelAnt=Yes
 7	dà	dà	SCONJ	_	_	6	mod@relcl	_	Gloss=CompRel|Relz=Word
-8	mu-	mu	PRON	_	Number=Plur|Person=1|PronType=Prs	9	subj/m	_	Gloss=1Plur|SpaceAfter=No
-9	kè	nàː	AUX	_	Copula=Yes|Mood=Rel	7	comp	_	ClauseType=Rel|Gloss=bePred.Rel2|wordform=mukè
+8	mu	mu	PRON	_	Number=Plur|Person=1|PronType=PrsSubj	9	subj	_	Gloss=1Plur
+9	kè	nàː	AUX	_	Copula=Yes|Mood=Rel	7	comp	_	ClauseType=Rel|Gloss=bePred.Rel2
 10	ciki	ciki	ADV	_	ExtPos=ADP	9	comp:pred	_	Gloss=inside|RelRole=obj
 11	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 12	a-	a	PRON	_	Person=4|PronType=PrsSubj	13	subj/m	_	Gloss=4|SpaceAfter=No|wordform=an
@@ -452,7 +452,7 @@
 17	à	à	ADP	_	_	25	mod	_	Gloss=at
 18	haːlîn	haːlîː	NOUN	_	Definite=Def|Gender=Masc	17	comp	_	Gloss=situation.Masc.Def|RelAnt=Yes
 19	dà	dà	SCONJ	_	_	18	mod@relcl	_	Gloss=CompRel|Relz=Word
-20	a	a	PRON	_	Copula=Yes|Person=4|PronType=Prs	21	subj	_	Gloss=4
+20	a	a	PRON	_	Person=4|PronType=Prs	21	subj	_	Gloss=4
 21	kè	nàː	AUX	_	Copula=Yes|Mood=Rel	19	comp	_	ClauseType=Rel|Gloss=bePred.Rel2
 22	ciki	cikin	ADP	_	_	21	comp:pred	_	Gloss=inside|RelRole=obj
 23	yànzu	yànzu	ADV	_	_	21	mod	_	Gloss=now|wordform=yanzu
