@@ -512,7 +512,7 @@
 43	làntar̃kìː	làntar̃kìː	NOUN	_	Gender=Masc	42	comp	_	Gloss=lamp.Masc
 44	ya-	ya-	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=PrsSubj	45	subj/m	_	Gloss=3Masc-|SpaceAfter=No
 45	nàː	nàː	AUX	_	Aspect=Prog	21	conj:reform	_	Gloss=Prog|wordform=yanaː
-46	sànàdiyyà	sànàdiyyàː	NOUN	_	Gender=Fem	45	comp:pred	_	Gloss=cause.Fem|wordform=sànàdiyyàr̃
+46	sànàdiyyà	sànàdiyyàː	NOUN	_	Gender=Fem	45	comp:aux	_	Gloss=cause.Fem|wordform=sànàdiyyàr̃
 47	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	46	udep/m	_	Gloss=Gen.Fem|SpaceBefore=No
 48	bàːzuwa	baːz-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	47	comp	_	Compound=Yes|Gloss=spread.Vnoun.Fem.|wordform=bàːzuwar̃
 49	-r̃	na	PART	_	Case=Gen|PartType=Case	48	udep/m	_	Gloss=Gen.Fem|SpaceBefore=No
