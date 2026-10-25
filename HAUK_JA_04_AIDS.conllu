@@ -113,7 +113,7 @@
 24	yi	yi	VERB	_	_	23	comp:aux	_	ClauseType=Rel|Gloss=do
 25	wà	mà	ADP	_	Case=Dat	24	comp:obl	_	Gloss=Dat|RelRole=obj
 26	àlluːr̃àr̃	àlluːr̃àː	NOUN	_	Definite=Def|Gender=Fem	24	comp:pred	_	Gloss=injection.Fem.Def
-27	ya	ya	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=PrsSubj	28	subj/m	_	Gloss=3Masc
+27	ya	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	28	subj	_	Gloss=3Masc
 28	nàː	nàː	AUX	_	Copula=Yes	17	comp	_	Gloss=be.Pred|wordform=yanàː
 29	dà	dà	ADP	_	_	28	comp:pred	_	Gloss=with
 30	ƙwaːyoːyi	ƙwàːyaː	NOUN	_	Number=Plur	29	comp	_	Gloss=virus.Plur|wordform=ƙwaːyoːyin
@@ -169,7 +169,7 @@
 20	dà	dà	CCONJ	_	_	21	cc	_	Gloss=and
 21	namijì	namijì	NOUN	_	Gender=Masc	19	conj:coord	_	Gloss=man.Masc
 22	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
-23	ta-	ta-	PRON	_	Copula=Yes|Gender=Fem|Person=3|PronType=PrsSubj	24	subj/m	_	Gloss=3Fem-|SpaceAfter=No
+23	ta	ta-	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	24	subj	_	Gloss=3Fem
 24	nàː	nàː	AUX	_	Copula=Yes	0	root	_	Gloss=be.Pred|wordform=tanàː
 25	dà	dà	ADP	_	_	24	comp:pred	_	Gloss=with
 26	haɗàriː	haɗàriː	NOUN	_	Gender=Masc	25	comp	_	Gloss=danger.Masc
@@ -348,7 +348,7 @@
 30	bàbban	bàbba	ADJ	_	Gender=Masc	31	mod	_	Gloss=big.Masc
 31	asìbitì	asìbitì	NOUN	_	Gender=Masc	28	comp	_	Gloss=hospital.Masc
 32	su	su	PRON	_	Number=Plur|Person=3|PronType=Prs	33	subj	_	Gloss=3Plur
-33	nàː	nàː	AUX	_	Aspect=Prog|Number=Plur	18	comp	_	Gloss=Prog|wordform=sunàː
+33	nàː	nàː	AUX	_	Aspect=Prog|Number=Plur	18	comp	_	Gloss=be.Pred/Loc|wordform=sunàː
 34	ɗàuke	ɗauk-	VERB	_	ExtPos=ADV|VerbForm=Part	33	comp:pred	_	Gloss=take.Part
 35	dà	dà	ADP	_	_	34	comp:obl	_	Gloss=with
 36	ƙwaːyoːyi	ƙwàːyaː	NOUN	_	Number=Plur	35	comp	_	Compound=Yes|Gloss=virus.Plur|wordform=ƙwaːyoːyin

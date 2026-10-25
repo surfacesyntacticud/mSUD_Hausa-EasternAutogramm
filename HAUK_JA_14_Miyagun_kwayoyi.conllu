@@ -189,7 +189,7 @@
 21	jî	ji	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	20	comp:aux	_	Gloss=hear.Vnoun.Masc|wordform=jîn
 22	-n	na	PART	_	Case=Gen|PartType=Case	21	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 23	cêːwaː	cêːwaː	SCONJ	_	_	22	comp	_	Gloss=COMP
-24	ta-	ta-	PRON	_	Copula=Yes|Gender=Fem|Person=3|PronType=PrsSubj	25	subj/m	_	Gloss=3Fem-|SpaceAfter=No
+24	ta	ta-	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	25	subj	_	Gloss=3Fem
 25	nàː	nàː	AUX	_	Copula=Yes	23	comp	_	Gloss=be.Pred|wordform=tanàː
 26	dà	dà	ADP	_	_	25	comp:pred	_	Gloss=with|wordform=da
 27	ƙwàƙƙwaːran	ƙwàƙƙwaːraː	ADJ	_	Gender=Masc	28	mod	_	Gloss=strong.Masc
@@ -393,7 +393,7 @@
 43	ɗîn	ɗîn	DET	_	Definite=Def	40	det	_	Gloss=Def
 44	,	,	PUNCT	_	_	45	punct	_	Gloss=PUNCT
 45	wàddà	wandà	PRON	_	Gender=Fem|PronType=Rel	40	mod@relcl	_	Gloss=Pron.Fem.Rel|Relz=Word|wordform=wadda
-46	ta-	ta-	PRON	_	Copula=Yes|Gender=Fem|Person=3|PronType=PrsSubj	47	subj/m	_	Gloss=3Fem-|SpaceAfter=No
+46	ta	ta-	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	47	subj	_	Gloss=3Fem
 47	kè	nàː	AUX	_	Copula=Yes|Mood=Rel	45	comp:obj	_	ClauseType=Rel|Gloss=bePred.Rel2|RelRole=subj|wordform=takè
 48	à	à	ADP	_	_	47	comp:pred	_	Gloss=at
 49	nànnàɗe	nannaɗ-	VERB	_	ExtPos=ADV|Number=Plur|VerbForm=Part	48	comp	_	Gloss=tie.Plur.Part
@@ -677,7 +677,7 @@
 13	haːli	haːliː	NOUN	_	Gender=Masc	12	comp	_	Gloss=situation.Masc|wordform=haːlin
 14	-n	na	PART	_	Case=Gen|PartType=Case	13	mod/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 15	yànzu	yànzu	ADV	_	_	14	comp	_	Gloss=now
-16	ya-	ya-	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=PrsSubj	17	subj/m	_	Gloss=3Masc-|SpaceAfter=No
+16	ya	ya-	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	17	subj	_	Gloss=3Masc
 17	nàː	nàː	AUX	_	Copula=Yes	0	root	_	Gloss=be.Pred|wordform=yanàː
 18	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	17	comp:pred	_	Gloss=PreRef|PreRef=Yes
 19	tsùndum	tsùndum	IDEO	_	_	20	mod	_	Gloss=deep
@@ -789,7 +789,7 @@
 # text_en = He said that it was just some big drug dealers slandering him.
 # text_ortho = yanàː mài cêːwaː mânyan màːsu fataucìn miyàːgun ƙwaːyoːyiː nèː kawài sukà ɓaːtà suːnansà .
 # text = ya- nàː mài cêːwaː mânyan màːsu fataucì-n miyàːgun ƙwaːyoːyiː nèː kawài sukà= ɓaːtà suːna-n-sà .
-1	ya-	ya-	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=PrsSubj	2	subj/m	_	Gloss=3Masc-|SpaceAfter=No
+1	ya	ya-	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	2	subj	_	Gloss=3Masc
 2	nàː	nàː	AUX	_	Copula=Yes	0	root	_	Gloss=be.Pred|wordform=yanàː
 3	mài	mài	PART	_	Number=Sing|PartType=Der	2	comp:pred	_	Gloss=owner_of.Sing
 4	cêːwaː	cê	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	3	compound	_	Gloss=say.Vnoun.Fem|wordform=cêwaː
@@ -823,7 +823,7 @@
 8	cêː	cêː	VERB	_	_	7	comp:aux	_	Gloss=say|wordform=cê
 9	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	12	mod	_	Gloss=there_is.Neg
 10	shakkàː	shakkàː	NOUN	_	Gender=Fem	9	subj	_	Gloss=doubt.Fem
-11	ya-	ya-	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=PrsSubj	12	subj/m	_	Gloss=3Masc-|SpaceAfter=No
+11	ya	ya-	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	12	subj	_	Gloss=3Masc
 12	nàː	nàː	AUX	_	Copula=Yes	8	comp:obj	_	Gloss=be.Pred|wordform=yanàː
 13	dà	dà	ADP	_	_	12	comp:pred	_	Gloss=with
 14	dàngàntakàr̃	dàngàntakàː	NOUN	_	Definite=Def|Gender=Fem	13	comp	_	Gloss=relationship.Fem.Def

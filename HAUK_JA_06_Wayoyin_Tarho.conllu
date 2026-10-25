@@ -55,7 +55,7 @@
 1	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	2	det	_	Gloss=some.Masc.Spec
 2	loːkàciː	loːkàciː	NOUN	_	Gender=Masc	5	mod	_	Gloss=time.Masc
 3	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	5	subj	_	Gloss=thing.Masc.Def
-4	ya	ya	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	Gloss=3Masc
+4	ya	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj	_	Gloss=3Masc
 5	nàː	nàː	AUX	_	Copula=Yes	0	root	_	Gloss=be.Pred|wordform=yanàː
 6	dà	dà	ADP	_	_	5	comp:pred	_	Gloss=with
 7	ba	baː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp	_	Compound=Yes|Gloss=give|wordform=ban
@@ -398,7 +398,7 @@
 5	wayà	wayàː	NOUN	_	Gender=Fem	4	comp	_	Compound=Yes|Gloss=wire.Fem|wordform=wayàr̃
 6	-r̃	na	PART	_	Case=Gen|PartType=Case	5	udep/m	_	Gloss=Gen.Fem|SpaceBefore=No
 7	tàr̃hôː	tàr̃hôː	NOUN	_	Gender=Masc	6	comp	_	Gloss=telephone.Masc
-8	ta-	ta-	PRON	_	Copula=Yes|Gender=Fem|Person=3|PronType=PrsSubj	9	subj/m	_	Gloss=3Fem-|SpaceAfter=No
+8	ta	ta-	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	9	subj	_	Gloss=3Fem
 9	kè	nàː	AUX	_	Copula=Yes|Mood=Rel	2	comp:cleft	_	ClauseType=Int|Gloss=bePred.Rel2|wordform=takè
 10	à	à	ADP	_	_	9	comp:pred	_	Gloss=at
 11	ƙasàːshe	ƙasaː	NOUN	_	Number=Plur	10	comp	_	Gloss=country.Plur|wordform=ƙasàːshen
