@@ -148,7 +148,7 @@
 16	dà	dà	SCONJ	_	_	15	mod@relcl	_	Gloss=CompRel|Relz=Word
 17	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	18	subj/m	_	Gloss=3Masc|SpaceAfter=No
 18	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	16	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=yakèː
-19	màganàː	màganàː	NOUN	_	Gender=Fem	18	comp:pred	_	Gloss=speech.Fem
+19	màganàː	màganàː	NOUN	_	Gender=Fem	18	comp:aux	_	Gloss=speech.Fem
 20	à	à	ADP	_	ExtPos=ADP	18	mod	_	Gloss=at|Idiom=Yes|RelRole=obl
 21	kâi	kâi	NOUN	_	Gender=Masc	20	comp	_	Gloss=head.Masc|InIdiom=Yes
 22	ba	ba	PART	_	PartType=Neg|Polarity=Neg	10	mod	_	Gloss=Neg
@@ -317,7 +317,7 @@
 33	mùsùlmiː	mùsùlmiː	NOUN	_	Number=Plur	32	comp	_	Gloss=muslim.Plur
 34	su-	su	PRON	_	Number=Plur|Person=3|PronType=Prs	35	subj/m	_	Gloss=3Plur|SpaceAfter=No
 35	nàː	nàː	AUX	_	Aspect=Prog	28	conj:coord	_	Gloss=Prog|wordform=sunaː
-36	hàƙuriː	hàƙuriː	NOUN	_	Gender=Masc	35	comp:pred	_	Gloss=patience.Masc
+36	hàƙuriː	hàƙuriː	NOUN	_	Gender=Masc	35	comp:aux	_	Gloss=patience.Masc
 37	dà	dà	ADP	_	_	36	comp:obl	_	Gloss=with
 38	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	37	comp	_	Gloss=3Plur.Nom
 39	nèː	neː	PART	_	PartType=Foc	36	discourse@foc	_	Gloss=Emph

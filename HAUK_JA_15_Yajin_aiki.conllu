@@ -348,7 +348,7 @@
 3	kùwa	kùwa	PART	_	PartType=Top	1	discourse@top	_	Gloss=in_fact|wordform=kuwa
 4	su-	su	PRON	_	Number=Plur|Person=3|PronType=Prs	5	subj/m	_	Gloss=3Plur|SpaceAfter=No
 5	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog|wordform=sunaː
-6	zàngà-zangà	zàngà-zangà	NOUN	_	Gender=Fem	5	comp:pred	_	Gloss=demonstration.Fem
+6	zàngà-zangà	zàngà-zangà	NOUN	_	Gender=Fem	5	comp:aux	_	Gloss=demonstration.Fem
 7	-r̃	-r̃	PART	_	Case=Gen|Gender=Fem|PartType=Case	6	udep/m	_	Gloss=Gen.Fem|SpaceBefore=No
 8	nuːnà	nuːn-	VERB	_	_	7	comp	_	Gloss=show
 9	rashì	ras-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	comp:obj	_	Gloss=lack.Vnoun.Masc|wordform=rashìn
@@ -658,7 +658,7 @@
 31	shùːgàbân	shùːgàbaː	NOUN	_	Definite=Def|Gender=Masc	33	subj	_	Gloss=president.Masc.Def
 32	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	33	subj/m	_	Gloss=3Masc|SpaceAfter=No
 33	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog|wordform=yanaː
-34	faːmaː	faːmaː	NOUN	_	Gender=Fem	33	comp:pred	_	Gloss=struggling.Fem
+34	faːmaː	faːmaː	NOUN	_	Gender=Fem	33	comp:aux	_	Gloss=struggling.Fem
 35	dà	dà	ADP	_	_	34	comp:obl	_	Gloss=with
 36	ƙaːrì	ƙaːrìː	NOUN	_	Gender=Masc	35	comp	_	Gloss=increase.Masc|wordform=ƙaːrìn
 37	-n	na	PART	_	Case=Gen|PartType=Case	36	mod/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
@@ -681,7 +681,7 @@
 54	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	53	comp:obj/m	_	Gloss=3Masc.Gen|SpaceBefore=No
 55	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	56	subj/m	_	Gloss=3Fem|SpaceAfter=No
 56	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	51	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=takèː
-57	aikìː	aikìː	NOUN	_	Gender=Masc	56	comp:pred	_	Gloss=work.Masc|RelRole=obl|wordform=aiki
+57	aikìː	aikìː	NOUN	_	Gender=Masc	56	comp:aux	_	Gloss=work.Masc|RelRole=obl|wordform=aiki
 58	dà	dà	ADP	_	_	57	comp:obl	_	Gloss=with
 59	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	58	comp	_	Gloss=3Plur.Nom|RelPos=Yes
 60	.	.	PUNCT	_	_	33	punct	_	Gloss=PUNCT

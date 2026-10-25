@@ -771,7 +771,7 @@
 
 # sent_id = 01_Umaru_Dikko_19
 # text_en = Likewise, this very last year, a lawyer of the British interior ministry told Umaru Dikko that "I think indeed that why you ran away from Nigeria is not because you fear that you will be persecuted, but merely because you fear that they will take you to court."
-# text = hakà nan à bàːr̃a ɗîn wani lauyàː na maꞌaikata-r̃ har̃koːki-n cikin gida-n Bìr̃taːniyà y-aː= gayàː wà Ùːmar̃ù Dikkò cêːwaː, " i-nàː jî-n dai k-aː= tseːroː dàgà Nàjeːr̃iyàː neː bàː wai don ka nàː tsòːro-n zaː-'à= ƙuntàtaː makà ba, sai don ka nàː tsòːro-n zaː-'à= gur̃faːnar̃ dà kai à gàban shàr̃iꞌàː kawài. ".
+# text = hakà nan à bàːr̃a ɗîn wani lauyàː na maꞌaikata -r̃ har̃koːki -n cikin gida -n Bìr̃taːniyà y-aː gayàː wà Ùːmar̃ù Dikkò cêːwaː , " i-nàː jî -n dai k-aː tseːroː dàgà Nàjeːr̃iyàː neː bàː wai don ka nàː tsòːro -n zâː -'à ƙuntàtaː makà ba , sai don ka-nàː tsòːro -n zâː -'à gur̃faːnar̃ dà kai à gàban shàr̃iꞌàː kawài . " .
 # text_ortho = Hakà nan à bàːr̃a ɗîn wani lauyàː na Maꞌaikatar̃ Har̃koːkin Cikin Gidan Bìr̃taːniyà yaː gayàː wà Ùːmar̃ù Dikkò cêwaː, ‘Inàː jîn dai kaː tseːroː dàgà Nàjeːr̃iyàː neː bà wai don kanàː tsòːron zaː à ƙuntàtaː makà ba, sai don kanàː tsòːron zaː à gur̃faːnar̃ dà kai à gàban shàr̃iꞌàː kawài.’
 1	hakà	hakà	ADV	_	_	18	mod	_	Gloss=thus
 2	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	1	det	_	Gloss=PreRef|PreRef=Yes
@@ -814,7 +814,7 @@
 39	don	don	SCONJ	_	_	33	mod	_	Gloss=because
 40	ka	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	41	subj/m	_	Gloss=2Masc
 41	nàː	nàː	AUX	_	Aspect=Prog	39	comp	_	Gloss=Prog|wordform=kanàː
-42	tsòːro	tsòːroː	NOUN	_	Gender=Masc	41	comp:pred	_	Gloss=fear.Masc|wordform=tsòːron
+42	tsòːro	tsòːroː	NOUN	_	Gender=Masc	41	comp:aux	_	Gloss=fear.Masc|wordform=tsòːron
 43	-n	na	PART	_	Case=Gen|PartType=Case	42	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 44	zâː	zâː	AUX	_	Tense=Fut	43	comp	_	Gloss=Fut|wordform=zaː-
 45	-'à	a	PRON	_	Person=4|PronType=PrsSubj	44	subj/m	_	Gloss=4|SpaceBefore=No|wordform=zaː'à
@@ -824,9 +824,9 @@
 49	,	,	PUNCT	_	_	51	punct	_	Gloss=PUNCT
 50	sai	sai	CCONJ	_	_	51	cc	_	Gloss=but_only
 51	don	don	SCONJ	_	_	39	conj:coord	_	Gloss=because
-52	ka	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	53	subj/m	_	Gloss=2Masc
+52	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	53	subj/m	_	Gloss=2Masc|SpaceAfter=No
 53	nàː	nàː	AUX	_	Aspect=Prog	51	comp	_	Gloss=Prog|wordform=kanàː
-54	tsòːro	tsòːroː	NOUN	_	Gender=Masc	53	comp:pred	_	Gloss=fear.Masc|wordform=tsòːron
+54	tsòːro	tsòːroː	NOUN	_	Gender=Masc	53	comp:aux	_	Gloss=fear.Masc|wordform=tsòːron
 55	-n	na	PART	_	Case=Gen|PartType=Case	54	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 56	zâː	zâː	AUX	_	Tense=Fut	55	comp	_	Gloss=Fut|wordform=zaː-
 57	-'à	a	PRON	_	Person=4|PronType=PrsSubj	56	subj/m	_	Gloss=4|SpaceBefore=No|wordform=zaː'à

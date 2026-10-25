@@ -435,7 +435,7 @@
 1	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	6	subj	_	Gloss=Pron.Plur.Rel|RelAnt=Yes|Relz=Word|wordform=wadanda
 2	maː	maː	PART	_	PartType=Top	1	discourse@top	_	Gloss=even
 3	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	1	mod@relcl	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
-4	barcîn	barciː	NOUN	_	Definite=Def|Gender=Masc	3	comp:pred	_	Gloss=sleep.Masc.Def
+4	barcîn	barciː	NOUN	_	Definite=Def|Gender=Masc	3	comp:aux	_	Gloss=sleep.Masc.Def
 5	su-	su	PRON	_	Number=Plur|Person=3|PronType=Prs	6	subj/m	_	Gloss=3Plur|SpaceAfter=No
 6	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog|wordform=sunaː
 7	yî	yi	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	6	comp:aux	_	Gloss=do.Vnoun.Masc|wordform=yînsà|wordfrom=yînsà
@@ -767,7 +767,7 @@
 6	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	5	comp	_	Gloss=say.Vnoun.Fem|wordform=cêwaː
 7	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	8	subj/m	_	Gloss=3Fem|SpaceAfter=No
 8	nàː	nàː	AUX	_	Aspect=Prog	6	comp:obj	_	Gloss=Prog|wordform=tanàː
-9	shakkà	shakkàː	NOUN	_	Gender=Fem	8	comp:pred	_	Gloss=fear.Fem|wordform=shakkàr̃
+9	shakkà	shakkàː	NOUN	_	Gender=Fem	8	comp:aux	_	Gloss=fear.Fem|wordform=shakkàr̃
 10	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	9	mod/m	_	Gloss=Gen.Fem|SpaceBefore=No
 11	ìkìr̃aːrì	ìkìr̃aːrìː	NOUN	_	Gender=Masc	10	comp	_	Gloss=claim.Masc|wordform=ìkìr̃aːrìn
 12	-n	na	PART	_	Case=Gen|PartType=Case	11	mod/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No

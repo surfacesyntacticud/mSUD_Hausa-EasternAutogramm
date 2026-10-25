@@ -233,13 +233,13 @@
 # sent_id = 09_Salman_Rushdie_9a
 # text_en = Well, the building where the meeting took place is very high.
 # text_ortho = Tòː gidân dà akèː tàːrôn yanàː dà tsayìː sòːsai,
-# text = tòː gidân dà a kèː tàːrôn ya nàː dà tsayìː sòːsai,
+# text = tòː gidân dà a-kèː tàːrôn ya nàː dà tsayìː sòːsai ,
 1	tòː	tòː	INTJ	_	_	8	discourse	_	Gloss=well
 2	gidân	gidaː	NOUN	_	Definite=Def|Gender=Masc	8	subj	_	Gloss=house.Masc.Def|RelAnt=Yes
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=CompRel|Relz=Word
-4	a	a	PRON	_	Person=4|PronType=Prs	5	subj	_	Gloss=4
+4	a-	a	PRON	_	Person=4|PronType=PrsSubj	5	subj/m	_	Gloss=4|SpaceAfter=No
 5	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	3	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=mod|Relz=Affix
-6	tàːrôn	tàːroː	NOUN	_	Definite=Def|Gender=Masc	5	comp:pred	_	Gloss=meeting.Masc.Def
+6	tàːrôn	tàːroː	NOUN	_	Definite=Def|Gender=Masc	5	comp:aux	_	Gloss=meeting.Masc.Def
 7	ya	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	8	subj	_	Gloss=3Masc
 8	nàː	nàː	AUX	_	Copula=Yes	0	root	_	Gloss=be.Pred|wordform=yanàː
 9	dà	dà	ADP	_	_	8	comp:pred	_	Gloss=with
@@ -368,7 +368,7 @@
 15	mutàneː	mùtûm	NOUN	_	Number=Plur	17	subj	_	Gloss=man.Plur
 16	su-	su	PRON	_	Number=Plur|Person=3|PronType=Prs	17	subj/m	_	Gloss=3Plur|SpaceAfter=No
 17	nàː	nàː	AUX	_	Aspect=Prog	13	comp	_	Gloss=Prog|wordform=sunàː
-18	zàngà-zangà	zàngà-zangà	NOUN	_	Gender=Fem	17	comp:pred	_	Gloss=demonstration.Fem
+18	zàngà-zangà	zàngà-zangà	NOUN	_	Gender=Fem	17	comp:aux	_	Gloss=demonstration.Fem
 19	na	na	PART	_	Case=Gen|PartType=Case	18	mod	_	Gloss=Gen
 20	nuːnà	nuːn-	VERB	_	_	19	comp	_	Gloss=show
 21	goːyo	goːy-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	20	comp:obj	_	Gloss=support.Vnoun.Masc|wordform=goːyon
@@ -699,7 +699,7 @@
 5	tiːtunàː	tiːtìː	NOUN	_	Number=Plur	4	comp	_	Gloss=street.Plur
 6	su-	su	PRON	_	Number=Plur|Person=3|PronType=Prs	7	subj/m	_	Gloss=3Plur|SpaceAfter=No
 7	nàː	nàː	AUX	_	Aspect=Prog	2	parataxis:conj	_	Gloss=Prog|wordform=sunàː
-8	zàngà-zangà	zàngà-zangà	NOUN	_	Gender=Fem	7	comp:pred	_	Gloss=demonstration.Fem
+8	zàngà-zangà	zàngà-zangà	NOUN	_	Gender=Fem	7	comp:aux	_	Gloss=demonstration.Fem
 9	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	8	mod	_	Gloss=Gen.Fem
 10	ƙîn-jiniː	ƙîn-jiniː	VERB	_	Gender=Masc	9	comp	_	Compound=Yes|Gloss=opposition.Masc|wordform=ƙîn-jinin
 11	-n	na	PART	_	Case=Gen|PartType=Case	10	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No

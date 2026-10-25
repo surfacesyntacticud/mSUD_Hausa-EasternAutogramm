@@ -47,7 +47,7 @@
 19	yi	yi	VERB	_	_	18	comp:aux	_	ClauseType=Rel|Gloss=do|RelRole=pred
 20	a-	a	PRON	_	Person=4|PronType=Prs	21	subj/m	_	Gloss=4|SpaceAfter=No
 21	nàː	nàː	AUX	_	Aspect=Prog	19	parataxis@mod	_	Gloss=Prog|wordform=anàː
-22	tàːshe-tàːshe	tashìː	NOUN	_	Number=Plur	21	comp:pred	_	Compound=Yes|Gloss=uprising.Plur|wordform=tàːshe-tàːshen
+22	tàːshe-tàːshe	tashìː	NOUN	_	Number=Plur	21	comp:aux	_	Compound=Yes|Gloss=uprising.Plur|wordform=tàːshe-tàːshen
 23	-n	na	PART	_	Case=Gen|PartType=Case	22	udep/m	_	Gloss=Gen.Fem|SpaceBefore=No
 24	hànkulà	hankàliː	NOUN	_	Number=Plur	23	comp	_	Gloss=attention.Plur
 25	-n	na	PART	_	Case=Gen|Number=Plur|PartType=Case	24	mod/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No

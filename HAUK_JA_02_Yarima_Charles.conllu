@@ -85,7 +85,7 @@
 10	Ìkko	Ìkko	PROPN	_	_	9	comp	_	Gloss=Lagos
 11	su-	su	PRON	_	Number=Plur|Person=3|PronType=Prs	12	subj/m	_	Gloss=3Plur|SpaceAfter=No
 12	nàː	nàː	AUX	_	Aspect=Prog	1	mod@relcl	_	Gloss=Prog|wordform=sunàː
-13	tàllà	tàllà	NOUN	_	Gender=Masc	12	comp:pred	_	Gloss=hawking.Masc|wordform=tàllàn
+13	tàllà	tàllà	NOUN	_	Gender=Masc	12	comp:aux	_	Gloss=hawking.Masc|wordform=tàllàn
 14	-n	na	PART	_	Case=Gen|PartType=Case	13	mod/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 15	tarkò	tarkòː	NOUN	_	Gender=Masc	14	comp	_	Gloss=trap.Masc|wordform=tarkòn
 16	-n	na	PART	_	Case=Gen|PartType=Case	15	mod/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
@@ -240,7 +240,7 @@
 14	cikin	cikin	ADP	_	_	13	comp:pred	_	Gloss=inside
 15	gidân	gidaː	NOUN	_	Definite=Def|Gender=Masc	14	comp	_	Gloss=house.Masc.Def
 16	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	5	comp:cleft	_	ClauseType=Cleft|Gloss=Prog.Rel
-17	aikìː	aikìː	NOUN	_	Gender=Masc	16	comp:pred	_	Gloss=work.Masc
+17	aikìː	aikìː	NOUN	_	Gender=Masc	16	comp:aux	_	Gloss=work.Masc
 18	kàmar̃	kàmar̃	ADP	_	_	17	mod	_	Gloss=like
 19	yaddà	yaddà	ADV	_	PronType=Rel	18	comp	_	Gloss=how.Rel|RelAnt=Yes|Relz=Word
 20-21	ya=	_	_	_	_	_	_	_	_
@@ -557,7 +557,7 @@
 10	gadàː	gadàː	NOUN	_	Gender=Fem	9	comp	_	Gloss=bridge.Fem
 11	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	8	mod@relcl	_	Gloss=Pron.Fem.Rel|Relz=Word
 12	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	11	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
-13	reːtòː	rētòː	NOUN	_	Gender=Masc	12	comp:pred	_	Gloss=hanging.Masc
+13	reːtòː	rētòː	NOUN	_	Gender=Masc	12	comp:aux	_	Gloss=hanging.Masc
 14	dàgà	dàgà	ADP	_	_	13	comp:obl	_	Gloss=from
 15	samà	samà	ADV	_	_	14	comp	_	Gloss=above
 16	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT

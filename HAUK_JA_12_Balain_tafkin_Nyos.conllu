@@ -456,7 +456,7 @@
 3	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 4	a-	a	PRON	_	Person=4|PronType=Prs	5	subj/m	_	Gloss=4|SpaceAfter=No
 5	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog|wordform=and
-6	tsòːro	tsòːroː	NOUN	_	Gender=Masc	5	comp:pred	_	Compound=Yes|Gloss=fear.Masc.|wordform=tsòːron
+6	tsòːro	tsòːroː	NOUN	_	Gender=Masc	5	comp:aux	_	Compound=Yes|Gloss=fear.Masc.|wordform=tsòːron
 7	-n	na	PART	_	Case=Gen|PartType=Case	6	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 8	ƙiːlà	ƙiːlà	ADV	_	_	12	mod	_	Gloss=maybe
 9	gâs	gâs	NOUN	_	Gender=Masc	12	subj	_	Gloss=gas.Masc

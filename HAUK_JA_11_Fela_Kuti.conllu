@@ -150,7 +150,7 @@
 # sent_id = 11_Fela_Kuti_5
 # text_en = When he was doing this work, he tried to become a musician, he was singing his songs in various clubs in Lagos.
 # text_ortho = À loːkàcîn dà yakèː yîn wannàn aikìː neː ya dingà ƙòːƙarin zamaː makàɗiː, yanàː wàːƙe-wàːƙensà à kùlâb-kùlâb na bir̃nin Ìkko.
-# text = à loːkàcîn dà ya-kèː yî-n wannàn aikìː neː ya= dingà ƙòːƙari-n zamaː makàɗiː, ya nàː wàːƙe-wàːƙe-n-sà à kùlâb-kùlâb na bir̃ni-n Ìkko.
+# text = à loːkàcîn dà ya-kèː yî -n wannàn aikìː neː ya= dingà ƙòːƙari -n zamaː makàɗiː , ya-nàː wàːƙe-wàːƙe -n -sà à kùlâb-kùlâb na bir̃ni -n Ìkko .
 1	à	à	ADP	_	_	12	mod	_	Gloss=at
 2	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	1	comp	_	Gloss=time.Masc.Def|RelAnt=Yes
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=CompRel|Relz=Word
@@ -170,9 +170,9 @@
 16	zamaː	zama	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	15	comp	_	Gloss=become.Vnoun.Masc
 17	makàɗiː	makàɗiː	NOUN	_	Gender=Masc	16	comp:pred	_	Gloss=musician.Masc
 18	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
-19	ya	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	20	subj/m	_	Gloss=3Masc
+19	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	20	subj/m	_	Gloss=3Masc|SpaceAfter=No
 20	nàː	nàː	AUX	_	Aspect=Prog	12	parataxis:conj	_	Gloss=Prog|wordform=yana
-21	wàːƙe-wàːƙe	waːƙàː	NOUN	_	Number=Plur	20	comp:pred	_	Gloss=song.Plur|wordform=wàːƙe-wàːƙensà|wordfrom=wàːƙe-wàːƙensà
+21	wàːƙe-wàːƙe	waːƙàː	NOUN	_	Number=Plur	20	comp:aux	_	Gloss=song.Plur|wordform=wàːƙe-wàːƙensà|wordfrom=wàːƙe-wàːƙensà
 22	-n	na	PART	_	Case=Gen|PartType=Case	21	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 23	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	22	comp:obj/m	_	Gloss=3Masc.Gen|SpaceBefore=No
 24	à	à	ADP	_	_	20	mod	_	Gloss=at
@@ -385,7 +385,7 @@
 12	yaddà	yaddà	ADV	_	PronType=Rel	11	comp	_	Gloss=how.Rel|RelAnt=Yes|Relz=Word
 13	a-	a	PRON	_	Person=4|PronType=Prs	14	subj/m	_	Gloss=4|SpaceAfter=No
 14	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	12	mod@relcl	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
-15	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	14	comp:pred	_	Gloss=use.Masc|RelRole=mod
+15	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	14	comp:aux	_	Gloss=use.Masc|RelRole=mod
 16	dà	dà	ADP	_	_	15	comp:obl	_	Gloss=with|wordform=ɗà
 17	saxaphone	saxaphone	NOUN	_	_	16	comp	_	Gloss=saxophone
 18	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
@@ -500,7 +500,7 @@
 16	kuma	kuma	CCONJ	_	_	18	cc	_	Gloss=also
 17	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	18	subj/m	_	Gloss=3Masc|SpaceAfter=No
 18	nàː	nàː	AUX	_	Aspect=Prog	6	conj:coord	_	Gloss=Prog|wordform=yana
-19	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	18	comp:pred	_	Gloss=use.Masc
+19	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	18	comp:aux	_	Gloss=use.Masc
 20	dà	dà	ADP	_	_	19	comp:obl	_	Gloss=with
 21	salo	saloː	NOUN	_	Gender=Masc	20	comp	_	Gloss=style.Masc|wordform=salon
 22	-n	na	PART	_	Case=Gen|PartType=Case	21	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No

@@ -201,7 +201,7 @@
 # sent_id = 16_Aihuwar_Yara_6
 # text_en = At least three to four women are dying trying to become mothers while you are listening to this programme.
 # text_ortho = À ƙallà maːtaː ukù zuwàː huɗu nèː kèː mutuwàː à yàːyîn dà sukèː ƙòƙarin zamaː iyàːyeː à daidai wannàn loːkàciː dà kukèː sàuràːren wannàn shirìː.
-# text = à ƙallà maːtaː ukù zuwàː huɗu nèː kèː mutuwàː à yàːyîn dà su kèː ƙòƙari-n zamaː iyàːyeː à daidai wannàn loːkàciː dà ku-kèː sàuràːre-n wannàn shirìː.
+# text = à ƙallà maːtaː ukù zuwàː huɗu nèː kèː mutuwàː à yàːyîn dà su-kèː ƙòƙari -n zamaː iyàːyeː à daidai wannàn loːkàciː dà ku-kèː sàuràːre -n wannàn shirìː .
 1	à	à	ADP	_	_	3	mod	_	Gloss=at
 2	ƙallà	ƙallà	ADV	_	_	1	comp	_	Gloss=least
 3	maːtaː	màːtaː	NOUN	_	Number=Plur	0	root	_	Gloss=woman.Plur
@@ -214,9 +214,9 @@
 10	à	à	ADP	_	_	9	mod	_	Gloss=at
 11	yàːyîn	yàːyiː	NOUN	_	_	10	comp	_	Gloss=time.Def|RelAnt=Yes
 12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP.Rel|Relz=Word
-13	su	su	PRON	_	Number=Plur|Person=3|PronType=Prs	14	subj	_	Gloss=3Plur
+13	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	14	subj	_	Gloss=3Plur|SpaceAfter=No
 14	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	12	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=mod|Relz=Affix
-15	ƙòƙari	ƙòƙariː	NOUN	_	Gender=Masc	14	comp:pred	_	Gloss=trying.Masc|wordform=ƙòƙarin
+15	ƙòƙari	ƙòƙariː	NOUN	_	Gender=Masc	14	comp:aux	_	Gloss=trying.Masc|wordform=ƙòƙarin
 16	-n	na	PART	_	Case=Gen|PartType=Case	15	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 17	zamaː	zama	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	16	comp	_	Gloss=become.Vnoun.Masc
 18	iyàːyeː	uwaː	NOUN	_	Number=Plur	17	comp:pred	_	Gloss=mother.Plur

@@ -38,7 +38,7 @@
 20	ɓàràːyiː	ɓàraːwòː	NOUN	_	Number=Plur	18	comp:obj	_	Gloss=thief.Plur
 21	su-	su	PRON	_	Number=Plur|Person=3|PronType=Prs	22	subj/m	_	Gloss=3Plur|SpaceAfter=No
 22	nàː	nàː	AUX	_	Aspect=Prog	20	mod@relcl	_	Gloss=Prog|wordform=sunàː
-23	ƙòːƙariː	ƙòːƙariː	NOUN	_	Gender=Masc	22	comp:pred	_	Gloss=effort.Masc
+23	ƙòːƙariː	ƙòːƙariː	NOUN	_	Gender=Masc	22	comp:aux	_	Gloss=effort.Masc
 24	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	25	subj/m	_	Gloss=3.Plur|SpaceAfter=No|wordform=sù
 25	_̀	_̀	AUX	_	Mood=Sub	23	comp:obj	_	Gloss=Sub|wordform=_̀=
 26	fasà	fas-	VERB	_	_	25	comp:aux	_	Gloss=break
@@ -89,7 +89,7 @@
 5	sàndaː	sàndaː	NOUN	_	Gender=Masc	4	comp	_	Gloss=baton.Masc
 6	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=CompRel|Relz=Word
 7	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	6	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix|wordform=kèː=
-8	sintir̃iː	sintir̃iː	NOUN	_	Gender=Masc	7	comp:pred	_	Gloss=patrolling.Masc
+8	sintir̃iː	sintir̃iː	NOUN	_	Gender=Masc	7	comp:aux	_	Gloss=patrolling.Masc
 9	à	à	ADP	_	_	8	mod	_	Gloss=at
 10	wurîn	wuriː	NOUN	_	Definite=Def|Gender=Masc	9	comp	_	Gloss=place.Masc.Def
 11	sai	sai	ADV	_	_	13	mod	_	Gloss=then

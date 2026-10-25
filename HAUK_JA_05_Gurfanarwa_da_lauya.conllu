@@ -62,7 +62,7 @@
 14	kuma	kuma	CCONJ	_	_	16	cc	_	Gloss=also
 15	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	16	subj/m	_	Gloss=3Fem|SpaceAfter=No
 16	nàː	nàː	AUX	_	Aspect=Prog	2	conj:coord	_	Gloss=Prog|wordform=tanàː
-17	tàːƙamaː	tàːƙamaː	NOUN	_	Gender=Fem	16	comp:pred	_	Gloss=boasting.Fem
+17	tàːƙamaː	tàːƙamaː	NOUN	_	Gender=Fem	16	comp:aux	_	Gloss=boasting.Fem
 18	dà	dà	ADP	_	_	17	comp:obl	_	Gloss=with
 19	irì	irìː	NOUN	_	Gender=Masc	18	comp	_	Gloss=type.Masc|RelAnt=Yes
 20	-n	na	PART	_	Case=Gen|PartType=Case	19	mod/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
