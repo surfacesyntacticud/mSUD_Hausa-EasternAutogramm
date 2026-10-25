@@ -162,7 +162,7 @@
 29	kirà	kiraː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	28	comp:pred	_	Compound=Yes|Gloss=call.Vnoun.Masc.|wordform=kiràn
 30	-n	na	PART	_	Case=Gen|PartType=Case	29	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 31	a-	a	PRON	_	Person=4|PronType=PrsSubj	32	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
-32	_̀	_̀	AUX	_	Copula=No|Mood=Sub	30	comp	_	Gloss=Sub|wordform=_̀=
+32	_̀	_̀	AUX	_	Mood=Sub	30	comp	_	Gloss=Sub|wordform=_̀=
 33	yi	yi	VERB	_	_	32	comp:aux	_	Gloss=do
 34	yaːjì	yaːjìː	NOUN	_	Gender=Masc	33	comp:pred	_	Compound=Yes|Gloss=hot_spice.Masc|wordform=yaːjìn
 35	-n	na	PART	_	Case=Gen|PartType=Case	34	udep/m	_	Gloss=Gen.Fem|SpaceBefore=No
@@ -192,7 +192,7 @@
 17	neːma	neːm-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	10	comp:pred	_	Compound=Yes|Gloss=look_for.Vnoun.Masc.|wordform=neːman
 18	-n	na	PART	_	Case=Gen|PartType=Case	17	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 19	a-	a	PRON	_	Person=4|PronType=PrsSubj	20	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
-20	_̀	_̀	AUX	_	Copula=No|Mood=Sub	18	comp	_	Gloss=Sub|wordform=_̀=
+20	_̀	_̀	AUX	_	Mood=Sub	18	comp	_	Gloss=Sub|wordform=_̀=
 21	kafà	kaf-	VERB	_	_	20	comp:aux	_	Gloss=set_up
 22	tafarkì	tafarkìː	NOUN	_	Gender=Masc	21	comp:obj	_	Gloss=system.Masc|wordform=tafarkìn
 23	-n	na	PART	_	Case=Gen|PartType=Case	22	mod/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
@@ -228,7 +228,7 @@
 53	kirà	kiraː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	52	comp	_	Compound=Yes|Gloss=call.Vnoun.Masc.|wordform=kiràn
 54	-n	na	PART	_	Case=Gen|PartType=Case	53	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 55	a-	a	PRON	_	Person=4|PronType=PrsSubj	56	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
-56	_̀	_̀	AUX	_	Copula=No|Mood=Sub	54	comp	_	Gloss=Sub|wordform=_̀=
+56	_̀	_̀	AUX	_	Mood=Sub	54	comp	_	Gloss=Sub|wordform=_̀=
 57	kaːwoː	kai	VERB	_	_	56	comp:aux	_	Gloss=carry/take_to
 58	ƙàrshe	ƙàrsheː	NOUN	_	Gender=Masc	57	comp:obj	_	Gloss=end.Masc|wordform=ƙàrshen
 59	-n	na	PART	_	Case=Gen|PartType=Case	58	mod/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
@@ -261,7 +261,7 @@
 9	bùkàːci	bukaːt-	VERB	_	_	8	comp:aux	_	Gloss=require
 10	gwamnatì	gwamnatì	NOUN	_	Definite=Def|Gender=Fem	12	subj	_	Gloss=government.Fem
 11	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	12	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tà
-12	_̀	_̀	AUX	_	Copula=No|Mood=Sub	9	comp:obj	_	Gloss=Sub|wordform=_̀=
+12	_̀	_̀	AUX	_	Mood=Sub	9	comp:obj	_	Gloss=Sub|wordform=_̀=
 13	yi	yi	VERB	_	_	12	comp:aux	_	Gloss=do
 14	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	15	det	_	Gloss=some.Masc.Spec
 15	tàːroː	tàːroː	NOUN	_	Gender=Masc	13	comp:pred	_	Gloss=meeting.Masc
@@ -273,7 +273,7 @@
 21	ɗaya	ɗaya	NUM	_	_	20	mod:num	_	Gloss=one
 22	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
 23	wandà	wandà	PRON	_	ExtPos=SCONJ|Gender=Masc|PronType=Rel	15	mod:appos@relcl	_	Gloss=Pron.Masc.Rel|Relz=Word
-24	zâː	zâː	AUX	_	Copula=No|Tense=Fut	23	comp:obj	_	Gloss=Fut|SpaceForm=zâi|wordform=zâ-
+24	zâː	zâː	AUX	_	Tense=Fut	23	comp:obj	_	Gloss=Fut|SpaceForm=zâi|wordform=zâ-
 25	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	24	subj/m	_	Gloss=3Masc|SpaceBefore=No|wordform=zâi
 26	tattàunà	tattaun-	VERB	_	_	24	comp:aux	_	ClauseType=Rel|Gloss=discuss|RelRole=subj
 27	tsaːrì	tsaːrìː	NOUN	_	Gender=Masc	26	comp:obj	_	Gloss=system|wordform=tsaːrìn
@@ -301,7 +301,7 @@
 8	-n	na	PART	_	Case=Gen|PartType=Case	7	mod/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 9	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	8	comp	_	Gloss=country.Fem.Def
 10	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	11	subj/m	_	Gloss=3.Plur-|SpaceAfter=No|wordform=sù
-11	_̀	_̀	AUX	_	Copula=No|Mood=Sub	6	comp	_	Gloss=Sub|wordform=_̀=
+11	_̀	_̀	AUX	_	Mood=Sub	6	comp	_	Gloss=Sub|wordform=_̀=
 12	baːyar̃	baː	VERB	_	Voice=Cau	11	comp:aux	_	Gloss=give.Cau|wordform=bayar
 13	dà	dà	ADP	_	_	12	comp:obl	_	Gloss=with
 14	cìkakken	cìkakkeː	ADJ	_	Number=Plur	15	mod	_	Gloss=complete.Plur
@@ -473,7 +473,7 @@
 37	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	30	det	_	Gloss=Def|wordform=din
 38	don	don	SCONJ	_	_	29	mod	_	Gloss=in_order_to
 39	a-	a	PRON	_	Person=4|PronType=PrsSubj	40	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
-40	_̀	_̀	AUX	_	Copula=No|Mood=Sub	38	comp	_	Gloss=Sub|wordform=_̀=
+40	_̀	_̀	AUX	_	Mood=Sub	38	comp	_	Gloss=Sub|wordform=_̀=
 41	sàːmu	saːm-	VERB	_	_	40	comp:aux	_	Gloss=get
 42	daːma	daːmaː	NOUN	_	Gender=Fem	41	comp:obj	_	Gloss=opportunity.Fem|wordform=daːmar̃
 43	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	42	mod/m	_	Gloss=Gen.Fem|SpaceBefore=No
@@ -512,13 +512,13 @@
 21	t-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	22	subj/m	_	Gloss=3Fem|SpaceAfter=No|wordform=taː
 22	aː	aː	AUX	_	Aspect=Perf|Number=Sing	0	root	_	Gloss=Perf.Sing
 23	cêː	cêː	VERB	_	_	22	comp:aux	_	Gloss=say
-24	zâː	zâː	AUX	_	Copula=No|Tense=Fut	23	comp:obj	_	Gloss=Fut|wordform=zaː-
+24	zâː	zâː	AUX	_	Tense=Fut	23	comp:obj	_	Gloss=Fut|wordform=zaː-
 25	-'à	a	PRON	_	Person=4|PronType=PrsSubj	24	subj/m	_	Gloss=4|SpaceBefore=No|wordform=zaːà
 26	kafà	kaf-	VERB	_	_	24	comp:aux	_	Gloss=set_up
 27	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	28	det	_	Gloss=some.Masc.Spec
 28	kwàmìtîn	kwàmìtîː	NOUN	_	Definite=Def|Gender=Masc	26	comp:obj	_	Gloss=committee.Masc.Def|RelAnt=Yes
 29	dà	dà	SCONJ	_	_	28	mod@relcl	_	Gloss=CompRel|Relz=Word
-30	zâː	zâː	AUX	_	Copula=No|Tense=Fut	29	comp	_	Gloss=Fut|SpaceForm=zâi|wordform=zâ-
+30	zâː	zâː	AUX	_	Tense=Fut	29	comp	_	Gloss=Fut|SpaceForm=zâi|wordform=zâ-
 31	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	30	subj/m	_	Gloss=3Masc|SpaceBefore=No|wordform=zâi
 32	tsaːrà	tsaːr-	VERB	_	_	30	comp:aux	_	ClauseType=Rel|Gloss=arrange|RelRole=subj
 33	irì	irìː	NOUN	_	Gender=Masc	32	comp:obj	_	Gloss=type_of.Masc|wordform=irìn
@@ -599,7 +599,7 @@
 4	-n	na	PART	_	Case=Gen|PartType=Case	3	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 5	gwamnatìn	gwamnatì	NOUN	_	Definite=Def|Gender=Fem	7	subj	_	Gloss=government.Fem.Def|wordform=gwamnatin
 6	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	7	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tà
-7	_̀	_̀	AUX	_	Copula=No|Mood=Sub	4	comp	_	Gloss=Sub|wordform=_̀=
+7	_̀	_̀	AUX	_	Mood=Sub	4	comp	_	Gloss=Sub|wordform=_̀=
 8	baːyar̃	baː	VERB	_	Voice=Cau	7	comp:aux	_	Gloss=give.Cau
 9	dà	dà	ADP	_	_	8	comp:obl	_	Gloss=with
 10	tsaːrì	tsaːrìː	NOUN	_	Gender=Masc	9	comp	_	Gloss=plan.Masc|wordform=tsaːrìn
@@ -889,7 +889,7 @@
 7	shùːgàbaː	shùːgàbaː	NOUN	_	Gender=Masc	6	comp	_	Gloss=leader.Masc
 8	Saibou	Saibou	PROPN	_	_	7	mod@appos	_	Gloss=Saibou
 9	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	10	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tà
-10	_̀	_̀	AUX	_	Copula=No|Mood=Sub	20	subj	_	Gloss=Sub|wordform=_̀=
+10	_̀	_̀	AUX	_	Mood=Sub	20	subj	_	Gloss=Sub|wordform=_̀=
 11	yi	yi	VERB	_	_	10	comp:aux	_	Gloss=do
 12	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	13	det	_	Gloss=some.Masc.Spec
 13	àbù	àbù	NOUN	_	Gender=Masc	11	comp:obj	_	Gloss=thing.Masc

@@ -117,7 +117,7 @@
 42	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	41	comp	_	Gloss=3Plur.Gen|SpaceBefore=No
 43	dòːmin	dòːmin	SCONJ	_	_	38	mod	_	Gloss=in_order_to
 44	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	45	subj/m	_	Gloss=3.Plur-|SpaceAfter=No|wordform=sù
-45	_̀	_̀	AUX	_	Copula=No|Mood=Sub	43	comp	_	Gloss=Sub|wordform=_̀=
+45	_̀	_̀	AUX	_	Mood=Sub	43	comp	_	Gloss=Sub|wordform=_̀=
 46	yi	yi	VERB	_	_	45	comp:aux	_	Gloss=do
 47	kallo	kalloː	NOUN	_	Gender=Masc	46	comp:pred	_	Gloss=watching.Masc|wordform=kallon
 48	-n	na	PART	_	Case=Gen|PartType=Case	47	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
@@ -311,7 +311,7 @@
 16	dà	dà	CCONJ	_	_	17	cc	_	Gloss=and
 17	Gimbìyaː	gimbìyaː	NOUN	_	Gender=Fem	15	conj:coord	_	Gloss=princess.Fem
 18	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	19	subj/m	_	Gloss=3.Plur-|SpaceAfter=No|wordform=sù
-19	_̀	_̀	AUX	_	Copula=No|Mood=Sub	13	comp	_	Gloss=Sub|wordform=_̀=
+19	_̀	_̀	AUX	_	Mood=Sub	13	comp	_	Gloss=Sub|wordform=_̀=
 20	sàːmu	saːm-	VERB	_	_	19	comp:aux	_	Gloss=get
 21	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	22	det	_	Gloss=some.Masc.Spec
 22	wurîn	wuriː	NOUN	_	Definite=Def|Gender=Masc	20	comp:obj	_	Gloss=place.Masc.Def|RelAnt=Yes
@@ -323,7 +323,7 @@
 28	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	27	comp	_	Gloss=3Masc.Nom|RelPos=Yes
 29	,	,	PUNCT	_	_	30	punct	_	Gloss=PUNCT
 30	indà	indà	ADV	_	ExtPos=SCONJ|PronType=Rel	22	mod:appos@relcl	_	Gloss=where.Rel|Relz=Word
-31	zâː	zâː	AUX	_	Copula=No|Tense=Fut	30	comp:obj	_	Gloss=Fut|wordform=zaː-
+31	zâː	zâː	AUX	_	Tense=Fut	30	comp:obj	_	Gloss=Fut|wordform=zaː-
 32	-sù	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	31	subj/m	_	Gloss=3Plur|SpaceBefore=No|wordform=sù
 33	iyà	iy-	VERB	_	_	31	comp:aux	_	ClauseType=Rel|Gloss=be_able_to|RelRole=mod
 34	raːmà	raːm-	VERB	_	_	33	comp:obj	_	Gloss=return
@@ -586,7 +586,7 @@
 18	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	comp	_	Gloss=3Plur.Nom|RelPos=Yes
 19	à	à	ADP	_	_	16	mod	_	Gloss=at
 20	Afìr̃kà	Afìr̃kà	PROPN	_	_	19	comp	_	Gloss=Africa
-21	zâː	zâː	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut|wordform=zaː-
+21	zâː	zâː	AUX	_	Tense=Fut	0	root	_	Gloss=Fut|wordform=zaː-
 22	-'à	a	PRON	_	Person=4|PronType=PrsSubj	21	subj/m	_	Gloss=4|SpaceBefore=No|wordform=zaː'à
 23	iskèː	isk-	VERB	_	_	21	comp:aux	_	Gloss=find
 24	-su	-su	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	23	comp:obj/m	_	Gloss=-3Plur.Acc|SpaceBefore=No|wordform=su

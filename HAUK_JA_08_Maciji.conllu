@@ -127,7 +127,7 @@
 12	kùmurciː	kùmurciː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=cobra.Masc
 13	kàːfin	kàːfin	SCONJ	_	_	10	mod	_	Gloss=before
 14	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	15	subj/m	_	Gloss=3.Plur-|SpaceAfter=No|wordform=sù
-15	_̀	_̀	AUX	_	Copula=No|Mood=Sub	13	comp	_	Gloss=Sub|wordform=_̀=
+15	_̀	_̀	AUX	_	Mood=Sub	13	comp	_	Gloss=Sub|wordform=_̀=
 16	ci	ci	VERB	_	_	15	comp:aux	_	Gloss=obtain
 17	nasar̃à	nasar̃àː	NOUN	_	Gender=Fem	16	comp:obj	_	Gloss=success.Fem|wordform=nasar̃àr̃
 18	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	17	mod/m	_	Gloss=Gen.Fem|SpaceBefore=No
@@ -341,7 +341,7 @@
 28	macìːjîn	macìːjiː	NOUN	_	Definite=Def|Number=Plur	27	comp:obj	_	Gloss=snake.Plur.Def
 29	kàːfin	kàːfin	SCONJ	_	_	27	mod	_	Gloss=before
 30	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	31	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yà
-31	_̀	_̀	AUX	_	Copula=No|Mood=Sub	29	comp	_	Gloss=Sub|wordform=_̀=
+31	_̀	_̀	AUX	_	Mood=Sub	29	comp	_	Gloss=Sub|wordform=_̀=
 32	dàfu	daf-	VERB	_	_	31	comp:aux	_	Gloss=cook
 33	luɓus	luɓus	IDEO	_	_	32	mod	_	Gloss=soft
 34	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
@@ -364,7 +364,7 @@
 12	yankìn	yankìː	NOUN	_	Definite=Def|Gender=Masc	11	comp	_	Gloss=area.Masc.Def
 13	dà	dà	SCONJ	_	_	5	comp:obl	_	Gloss=COMP
 14	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	15	subj/m	_	Gloss=3.Plur-|SpaceAfter=No|wordform=sù
-15	_̀	_̀	AUX	_	Copula=No|Mood=Sub	13	comp	_	Gloss=Sub|wordform=_̀=
+15	_̀	_̀	AUX	_	Mood=Sub	13	comp	_	Gloss=Sub|wordform=_̀=
 16	kìyàːyi	kiyaːy-	VERB	_	_	15	comp:aux	_	Gloss=avoid
 17	ɗaukà	ɗauk-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	16	comp:obj	_	Gloss=take.Vnoun.Fem|wordform=ɗaukàr̃
 18	-r̃	na	PART	_	Case=Gen|PartType=Case	17	udep/m	_	Gloss=Gen.Fem|SpaceBefore=No
@@ -379,10 +379,10 @@
 27	gidaː	gidaː	NOUN	_	Gender=Masc	24	comp:obj@G	_	Gloss=home.Masc
 28	don	don	SCONJ	_	_	24	mod	_	Gloss=in_order_to
 29	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	30	subj/m	_	Gloss=3.Plur-|SpaceAfter=No|wordform=sù
-30	_̀	_̀	AUX	_	Copula=No|Mood=Sub	28	comp	_	Gloss=Sub|wordform=_̀=
+30	_̀	_̀	AUX	_	Mood=Sub	28	comp	_	Gloss=Sub|wordform=_̀=
 31	dafàː	daf-	VERB	_	_	30	comp:aux	_	Gloss=cook
 32	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	33	subj/m	_	Gloss=3.Plur-|SpaceAfter=No|wordform=sù
-33	_̀	_̀	AUX	_	Copula=No|Mood=Sub	30	conj:coord	_	Gloss=Sub|wordform=_̀=
+33	_̀	_̀	AUX	_	Mood=Sub	30	conj:coord	_	Gloss=Sub|wordform=_̀=
 34	sàːmu	saːm-	VERB	_	_	33	comp:aux	_	Gloss=get
 35	àbinci	àbinci	NOUN	_	Gender=Masc	34	comp:obj	_	Gloss=food.Masc
 36	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
@@ -421,7 +421,7 @@
 28	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	29	det	_	Gloss=some.Plur.Spec
 29	ƙwàːriː	ƙwàːroː	NOUN	_	Number=Plur	31	subj	_	Gloss=insect.Plur
 30	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	31	subj/m	_	Gloss=3.Plur-|SpaceAfter=No|wordform=sù
-31	_̀	_̀	AUX	_	Copula=No|Mood=Sub	26	comp	_	Gloss=Sub|wordform=_̀=
+31	_̀	_̀	AUX	_	Mood=Sub	26	comp	_	Gloss=Sub|wordform=_̀=
 32	laːlàːtaː	laːlaːt-	VERB	_	_	31	comp:aux	_	Gloss=spoil
 33	musù	musù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	32	comp:obl	_	Gloss=3Plur.Dat
 34	àmfàːni	àmfàːniː	NOUN	_	Gender=Masc	32	comp:obj	_	Compound=Yes|Gloss=use.Masc|wordform=àmfàːnin

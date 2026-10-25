@@ -40,7 +40,7 @@
 22	nàː	nàː	AUX	_	Aspect=Prog	20	mod@relcl	_	Gloss=Prog|wordform=sunàː
 23	ƙòːƙariː	ƙòːƙariː	NOUN	_	Gender=Masc	22	comp:pred	_	Gloss=effort.Masc
 24	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	25	subj/m	_	Gloss=3.Plur-|SpaceAfter=No|wordform=sù
-25	_̀	_̀	AUX	_	Copula=No|Mood=Sub	23	comp:obj	_	Gloss=Sub|wordform=_̀=
+25	_̀	_̀	AUX	_	Mood=Sub	23	comp:obj	_	Gloss=Sub|wordform=_̀=
 26	fasà	fas-	VERB	_	_	25	comp:aux	_	Gloss=break
 27	ƙoːfà	ƙoːfàː	NOUN	_	Gender=Fem	26	comp:obj	_	Gloss=door.Fem|wordform=ƙoːfàr̃
 28	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	27	mod/m	_	Gloss=Gen.Fem|SpaceBefore=No
@@ -52,7 +52,7 @@
 34	"	"	PUNCT	_	_	32	punct	_	Gloss=PUNCT|wordform=’
 35	don	don	SCONJ	_	_	26	mod	_	Gloss=in_order_to
 36	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	37	subj/m	_	Gloss=3.Plur-|SpaceAfter=No|wordform=sù
-37	_̀	_̀	AUX	_	Copula=No|Mood=Sub	35	comp	_	Gloss=Sub|wordform=_̀=
+37	_̀	_̀	AUX	_	Mood=Sub	35	comp	_	Gloss=Sub|wordform=_̀=
 38	shìga	shig-	VERB	_	_	37	comp:aux	_	Gloss=enter
 39	ciki	ciki	ADV	_	_	38	comp:obl	_	Gloss=inside
 40	.	.	PUNCT	_	_	17	punct	_	Gloss=PUNCT
@@ -246,7 +246,7 @@
 8	asibitoːciː	asìbitì	NOUN	_	Number=Plur	6	comp	_	Gloss=hospital.Plur
 9	dà	dà	SCONJ	_	_	5	comp:obl	_	Gloss=COMP
 10	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	11	subj/m	_	Gloss=3.Plur-|SpaceAfter=No|wordform=sù
-11	_̀	_̀	AUX	_	Copula=No|Mood=Sub	9	comp	_	Gloss=Sub|wordform=_̀=
+11	_̀	_̀	AUX	_	Mood=Sub	9	comp	_	Gloss=Sub|wordform=_̀=
 12	kai	kai	VERB	_	_	11	comp:aux	_	Gloss=reach/carry_to
 13	r̃àːhoːtò	r̃àːhoːtòː	NOUN	_	Gender=Masc	12	comp:obj	_	Gloss=report.Masc
 14	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	13	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
@@ -474,13 +474,13 @@
 19	dà	dà	ADP	_	_	18	comp:obl	_	Gloss=with
 20	iːkòː	iːkòː	NOUN	_	Gender=Masc	19	comp	_	Gloss=power.Masc
 21	a-	a	PRON	_	Person=4|PronType=PrsSubj	22	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
-22	_̀	_̀	AUX	_	Copula=No|Mood=Sub	18	parataxis@mod	_	Gloss=Sub|wordform=_̀=
+22	_̀	_̀	AUX	_	Mood=Sub	18	parataxis@mod	_	Gloss=Sub|wordform=_̀=
 23	kaːmà	kaːm-	VERB	_	_	22	comp:aux	_	Gloss=catch
 24	màːsu	mài	PART	_	Number=Plur|PartType=Der	23	comp:obj	_	Gloss=owner/doer_of.Plur
 25	aikàtà	aikat-	VERB	_	_	24	compound	_	Gloss=perform
 26	lâifiː	lâifiː	NOUN	_	Gender=Masc	25	comp:obj	_	Gloss=crime.Masc
 27	a-	a	PRON	_	Person=4|PronType=PrsSubj	28	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
-28	_̀	_̀	AUX	_	Copula=No|Mood=Sub	22	parataxis:conj	_	Gloss=Sub|wordform=_̀=
+28	_̀	_̀	AUX	_	Mood=Sub	22	parataxis:conj	_	Gloss=Sub|wordform=_̀=
 29	tsarèː	tsar-	NOUN	_	_	28	comp:aux	_	Gloss=imprison
 30	-	-	PUNCT	_	_	31	punct	_	Gloss=PUNCT|SpaceAfter=No|SpaceBefore=No
 31	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	9	conj:appos	_	Gloss=3Fem.Nom

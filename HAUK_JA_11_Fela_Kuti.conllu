@@ -34,7 +34,7 @@
 19	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 20	dà	dà	ADP	_	_	22	mod	_	Gloss=with
 21	ƙyar̃	ƙyar̃	ADV	_	_	20	comp	_	Gloss=difficulty
-22	zâː	zâː	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut|wordform=zaː-
+22	zâː	zâː	AUX	_	Tense=Fut	0	root	_	Gloss=Fut|wordform=zaː-
 23	-kà	ka	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=PrsSubj	22	subj/m	_	Gloss=2Masc|SpaceBefore=No|wordform=zaːkà
 24	yàr̃da	yar̃d-	VERB	_	_	22	comp:aux	_	Gloss=agree
 25	dà	dà	ADP	_	_	24	comp:obl	_	Gloss=with
@@ -410,7 +410,7 @@
 12	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	11	comp	_	Gloss=there_is.Neg
 13	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	12	subj	_	Gloss=thing.Masc.Def|RelAnt=Yes
 14	dà	dà	SCONJ	_	_	13	mod@relcl	_	Gloss=CompRel|Relz=Word
-15	zâː	zâː	AUX	_	Copula=No|Tense=Fut	14	comp	_	Gloss=Fut|SpaceForm=zâi|wordform=zâ-
+15	zâː	zâː	AUX	_	Tense=Fut	14	comp	_	Gloss=Fut|SpaceForm=zâi|wordform=zâ-
 16	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	15	subj/m	_	Gloss=3Masc|SpaceBefore=No|wordform=zâi
 17	fi	fi	VERB	_	_	15	comp:aux	_	ClauseType=Rel|Gloss=exceed|RelRole=subj
 18	daːcèːwaː	daːt-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	17	comp:obj	_	Gloss=be_correct
@@ -418,7 +418,7 @@
 20	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	19	comp	_	Gloss=3Masc.Nom
 21	kàmar̃	kàmar̃	SCONJ	_	_	17	mod	_	Gloss=like
 22	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	23	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yà
-23	_̀	_̀	AUX	_	Copula=No|Mood=Sub	21	comp	_	Gloss=Sub|wordform=_̀=
+23	_̀	_̀	AUX	_	Mood=Sub	21	comp	_	Gloss=Sub|wordform=_̀=
 24	jeː	jeː	VERB	_	_	23	comp:aux	_	Gloss=go
 25	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	26	det	_	Gloss=some.Fem.Spec
 26	ƙasa	ƙasaː	NOUN	_	Gender=Fem	24	mod	_	Gloss=country.Fem|wordform=ƙasar̃
@@ -426,7 +426,7 @@
 28	wàje	wàje	ADV	_	_	27	comp	_	Gloss=outside
 29	,	,	PUNCT	_	_	31	punct	_	Gloss=PUNCT
 30	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	31	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yà
-31	_̀	_̀	AUX	_	Copula=No|Mood=Sub	23	parataxis:conj	_	Gloss=Sub|wordform=_̀=
+31	_̀	_̀	AUX	_	Mood=Sub	23	parataxis:conj	_	Gloss=Sub|wordform=_̀=
 32	ƙaːroː	ƙaːr-	VERB	_	_	31	comp:aux	_	Gloss=increase
 33	ilìmi	ilìmiː	NOUN	_	Gender=Masc	32	comp:obj	_	Gloss=science.Masc|wordform=ilìmin
 34	-n	na	PART	_	Case=Gen|PartType=Case	33	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
@@ -921,7 +921,7 @@
 26	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	25	mod/m	_	Gloss=Gen.Fem|SpaceBefore=No
 27	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	26	comp	_	Gloss=Nigeria
 28	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	29	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tà
-29	_̀	_̀	AUX	_	Copula=No|Mood=Sub	23	comp:obj@agent	_	Gloss=Sub|wordform=_̀=
+29	_̀	_̀	AUX	_	Mood=Sub	23	comp:obj@agent	_	Gloss=Sub|wordform=_̀=
 30	yi	yi	VERB	_	_	29	comp:aux	_	Gloss=do
 31	huːtuː	huːtuː	NOUN	_	Gender=Masc	30	comp:pred	_	Gloss=rest.Masc
 32	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	31	mod	_	Gloss=Gen
@@ -931,7 +931,7 @@
 36	don	don	SCONJ	_	_	30	mod	_	Gloss=in_order_to
 37	koːwaː	koːwaː	PRON	_	Gender=Masc	39	subj	_	Gloss=everyone.Masc
 38	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	39	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yà
-39	_̀	_̀	AUX	_	Copula=No|Mood=Sub	36	comp	_	Gloss=Sub|wordform=_̀=
+39	_̀	_̀	AUX	_	Mood=Sub	36	comp	_	Gloss=Sub|wordform=_̀=
 40	sàːmi	saːm-	VERB	_	_	39	comp:aux	_	Gloss=get
 41	sùkuːnì	sùkuːnìː	NOUN	_	Gender=Masc	40	comp:obj	_	Gloss=opportunity.Masc|wordform=sùkuːnìn
 42	-n	na	PART	_	Case=Gen|PartType=Case	41	mod/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
@@ -939,7 +939,7 @@
 44	-n	na	PART	_	Case=Gen|PartType=Case	43	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 45	hanyàr̃	hanyàː	NOUN	_	Definite=Def|Gender=Fem	44	comp	_	Gloss=way.Fem.Def|RelAnt=Yes
 46	dà	dà	SCONJ	_	_	45	mod@relcl	_	Gloss=CompRel|Relz=Word
-47	zâː	zâː	AUX	_	Copula=No|Tense=Fut	46	comp	_	Gloss=Fut|wordform=zaː-
+47	zâː	zâː	AUX	_	Tense=Fut	46	comp	_	Gloss=Fut|wordform=zaː-
 48	-'à	a	PRON	_	Person=4|PronType=PrsSubj	47	subj/m	_	Gloss=4|SpaceBefore=No|wordform=zaː'à
 49	ɓulloː	ɓull-	VERB	_	_	47	comp:aux	_	ClauseType=Rel|Gloss=tackle|RelRole=obj
 50	wà	mà	ADP	_	Case=Dat	49	comp:obl	_	Gloss=Dat

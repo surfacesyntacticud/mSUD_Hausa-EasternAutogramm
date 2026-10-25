@@ -14,7 +14,7 @@
 # text_ortho = À yâu zaː mù soːmà shirìnmù dà làːbaːr̃ìn rìkicîn dà akèː yîː can Nàːjeːr̃iyàː gàme dà gudàːnar dà wàːsan dambe.
 1	à	à	ADP	_	_	3	mod	_	Gloss=at
 2	yâu	yâu	ADV	_	_	1	comp	_	Gloss=today
-3	zâː	zâː	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut|wordform=zaː-
+3	zâː	zâː	AUX	_	Tense=Fut	0	root	_	Gloss=Fut|wordform=zaː-
 4	-mù	mu	PRON	_	Number=Plur|Person=1|PronType=PrsSubj	3	subj/m	_	Gloss=1Plur|SpaceBefore=No|wordform=zaːmù
 5	soːmà	soːm-	VERB	_	_	3	comp:aux	_	Gloss=start
 6	shirì	shirìː	NOUN	_	Gender=Masc	5	comp:obj	_	Gloss=programme.Masc|wordform=shirìː|wordfrom=shirìnmù
@@ -80,7 +80,7 @@
 35	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	34	flat@name	_	Gloss=mouth.Masc
 36	ɗaya	ɗaya	NUM	_	_	35	mod:num	_	Gloss=one
 37	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
-38	zâː	zâː	AUX	_	Copula=No|Tense=Fut	8	comp	_	Gloss=Fut|SpaceForm=zâi|wordform=zâ-
+38	zâː	zâː	AUX	_	Tense=Fut	8	comp	_	Gloss=Fut|SpaceForm=zâi|wordform=zâ-
 39	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	38	subj/m	_	Gloss=3Masc|SpaceBefore=No|wordform=zâi
 40	shìga	shig-	VERB	_	_	38	comp:aux	_	Gloss=enter
 41	gàːsâr̃	gàːsâː	NOUN	_	Definite=Def|Gender=Fem	40	comp:obj@G	_	Gloss=competition.Fem.Def
@@ -99,7 +99,7 @@
 53	neːmo	neːm-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	52	comp	_	Gloss=look_for.Vnoun.Masc|wordform=neːmoː
 54	wani	wani	PRON	_	Definite=Spec|Gender=Masc|PronType=Ind	53	comp:obj	_	Gloss=some.Masc.Spec
 55	wàndà	wandà	PRON	_	Gender=Masc|PronType=Rel	54	mod@relcl	_	Gloss=Pron.Masc.Rel|Relz=Word
-56	zâː	zâː	AUX	_	Copula=No|Tense=Fut	55	comp:obj	_	Gloss=Fut|SpaceForm=zâi|wordform=zâ-
+56	zâː	zâː	AUX	_	Tense=Fut	55	comp:obj	_	Gloss=Fut|SpaceForm=zâi|wordform=zâ-
 57	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	56	subj/m	_	Gloss=3Masc|SpaceBefore=No|wordform=zâi
 58	ɗàuki	ɗauk-	VERB	_	_	56	comp:aux	_	ClauseType=Rel|Gloss=take|RelRole=subj
 59	kambi	kambiː	NOUN	_	Gender=Masc	58	comp:obj	_	Compound=Yes|Gloss=crown.Masc|wordform=kambin
@@ -123,7 +123,7 @@
 5	wàːtòː	wàːtòː	CCONJ	_	_	6	cc	_	Gloss=i.e.
 6	kàːfin	kàːfin	SCONJ	_	_	1	conj:reform	_	Gloss=before
 7	a-	a	PRON	_	Person=4|PronType=PrsSubj	8	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
-8	_̀	_̀	AUX	_	Copula=No|Mood=Sub	6	comp	_	Gloss=Sub|wordform=_̀=
+8	_̀	_̀	AUX	_	Mood=Sub	6	comp	_	Gloss=Sub|wordform=_̀=
 9	soːmà	soːm-	VERB	_	_	8	comp:aux	_	Gloss=start
 10	wannàn	nân	DET	_	Deixis=ProxS|Gender=Fem|PronType=Dem	11	det	_	Gloss=ProxS.Fem
 11	gar̃damàː	gar̃damàː	NOUN	_	Gender=Fem	9	comp:obj	_	Gloss=dispute.Fem
@@ -132,7 +132,7 @@
 14	n	aː	AUX	_	Aspect=Perf|Number=Plur	0	root	_	Gloss=Perf.Plur
 15	shiryà	shir-	VERB	_	_	14	comp:aux	_	Gloss=prepare
 16	Lasisi	Lasisi	PROPN	_	_	17	subj	_	Gloss=Lasisi
-17	zâː	zâː	AUX	_	Copula=No|Tense=Fut	15	comp:obj	_	Gloss=Fut|SpaceForm=zâi|wordform=zâ-
+17	zâː	zâː	AUX	_	Tense=Fut	15	comp:obj	_	Gloss=Fut|SpaceForm=zâi|wordform=zâ-
 18	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	17	subj/m	_	Gloss=3Masc|SpaceBefore=No|wordform=zâi
 19	gwabzàː	gwabz-	VERB	_	_	17	comp:aux	_	Gloss=fight
 20	dà	dà	ADP	_	_	19	comp:obl	_	Gloss=with
@@ -174,11 +174,11 @@
 7	-tàː	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=-3Fem|SpaceBefore=No|wordform=tàː
 8	sôː	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:pred	_	Gloss=want.Vnoun.Masc
 9	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	10	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tà
-10	_̀	_̀	AUX	_	Copula=No|Mood=Sub	8	comp:obj	_	Gloss=Sub|wordform=_̀=
+10	_̀	_̀	AUX	_	Mood=Sub	8	comp:obj	_	Gloss=Sub|wordform=_̀=
 11	ƙyaːlè	ƙyaːl-	VERB	_	_	10	comp:aux	_	Gloss=allow
 12	Lasisi	Lasisi	PROPN	_	_	14	subj	_	Gloss=Lasisi
 13	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	14	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yà
-14	_̀	_̀	AUX	_	Copula=No|Mood=Sub	11	comp:obj	_	Gloss=Sub|wordform=_̀=
+14	_̀	_̀	AUX	_	Mood=Sub	11	comp:obj	_	Gloss=Sub|wordform=_̀=
 15	yi	yi	VERB	_	_	14	comp:aux	_	Gloss=do
 16	wàːsân	wàːsaː	NOUN	_	Definite=Def|Gender=Masc	15	comp:pred	_	Gloss=game.Masc.Def
 17	sabòːdà	sabòːdà	SCONJ	_	_	15	mod	_	Gloss=because
@@ -235,7 +235,7 @@
 12	yàr̃da	yar̃d-	VERB	_	_	10	comp:aux	_	Gloss=agree
 13	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	15	subj	_	Gloss=Nigeria
 14	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	15	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tà
-15	_̀	_̀	AUX	_	Copula=No|Mood=Sub	12	comp:obj	_	Gloss=Sub|wordform=_̀=
+15	_̀	_̀	AUX	_	Mood=Sub	12	comp:obj	_	Gloss=Sub|wordform=_̀=
 16	yi	yi	VERB	_	_	15	comp:aux	_	Gloss=do
 17	hulɗàː	hulɗàː	NOUN	_	Gender=Fem	16	comp:pred	_	Gloss=dealing.Fem
 18	dà	dà	ADP	_	_	17	comp:obl	_	Gloss=with
@@ -292,7 +292,7 @@
 32	cêːwaː	cêːwaː	SCONJ	_	_	31	comp:obj	_	Gloss=COMP
 33	Lasisi	Lasisi	PROPN	_	_	35	subj	_	Gloss=Lasisi
 34	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	35	mod	_	Gloss=Neg
-35	zâː	zâː	AUX	_	Copula=No|Tense=Fut	32	comp	_	Gloss=Fut|SpaceForm=zâi|wordform=zâ-
+35	zâː	zâː	AUX	_	Tense=Fut	32	comp	_	Gloss=Fut|SpaceForm=zâi|wordform=zâ-
 36	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	35	subj/m	_	Gloss=3Masc|SpaceBefore=No|wordform=zâi
 37	jeː	jeː	VERB	_	_	35	comp:aux	_	Gloss=go
 38	wàːsân	wàːsaː	NOUN	_	Definite=Def|Gender=Masc	37	comp:obj@G	_	Gloss=game.Masc.Def
@@ -345,10 +345,10 @@
 21	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	20	comp:obl	_	Gloss=3Masc.Dat
 22	kadà	kaɗà	PART	_	PartType=Neg	24	mod	_	Gloss=Neg
 23	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	24	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yà
-24	_̀	_̀	AUX	_	Copula=No|Mood=Sub	20	comp:obj	_	Gloss=Sub|wordform=_̀=
+24	_̀	_̀	AUX	_	Mood=Sub	20	comp:obj	_	Gloss=Sub|wordform=_̀=
 25	kùskurà	kùskurà	NOUN	_	_	24	comp:aux	_	Gloss=make_mistake
 26	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	27	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yà
-27	_̀	_̀	AUX	_	Copula=No|Mood=Sub	24	parataxis:conj	_	Gloss=Sub|wordform=_̀=
+27	_̀	_̀	AUX	_	Mood=Sub	24	parataxis:conj	_	Gloss=Sub|wordform=_̀=
 28	shìga	shig-	VERB	_	_	27	comp:aux	_	Gloss=enter
 29	wannàn	nân	DET	_	Deixis=ProxS|Gender=Fem|PronType=Dem	30	det	_	Gloss=ProxS.Fem
 30	gàːsaː	gàːsaː	NOUN	_	Gender=Fem	28	comp:obj@G	_	Gloss=competition.Fem
@@ -399,7 +399,7 @@
 39	jàma'àː	jàma'àː	NOUN	_	Gender=Fem	38	comp	_	Gloss=people.Fem
 40	dà	dà	SCONJ	_	_	37	comp:obl	_	Gloss=COMP
 41	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	42	subj/m	_	Gloss=3.Plur-|SpaceAfter=No|wordform=sù
-42	_̀	_̀	AUX	_	Copula=No|Mood=Sub	40	comp	_	Gloss=Sub|wordform=_̀=
+42	_̀	_̀	AUX	_	Mood=Sub	40	comp	_	Gloss=Sub|wordform=_̀=
 43	baː	baː	VERB	_	_	42	comp:aux	_	Gloss=give
 44	dà	dà	ADP	_	_	43	comp:obl	_	Gloss=with
 45	goːyo	goːy-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	44	comp	_	Gloss=support.Vnoun.Masc|wordform=goːyon
@@ -463,7 +463,7 @@
 39	Afir̃kà	Afir̃kà	PROPN	_	_	38	comp	_	Gloss=Africa
 40	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	39	mod	_	Gloss=Gen.Fem
 41	Kudù	Kudù	PROPN	_	_	40	comp	_	Gloss=Kudù
-42	zâː	zâː	AUX	_	Copula=No|Tense=Fut	38	parataxis:conj	_	Gloss=Fut|wordform=zaː-
+42	zâː	zâː	AUX	_	Tense=Fut	38	parataxis:conj	_	Gloss=Fut|wordform=zaː-
 43	-'à	a	PRON	_	Person=4|PronType=PrsSubj	42	subj/m	_	Gloss=4|SpaceBefore=No|wordform=zaː'à
 44	yi	yi	VERB	_	_	42	comp:aux	_	Gloss=do
 45	dambên	dambe	NOUN	_	Definite=Def|Gender=Masc	44	comp:pred	_	Gloss=boxing.Masc.Def
@@ -523,11 +523,11 @@
 47	aː	aː	AUX	_	Aspect=Perf|Number=Sing	45	comp:obj	_	Gloss=Perf.Sing
 48	kàmaːtà	kamaːt-	VERB	_	_	47	comp:aux	_	Gloss=be_appropriate
 49	a-	a	PRON	_	Person=4|PronType=PrsSubj	50	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
-50	_̀	_̀	AUX	_	Copula=No|Mood=Sub	48	comp:obj@agent	_	Gloss=Sub|wordform=_̀=
+50	_̀	_̀	AUX	_	Mood=Sub	48	comp:obj@agent	_	Gloss=Sub|wordform=_̀=
 51	bar̃	bariː	VERB	_	_	50	comp:aux	_	Gloss=leave
 52	Lasisi	Lasisi	PROPN	_	_	54	subj	_	Gloss=Lasisi
 53	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	54	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yà
-54	_̀	_̀	AUX	_	Copula=No|Mood=Sub	51	comp:obj	_	Gloss=Sub|wordform=_̀=
+54	_̀	_̀	AUX	_	Mood=Sub	51	comp:obj	_	Gloss=Sub|wordform=_̀=
 55	shìga	shig-	VERB	_	_	54	comp:aux	_	Gloss=enter
 56	wàːsân	wàːsaː	NOUN	_	Definite=Def|Gender=Masc|Number=Plur	55	comp:obj@G	_	Gloss=game.Masc.Def
 57	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
@@ -546,10 +546,10 @@
 8	sô	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	7	comp:aux	_	Compound=Yes|Gloss=want.Vnoun.Masc.|wordform=sôn
 9	-n	na	PART	_	Case=Gen|PartType=Case	8	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 10	a-	a	PRON	_	Person=4|PronType=PrsSubj	11	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
-11	_̀	_̀	AUX	_	Copula=No|Mood=Sub	9	comp	_	Gloss=Sub|wordform=_̀=
+11	_̀	_̀	AUX	_	Mood=Sub	9	comp	_	Gloss=Sub|wordform=_̀=
 12	barìː	barìː	VERB	_	_	11	comp:aux	_	Gloss=leave
 13	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	14	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yà
-14	_̀	_̀	AUX	_	Copula=No|Mood=Sub	12	parataxis:mod	_	Gloss=Sub|wordform=_̀=
+14	_̀	_̀	AUX	_	Mood=Sub	12	parataxis:mod	_	Gloss=Sub|wordform=_̀=
 15	yi	yi	VERB	_	_	14	comp:aux	_	Gloss=do
 16	wàːsân	wàːsaː	NOUN	_	Definite=Def|Gender=Masc	15	comp:pred	_	Gloss=game.Masc.Def
 17	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT

@@ -25,7 +25,7 @@
 6	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 7	BBC	BBC	PROPN	_	Number=Plur	3	mod@appos	_	Gloss=BBC|wordform='BBC
 8	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT|wordform='
-9	zâː	zâː	AUX	_	Copula=No|Tense=Fut	2	comp	_	Gloss=Fut|SpaceForm=zâi|wordform=zâ-
+9	zâː	zâː	AUX	_	Tense=Fut	2	comp	_	Gloss=Fut|SpaceForm=zâi|wordform=zâ-
 10	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	9	subj/m	_	Gloss=3Masc|SpaceBefore=No|wordform=zâi
 11	gabaːtar̃	gabaːt-	VERB	_	_	9	comp:aux	_	Gloss=present
 12	dà	dà	ADP	_	_	11	comp:obl	_	Gloss=with
@@ -39,7 +39,7 @@
 20	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 21	doːlè	doːlè	ADV	_	_	0	root	_	Gloss=necessary
 22	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	23	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yà
-23	_̀	_̀	AUX	_	Copula=No|Mood=Sub	21	comp:cleft	_	Gloss=Sub|wordform=_̀=
+23	_̀	_̀	AUX	_	Mood=Sub	21	comp:cleft	_	Gloss=Sub|wordform=_̀=
 24	yi	yi	VERB	_	_	23	comp:aux	_	ClauseType=Cleft|Gloss=do
 25	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	24	comp:pred	_	Gloss=use.Masc
 26	dà	dà	ADP	_	_	25	comp:obl	_	Gloss=with
@@ -72,7 +72,7 @@
 18	saːmùː	saːm-	VERB	_	_	17	comp:aux	_	ClauseType=Rel|Gloss=get|RelRole=obj
 19	kàːfìn	kàːfin	SCONJ	_	_	18	mod	_	Gloss=before
 20	a-	a	PRON	_	Person=4|PronType=PrsSubj	21	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
-21	_̀	_̀	AUX	_	Copula=No|Mood=Sub	19	comp	_	Gloss=Sub|wordform=_̀=
+21	_̀	_̀	AUX	_	Mood=Sub	19	comp	_	Gloss=Sub|wordform=_̀=
 22	bugà	bug-	VERB	_	_	21	comp:aux	_	Gloss=beat
 23	wayàː	wayàː	NOUN	_	Gender=Fem	22	comp:obj	_	Gloss=wire.Fem
 24	zuwàː	zuwàː	ADP	_	_	22	comp:obl	_	Gloss=towards
@@ -103,7 +103,7 @@
 8	laːyìː	laːyìː	NOUN	_	Gender=Masc	7	comp:obj	_	Gloss=line.Masc
 9	sai	sai	ADV	_	_	11	mod	_	Gloss=then
 10	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	11	subj/m	_	Gloss=2Masc-|SpaceAfter=No|wordform=kà
-11	_̀	_̀	AUX	_	Copula=No|Mood=Sub	0	root	_	Gloss=Sub|wordform=_̀=
+11	_̀	_̀	AUX	_	Mood=Sub	0	root	_	Gloss=Sub|wordform=_̀=
 12	ga	ganiː	VERB	_	_	11	comp:aux	_	Gloss=see
 13	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	12	comp:obj	_	Gloss=there_is.Neg
 14	shi	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	13	subj	_	Gloss=3Masc.Acc
@@ -156,7 +156,7 @@
 12	sô	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	11	comp:aux	_	Compound=Yes|Gloss=want.Vnoun.Masc.|wordform=sôn
 13	-n	na	PART	_	Case=Gen|PartType=Case	12	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 14	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	15	subj/m	_	Gloss=2Masc-|SpaceAfter=No|wordform=kà
-15	_̀	_̀	AUX	_	Copula=No|Mood=Sub	13	comp	_	Gloss=Sub|wordform=_̀=
+15	_̀	_̀	AUX	_	Mood=Sub	13	comp	_	Gloss=Sub|wordform=_̀=
 16	bugà	bug-	VERB	_	_	15	comp:aux	_	Gloss=beat
 17	wayàː	wayàː	NOUN	_	Gender=Fem	16	comp:obj	_	Gloss=wire.Fem
 18	zuwàː	zuwàː	ADP	_	_	16	comp:obl	_	Gloss=towards
@@ -175,7 +175,7 @@
 31	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 32	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	34	dislocated@subj	_	Gloss=thing.Masc.Def
 33	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	34	mod	_	Gloss=Neg
-34	zâː	zâː	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut|SpaceForm=zâi|wordform=zâ-
+34	zâː	zâː	AUX	_	Tense=Fut	0	root	_	Gloss=Fut|SpaceForm=zâi|wordform=zâ-
 35	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	34	subj/m	_	Gloss=3Masc|SpaceBefore=No|wordform=zâi
 36	yìwu	yìi	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	34	comp:aux	_	Gloss=be_possible
 37	ba	ba	PART	_	PartType=Neg|Polarity=Neg	34	mod	_	Gloss=Neg
@@ -185,7 +185,7 @@
 # text_en = You will waste a lot of time before the operator connects you, or before you hear any words, with no line.
 # text = zaːkà ɓaːtà loːkàciː dà yawàː kàːfìn àfàreːtàː yà haɗàː ka, koː kùwa kà ji wata màganàː bàː tàːre dà kaː sàːmi laːyìː ba.
 # text_ortho = Kàmar̃ shèːkaràː bìyar̃ dà sukà wucèː, ìdan kanàː sôn kà bugà wayàː zuwàː Bùr̃kiːnà Faːsò dàgà 'Vancouver', can cikin ƙasar̃ Kyanadà, àbîn bà zâi yìwu ba - zaː kà ɓaːtà loːkàciː dà yawàː kàːfìn àfàrētàː yà haɗàː ka, koː kùwa kà ji wata màganàː bàː tàːre dà kaː sàːmi laːyìː ba.
-1	zâː	zâː	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut|wordform=zaː-
+1	zâː	zâː	AUX	_	Tense=Fut	0	root	_	Gloss=Fut|wordform=zaː-
 2	-kà	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	1	subj/m	_	Gloss=2Masc|SpaceBefore=No|wordform=kà
 3	ɓaːtà	ɓaːt-	VERB	_	_	1	comp:aux	_	Gloss=waste
 4	loːkàciː	loːkàciː	NOUN	_	Gender=Masc	3	comp:obj	_	Gloss=time.Masc
@@ -194,14 +194,14 @@
 7	kàːfìn	kàːfìn	SCONJ	_	_	3	mod	_	Gloss=before
 8	àfàreːtàː	àfàreːtàː	NOUN	_	Gender=Masc	10	subj	_	Gloss=operator.Masc
 9	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	10	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yà
-10	_̀	_̀	AUX	_	Copula=No|Mood=Sub	7	comp	_	Gloss=Sub|wordform=_̀=
+10	_̀	_̀	AUX	_	Mood=Sub	7	comp	_	Gloss=Sub|wordform=_̀=
 11	haɗàː	haɗ-	VERB	_	_	10	comp:aux	_	Gloss=connect
 12	ka	ka	PRON	_	Gender=Masc|Person=2|PronType=Prs	11	comp:obj	_	Gloss=2.Masc.Acc
 13	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 14	koː	koː	CCONJ	_	_	17	cc	_	Gloss=or
 15	kùwa	kùwa	PART	_	PartType=Top	14	discourse@top	_	Gloss=in_fact
 16	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	17	subj/m	_	Gloss=2Masc-|SpaceAfter=No|wordform=kà
-17	_̀	_̀	AUX	_	Copula=No|Mood=Sub	10	conj:coord	_	Gloss=Sub|wordform=_̀=
+17	_̀	_̀	AUX	_	Mood=Sub	10	conj:coord	_	Gloss=Sub|wordform=_̀=
 18	ji	ji	VERB	_	_	17	comp:aux	_	Gloss=hear
 19	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	20	det	_	Gloss=some.Fem.Spec
 20	màganàː	màganàː	NOUN	_	Gender=Fem	18	comp:obj	_	Gloss=speech.Fem
@@ -248,7 +248,7 @@
 14	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 15	sànnan	sànnan	ADV	_	_	17	mod	_	Gloss=then
 16	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	17	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yà
-17	_̀	_̀	AUX	_	Copula=No|Mood=Sub	3	conj:coord	_	Gloss=Sub|wordform=_̀=
+17	_̀	_̀	AUX	_	Mood=Sub	3	conj:coord	_	Gloss=Sub|wordform=_̀=
 18	tàfi	taf-	VERB	_	_	17	comp:aux	_	Gloss=go
 19	zuwàː	zuwàː	ADP	_	_	18	comp:obl	_	Gloss=towards
 20	Montreal	Montreal	PROPN	_	_	19	comp	_	Gloss=Montreal
@@ -265,7 +265,7 @@
 1	dàgà	dàgà	ADP	_	_	0	root	_	Gloss=from
 2	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	1	comp	_	Gloss=PreRef|PreRef=Yes
 3	nèː	neː	PART	_	PartType=Foc	1	discourse@foc	_	Gloss=Emph
-4	zâː	zâː	AUX	_	Copula=No|Tense=Fut	1	comp:cleft	_	Gloss=Fut|wordform=zaː-
+4	zâː	zâː	AUX	_	Tense=Fut	1	comp:cleft	_	Gloss=Fut|wordform=zaː-
 5	-'à	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4|SpaceBefore=No|wordform=à
 6	aikàː	aik-	VERB	_	_	4	comp:aux	_	ClauseType=Cleft|Gloss=send
 7	dà	dà	ADP	_	_	6	comp:obl	_	Gloss=with
@@ -304,7 +304,7 @@
 4	sai	sai	ADV	_	_	7	mod	_	Gloss=then
 5	sàːƙôn	sàːƙoː	NOUN	_	Definite=Def|Gender=Masc	7	subj	_	Gloss=message.Masc.Det
 6	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	7	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yà
-7	_̀	_̀	AUX	_	Copula=No|Mood=Sub	0	root	_	Gloss=Sub|wordform=_̀=
+7	_̀	_̀	AUX	_	Mood=Sub	0	root	_	Gloss=Sub|wordform=_̀=
 8	tàfi	taf-	VERB	_	_	7	comp:aux	_	Gloss=go
 9	zuwàː	zuwàː	ADP	_	_	8	comp:obl	_	Gloss=towards
 10	kudancin	kudancin	ADP	_	_	9	comp	_	Gloss=south_of
@@ -320,7 +320,7 @@
 3	sai	sai	ADV	_	_	6	mod	_	Gloss=then
 4	sàːƙôn	sàːƙoː	NOUN	_	Definite=Def|Gender=Masc	6	subj	_	Gloss=message.Masc.Det
 5	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yà
-6	_̀	_̀	AUX	_	Copula=No|Mood=Sub	0	root	_	Gloss=Sub|wordform=_̀=
+6	_̀	_̀	AUX	_	Mood=Sub	0	root	_	Gloss=Sub|wordform=_̀=
 7	ìsa	is-	VERB	_	_	6	comp:aux	_	Gloss=reach
 8	bir̃ni	bir̃niː	NOUN	_	Gender=Masc	7	comp:obj@L	_	Gloss=city.Masc|wordform=bir̃nin
 9	-n	na	PART	_	Case=Gen|PartType=Case	8	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
@@ -336,7 +336,7 @@
 3	ga	ganiː	VERB	_	_	2	comp:aux	_	Gloss=see
 4	doːlè	doːlè	ADV	_	_	0	root	_	Gloss=necessary
 5	a-	a	PRON	_	Person=4|PronType=PrsSubj	6	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
-6	_̀	_̀	AUX	_	Copula=No|Mood=Sub	4	dislocated@subj	_	Gloss=Sub|wordform=_̀=
+6	_̀	_̀	AUX	_	Mood=Sub	4	dislocated@subj	_	Gloss=Sub|wordform=_̀=
 7	sàːmi	saːm-	VERB	_	_	6	comp:aux	_	Gloss=get
 8	haɗì	haɗìː	NOUN	_	Gender=Masc	7	comp:obj	_	Compound=Yes|Gloss=mixing.Masc|wordform=haɗìn
 9	-n	na	PART	_	Case=Gen|PartType=Case	8	udep/m	_	Gloss=Gen.Fem|SpaceBefore=No
@@ -347,7 +347,7 @@
 14	duːniyàː	duːniyàː	NOUN	_	Gender=Fem	13	comp	_	Gloss=world.Fem
 15	kàːfìn	kàːfìn	PART	_	_	7	mod	_	Gloss=before
 16	a-	a	PRON	_	Person=4|PronType=PrsSubj	17	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
-17	_̀	_̀	AUX	_	Copula=No|Mood=Sub	15	comp	_	Gloss=Sub|wordform=_̀=
+17	_̀	_̀	AUX	_	Mood=Sub	15	comp	_	Gloss=Sub|wordform=_̀=
 18	shiryà	shir-	VERB	_	_	17	comp:aux	_	Gloss=prepare
 19	hakà	hakà	ADV	_	_	18	comp:obj	_	Gloss=thus
 20	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
@@ -361,7 +361,7 @@
 3	koːwàcè	koːwànè	DET	_	Gender=Fem	4	det	_	Gloss=each.Fem
 4	ƙasaː	ƙasaː	NOUN	_	Gender=Fem	6	subj	_	Gloss=country.Fem|wordform=kasaː
 5	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tà
-6	_̀	_̀	AUX	_	Copula=No|Mood=Sub	1	comp:cleft	_	Gloss=Sub|wordform=_̀=
+6	_̀	_̀	AUX	_	Mood=Sub	1	comp:cleft	_	Gloss=Sub|wordform=_̀=
 7	amìnceː	amint-	NOUN	_	_	6	comp:aux	_	ClauseType=Cleft|Gloss=agree
 8	dà	dà	ADP	_	_	7	comp:obl	_	Gloss=with
 9	laːyukàn	laːyìː	NOUN	_	Definite=Def|Number=Plur	8	comp	_	Gloss=line.Plur.Def|RelAnt=Yes
@@ -374,7 +374,7 @@
 16	kuma	kuma	PART	_	PartType=Top	15	discourse@top	_	Gloss=also
 17	kuɗîn	kuɗiː	NOUN	_	Definite=Def|Gender=Masc	9	conj:coord	_	Gloss=money.Masc.Def|RelAnt=Yes
 18	dà	dà	SCONJ	_	_	17	mod@relcl	_	Gloss=CompRel|Relz=Word
-19	zâː	zâː	AUX	_	Copula=No|Tense=Fut	18	comp	_	Gloss=Fut|wordform=zaː-
+19	zâː	zâː	AUX	_	Tense=Fut	18	comp	_	Gloss=Fut|wordform=zaː-
 20	-'à	a	PRON	_	Person=4|PronType=PrsSubj	19	subj/m	_	Gloss=4|SpaceBefore=No|wordform=à
 21	biyaː	biyaː	VERB	_	_	19	comp:aux	_	ClauseType=Rel|Gloss=pay|RelRole=obj
 22	à	à	ADP	_	ExtPos=ADP	21	comp:obl	_	Gloss=at
@@ -429,7 +429,7 @@
 17	fi	fi	VERB	_	_	16	comp:aux	_	Gloss=exceed
 18	sauƙiː	sauƙiː	NOUN	_	Gender=Masc	17	comp:pred	_	Gloss=easiness.Masc
 19	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	20	subj/m	_	Gloss=2Masc-|SpaceAfter=No|wordform=kà
-20	_̀	_̀	AUX	_	Copula=No|Mood=Sub	18	comp:obj@agent	_	Gloss=Sub|wordform=_̀=
+20	_̀	_̀	AUX	_	Mood=Sub	18	comp:obj@agent	_	Gloss=Sub|wordform=_̀=
 21	yi	yi	VERB	_	_	20	comp:aux	_	Gloss=do
 22	wayàː	wayàː	NOUN	_	Gender=Fem	21	comp:pred	_	Gloss=wire.Fem
 23	zuwàː	zuwàː	ADP	_	_	22	comp:obl	_	Gloss=towards
@@ -438,7 +438,7 @@
 26	Tūr̃ai	Tūr̃ai	PROPN	_	_	25	comp	_	Gloss=Europe
 27	màimakon	màimakon	CCONJ	_	_	29	cc	_	Gloss=instead_of
 28	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	29	subj/m	_	Gloss=2Masc-|SpaceAfter=No|wordform=kà
-29	_̀	_̀	AUX	_	Copula=No|Mood=Sub	20	conj:coord	_	Gloss=Sub|wordform=_̀=
+29	_̀	_̀	AUX	_	Mood=Sub	20	conj:coord	_	Gloss=Sub|wordform=_̀=
 30	bugà	bug-	VERB	_	_	29	comp:aux	_	Gloss=beat
 31	wayàː	wayàː	NOUN	_	Gender=Fem	30	comp:obj	_	Gloss=wire.Fem
 32	zuwàː	zuwàː	ADP	_	_	30	comp:obl	_	Gloss=towards
@@ -462,7 +462,7 @@
 11	,	,	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 12	doːlè	doːlè	ADV	_	_	0	root	_	Gloss=necessary
 13	a-	a	PRON	_	Person=4|PronType=PrsSubj	14	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
-14	_̀	_̀	AUX	_	Copula=No|Mood=Sub	12	dislocated@subj	_	Gloss=Sub|wordform=_̀=
+14	_̀	_̀	AUX	_	Mood=Sub	12	dislocated@subj	_	Gloss=Sub|wordform=_̀=
 15	aikoː	aik-	VERB	_	_	14	comp:aux	_	Gloss=send
 16	dà	dà	ADP	_	_	15	comp:obl	_	Gloss=with
 17	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	16	comp	_	Gloss=3Fem.Nom
@@ -600,7 +600,7 @@
 30	-n	na	PART	_	Case=Gen|PartType=Case	29	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 31	kudancin	kudancin	ADP	_	_	30	comp	_	Gloss=south_of
 32	Afir̃kà	Afir̃kà	PROPN	_	_	31	comp	_	Gloss=Africa
-33	zâː	zâː	AUX	_	Copula=No|Tense=Fut	17	comp:obj	_	Gloss=Fut|SpaceForm=zâi|wordform=zâ-
+33	zâː	zâː	AUX	_	Tense=Fut	17	comp:obj	_	Gloss=Fut|SpaceForm=zâi|wordform=zâ-
 34	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	33	subj/m	_	Gloss=3Masc|SpaceBefore=No|wordform=zâi
 35	yi	yi	VERB	_	_	33	comp:aux	_	Gloss=do
 36	sauƙiː	sauƙiː	NOUN	_	Gender=Masc	35	comp:pred	_	Gloss=easiness.Masc
