@@ -76,7 +76,7 @@
 1	yâːraː	yaːròː	NOUN	_	Number=Plur	37	dislocated@subj	_	Gloss=child.Plur|RelAnt=Yes
 2	ƙanaːnàː	ƙàramiː	ADJ	_	Number=Plur	1	mod	_	Gloss=small.Plur
 3	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=CompRel|Relz=Word
-4	kèː	nàː	AUX	_	Copula=Yes|Mood=Rel	3	comp	_	ClauseType=Rel|Gloss=bePred.Rel|RelRole=subj|Relz=Affix
+4	kèː	kèː	AUX	_	Copula=Yes|Mood=Rel	3	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
 5	kân	kân	ADP	_	_	4	comp:pred	_	Gloss=on
 6	gadoːjiː	gadàː	NOUN	_	Number=Plur	5	comp	_	Gloss=bridge.Plur
 7	na	na	PART	_	Case=Gen|Number=Plur|PartType=Case	6	mod	_	Gloss=Gen
@@ -124,7 +124,7 @@
 49	hàdàː-hadâr̃	hàdàː-hadaː	NOUN	_	Definite=Def|Gender=Fem	48	comp	_	Gloss=confusion.Fem.Def|RelAnt=Yes
 50	dà	dà	SCONJ	_	_	49	mod@relcl	_	Gloss=CompRel|Relz=Word
 51	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	52	subj/m	_	Gloss=3Fem|SpacesAfter=No
-52	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	50	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix|wordform=takèː
+52	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	50	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix|wordform=takèː
 53	àukuwaː	auk-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	52	comp:aux	_	Gloss=take_place.Vnoun.Fem
 54	à	à	ADP	_	_	52	mod	_	Gloss=at
 55	bàːki	bàːkiː	NOUN	_	Gender=Masc	54	comp	_	Compound=Yes|Gloss=shore.Masc|wordform=bàːkin
@@ -153,7 +153,7 @@
 15	-n	na	PART	_	Case=Gen|PartType=Case	14	mod/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 16	gwamnatì	gwamnatì	NOUN	_	Gender=Fem	15	comp	_	Gloss=government.Fem
 17	dà	dà	SCONJ	_	_	14	mod@relcl	_	Gloss=CompRel|Relz=Word
-18	kèː	nàː	AUX	_	Copula=Yes|Mood=Rel	17	comp	_	ClauseType=Rel|Gloss=bePred.Rel|RelRole=subj|Relz=Affix
+18	kèː	kèː	AUX	_	Copula=Yes|Mood=Rel	17	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
 19	Ìkko	Ìkko	PROPN	_	_	18	comp:pred	_	Gloss=Lagos
 20	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
 21	wandà	wandà	PRON	_	ExtPos=SCONJ|Gender=Masc|PronType=Rel	17	conj:coord	_	Gloss=Pron.Masc.Rel|Relz=Word
@@ -210,7 +210,7 @@
 30	dà	dà	SCONJ	_	_	29	comp:obl	_	Gloss=COMP
 31	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	33	subj	_	Gloss=Nigeria
 32	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	33	subj/m	_	Gloss=3Fem|SpacesAfter=No
-33	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	30	comp	_	Gloss=Prog.Rel|wordform=takèː
+33	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	30	comp	_	Gloss=Prog.Rel|wordform=takèː
 34	cìke	cik-	VERB	_	ExtPos=ADV	33	comp:pred	_	Gloss=fill.Stat
 35	dà	dà	CCONJ	_	_	34	comp:obl	_	Gloss=and
 36	ar̃zìki	ar̃zìkiː	NOUN	_	Gender=Masc	35	comp:obj	_	Gloss=wealth.Masc|wordform=ar̃zìkin
@@ -236,10 +236,10 @@
 10	-n	na	PART	_	Case=Gen|PartType=Case	9	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 11	ràːyuwaː	ràːyuwaː	NOUN	_	Gender=Fem	10	comp	_	Gloss=life.Fem
 12	dà	dà	SCONJ	_	_	5	mod@relcl	_	Gloss=CompRel|Relz=Word
-13	kèː	nàː	AUX	_	Copula=Yes|Mood=Rel	12	comp	_	ClauseType=Rel|Gloss=bePred.Rel|RelRole=subj|Relz=Affix
+13	kèː	kèː	AUX	_	Copula=Yes|Mood=Rel	12	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
 14	cikin	cikin	ADP	_	_	13	comp:pred	_	Gloss=inside
 15	gidân	gidaː	NOUN	_	Definite=Def|Gender=Masc	14	comp	_	Gloss=house.Masc.Def
-16	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	5	comp:cleft	_	ClauseType=Cleft|Gloss=Prog.Rel
+16	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	5	comp:cleft	_	ClauseType=Cleft|Gloss=Prog.Rel
 17	aikìː	aikìː	NOUN	_	Gender=Masc	16	comp:aux	_	Gloss=work.Masc
 18	kàmar̃	kàmar̃	ADP	_	_	17	mod	_	Gloss=like
 19	yaddà	yaddà	ADV	_	PronType=Rel	18	comp	_	Gloss=how.Rel|RelAnt=Yes|Relz=Word
@@ -556,7 +556,7 @@
 9	-n	na	PART	_	Case=Gen|PartType=Case	8	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 10	gadàː	gadàː	NOUN	_	Gender=Fem	9	comp	_	Gloss=bridge.Fem
 11	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	8	mod@relcl	_	Gloss=Pron.Fem.Rel|Relz=Word
-12	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	11	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
+12	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	11	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
 13	reːtòː	rētòː	NOUN	_	Gender=Masc	12	comp:aux	_	Gloss=hanging.Masc
 14	dàgà	dàgà	ADP	_	_	13	comp:obl	_	Gloss=from
 15	samà	samà	ADV	_	_	14	comp	_	Gloss=above

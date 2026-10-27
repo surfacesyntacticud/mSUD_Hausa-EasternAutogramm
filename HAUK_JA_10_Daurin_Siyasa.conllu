@@ -312,7 +312,7 @@
 13	Ìkko	Ìkko	PROPN	_	_	12	comp	_	Gloss=Lagos
 14	indà	indà	ADV	_	ExtPos=SCONJ|PronType=Rel	11	mod:appos@relcl	_	Gloss=where.Rel|Relz=Word
 15	su-	su	PRON	_	Number=Plur|Person=3|PronType=Prs	16	subj/m	_	Gloss=3Plur|SpacesAfter=No
-16	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	14	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=mod|Relz=Affix|wordform=sukèː
+16	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	14	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=mod|Relz=Affix|wordform=sukèː
 17	neːma	neːm-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	16	comp:aux	_	Compound=Yes|Gloss=seek.Vnoun.Masc|wordform=neːman
 18	-n	na	PART	_	Case=Gen|PartType=Case	17	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 19	a-	a	PRON	_	Person=4|PronType=ProSubj	20	subj/m	_	Gloss=4|SpacesAfter=No|wordform=à
@@ -387,7 +387,7 @@
 55	baːshìn	baːshìː	NOUN	_	Definite=Def|Gender=Masc	53	comp:obj@T	_	Gloss=loan.Masc.Def|RelAnt=Yes
 56	dà	dà	SCONJ	_	_	55	mod@relcl	_	Gloss=CompRel|Relz=Word
 57	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	58	subj/m	_	Gloss=3Masc|SpacesAfter=No
-58	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	56	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=yakèː
+58	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	56	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=yakèː
 59	bî	bi	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	58	comp:aux	_	Gloss=owe.Vnoun.Masc|RelRole=obj|wordform=bîn|wordfrom=bînsà
 60	-n	na	PART	_	Case=Gen|PartType=Case	59	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 61	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	60	comp:obj/m	_	Gloss=3Masc.Gen|SpacesBefore=No

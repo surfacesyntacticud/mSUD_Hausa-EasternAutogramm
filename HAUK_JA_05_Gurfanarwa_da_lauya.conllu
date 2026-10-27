@@ -38,7 +38,7 @@
 17	-n	na	PART	_	Case=Gen|PartType=Case	16	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 18	soːjà	soːjà	NOUN	_	Number=Plur	17	comp	_	Gloss=soldiers.Plur
 19	dà	dà	SCONJ	_	_	12	mod@relcl	_	Gloss=CompRel|Relz=Word
-20	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	19	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
+20	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	19	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
 21	Afir̃kà	Afir̃kà	PROPN	_	_	20	comp:pred	_	Gloss=Africa
 22	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 
@@ -325,7 +325,7 @@
 2	lâifîn	lâifiː	NOUN	_	Definite=Def|Gender=Masc	20	subj	_	Gloss=crime.Masc.Def|RelAnt=Yes
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=CompRel|Relz=Word
 4	a-	a	PRON	_	Person=4|PronType=Prs	5	subj/m	_	Gloss=4|SpacesAfter=No
-5	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	3	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
+5	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	3	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
 6	zàrgi	zarg-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	5	comp:aux	_	Gloss=accuse.Vnoun.Masc|RelRole=obl|wordform=zàrgin
 7	-n	na	PART	_	Case=Gen|PartType=Case	6	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 8	Chief	Chief	PROPN	_	_	7	comp	_	Gloss=Chief
@@ -497,7 +497,7 @@
 25	leːbùr̃à	leːbùr̃à	NOUN	_	Gender=Masc	23	comp:obj	_	Gloss=worker.Masc|RelAnt=Yes
 26	dà	dà	SCONJ	_	_	25	mod@relcl	_	Gloss=CompRel|Relz=Word
 27	a-	a	PRON	_	Person=4|PronType=Prs	28	subj/m	_	Gloss=4|SpacesAfter=No
-28	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	26	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
+28	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	26	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
 29	yî	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	28	comp:aux	_	Compound=Yes|Gloss=do.Vnoun.Masc.|wordform=yîn
 30	-n	na	PART	_	Case=Gen|PartType=Case	29	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 31	zàrgi	zarg-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	30	comp	_	Gloss=accuse.Vnoun.Masc|RelRole=obj|wordform=zàrgin
@@ -561,7 +561,7 @@
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=CompRel|Relz=Word
 4	Chief	Chief	PROPN	_	_	6	subj	_	Gloss=Chief
 5	G.F.	G.F.	PROPN	_	_	4	mod@appos	_	Gloss=G.F.
-6	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	3	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix
+6	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	3	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix
 7	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:aux	_	Gloss=do.Vnoun.Masc|RelPos=Yes
 8	dà	dà	ADP	_	_	7	comp:obl	_	Gloss=with
 9	hukuːmoːmiː	hùkuːmàː	NOUN	_	Number=Plur	8	comp	_	Gloss=authority.Plur

@@ -153,7 +153,7 @@
 21	-n	na	PART	_	Case=Gen|PartType=Case	20	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 22	kòːgiː	kòːgiː	NOUN	_	Gender=Masc	21	comp	_	Gloss=river.Masc
 23	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	24	subj/m	_	Gloss=3Masc|SpacesAfter=No
-24	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	19	mod@relcl	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=yakèː
+24	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	19	mod@relcl	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=yakèː
 25	bîː	bi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	24	comp:aux	_	Gloss=follow.Vnoun.Masc|RelRole=mod
 26	zuwàː	zuwàː	ADP	_	_	16	comp:obl	_	Gloss=towards
 27	cikin	cikin	ADP	_	_	26	comp	_	Gloss=inside
@@ -174,7 +174,7 @@
 2	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	3	det	_	Gloss=some.Masc.Spec
 3	ƙauyèː	ƙauyèː	NOUN	_	Gender=Masc	1	comp	_	Gloss=village.Masc|RelAnt=Yes
 4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=CompRel|Relz=Word
-5	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	4	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
+5	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	4	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
 6	kusa	kusa	ADV	_	_	5	comp:pred	_	Gloss=close
 7	dà	dà	ADP	_	_	6	mod	_	Gloss=with
 8	tafkìn	tafkìː	NOUN	_	Definite=Def|Gender=Masc	7	comp	_	Gloss=river.Masc.Def
@@ -428,7 +428,7 @@
 14	-n	na	PART	_	Case=Gen|PartType=Case	13	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 15	ruwân	ruwaː	NOUN	_	Definite=Def|Gender=Masc	14	comp	_	Gloss=water.Masc.Def|RelAnt=Yes
 16	dà	dà	SCONJ	_	_	15	mod@relcl	_	Gloss=CompRel|Relz=Word
-17	kèː	nàː	AUX	_	Copula=Yes|Mood=Rel	16	comp	_	ClauseType=Rel|Gloss=bePred.Rel|RelRole=subj|Relz=Affix
+17	kèː	kèː	AUX	_	Copula=Yes|Mood=Rel	16	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
 18	dà	dà	ADP	_	_	17	comp:pred	_	Gloss=with
 19	carbon	carbon	X	_	Foreign=Yes	18	comp	_	Gloss=carbon|Lang=en
 20	dioxide	dioxide	X	_	Foreign=Yes	19	flat@foreign	_	Gloss=dioxide|Lang=en
@@ -489,7 +489,7 @@
 6	wandà	wandà	PRON	_	ExtPos=SCONJ|Gender=Masc|PronType=Rel	1	mod@relcl	_	Gloss=Pron.Masc.Rel|Relz=Word
 7	manàzàr̃tân	manàzàr̃ciː	NOUN	_	Definite=Def|Number=Plur	9	subj	_	Gloss=investigator.Plur.Def
 8	su-	su	PRON	_	Number=Plur|Person=3|PronType=Prs	9	subj/m	_	Gloss=3Plur|SpacesAfter=No
-9	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	6	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=sukèː
+9	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	6	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=sukèː
 10	gani	ganiː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	9	comp:aux	_	Compound=Yes|Gloss=see.Vnoun.Masc.|wordform=ganin
 11	-n	na	PART	_	Case=Gen|PartType=Case	10	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 12	zâː	zâː	AUX	_	Tense=Fut	11	udep/m	_	Gloss=Fut|SpaceForm=zâi|wordform=zâ-
@@ -548,7 +548,7 @@
 29	-n	na	PART	_	Case=Gen|PartType=Case	28	udep/m	_	Gloss=Gen.Fem|SpacesBefore=No
 30	samàn	samàː	NOUN	_	Definite=Def	29	comp	_	Gloss=above.Def
 31	dà	dà	SCONJ	_	_	28	mod@relcl	_	Gloss=CompRel|Relz=Word
-32	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	31	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
+32	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	31	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
 33	shìgaː	shig-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	32	comp:aux	_	Gloss=enter.Fem.Vnoun.
 34	cikin	cikin	ADP	_	_	33	comp:obl	_	Gloss=inside|wordfrom=cikinsà
 35	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	34	comp	_	Gloss=3Masc.Gen|SpacesBefore=No

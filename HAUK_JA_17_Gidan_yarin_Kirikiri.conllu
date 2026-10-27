@@ -45,7 +45,7 @@
 32	,	,	PUNCT	_	_	33	punct	_	Gloss=PUNCT
 33	wandà	wandà	PRON	_	ExtPos=SCONJ|Gender=Masc|PronType=Rel	23	mod:appos@relcl	_	Gloss=Pron.Masc.Rel|Relz=Word
 34	kuma	kuma	PART	_	PartType=Top	33	discourse@top	_	Gloss=also
-35	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	33	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
+35	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	33	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
 36	can	can	ADV	_	Deixis=Remt|PronType=Dem	35	comp:pred	_	Gloss=Remt
 37	bir̃ni	bir̃niː	NOUN	_	Gender=Masc	36	conj:appos	_	Gloss=city.Masc|wordform=bir̃nin
 38	-n	na	PART	_	Case=Gen|PartType=Case	37	mod/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
@@ -146,7 +146,7 @@
 6	-n	na	PART	_	Case=Gen|PartType=Case	5	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 7	mutàːnên	mùtûm	NOUN	_	Definite=Def|Number=Plur	6	comp	_	Gloss=people.Plur.Def|RelAnt=Yes
 8	dà	dà	SCONJ	_	_	7	mod@relcl	_	Gloss=CompRel|Relz=Word
-9	kèː	nàː	AUX	_	Copula=Yes|Mood=Rel	8	comp	_	ClauseType=Rel|Gloss=bePred.Rel|RelRole=subj|Relz=Affix
+9	kèː	kèː	AUX	_	Copula=Yes|Mood=Rel	8	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
 10	cikin	cikin	ADP	_	_	9	comp:pred	_	Gloss=inside
 11	gidan-fur̃sùnàː	gidan-fur̃sùnàː	NOUN	_	Gender=Masc	10	comp	_	Compound=Yes|Gloss=prison.Masc|wordform=gidan-fur̃sùnàn
 12	-n	na	PART	_	Case=Gen|PartType=Case	11	mod@appos/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
@@ -224,7 +224,7 @@
 13	-n	na	PART	_	Case=Gen|PartType=Case	12	udep/m	_	Gloss=Gen.Fem|SpacesBefore=No
 14	fur̃sunoːnîn	fur̃sùnà	NOUN	_	Definite=Def|Number=Plur	13	comp	_	Gloss=prison.Plur.Def
 15	dà	dà	SCONJ	_	_	12	mod@relcl	_	Gloss=CompRel|Relz=Word
-16	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	15	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
+16	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	15	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
 17	jirà	jiràː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	16	comp:aux	_	Gloss=wait.Vnoun.Masc
 18	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	17	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 19	a-	a	PRON	_	Person=4|PronType=ProSubj	20	subj/m	_	Gloss=4|SpacesAfter=No|wordform=à
@@ -336,7 +336,7 @@
 11	dà	dà	ADP	_	_	10	mod	_	Gloss=with|wordform=ɗà
 12	biyu	biyu	NUM	_	_	11	comp	_	Gloss=two
 13	dà	dà	SCONJ	_	_	4	mod@relcl	_	Gloss=CompRel|Relz=Word
-14	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	13	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
+14	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	13	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
 15	jirà	jiraː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	14	comp:aux	_	Compound=Yes|Gloss=wait.Vnoun.Masc.|wordform=jiràn
 16	-n	na	PART	_	Case=Gen|PartType=Case	15	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 17	hauniː	hauniː	NOUN	_	Gender=Masc	19	subj	_	Gloss=executioner.Masc
@@ -370,7 +370,7 @@
 8	-n	na	PART	_	Case=Gen|PartType=Case	7	mod/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 9	cùnkoːsôn	cùnkoːsoː	NOUN	_	Definite=Def|Gender=Masc	8	comp	_	Gloss=congestion.Masc.Def|RelAnt=Yes
 10	dà	dà	SCONJ	_	_	9	mod@relcl	_	Gloss=CompRel|Relz=Word
-11	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	10	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix
+11	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	10	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix
 12	àkwai	àkwai	PART	_	PartType=Pred	11	comp:aux	_	Gloss=there_is|RelRole=subj
 13	à	à	ADP	_	_	12	comp:pred	_	Gloss=at
 14	kûr̃kukù	kûr̃kukùː	NOUN	_	Gender=Masc	13	comp	_	Gloss=prison.Masc|wordform=kûr̃kukùn
@@ -399,7 +399,7 @@
 37	cikin	cikin	ADP	_	_	36	comp	_	Gloss=inside
 38	tsàràrrûn	tsàrarreː	NOUN	_	Definite=Def|Number=Plur	37	comp	_	Gloss=prisoner.Plur.Def|RelAnt=Yes
 39	dà	dà	SCONJ	_	_	38	mod@relcl	_	Gloss=CompRel|Relz=Word
-40	kèː	nàː	AUX	_	Copula=Yes|Mood=Rel	39	comp	_	ClauseType=Rel|Gloss=bePred.Rel|RelRole=subj|Relz=Affix
+40	kèː	kèː	AUX	_	Copula=Yes|Mood=Rel	39	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
 41	dà	dà	ADP	_	_	40	comp:pred	_	Gloss=with
 42	gaːliːhù	gaːliːhù	NOUN	_	Gender=Masc	41	comp	_	Gloss=privilege.Masc
 43	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
@@ -434,7 +434,7 @@
 # text = waɗàndà maː kèː barcîn su-nàː yî-n-sà neː à bisà dàɓeː sabòːdà baː-àː= baː -sù bar̃gunàː, suː kuma baː-sàː= iyà sàyeː dà kânsù.
 1	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	6	subj	_	Gloss=Pron.Plur.Rel|RelAnt=Yes|Relz=Word|wordform=wadanda
 2	maː	maː	PART	_	PartType=Top	1	discourse@top	_	Gloss=even
-3	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	1	mod@relcl	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
+3	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	1	mod@relcl	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
 4	barcîn	barciː	NOUN	_	Definite=Def|Gender=Masc	3	comp:aux	_	Gloss=sleep.Masc.Def
 5	su-	su	PRON	_	Number=Plur|Person=3|PronType=Prs	6	subj/m	_	Gloss=3Plur|SpacesAfter=No
 6	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog|wordform=sunaː
@@ -615,7 +615,7 @@
 12	àbincîn	àbinciː	NOUN	_	Definite=Def|Gender=Masc	11	comp	_	Gloss=food.Masc.Def|RelAnt=Yes
 13	dà	dà	SCONJ	_	_	12	mod@relcl	_	Gloss=CompRel|Relz=Word
 14	a-	a	PRON	_	Person=4|PronType=Prs	15	subj/m	_	Gloss=4|SpacesAfter=No
-15	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	13	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akề
+15	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	13	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akề
 16	bâi	baː	VERB	_	_	15	comp:aux	_	Gloss=give|RelRole=obj
 17	wà	mà	ADP	_	Case=Dat	16	comp:obl	_	Gloss=Dat
 18	tsàːràrrûn	tsàːràrreː	NOUN	_	Definite=Def|Number=Plur	17	comp	_	Gloss=prisoner.Plur.Def
@@ -649,7 +649,7 @@
 7	kuɗàːɗên	kuɗiː	NOUN	_	Definite=Def|Number=Plur	18	subj	_	Gloss=money.Plur.Def|RelAnt=Yes
 8	dà	dà	SCONJ	_	_	7	mod@relcl	_	Gloss=CompRel|Relz=Word
 9	gwamnatìn	gwamnatì	NOUN	_	Definite=Def|Gender=Fem	10	subj	_	Gloss=government.Fem.Def|wordform=gwamnatin
-10	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	8	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix
+10	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	8	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix
 11	waːrèːwaː	waːr-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	10	comp:aux	_	Gloss=set_aside.Vnoun.fem|RelRole=obj
 12	dòːmin	dòːmin	SCONJ	_	_	11	mod	_	Gloss=in_order_to
 13	sayàː	say-	VERB	_	_	12	comp	_	Gloss=buy
@@ -777,7 +777,7 @@
 16	-n	na	PART	_	Case=Gen|PartType=Case	15	udep/m	_	Gloss=Gen.Fem|SpacesBefore=No
 17	yaːrìn	yaːrìː	NOUN	_	Definite=Def|Gender=Masc	16	comp	_	Gloss=prison.Masc.Def
 18	dà	dà	SCONJ	_	_	13	mod@relcl	_	Gloss=CompRel|Relz=Word
-19	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	18	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix|wordform=kè:
+19	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	18	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix|wordform=kè:
 20	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	19	comp:aux	_	Gloss=say.Vnoun.Fem
 21	a-	a	PRON	_	Person=4|PronType=Prs	22	subj/m	_	Gloss=4|SpacesAfter=No
 22	nàː	nàː	AUX	_	Aspect=Prog	20	comp:obj	_	Gloss=Prog|wordform=anàː

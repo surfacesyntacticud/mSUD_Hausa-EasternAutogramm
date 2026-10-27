@@ -21,7 +21,7 @@
 5	Gboko	Gboko	PROPN	_	_	3	comp	_	Gloss=Gboko
 6	"	"	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 7	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=CompRel|Relz=Word
-8	kèː	nàː	AUX	_	Copula=Yes|Mood=Rel	7	comp	_	ClauseType=Rel|Gloss=bePred.Rel|RelRole=subj|Relz=Affix
+8	kèː	kèː	AUX	_	Copula=Yes|Mood=Rel	7	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
 9	jihà	jihàː	ADP	_	Gender=Fem	8	comp:pred	_	Gloss=state.Fem|wordform=jihàr̃
 10	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	9	mod/m	_	Gloss=Gen.Fem|SpacesBefore=No
 11	Binuwài	Binuwài	PROPN	_	_	10	comp	_	Gloss=Benue
@@ -259,7 +259,7 @@
 1	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	12	mod	_	Gloss=time.Masc.Def|RelAnt=Yes
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=CompRel|Relz=Word
 3	hakàn	hakàn	PRON	_	_	4	subj	_	Gloss=this
-4	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	2	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
+4	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	2	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
 5	fàːruwaː	faːr-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	4	comp:aux	_	Gloss=happen.Vnoun.Fem
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	8	det	_	Gloss=some.Plur.Spec
@@ -358,7 +358,7 @@
 6	gà	gà	ADP	_	_	5	comp:obl	_	Gloss=to
 7	mutàːnên	mùtûm	NOUN	_	Definite=Def|Number=Plur	6	comp	_	Gloss=people.Plur.Def|RelAnt=Yes
 8	dà	dà	SCONJ	_	_	7	mod@relcl	_	Gloss=CompRel|Relz=Word
-9	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	8	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
+9	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	8	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
 10	zàune	zaun-	VERB	_	ExtPos=ADV|VerbForm=Part	9	comp:pred	_	Gloss=stay.Part
 11	à	à	ADP	_	_	10	comp:obl	_	Gloss=at
 12	yankìn	yankìː	NOUN	_	Definite=Def|Gender=Masc	11	comp	_	Gloss=area.Masc.Def
@@ -412,7 +412,7 @@
 19	dàbam	dàbam	ADJ	_	_	18	conj:redup	_	Gloss=different
 20	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	13	mod@relcl	_	Gloss=Pron.Plur.Rel|Relz=Word
 21	manòːmaː	manòːmiː	NOUN	_	Number=Plur	22	subj	_	Gloss=farmer.Plur
-22	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	20	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix
+22	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	20	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix
 23	àmfàniː	àmfàniː	NOUN	_	Gender=Masc	22	comp:aux	_	Gloss=using.Masc
 24	dà	dà	ADP	_	_	23	comp:obl	_	Gloss=with
 25	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	24	comp	_	Gloss=3Plur.Nom|RelPos=Yes

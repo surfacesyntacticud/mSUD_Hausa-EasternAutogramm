@@ -137,7 +137,7 @@
 12	mùtumìn	mùtûm	NOUN	_	Definite=Def|Gender=Masc	11	conj:appos	_	Gloss=person.Masc.Def|RelAnt=Yes
 13	dà	dà	SCONJ	_	_	12	mod@relcl	_	Gloss=CompRel|Relz=Word
 14	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	15	subj/m	_	Gloss=3Masc|SpacesAfter=No
-15	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	13	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix|wordform=yakèː
+15	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	13	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix|wordform=yakèː
 16	sô	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	15	comp:aux	_	Compound=Yes|Gloss=want.Vnoun.Masc.|wordform=sôn
 17	-n	na	PART	_	Case=Gen|PartType=Case	16	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 18	a-	a	PRON	_	Person=4|PronType=ProSubj	19	subj/m	_	Gloss=4|SpacesAfter=No|wordform=à
@@ -157,7 +157,7 @@
 32	,	,	PUNCT	_	_	33	punct	_	Gloss=PUNCT
 33	wandà	wandà	PRON	_	ExtPos=SCONJ|Gender=Masc|PronType=Rel	13	conj:coord	_	Gloss=Pron.Masc.Rel|Relz=Word
 34	a-	a	PRON	_	Person=4|PronType=Prs	35	subj/m	_	Gloss=4|SpacesAfter=No
-35	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	33	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
+35	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	33	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
 36	kiràː	kiraː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	35	comp:aux	_	ClauseType=Rel|Gloss=call.Vnoun.Masc|RelRole=obj
 37	"	"	PUNCT	_	_	38	punct	_	Gloss=PUNCT
 38	Gianni	Gianni	PROPN	_	_	36	comp:pred	_	Gloss=Gianni
@@ -238,7 +238,7 @@
 2	gidân	gidaː	NOUN	_	Definite=Def|Gender=Masc	8	subj	_	Gloss=house.Masc.Def|RelAnt=Yes
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=CompRel|Relz=Word
 4	a-	a	PRON	_	Person=4|PronType=ProSubj	5	subj/m	_	Gloss=4|SpacesAfter=No
-5	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	3	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=mod|Relz=Affix
+5	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	3	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=mod|Relz=Affix
 6	tàːrôn	tàːroː	NOUN	_	Definite=Def|Gender=Masc	5	comp:aux	_	Gloss=meeting.Masc.Def
 7	ya	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	8	subj	_	Gloss=3Masc
 8	nàː	nàː	AUX	_	Copula=Yes	0	root	_	Gloss=be.Pred|wordform=yanàː
@@ -442,7 +442,7 @@
 6	àshìr̃in	àshìr̃in	NUM	_	_	5	comp	_	Gloss=twenty
 7	nèː	neː	PART	_	PartType=Foc	4	discourse@foc	_	Gloss=Emph
 8	a-	a	PRON	_	Person=4|PronType=Prs	9	subj/m	_	Gloss=4|SpacesAfter=No
-9	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	4	comp:cleft	_	ClauseType=Cleft|Gloss=Prog.Rel|wordform=akèː
+9	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	4	comp:cleft	_	ClauseType=Cleft|Gloss=Prog.Rel|wordform=akèː
 10	yî	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	9	comp:aux	_	Compound=Yes|Gloss=do.Vnoun.Masc.|wordform=yîn
 11	-n	na	PART	_	Case=Gen|PartType=Case	10	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 12	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	13	det	_	Gloss=ProxS.Masc
@@ -511,7 +511,7 @@
 18	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	17	det	_	Gloss=PreRef|PreRef=Yes
 19	dà	dà	SCONJ	_	_	17	mod@relcl	_	Gloss=CompRel|Relz=Word
 20	a-	a	PRON	_	Person=4|PronType=Prs	21	subj/m	_	Gloss=4|SpacesAfter=No
-21	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	19	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix|wordform=akèː
+21	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	19	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix|wordform=akèː
 22	ɗaukà	ɗauk-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	21	comp:aux	_	Compound=Yes|Gloss=take.Vnoun.Fem|RelRole=obl|wordform=ɗaukàr̃
 23	-r̃	na	PART	_	Case=Gen|PartType=Case	22	udep/m	_	Gloss=Gen.Fem|SpacesBefore=No
 24	màganàː	màganàː	NOUN	_	Gender=Fem	23	comp	_	Gloss=speech.Fem
@@ -577,7 +577,7 @@
 1	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	10	mod	_	Gloss=time.Masc.Def|RelAnt=Yes
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=CompRel|Relz=Word
 3	a-	a	PRON	_	Person=4|PronType=Prs	4	subj/m	_	Gloss=4|SpacesAfter=No
-4	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	2	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=mod|Relz=Affix|wordform=akèː
+4	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	2	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=mod|Relz=Affix|wordform=akèː
 5	tàfiyàː	tàfiyàː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	4	comp:aux	_	Gloss=go.Vnoun.Fem
 6	dà	dà	ADP	_	_	5	comp:obl	_	Gloss=with
 7	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	6	comp	_	Gloss=3Masc.Nom
@@ -707,7 +707,7 @@
 13	littaːfìː	littaːfìː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=book.Masc|RelAnt=Yes
 14	dà	dà	SCONJ	_	_	13	mod@relcl	_	Gloss=CompRel|Relz=Word
 15	a-	a	PRON	_	Person=4|PronType=Prs	16	subj/m	_	Gloss=4|SpacesAfter=No
-16	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	14	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
+16	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	14	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
 17	sô	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	16	comp:aux	_	Gloss=want.Vnoun.Masc|wordform=sôn
 18	-n	na	PART	_	Case=Gen|PartType=Case	17	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 19	bugàːwaː	bug-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	18	comp	_	Gloss=print.Vnoun.Fem|RelRole=obj

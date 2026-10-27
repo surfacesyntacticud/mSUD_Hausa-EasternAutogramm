@@ -155,7 +155,7 @@
 2	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	1	comp	_	Gloss=time.Masc.Def|RelAnt=Yes
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=CompRel|Relz=Word
 4	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	5	subj/m	_	Gloss=3Masc|SpacesAfter=No
-5	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	3	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=mod|Relz=Affix|wordform=yakề
+5	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	3	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=mod|Relz=Affix|wordform=yakề
 6	yî	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	5	comp:aux	_	Compound=Yes|Gloss=do.Vnoun.Masc|wordform=yîn
 7	-n	na	PART	_	Case=Gen|PartType=Case	6	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 8	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	9	det	_	Gloss=ProxS.Masc
@@ -236,7 +236,7 @@
 10	algaitàː	algaitàː	NOUN	_	Gender=Fem	9	comp	_	Gloss=wind_instrument_sp.Fem
 11	dà	dà	SCONJ	_	_	5	mod@relcl	_	Gloss=CompRel|Relz=Word
 12	a-	a	PRON	_	Person=4|PronType=Prs	13	subj/m	_	Gloss=4|SpacesAfter=No
-13	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	11	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
+13	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	11	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
 14	kiràː	kiraː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	13	comp:aux	_	Gloss=call.Vnoun.Masc|RelRole=obj
 15	"	"	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 16	saxophone	saxophone	NOUN	_	_	14	comp:pred	_	Gloss=saxophone
@@ -307,7 +307,7 @@
 41	makàɗa	makàɗiː	NOUN	_	Number=Plur	40	comp	_	Gloss=musician|wordform=makàɗaː
 42	-n	na	PART	_	Case=Gen|PartType=Case	41	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 43	-aː	-aː	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	42	comp:obj/m	_	Gloss=1Sing.Gen|SpacesBefore=No
-44	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	37	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix
+44	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	37	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix
 45	buːsàːwaː	buːs-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	44	comp:aux	_	Gloss=blow.Vnoun.Fem|RelRole=obj
 46	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 47	"	"	PUNCT	_	_	8	punct	_	Gloss=PUNCT
@@ -384,7 +384,7 @@
 11	-n	na	PART	_	Case=Gen|PartType=Case	10	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 12	yaddà	yaddà	ADV	_	PronType=Rel	11	comp	_	Gloss=how.Rel|RelAnt=Yes|Relz=Word
 13	a-	a	PRON	_	Person=4|PronType=Prs	14	subj/m	_	Gloss=4|SpacesAfter=No
-14	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	12	mod@relcl	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
+14	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	12	mod@relcl	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
 15	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	14	comp:aux	_	Gloss=use.Masc|RelRole=mod
 16	dà	dà	ADP	_	_	15	comp:obl	_	Gloss=with|wordform=ɗà
 17	saxaphone	saxaphone	NOUN	_	_	16	comp	_	Gloss=saxophone
@@ -630,7 +630,7 @@
 14	Surulere	Surulere	PROPN	_	_	12	comp	_	Gloss=Surulere
 15	"	"	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 16	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=CompRel|Relz=Word
-17	kèː	nàː	AUX	_	Copula=Yes|Mood=Rel	16	comp	_	ClauseType=Rel|Gloss=bePred.Rel|RelRole=subj|Relz=Affix
+17	kèː	kèː	AUX	_	Copula=Yes|Mood=Rel	16	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
 18	baːyan	baːyan	ADP	_	_	17	comp:pred	_	Gloss=after
 19	bir̃ni	bir̃niː	NOUN	_	Gender=Masc	18	comp	_	Gloss=city.Masc|wordform=bir̃nin
 20	-n	na	PART	_	Case=Gen|PartType=Case	19	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
@@ -674,7 +674,7 @@
 19	-r̃	na	PART	_	Case=Gen|PartType=Case	18	mod@poss/m	_	Gloss=Gen.Fem|SpacesBefore=No|wordform=-t
 20	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	19	comp:obj/m	_	Gloss=3Masc.Gen|SpacesBefore=No
 21	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	18	conj:appos	_	Gloss=Nigeria
-22	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	17	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix
+22	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	17	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix
 23	fùskantàː	fuskant-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	22	comp:aux	_	Gloss=face.Vnoun.Fem|RelRole=obj
 24	,	,	PUNCT	_	_	25	punct	_	Gloss=PUNCT
 25	har̃	har̃	SCONJ	_	_	11	mod	_	Gloss=up_to
@@ -738,7 +738,7 @@
 36	-n	na	PART	_	Case=Gen|PartType=Case	35	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 37	Fela	Fela	PROPN	_	_	36	comp	_	Gloss=Fela
 38	dà	dà	SCONJ	_	_	35	mod@relcl	_	Gloss=CompRel|Relz=Word
-39	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	38	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
+39	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	38	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
 40	Ìkko	Ìkko	PROPN	_	_	39	comp:pred	_	Gloss=Lagos|wordform=Ikko
 41	.	.	PUNCT	_	_	15	punct	_	Gloss=PUNCT
 
@@ -826,7 +826,7 @@
 15	wàːƙe-wàːƙên	waːƙàː	NOUN	_	Definite=Def|Number=Plur	13	conj:coord	_	Gloss=song.Plur.Def|RelAnt=Yes
 16	dà	dà	SCONJ	_	_	15	mod@relcl	_	Gloss=CompRel|Relz=Word
 17	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	18	subj/m	_	Gloss=3Masc|SpacesAfter=No
-18	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	16	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=yakèː
+18	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	16	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=yakèː
 19	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	18	comp:aux	_	Gloss=do.Vnoun.Masc|RelPos=Yes
 20	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
@@ -946,7 +946,7 @@
 51	matsaloːlîn	màtsalàː	NOUN	_	Definite=Def|Number=Plur	50	comp	_	Gloss=problem.Plur.Def|RelAnt=Yes
 52	dà	dà	SCONJ	_	_	51	mod@relcl	_	Gloss=CompRel|Relz=Word
 53	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	54	subj	_	Gloss=country.Fem.Def
-54	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	52	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix
+54	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	52	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix
 55	fùskantàː	fuskant-	VERB	_	_	54	comp:aux	_	Gloss=face|RelRole=obj
 56	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 

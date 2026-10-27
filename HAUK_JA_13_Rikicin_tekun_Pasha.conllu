@@ -50,7 +50,7 @@
 27	dà	dà	SCONJ	_	_	26	mod@relcl	_	Gloss=CompRel|Relz=Word
 28	yànzu	yànzu	ADV	_	_	30	mod	_	Gloss=now
 29	a-	a	PRON	_	Person=4|PronType=Prs	30	subj/m	_	Gloss=4|SpacesAfter=No
-30	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	27	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
+30	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	27	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
 31	rarràbâːwaː	rarràb-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	30	comp:aux	_	Gloss=distribute.Vnoun.Fem|RelRole=obj
 32	à	à	ADP	_	_	31	mod	_	Gloss=at
 33	ƙasâr̃	ƙasaː	VERB	_	Definite=Def|Gender=Fem	32	comp	_	Gloss=country.Fem.Def
@@ -147,7 +147,7 @@
 15	tàkàr̃dûn	tàkàr̃gàː	NOUN	_	Definite=Def|Number=Plur	14	comp:obj	_	Gloss="paper.Plur.Def"|RelAnt=Yes
 16	dà	dà	SCONJ	_	_	15	mod@relcl	_	Gloss=CompRel|Relz=Word
 17	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	18	subj/m	_	Gloss=3Masc|SpacesAfter=No
-18	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	16	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=yakèː
+18	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	16	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=yakèː
 19	màganàː	màganàː	NOUN	_	Gender=Fem	18	comp:aux	_	Gloss=speech.Fem
 20	à	à	ADP	_	ExtPos=ADP	18	mod	_	Gloss=at|Idiom=Yes|RelRole=obl
 21	kâi	kâi	NOUN	_	Gender=Masc	20	comp	_	Gloss=head.Masc|InIdiom=Yes
@@ -168,7 +168,7 @@
 36	bugà	bug-	VERB	_	_	35	comp:obj	_	Gloss=publish
 37	shar̃hìː	shar̃hìː	NOUN	_	Gender=Masc	36	comp:obj	_	Gloss=criticism.Masc|RelAnt=Yes
 38	dà	dà	SCONJ	_	_	37	mod@relcl	_	Gloss=CompRel|Relz=Word
-39	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	38	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
+39	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	38	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
 40	nuːnà	nuːn-	VERB	_	_	39	comp:aux	_	Gloss=show
 41	ƙî	ƙi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	40	comp:obj	_	Gloss=hate.Vnoun.Masc|wordform=ƙîn
 42	-n	na	PART	_	Case=Gen|PartType=Case	41	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
@@ -210,7 +210,7 @@
 27	-n	na	PART	_	Case=Gen|PartType=Case	26	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 28	ƙàwànceː	ƙàwànceː	NOUN	_	Gender=Masc	27	comp	_	Gloss=coalition.Masc
 29	su-	su	PRON	_	Number=Plur|Person=3|PronType=ProSubj	30	subj/m	_	Gloss=3Plur|SpacesAfter=No
-30	kèː	nàː	AUX	_	Copula=Yes|Mood=Rel	25	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=sukèː
+30	kèː	kèː	AUX	_	Copula=Yes|Mood=Rel	25	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=sukèː
 31	Ø	yi	VERB	_	_	30	comp:aux	_	Gloss=do|RelRole=pred
 32	wà	mà	ADP	_	Case=Dat	31	comp:obl	_	Gloss=Dat
 33	Ìr̃aːƙì	Ìr̃aːƙì	PROPN	_	_	32	comp	_	Gloss=Irak
@@ -390,7 +390,7 @@
 45	ƙasàːshe	ƙasaː	NOUN	_	Number=Plur	48	subj	_	Gloss=country|wordform=ƙasàːshen
 46	-n	na	PART	_	Case=Gen|PartType=Case	45	mod/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 47	ƙàwànceː	ƙàwànceː	NOUN	_	Gender=Masc	46	comp	_	Gloss=coalition.Masc
-48	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	44	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix
+48	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	44	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix
 49	kai	kai	VERB	_	_	48	comp:aux	_	Gloss=reach/carry_to|RelRole=obj
 50	wà	mà	ADP	_	Case=Dat	49	comp:obl	_	Gloss=Dat
 51	Ìr̃aːƙì	Ìr̃aːƙì	PROPN	_	_	50	comp	_	Gloss=Irak
@@ -431,7 +431,7 @@
 3	shùgàbànni	shùgàbàː	NOUN	_	Number=Plur	6	subj	_	Gloss=leader.Plur|wordform=shùgàbànnin
 4	-n	na	PART	_	Case=Gen|PartType=Case	3	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 5	mùsùlmiː	mùsùlmiː	NOUN	_	Number=Plur	4	comp	_	Gloss=muslim.Plur
-6	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	2	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix
+6	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	2	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix
 7	nuːnàːwaː	nuːn-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	6	comp:aux	_	Gloss=show.Vnoun.Fem|RelRole=obj
 8	t-	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	9	subj/m	_	Gloss=3Fem|SpacesAfter=No|wordform=taː
 9	aː	aː	AUX	_	Aspect=Perf|Number=Sing	0	root	_	Gloss=Perf.Sing

@@ -33,7 +33,7 @@
 13	cèː	neː	AUX	_	Copula=Yes|Gender=Fem	0	root	_	Gloss=Equ.Fem
 14	dà	dà	SCONJ	_	_	12	mod@relcl	_	Gloss=CompRel|Relz=Word
 15	a-	a	PRON	_	Person=4|PronType=Prs	16	subj/m	_	Gloss=4|SpacesAfter=No
-16	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	14	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
+16	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	14	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
 17	bazàːwaː	baz-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	16	comp:aux	_	Gloss=spread.Vnoun.Fem|RelRole=obj
 18	ta	ta	ADP	_	_	17	comp:obl	_	Gloss=via
 19	jiniː	jiniː	NOUN	_	Gender=Masc	18	comp	_	Gloss=blood.Masc
@@ -391,7 +391,7 @@
 14	-n	na	PART	_	Case=Gen|PartType=Case	13	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 15	mutàːnên	mùtûm	NOUN	_	Definite=Def|Number=Plur	14	comp	_	Gloss=people.Plur.Def|RelAnt=Yes
 16	dà	dà	SCONJ	_	_	15	mod@relcl	_	Gloss=CompRel|Relz=Word
-17	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	16	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
+17	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	16	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
 18	ɗàuke	ɗauk-	VERB	_	ExtPos=ADV|VerbForm=Part	17	comp:pred	_	Gloss=take.Part
 19	dà	dà	CCONJ	_	_	18	comp:obl	_	Gloss=and
 20	ƙwaːyoːyi	ƙwàːyaː	NOUN	_	Number=Plur	19	comp:obj	_	Compound=Yes|Gloss=virus.Plur|wordform=ƙwaːyoːyin

@@ -222,7 +222,7 @@
 11	ƙungìyâr̃	ƙungìyaː	NOUN	_	Definite=Def|Gender=Fem	10	comp	_	Gloss=association.Fem.Def
 12	dà	dà	SCONJ	_	_	9	mod@relcl	_	Gloss=CompRel|Relz=Word
 13	a-	a	PRON	_	Person=4|PronType=Prs	14	subj/m	_	Gloss=4|SpacesAfter=No
-14	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	12	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akề
+14	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	12	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akề
 15	zàrgiː	zarg-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	14	comp:aux	_	Gloss=accuse.Vnoun.Masc|RelRole=obj
 16	nèː	neː	AUX	_	Copula=Yes	8	comp:obj	_	Gloss=Equ.Masc/Plur|RelRole=subj
 17	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -270,13 +270,13 @@
 12	wani	wani	PRON	_	Definite=Spec|Gender=Masc|PronType=Ind	11	comp	_	Gloss=some.Masc.Spec|RelAnt=Yes
 13	dà	dà	SCONJ	_	_	12	mod@relcl	_	Gloss=CompRel|Relz=Word
 14	a-	a	PRON	_	Person=4|PronType=Prs	15	subj/m	_	Gloss=4|SpacesAfter=No
-15	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	13	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
+15	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	13	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
 16	zàrgiː	zarg-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	15	comp:aux	_	Gloss=accuse.Vnoun.Masc|RelRole=obj
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 18	wàndà	wandà	PRON	_	Gender=Masc|PronType=Rel	13	conj:coord	_	Gloss=Pron.Masc.Rel|Relz=Word
 19	kuma	kuma	PART	_	PartType=Top	18	discourse@top	_	Gloss=also
 20	a-	a	PRON	_	Person=4|PronType=Prs	21	subj/m	_	Gloss=4|SpacesAfter=No
-21	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	18	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
+21	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	18	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
 22	jî	ji	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	21	comp:aux	_	Gloss=hear.Vnoun.Masc|wordform=jîn
 23	-n	na	PART	_	Case=Gen|PartType=Case	22	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 24	cêːwaː	cêːwaː	SCONJ	_	_	23	comp	_	Gloss=COMP
@@ -371,7 +371,7 @@
 22	tsarè	tsar-	VERB	_	_	20	comp:aux	_	Gloss=imprison
 23	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	22	comp:obj	_	Gloss=Pron.Masc.Rel|RelAnt=Yes|Relz=Word
 24	a-	a	PRON	_	Person=4|PronType=Prs	25	subj/m	_	Gloss=4|SpacesAfter=No
-25	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	23	mod@relcl	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
+25	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	23	mod@relcl	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
 26	zàrgiː	zàrgiː	NOUN	_	Gender=Masc	25	comp:aux	_	Gloss=accusation.Masc|RelRole=obj
 27	dà	dà	ADP	_	_	26	comp:obl	_	Gloss=with
 28	ɗaukà	ɗauk-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	27	comp	_	Gloss=take.Vnoun.Fem|wordform=ɗaukàr̃
@@ -405,7 +405,7 @@
 55	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	54	det	_	Gloss=PreRef|PreRef=Yes
 56	dà	dà	SCONJ	_	_	54	mod@relcl	_	Gloss=CompRel|Relz=Word
 57	a-	a	PRON	_	Person=4|PronType=Prs	58	subj/m	_	Gloss=4|SpacesAfter=No
-58	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	56	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
+58	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	56	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
 59	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	58	comp:aux	_	Gloss=use.Masc|RelRole=obl
 60	dà	dà	ADP	_	_	59	comp:obl	_	Gloss=with
 61	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	60	comp	_	Gloss=3Masc.Nom|RelPos=Yes
@@ -431,7 +431,7 @@
 11	miyàːgun	muːgùː	ADJ	_	Number=Plur	12	mod	_	Gloss=bad.Plur
 12	ƙwaːyoːyiː	ƙwàːyaː	NOUN	_	Number=Plur	10	comp	_	Gloss=drug.Plur
 13	su-	su	PRON	_	Number=Plur|Person=3|PronType=Prs	14	subj/m	_	Gloss=3Plur|SpacesAfter=No
-14	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	7	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=sukèː
+14	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	7	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=sukèː
 15	yawàn	yawàn	ADJ	_	Gender=Masc	16	mod	_	Gloss=quantity.Masc
 16	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	14	comp:aux	_	Gloss=do.Vnoun.Masc|RelPos=Yes
 17	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
@@ -586,7 +586,7 @@
 16	-n	na	PART	_	Case=Gen|PartType=Case	15	mod/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 17	ƙungiyoːyîn	ƙungìyaː	NOUN	_	Definite=Def|Number=Plur	16	comp	_	Gloss=gang.Plur.Def|RelAnt=Yes
 18	dà	dà	SCONJ	_	_	17	mod@relcl	_	Gloss=CompRel|Relz=Word
-19	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	18	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
+19	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	18	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
 20	fataucì	fataucìː	NOUN	_	Gender=Masc	19	subj	_	Compound=Yes|Gloss=trade.Masc.|wordform=fataucìn
 21	-n	na	PART	_	Case=Gen|PartType=Case	20	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 22	miyàːgun	muːgùː	ADJ	_	Number=Plur	23	mod	_	Gloss=bad.Plur
@@ -747,7 +747,7 @@
 26	caːjìn	caːjìː	NOUN	_	Gender=Masc	25	comp:obj	_	Gloss=charge.Masc.Def
 27	dà	dà	SCONJ	_	_	25	mod@relcl	_	Gloss=CompRel|Relz=Word
 28	a-	a	PRON	_	Person=4|PronType=Prs	29	subj/m	_	Gloss=4|SpacesAfter=No
-29	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	27	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=pred|Relz=Affix|wordform=akề
+29	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	27	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=pred|Relz=Affix|wordform=akề
 30	yi	yi	VERB	_	_	29	comp:aux	_	Gloss=do|RelPos=Yes
 31	wà	mà	ADP	_	Case=Dat	30	comp:obl	_	Gloss=Dat
 32	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	34	det	_	Gloss=some.Masc.Spec

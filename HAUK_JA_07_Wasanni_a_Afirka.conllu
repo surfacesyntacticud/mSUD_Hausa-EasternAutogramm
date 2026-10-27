@@ -26,7 +26,7 @@
 12	rìkicîn	rìkiciː	NOUN	_	Definite=Def|Gender=Masc	11	comp	_	Gloss=crisis.Masc.Def|RelAnt=Yes
 13	dà	dà	SCONJ	_	_	12	mod@relcl	_	Gloss=CompRel|Relz=Word
 14	a-	a	PRON	_	Person=4|PronType=Prs	15	subj/m	_	Gloss=4|SpacesAfter=No
-15	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	13	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
+15	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	13	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
 16	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	15	comp:aux	_	Gloss=do.Vnoun.Masc|RelRole=pred
 17	can	can	ADV	_	Deixis=Remt|PronType=Dem	16	mod	_	Gloss=Remt
 18	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	17	conj:appos	_	Gloss=Nigeria
@@ -201,7 +201,7 @@
 34	wàːtòː	wàːtòː	CCONJ	_	_	35	cc	_	Gloss=i.e.
 35	indà	indà	ADV	_	ExtPos=SCONJ|PronType=Rel	28	mod:appos@relcl	_	Gloss=where.Rel|Relz=Word
 36	gwamnatìn	gwamnatì	NOUN	_	Definite=Def|Gender=Fem	37	subj	_	Gloss=government.Fem.Def
-37	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	35	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=mod|Relz=Affix
+37	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	35	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=mod|Relz=Affix
 38	nuːnà	nuːn-	VERB	_	_	37	comp:aux	_	Gloss=show
 39	waːriya	waːriyaː	NOUN	_	Gender=Fem	38	comp:obj	_	Gloss=separation.Fem|wordform=waːriyar̃
 40	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	39	mod/m	_	Gloss=Gen.Fem|SpacesBefore=No
@@ -502,7 +502,7 @@
 26	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	25	comp	_	Gloss=Nigeria
 27	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	24	mod@relcl	_	Gloss=Pron.Fem.Rel|Relz=Word
 28	a-	a	PRON	_	Person=4|PronType=Prs	29	subj/m	_	Gloss=4|SpacesAfter=No
-29	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	27	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
+29	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	27	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
 30	kiràː	kiraː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	29	comp:aux	_	Gloss=call.Vnoun.Masc|RelRole=obj
 31	"	"	PUNCT	_	_	32	punct	_	Gloss=PUNCT
 32	Sunday	Sunday	PROPN	_	_	30	comp:pred	_	Gloss=Sunday

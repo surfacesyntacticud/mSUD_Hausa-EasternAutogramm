@@ -120,7 +120,7 @@
 25	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	24	comp	_	Gloss=thing.Masc.Def|RelAnt=Yes
 26	dà	dà	SCONJ	_	_	25	mod@relcl	_	Gloss=CompRel|Relz=Word
 27	a-	a	PRON	_	Person=4|PronType=Prs	28	subj/m	_	Gloss=4|SpacesAfter=No
-28	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	26	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
+28	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	26	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
 29	fàɗaː	faɗ-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	28	comp:aux	_	Gloss=say.Vnoun.Fem|RelRole=obj
 30	.	.	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 
@@ -367,7 +367,7 @@
 9	laːyukàn	laːyìː	NOUN	_	Definite=Def|Number=Plur	8	comp	_	Gloss=line.Plur.Def|RelAnt=Yes
 10	dà	dà	SCONJ	_	_	9	mod@relcl	_	Gloss=CompRel|Relz=Word
 11	a-	a	PRON	_	Person=4|PronType=Prs	12	subj/m	_	Gloss=4|SpacesAfter=No
-12	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	10	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
+12	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	10	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
 13	bùkaːtàː	bukaːt-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	12	comp:aux	_	Gloss=need|RelRole=obj
 14	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 15	dà	dà	CCONJ	_	_	17	cc	_	Gloss=and
@@ -480,7 +480,7 @@
 4	zàːgàːye-zàːgàːyên	zàːgàːye-zàːgàːye	NOUN	_	Definite=Def|Number=Plur	2	comp	_	Gloss=going_round.Plur.Def|RelAnt=Yes
 5	dà	dà	SCONJ	_	_	4	mod@relcl	_	Gloss=CompRel|Relz=Word
 6	a-	a	PRON	_	Person=4|PronType=Prs	7	subj/m	_	Gloss=4|SpacesAfter=No
-7	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	5	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
+7	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	5	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
 8	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	7	comp:aux	_	Gloss=do.Vnoun.Masc|RelRole=pred
 9	dà	dà	ADP	_	_	8	comp:obl	_	Gloss=with
 10	wayà	wayàr̃	NOUN	_	Gender=Fem	9	comp	_	Compound=Yes|Gloss=wire.Fem|wordform=wayàr̃

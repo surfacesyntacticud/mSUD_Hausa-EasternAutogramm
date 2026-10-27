@@ -366,7 +366,7 @@
 21	dà	dà	SCONJ	_	_	18	mod@relcl	_	Gloss=CompRel|Relz=Word
 22	gwamnatì	gwamnatì	NOUN	_	Gender=Fem	24	subj	_	Gloss=government.Fem
 23	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	24	subj/m	_	Gloss=3Fem|SpacesAfter=No
-24	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	21	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=takèː
+24	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	21	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=takèː
 25	kashèː	kas-	VERB	_	_	24	comp:aux	_	Gloss=kill|RelRole=obj
 26	wà	mà	ADP	_	Case=Dat	25	comp:obl	_	Gloss=Dat
 27	ilìmiː	ilìmiː	NOUN	_	Gender=Masc	26	comp	_	Gloss=education.Masc
@@ -636,7 +636,7 @@
 9	Saibou	Saibou	PROPN	_	_	8	flat@name	_	Gloss=Saibou
 10	"	"	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 11	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	12	subj/m	_	Gloss=3Masc|SpacesAfter=No
-12	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	5	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=yakèː
+12	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	5	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=yakèː
 13	fùskantàː	fuskant-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	12	comp:aux	_	Gloss=face.Vnoun.Fem|RelRole=obj
 14	à	à	ADP	_	_	13	comp:obl	_	Gloss=at
 15	kân	kân	ADP	_	_	14	comp	_	Gloss=top
@@ -680,7 +680,7 @@
 53	-n	na	PART	_	Case=Gen|PartType=Case	52	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 54	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	53	comp:obj/m	_	Gloss=3Masc.Gen|SpacesBefore=No
 55	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	56	subj/m	_	Gloss=3Fem|SpacesAfter=No
-56	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	51	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=takèː
+56	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	51	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=takèː
 57	aikìː	aikìː	NOUN	_	Gender=Masc	56	comp:aux	_	Gloss=work.Masc|RelRole=obl|wordform=aiki
 58	dà	dà	ADP	_	_	57	comp:obl	_	Gloss=with
 59	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	58	comp	_	Gloss=3Plur.Nom|RelPos=Yes

@@ -403,7 +403,7 @@
 2	-n	na	PART	_	Case=Gen|Number=Plur|PartType=Case	1	mod/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 3	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	2	comp	_	Gloss=Nigeria
 4	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=CompRel|Relz=Word
-5	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	4	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
+5	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	4	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
 6	Baucîn	Baucîn	PROPN	_	Definite=Def	5	comp:pred	_	Gloss=Bauchi.Def
 7	su-	su	PRON	_	Number=Plur|Person=3|PronType=ProSubj	8	subj/m	_	Gloss=3Plur|SpacesAfter=No|wordform=sun
 8	n	aː	AUX	_	Aspect=Perf|Number=Plur	0	root	_	Gloss=Perf.Plur
