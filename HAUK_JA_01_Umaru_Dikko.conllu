@@ -603,7 +603,7 @@
 # text = ya nàː mài cêːwaː zâː -i kasànceː cikin wani mùmmuːnan haɗàr̃iː ìdan ya= koːmàː gidaː Nàjeːr̃iyàː .
 # text_ortho = Ya cèː shiː yaː càncànci à ɗàukeː shì à matsayin ɗan gudùn hijir̃aː à nân Bìr̃taːniyà, yanà mài cêwaː zâi kasànceː cikin wani mùmmuːnan haɗàr̃iː ìdan ya koːmàː gidaː Nàjeːr̃iyàː.
 1	ya	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	2	subj/m	_	Gloss=3Masc
-2	nàː	nàː	AUX	_	Copula=Yes	0	root	_	Gloss=be|wordform=yanàː
+2	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=be|wordform=yanàː
 3	mài	mài	PART	_	Number=Sing|PartType=Der	2	comp:aux	_	Gloss=owner_of.Sing
 4	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	3	compound	_	Gloss=say.Vnoun.Fem|wordform=cêwaː
 5	zâː	zâː	AUX	_	Tense=Fut	4	comp:obj	_	Gloss=Fut|SpaceForm=zâi|wordform=zâ-

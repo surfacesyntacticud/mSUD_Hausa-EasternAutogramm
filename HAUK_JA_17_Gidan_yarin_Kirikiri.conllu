@@ -371,7 +371,7 @@
 9	cùnkoːsôn	cùnkoːsoː	NOUN	_	Definite=Def|Gender=Masc	8	comp	_	Gloss=congestion.Masc.Def|RelAnt=Yes
 10	dà	dà	SCONJ	_	_	9	mod@relcl	_	Gloss=CompRel|Relz=Word
 11	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	10	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix
-12	àkwai	àkwai	PART	_	PartType=Pred	11	comp:pred	_	Gloss=there_is|RelRole=subj
+12	àkwai	àkwai	PART	_	PartType=Pred	11	comp:aux	_	Gloss=there_is|RelRole=subj
 13	à	à	ADP	_	_	12	comp:pred	_	Gloss=at
 14	kûr̃kukù	kûr̃kukùː	NOUN	_	Gender=Masc	13	comp	_	Gloss=prison.Masc|wordform=kûr̃kukùn
 15	-n	na	PART	_	Case=Gen|PartType=Case	14	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No

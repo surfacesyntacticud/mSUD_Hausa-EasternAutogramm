@@ -474,7 +474,7 @@
 # sent_id = 14_Miyagun_kwayoyi_12a
 # text_en = But then, sometimes, the condom tears apart inside the stomach of the person carrying the drugs, which, as a result, causes a painful death.
 # text_ortho = Sai dai àmmaː wani loːkàcîn, ita r̃oːbàr̃ tanàː tsaːgèːwaː à cikin cikìn wàɗàndà kèː ɗàuke dà ƙwaːyoːyîn, wàndà kuma hakàn yanàː jaːwoː muːgùwar̃ mutuwàː.
-# text = sai dai àmmaː wani loːkàcîn, ita r̃oːbàr̃ ta-nàː tsaːgèːwaː à cikin cikì-n wàɗàndà kèː ɗàuke dà ƙwaːyoːyîn, wàndà kuma hakàn ya-nàː jaːwoː muːgùwar̃ mutuwàː.
+# text = sai dai àmmaː wani loːkàcîn , ita r̃oːbàr̃ ta-nàː tsaːgèːwaː à cikin cikì -n wàɗàndà kèː ɗàuke dà ƙwaːyoːyîn , wàndà kuma hakàn ya-nàː jaːwoː muːgùwar̃ mutuwàː .
 1	sai	sai	ADV	_	_	10	mod	_	Gloss=then
 2	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
 3	àmmaː	àmmaː	CCONJ	_	_	10	discourse	_	Gloss=but
@@ -491,7 +491,7 @@
 14	cikì	cikìː	NOUN	_	Gender=Masc	13	comp	_	Gloss=belly.Masc|wordform=cikìn
 15	-n	na	PART	_	Case=Gen|PartType=Case	14	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 16	wàɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	15	comp	_	Gloss=Pron.Plur.Rel|RelAnt=Yes|Relz=Word|wordform=wadandal
-17	kèː	nàː	AUX	_	Aspect=Prog	16	mod@relcl	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj
+17	kèː	nàː	AUX	_	Aspect=Prog|Mood=Sub	16	mod@relcl	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj
 18	ɗàuke	ɗauk-	VERB	_	ExtPos=ADV|VerbForm=Part	17	comp:pred	_	Gloss=take.Part
 19	dà	dà	CCONJ	_	_	18	comp:obl	_	Gloss=and|wordform=da
 20	ƙwaːyoːyîn	ƙwàːyaː	NOUN	_	Definite=Def|Number=Plur	19	comp:obj	_	Gloss=drug.Plur.Def
@@ -788,10 +788,10 @@
 # sent_id = 14_Miyagun_kwayoyi_18b
 # text_en = He said that it was just some big drug dealers slandering him.
 # text_ortho = yanàː mài cêːwaː mânyan màːsu fataucìn miyàːgun ƙwaːyoːyiː nèː kawài sukà ɓaːtà suːnansà .
-# text = ya- nàː mài cêːwaː mânyan màːsu fataucì-n miyàːgun ƙwaːyoːyiː nèː kawài sukà= ɓaːtà suːna-n-sà .
+# text = ya nàː mài cêːwaː mânyan màːsu fataucì -n miyàːgun ƙwaːyoːyiː nèː kawài su-kà ɓaːtà suːna -n -sà .
 1	ya	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	2	subj	_	Gloss=3Masc
-2	nàː	nàː	AUX	_	Copula=Yes	0	root	_	Gloss=be.Pred|wordform=yanàː
-3	mài	mài	PART	_	Number=Sing|PartType=Der	2	comp:pred	_	Gloss=owner_of.Sing
+2	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=be.Pred|wordform=yanàː
+3	mài	mài	PART	_	Number=Sing|PartType=Der	2	comp:aux	_	Gloss=owner_of.Sing
 4	cêːwaː	cê	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	3	compound	_	Gloss=say.Vnoun.Fem|wordform=cêwaː
 5	mânyan	bàbba	ADJ	_	Number=Plur	6	mod	_	Gloss=big.Plur
 6	màːsu	mài	PART	_	Number=Plur|PartType=Der	4	comp:obj	_	Gloss=owner/doer_of.Plur

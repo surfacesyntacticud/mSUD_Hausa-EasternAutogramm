@@ -419,7 +419,7 @@
 9	cêː	cêː	VERB	_	_	8	comp:aux	_	Gloss=say
 10	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	11	subj/m	_	Gloss=3Masc|SpaceAfter=No
 11	nàː	nàː	AUX	_	Copula=Yes	9	comp:obj	_	Gloss=be|wordform=yanaː
-12	sàːne	sanìː	VERB	_	ExtPos=ADV|VerbForm=Part	11	comp:aux	_	Gloss=know.Stat
+12	sàːne	sanìː	VERB	_	ExtPos=ADV|VerbForm=Part	11	comp:pred	_	Gloss=know.Stat
 13	dà	dà	ADP	_	_	12	comp:obl	_	Gloss=with
 14	mutàːneː	mùtûm	NOUN	_	Number=Plur	13	comp	_	Gloss=people.Plur|RelAnt=Yes
 15	ɗàriː	ɗàriː	NUM	_	_	14	mod:num	_	Gloss=hundred
