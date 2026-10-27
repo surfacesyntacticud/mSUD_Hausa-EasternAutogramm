@@ -3,7 +3,7 @@
 # text_ortho = Zaː'à gur̃faːnar̃ dà wani lauyàː mài r̃aꞌàyin canjìː à Nàːjeːr̃iyàː
 # text = zaː'à gur̃faːnar̃ dà wani lauyàː mài r̃aꞌàyin canjìː à Nàːjeːr̃iyàː
 1	zâː	zâː	AUX	_	Tense=Fut	0	root	_	Gloss=Fut|wordform=zaː'à
-2	-'à	a	PRON	_	Person=4|PronType=ProSubj	1	subj/m	_	Gloss=4|SpacesBefore=No
+2	'à	a	PRON	_	Person=4|PronType=ProSubj	1	subj	_	Gloss=4|SpacesBefore=No|wordform=-'à
 3	gur̃faːnar̃	gur̃faːn-	VERB	_	Voice=Cau	1	comp:aux	_	Gloss=take_to_court.Cau
 4	dà	dà	ADP	_	_	3	comp:obl	_	Gloss=with
 5	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	6	det	_	Gloss=some.Masc.Spec
@@ -202,7 +202,7 @@
 18	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	17	comp	_	Gloss=Nigeria
 19	dà	dà	SCONJ	_	_	16	mod@relcl	_	Gloss=CompRel|Relz=Word
 20	zâː	zâː	AUX	_	Tense=Fut	19	comp	_	Gloss=Fut|wordform=zaːtà
-21	-tà	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	20	subj/m	_	Gloss=3Fem|SpacesBefore=No
+21	tà	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	20	subj	_	Gloss=3Fem|SpacesBefore=No|wordform=-tà
 22	sâː	sâː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	20	comp:aux	_	ClauseType=Rel|Gloss=put|RelRole=subj
 23	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	22	comp:obj	_	Gloss=mouth.Masc
 24	.	.	PUNCT	_	_	14	punct	_	Gloss=PUNCT
@@ -249,7 +249,7 @@
 36	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	37	det	_	Gloss=some.Fem.Spec
 37	àlaːmàː	àlaːmàː	NOUN	_	Gender=Fem	35	comp	_	Gloss=sign.Fem
 38	zâː	zâː	AUX	_	Tense=Fut	37	mod@relcl	_	Gloss=Fut|wordform=zaː'à
-39	-'à	a	PRON	_	Person=4|PronType=ProSubj	38	subj/m	_	Gloss=4|SpacesBefore=No
+39	'à	a	PRON	_	Person=4|PronType=ProSubj	38	subj	_	Gloss=4|SpacesBefore=No|wordform=-'à
 40	gur̃faːnar̃	gur̃faːn-	VERB	_	Voice=Cau	38	comp:aux	_	Gloss=take_to_court.Cau
 41	dà	dà	ADP	_	_	40	comp:obl	_	Gloss=with
 42	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	41	comp	_	Gloss=3Masc.Nom

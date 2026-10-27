@@ -414,7 +414,7 @@
 # text = yaddà zaː'à= iyà cirèː gâs ɗîn shiː nèː à= yi famfò-n ruwân dà kèː= dà carbon dioxide dàgà cikin tafkìn, à= fid dà shiː gàbaː ɗaya-n-sà .
 1	yaddà	yaddà	ADV	_	PronType=Rel	8	dislocated@top	_	Gloss=how.Rel|RelAnt=Yes|Relz=Word
 2	zâː	zâː	AUX	_	Tense=Fut	1	mod@relcl	_	Gloss=Fut|wordform=zaː'à
-3	-'à	a	PRON	_	Person=4|PronType=ProSubj	2	subj/m	_	Gloss=4|SpacesBefore=No
+3	'à	a	PRON	_	Person=4|PronType=ProSubj	2	subj	_	Gloss=4|SpacesBefore=No|wordform=-'à
 4	iyà	iy-	VERB	_	_	2	comp:aux	_	ClauseType=Rel|Gloss=be_able_to
 5	cirèː	cir-	VERB	_	_	4	comp:obj	_	Gloss=pull|RelRole=mod
 6	gâs	gâs	NOUN	_	Gender=Masc	5	comp:obj	_	Gloss=gas.Masc
@@ -535,7 +535,7 @@
 16	ruwân	ruwaː	NOUN	_	Definite=Def|Gender=Masc	15	comp	_	Gloss=water.Masc.Def|RelAnt=Yes
 17	dà	dà	SCONJ	_	_	16	mod@relcl	_	Gloss=CompRel|Relz=Word
 18	zâː	zâː	AUX	_	Tense=Fut	17	comp	_	Gloss=Fut|wordform=zaː'à
-19	-'à	a	PRON	_	Person=4|PronType=ProSubj	18	subj/m	_	Gloss=4|SpacesBefore=No
+19	'à	a	PRON	_	Person=4|PronType=ProSubj	18	subj	_	Gloss=4|SpacesBefore=No|wordform=-'à
 20	kwaːshèː	kwaːs-	VERB	_	_	18	comp:aux	_	ClauseType=Rel|Gloss=remove|RelRole=obj
 21	dàgà	dàgà	ADP	_	_	20	comp:obl	_	Gloss=from
 22	tafkìn	tafkìː	NOUN	_	Definite=Def|Gender=Masc	21	comp	_	Gloss=lake.Masc.Def|wordform=tar̃kin
@@ -629,10 +629,10 @@
 2	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
 3	rìgàːkafìn	rìgàːkafìː	NOUN	_	Definite=Def|Gender=Masc	11	dislocated@top	_	Gloss=precaution.Masc.Def|RelAnt=Yes
 4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=CompRel|Relz=Word
-5	mazàunaː	mazàuniː	NOUN	_	Number=Plur	7	subj	_	Gloss=inhabitant.Plur
+5	mazàunaː	mazàuniː	NOUN	_	Number=Plur	7	dislocated@subj	_	Gloss=inhabitant.Plur
 6	yankìn	yankìː	DET	_	Definite=Def|Gender=Masc	5	comp:obj@L	_	Gloss=area.Masc.Def
 7	zâː	zâː	AUX	_	Tense=Fut	4	comp	_	Gloss=Fut|wordform=zaːsù
-8	-sù	su	PRON	_	Number=Plur|Person=3|PronType=ProSubj	7	subj/m	_	Gloss=3Plur|SpacesBefore=No
+8	sù	su	PRON	_	Number=Plur|Person=3|PronType=ProSubj	7	subj	_	Gloss=3Plur|SpacesBefore=No|wordform=-sù
 9	iyà	iy-	VERB	_	_	7	comp:aux	_	ClauseType=Rel|Gloss=be_able_to
 10	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	9	comp:obj	_	Gloss=do|RelRole=pred
 11	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	0	root	_	Gloss=3Masc.Nom
@@ -692,7 +692,7 @@
 33	-n	na	PART	_	Case=Gen|PartType=Case	32	mod/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 34	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	33	comp	_	Gloss=Pron.Plur.Rel|RelAnt=Yes|Relz=Word|wordform=wadandal
 35	zâː	zâː	AUX	_	Tense=Fut	34	mod@relcl	_	Gloss=Fut|wordform=zaːsù
-36	-sù	su	PRON	_	Number=Plur|Person=3|PronType=ProSubj	35	subj/m	_	Gloss=3Plur|SpacesBefore=No
+36	sù	su	PRON	_	Number=Plur|Person=3|PronType=ProSubj	35	subj	_	Gloss=3Plur|SpacesBefore=No|wordform=-sù
 37	mutù	mutù	VERB	_	_	35	comp:aux	_	ClauseType=Rel|Gloss=die|RelRole=subj
 38	ìdan	ìdan	SCONJ	_	_	37	mod	_	Gloss=if
 39	tafkìn	tafkìn	NOUN	_	Definite=Def|Gender=Masc	41	subj	_	Gloss=river.Masc.Def

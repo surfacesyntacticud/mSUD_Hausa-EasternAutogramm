@@ -208,7 +208,7 @@
 18	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	17	comp	_	Gloss=Nigeria
 19	dà	dà	SCONJ	_	_	16	mod@relcl	_	Gloss=CompRel|Relz=Word
 20	zâː	zâː	AUX	_	Tense=Fut	19	comp	_	Gloss=Fut|wordform=zaːtà
-21	-tà	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	20	subj/m	_	Gloss=3Fem|SpacesBefore=No
+21	tà	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	20	subj	_	Gloss=3Fem|SpacesBefore=No|wordform=-tà
 22	iyà	iy-	VERB	_	_	20	comp:aux	_	ClauseType=Rel|Gloss=be_able_to|RelRole=subj
 23	sâː	sâː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	22	comp:obj	_	Gloss=put
 24	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	23	comp:obj	_	Gloss=mouth.Masc

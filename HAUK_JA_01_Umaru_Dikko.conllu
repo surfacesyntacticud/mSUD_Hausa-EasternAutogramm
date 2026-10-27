@@ -274,7 +274,7 @@
 26	wàːtòː	wàːtòː	CCONJ	_	_	27	cc	_	Gloss=i.e.
 27	indà	indà	ADV	_	PronType=Rel	11	conj:appos	_	Gloss=where.Rel|RelAnt=Yes|Relz=Word
 28	zâː	zâː	AUX	_	Tense=Fut	27	mod@relcl	_	Gloss=Fut|wordform=à
-29	-'à	a	PRON	_	Person=4|PronType=ProSubj	28	subj/m	_	Gloss=4|SpacesBefore=No
+29	'à	a	PRON	_	Person=4|PronType=ProSubj	28	subj	_	Gloss=4|SpacesBefore=No|wordform=-'à
 30	kai	kai	VERB	_	_	28	comp:aux	_	ClauseType=Rel|Gloss=reach/carry_to|RelRole=G
 31	-shì	-shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	30	comp:obj/m	_	Gloss=-3Masc.Acc|SpacesBefore=No|wordform=shì
 32	kèːnan	neː	PART	_	PartType=Foc	30	discourse@foc	_	Gloss=Emph
@@ -665,7 +665,7 @@
 35	,	,	PUNCT	_	_	36	punct	_	Gloss=PUNCT
 36	jàmaꞌàː	jàmaꞌàː	NOUN	_	Gender=Fem	26	comp:obj	_	Gloss=public.Fem
 37	zâː	zâː	AUX	_	Tense=Fut	36	comp:cleft	_	Gloss=Fut|wordform=zaː'à
-38	-'à	a	PRON	_	Person=4|PronType=ProSubj	37	subj/m	_	Gloss=4|SpacesBefore=No
+38	'à	a	PRON	_	Person=4|PronType=ProSubj	37	subj	_	Gloss=4|SpacesBefore=No|wordform=-'à
 39	taːràː	taːr-	VERB	_	_	37	comp:aux	_	ClauseType=Cleft|Gloss=gather
 40	su-	su	PRON	_	Number=Plur|Person=3|PronType=ProSubj	41	subj/m	_	Gloss=3.Plur|SpacesAfter=No
 41	_̀	_̀	AUX	_	Mood=Sub	39	parataxis@mod	_	Gloss=Sub|wordform=sù
@@ -675,7 +675,7 @@
 45	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	44	comp	_	Gloss=time.Masc.Def|RelAnt=Yes
 46	dà	dà	SCONJ	_	_	45	mod@relcl	_	Gloss=CompRel|Relz=Word
 47	zâː	zâː	AUX	_	Tense=Fut	46	comp	_	Gloss=Fut|wordform=zaː'à
-48	-'à	a	PRON	_	Person=4|PronType=ProSubj	47	subj/m	_	Gloss=4|SpacesBefore=No
+48	'à	a	PRON	_	Person=4|PronType=ProSubj	47	subj	_	Gloss=4|SpacesBefore=No|wordform=-'à
 49	sâː	sâː	VERB	_	_	47	comp:aux	_	ClauseType=Rel|Gloss=cause|RelRole=subj
 50	soːjà	soːjà	NOUN	_	Number=Plur	52	subj	_	Gloss=soldiers.Plur
 51	su-	su	PRON	_	Number=Plur|Person=3|PronType=ProSubj	52	subj/m	_	Gloss=3.Plur|SpacesAfter=No
@@ -765,7 +765,7 @@
 33	kashèː	kas-	VERB	_	_	27	comp	_	Gloss=kill
 34	-shi	-shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	33	comp:obj/m	_	Gloss=-3Masc.Acc|SpacesBefore=No|wordform=shi
 35	zâː	zâː	AUX	_	Tense=Fut	33	comp:cleft	_	Gloss=Fut|wordform=zaː'à
-36	-'à	a	PRON	_	Person=4|PronType=ProSubj	35	subj/m	_	Gloss=4|SpacesBefore=No
+36	'à	a	PRON	_	Person=4|PronType=ProSubj	35	subj	_	Gloss=4|SpacesBefore=No|wordform=-'à
 37	yi	yi	VERB	_	_	35	comp:aux	_	ClauseType=Cleft|Gloss=do
 38	.	.	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 
@@ -817,7 +817,7 @@
 42	tsòːro	tsòːroː	NOUN	_	Gender=Masc	41	comp:aux	_	Gloss=fear.Masc|wordform=tsòːron
 43	-n	na	PART	_	Case=Gen|PartType=Case	42	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 44	zâː	zâː	AUX	_	Tense=Fut	43	comp	_	Gloss=Fut|wordform=zaː'à
-45	-'à	a	PRON	_	Person=4|PronType=ProSubj	44	subj/m	_	Gloss=4|SpacesBefore=No
+45	'à	a	PRON	_	Person=4|PronType=ProSubj	44	subj	_	Gloss=4|SpacesBefore=No|wordform=-'à
 46	ƙuntàtaː	ƙuntat-	VERB	_	_	44	comp:aux	_	Gloss=persecute
 47	makà	makà	PRON	_	Case=Dat|Gender=Masc|Person=2|PronType=Prs	46	comp:obl	_	Gloss=2Masc.Dat
 48	ba	ba	PART	_	PartType=Neg|Polarity=Neg	39	mod	_	Gloss=Neg
@@ -829,7 +829,7 @@
 54	tsòːro	tsòːroː	NOUN	_	Gender=Masc	53	comp:aux	_	Gloss=fear.Masc|wordform=tsòːron
 55	-n	na	PART	_	Case=Gen|PartType=Case	54	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 56	zâː	zâː	AUX	_	Tense=Fut	55	comp	_	Gloss=Fut|wordform=zaː'à
-57	-'à	a	PRON	_	Person=4|PronType=ProSubj	56	subj/m	_	Gloss=4|SpacesBefore=No
+57	'à	a	PRON	_	Person=4|PronType=ProSubj	56	subj	_	Gloss=4|SpacesBefore=No|wordform=-'à
 58	gur̃faːnar̃	gur̃faːn-	VERB	_	Voice=Cau	56	comp:aux	_	Gloss=take_to_court.Cau
 59	dà	dà	ADP	_	_	58	comp:obl	_	Gloss=with
 60	kai	kai	PRON	_	Case=Nom|Gender=Masc|Person=2|PronType=Prs	59	comp	_	Gloss=2Masc.Nom

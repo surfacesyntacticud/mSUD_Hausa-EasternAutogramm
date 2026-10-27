@@ -423,7 +423,7 @@
 13	tsàràrruː	tsàrarreː	NOUN	_	Number=Plur	12	comp:obj	_	Gloss=prisoner.Plur
 14	ìdan	ìdan	SCONJ	_	_	12	mod	_	Gloss=if
 15	zâː	zâː	AUX	_	Tense=Fut	14	comp	_	Gloss=Fut|wordform=zaːsù
-16	-sù	su	PRON	_	Number=Plur|Person=3|PronType=ProSubj	15	subj/m	_	Gloss=3Plur|SpacesBefore=No
+16	sù	su	PRON	_	Number=Plur|Person=3|PronType=ProSubj	15	subj	_	Gloss=3Plur|SpacesBefore=No|wordform=-sù
 17	yi	yi	VERB	_	_	15	comp:aux	_	Gloss=do
 18	barciː	barciː	NOUN	_	Gender=Masc	17	comp:pred	_	Gloss=sleep.Masc
 19	;	;	PUNCT	_	_	11	punct	_	Gloss=PUNCT
@@ -474,7 +474,7 @@
 5	gàba	gàba	ADV	_	_	4	mod	_	Gloss=in_front
 6	dà	dà	ADP	_	_	4	comp:obl	_	Gloss=with
 7	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	6	comp	_	Gloss=say.Vnoun.Fem
-8	irì	irìː	NOUN	_	Gender=Masc	21	subj	_	Gloss=type_of.Masc|wordform=irìn
+8	irì	irìː	NOUN	_	Gender=Masc	21	dislocated@subj	_	Gloss=type_of.Masc|wordform=irìn
 9	-n	na	PART	_	Case=Gen|PartType=Case	8	mod/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 10	haːli	haːliː	NOUN	_	Gender=Masc	9	comp	_	Gloss=situation.Masc|wordform=haːlin
 11	-n	na	PART	_	Case=Gen|PartType=Case	10	mod/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No

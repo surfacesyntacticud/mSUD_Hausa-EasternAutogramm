@@ -35,7 +35,7 @@
 20	dà	dà	ADP	_	_	22	mod	_	Gloss=with
 21	ƙyar̃	ƙyar̃	ADV	_	_	20	comp	_	Gloss=difficulty
 22	zâː	zâː	AUX	_	Tense=Fut	0	root	_	Gloss=Fut|wordform=zaːkà
-23	-kà	ka	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=ProSubj	22	subj/m	_	Gloss=2Masc|SpacesBefore=No
+23	kà	ka	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=ProSubj	22	subj	_	Gloss=2Masc|SpacesBefore=No|wordform=-kà
 24	yàr̃da	yar̃d-	VERB	_	_	22	comp:aux	_	Gloss=agree
 25	dà	dà	ADP	_	_	24	comp:obl	_	Gloss=with
 26	cêwaː	cêwaː	SCONJ	_	_	25	comp	_	Gloss=COMP
@@ -940,7 +940,7 @@
 45	hanyàr̃	hanyàː	NOUN	_	Definite=Def|Gender=Fem	44	comp	_	Gloss=way.Fem.Def|RelAnt=Yes
 46	dà	dà	SCONJ	_	_	45	mod@relcl	_	Gloss=CompRel|Relz=Word
 47	zâː	zâː	AUX	_	Tense=Fut	46	comp	_	Gloss=Fut|wordform=zaː'à
-48	-'à	a	PRON	_	Person=4|PronType=ProSubj	47	subj/m	_	Gloss=4|SpacesBefore=No
+48	'à	a	PRON	_	Person=4|PronType=ProSubj	47	subj	_	Gloss=4|SpacesBefore=No|wordform=-'à
 49	ɓulloː	ɓull-	VERB	_	_	47	comp:aux	_	ClauseType=Rel|Gloss=tackle|RelRole=obj
 50	wà	mà	ADP	_	Case=Dat	49	comp:obl	_	Gloss=Dat
 51	matsaloːlîn	màtsalàː	NOUN	_	Definite=Def|Number=Plur	50	comp	_	Gloss=problem.Plur.Def|RelAnt=Yes

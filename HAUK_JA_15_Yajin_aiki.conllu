@@ -173,7 +173,7 @@
 # text = ita kùwa Hàɗaɗɗiyar̃ Ƙungìya-r̃ 'Ya-n Ƙoːdagôn ta- nàː dàgà kân gàba-n kàmfên ɗîn neːma-n à= kafà tafarkì-n sìyaːsàː mài jàm'ìyyuː dà daːmaː à ƙasâr̃, kuma taː= yi àmfàniː dà daːma-r̃ raːna-r̃ bìki-n 'ya-n ƙoːdagoː ta shèːkaràr̃ nân wajen yî-n kirà-n à= kaːwoː ƙàrshe-n mulkì-n jàm'iyyàr-n sìyaːsàː ƙwàːyaː ɗaya tal à Jàmhuːr̃iyà-r̃ Nìːjâr̃.
 # text_en = The Federation of Workers' unions is among the leaders of the campain for a multiparty political system in the country, and it took advantage of this year's labour day to call for the end the political regime of the single party in Niger Republic.
 # text_ortho = Ita kùwa Hàɗaɗɗiyar̃ Ƙungìyar̃ 'Yan Ƙoːdagôn tanàː dàgà kân gàban kàmfên ɗîn neːman à kafà tafarkìn sìyaːsàː mài jàm'ìyyuː dà daːmaː à ƙasâr̃, kuma taː yi àmfàniː dà daːmar̃ raːnar̃ bìkin 'yan ƙoːdagoː ta shèːkaràr̃ nân wajen yîn kiràn à kaːwoː ƙàrshen mulkìn jàm'iyyàr̃ sìyaːsàː ƙwàːyaː ɗaya tal à Jàmhuːr̃iyàr̃ Nìːjâr̃.
-1	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	10	subj	_	Gloss=3Fem.Nom
+1	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	10	dislocated@subj	_	Gloss=3Fem.Nom
 2	kùwa	kùwa	PART	_	PartType=Top	1	discourse@top	_	Gloss=in_fact|wordform=kuwa
 3	Hàɗaɗɗiyar̃	hàɗaɗɗiyeː	ADJ	_	Gender=Fem	4	mod	_	Gloss=united.Fem|wordform=Hadaddiyar
 4	Ƙungìya	ƙungìyaː	NOUN	_	Gender=Fem	1	conj:appos	_	Gloss=union.Fem|wordform=Ƙungìyar̃
@@ -513,7 +513,7 @@
 22	aː	aː	AUX	_	Aspect=Perf|Number=Sing	0	root	_	Gloss=Perf.Sing|wordform=taː
 23	cêː	cêː	VERB	_	_	22	comp:aux	_	Gloss=say
 24	zâː	zâː	AUX	_	Tense=Fut	23	comp:obj	_	Gloss=Fut|wordform=zaːà
-25	-'à	a	PRON	_	Person=4|PronType=ProSubj	24	subj/m	_	Gloss=4|SpacesBefore=No
+25	'à	a	PRON	_	Person=4|PronType=ProSubj	24	subj	_	Gloss=4|SpacesBefore=No|wordform=-'à
 26	kafà	kaf-	VERB	_	_	24	comp:aux	_	Gloss=set_up
 27	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	28	det	_	Gloss=some.Masc.Spec
 28	kwàmìtîn	kwàmìtîː	NOUN	_	Definite=Def|Gender=Masc	26	comp:obj	_	Gloss=committee.Masc.Def|RelAnt=Yes
@@ -572,7 +572,7 @@
 10	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog|wordform=su-
 11	jî	ji	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	10	comp:aux	_	Compound=Yes|Gloss=hear.Vnoun.Masc.|wordform=jîn
 12	-n	na	PART	_	Case=Gen|PartType=Case	11	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
-13	gwamnatì	gwamnatì	NOUN	_	Gender=Fem	16	subj	_	Gloss=government.Fem|wordform=gwamnatìnsù
+13	gwamnatì	gwamnatì	NOUN	_	Gender=Fem	16	dislocated@subj	_	Gloss=government.Fem|wordform=gwamnatìnsù
 14	-n	na	PART	_	Case=Gen|PartType=Case	13	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 15	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	14	comp	_	Gloss=3Plur.Gen|SpacesBefore=No
 16	baː	bâː	AUX	_	Aspect=Prog|PartType=Pred|Polarity=Neg	12	comp	_	Gloss=Neg.Prog|wordform=baːtàː

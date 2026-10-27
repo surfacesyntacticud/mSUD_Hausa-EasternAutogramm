@@ -15,7 +15,7 @@
 1	à	à	ADP	_	_	3	mod	_	Gloss=at
 2	yâu	yâu	ADV	_	_	1	comp	_	Gloss=today
 3	zâː	zâː	AUX	_	Tense=Fut	0	root	_	Gloss=Fut|wordform=zaːmù
-4	-mù	mu	PRON	_	Number=Plur|Person=1|PronType=ProSubj	3	subj/m	_	Gloss=1Plur|SpacesBefore=No
+4	mù	mu	PRON	_	Number=Plur|Person=1|PronType=ProSubj	3	subj	_	Gloss=1Plur|SpacesBefore=No|wordform=-mù
 5	soːmà	soːm-	VERB	_	_	3	comp:aux	_	Gloss=start
 6	shirì	shirìː	NOUN	_	Gender=Masc	5	comp:obj	_	Gloss=programme.Masc|wordform=shirìː|wordfrom=shirìnmù
 7	-n	na	PART	_	Case=Gen|PartType=Case	6	mod@poss	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
@@ -464,7 +464,7 @@
 40	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	39	mod	_	Gloss=Gen.Fem
 41	Kudù	Kudù	PROPN	_	_	40	comp	_	Gloss=Kudù
 42	zâː	zâː	AUX	_	Tense=Fut	38	parataxis:conj	_	Gloss=Fut|wordform=zaː'à
-43	-'à	a	PRON	_	Person=4|PronType=ProSubj	42	subj/m	_	Gloss=4|SpacesBefore=No
+43	'à	a	PRON	_	Person=4|PronType=ProSubj	42	subj	_	Gloss=4|SpacesBefore=No|wordform=-'à
 44	yi	yi	VERB	_	_	42	comp:aux	_	Gloss=do
 45	dambên	dambe	NOUN	_	Definite=Def|Gender=Masc	44	comp:pred	_	Gloss=boxing.Masc.Def
 46	ba	ba	PART	_	PartType=Neg|Polarity=Neg	38	mod	_	Gloss=Neg

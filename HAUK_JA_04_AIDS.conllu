@@ -104,7 +104,7 @@
 15	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 16	tòː	tòː	INTJ	_	_	40	discourse	_	Gloss=well
 17	ìdan	ìdan	SCONJ	_	_	40	mod	_	Gloss=if
-18	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	28	subj	_	Gloss=some.Masc.Spec
+18	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	28	dislocated@subj	_	Gloss=some.Masc.Spec
 19	dàgà	dàgà	ADP	_	_	18	mod	_	Gloss=from
 20	cikin	cikin	ADP	_	_	19	comp	_	Gloss=inside
 21	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	20	comp	_	Gloss=Pron.Plur.Rel|RelAnt=Yes|Relz=Word
@@ -152,7 +152,7 @@
 3	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 4	duk	dukà	DET	_	PronType=Tot	6	det	_	Gloss=all
 5	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	6	det	_	Gloss=some.Fem.Spec
-6	irì	irìː	NOUN	_	Gender=Masc	24	subj	_	Gloss=type_of.Masc|wordform=irìn
+6	irì	irìː	NOUN	_	Gender=Masc	24	dislocated@subj	_	Gloss=type_of.Masc|wordform=irìn
 7	-n	na	PART	_	Case=Gen|PartType=Case	6	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 8	taːràːwaː	taːr-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	7	comp	_	Gloss=have_intercourse.Vnoun.Fem
 9	–	–	PUNCT	_	_	11	punct	_	Gloss=PUNCT
@@ -253,7 +253,7 @@
 26	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 27	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	28	mod	_	Gloss=Neg
 28	zâː	zâː	AUX	_	Tense=Fut	10	conj:coord	_	Gloss=Fut|wordform=zaː'à
-29	-'à	a	PRON	_	Person=4|PronType=ProSubj	28	subj/m	_	Gloss=4|SpacesBefore=No
+29	'à	a	PRON	_	Person=4|PronType=ProSubj	28	subj	_	Gloss=4|SpacesBefore=No|wordform=-'à
 30	ga	ganiː	VERB	_	_	28	comp:aux	_	Gloss=see
 31	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	32	det	_	Gloss=some.Fem.Spec
 32	àlaːmàː	àlaːmàː	NOUN	_	Gender=Fem	30	comp:obj	_	Gloss=sign.Fem
@@ -362,7 +362,7 @@
 # text = tòː ꞌyàːꞌyàː àbîn ya kè à ƙasa-r̃ Nàːjeːr̃iyàː ?
 1	tòː	tòː	INTJ	_	_	2	discourse	_	Gloss=well
 2	ꞌyàːꞌyàː	ꞌyàːꞌyàː	ADV	_	PronType=Int	0	root	_	Gloss=how
-3	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	5	subj	_	Gloss=thing.Masc.Def
+3	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	5	dislocated@subj	_	Gloss=thing.Masc.Def
 4	ya	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	5	subj	_	Gloss=3Masc
 5	kè	nàː	AUX	_	ExtPos=PART|Mood=Rel	2	comp:cleft	_	ClauseType=Int|Gloss=Prog.Rel
 6	à	à	ADP	_	_	5	mod	_	Gloss=at
@@ -533,7 +533,7 @@
 33	jinîn	jiniː	VERB	_	Definite=Def|Gender=Masc	32	comp	_	Gloss=blood.Masc.Def|RelAnt=Yes
 34	dà	dà	SCONJ	_	_	33	mod@relcl	_	Gloss=CompRel|Relz=Word
 35	zâː	zâː	AUX	_	Tense=Fut	34	comp	_	Gloss=Fut|wordform=sù
-36	-sù	su	PRON	_	Number=Plur|Person=3|PronType=ProSubj	35	subj/m	_	Gloss=3Plur|SpacesBefore=No
+36	sù	su	PRON	_	Number=Plur|Person=3|PronType=ProSubj	35	subj	_	Gloss=3Plur|SpacesBefore=No|wordform=-sù
 37	ɗuːràː	ɗuːr-	VERB	_	_	35	comp:aux	_	ClauseType=Rel|Gloss=inject|RelRole=obj
 38	wà	mà	ADP	_	Case=Dat	37	comp:obl	_	Gloss=Dat
 39	maràsaː	maràsaː	PART	_	Number=Plur|PartType=Der|Polarity=Neg	38	comp	_	Gloss=lacking.Plur

@@ -29,7 +29,7 @@
 12	a-	a	PRON	_	Person=4|PronType=ProSubj	13	subj/m	_	Gloss=4|SpacesAfter=No
 13	n	aː	AUX	_	Aspect=Perf|Number=Plur	0	root	_	Gloss=Perf.Plur|wordform=an
 14	ƙiyàstà	ƙiyast-	VERB	_	_	13	comp:aux	_	Gloss=estimate
-15	maːtaː	màːtaː	NOUN	_	Number=Plur	24	subj	_	Gloss=woman.Plur
+15	maːtaː	màːtaː	NOUN	_	Number=Plur	24	dislocated@subj	_	Gloss=woman.Plur
 16	à	à	ADP	_	_	15	mod	_	Gloss=at
 17	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	16	comp	_	Gloss=Nigeria
 18	kìːma:nìn	kìːma:nìn	ADP	_	_	15	mod	_	Gloss=about
@@ -39,7 +39,7 @@
 22	bìyar̃	bìyar̃	NUM	_	_	20	conj:coord	_	Gloss=five
 23	nèː	neː	PART	_	PartType=Foc	19	discourse@foc	_	Gloss=Emph
 24	zâː	zâː	AUX	_	Tense=Fut	14	comp:obj	_	Gloss=Fut|wordform=zaːsù
-25	-sù	su	PRON	_	Number=Plur|Person=3|PronType=ProSubj	24	subj/m	_	Gloss=3Plur|SpacesBefore=No
+25	sù	su	PRON	_	Number=Plur|Person=3|PronType=ProSubj	24	subj	_	Gloss=3Plur|SpacesBefore=No|wordform=-sù
 26	rasà	ras-	VERB	_	_	24	comp:aux	_	Gloss=lose
 27	raːyukà	râi	NOUN	_	Number=Plur	26	comp:obj	_	Gloss=life.Plur|wordform=raːyukànsù
 28	-n	na	PART	_	Case=Gen|PartType=Case	27	mod@poss	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
@@ -335,7 +335,7 @@
 50	tagwàːyeː	tagwàːyeː	NOUN	_	Number=Plur	49	comp	_	Gloss=twins
 51	neː	neː	PART	_	PartType=Foc	50	discourse@foc	_	Gloss=Emph
 52	zâː	zâː	AUX	_	Tense=Fut	50	comp:cleft	_	Gloss=Fut|wordform=zaː'à
-53	-'à	a	PRON	_	Person=4|PronType=ProSubj	52	subj/m	_	Gloss=4|SpacesBefore=No
+53	'à	a	PRON	_	Person=4|PronType=ProSubj	52	subj	_	Gloss=4|SpacesBefore=No|wordform=-'à
 54	hàifaː	haif-	VERB	_	_	52	comp:aux	_	ClauseType=Cleft|Gloss=give_birth_to
 55	koː	koː	CCONJ	_	_	57	cc	_	Gloss=or
 56	kuma	kuma	PART	_	PartType=Top	55	discourse@top	_	Gloss=also
@@ -362,7 +362,7 @@
 13	moːtàr̃	moːtàr̃	NOUN	_	Definite=Def|Gender=Fem	12	comp	_	Gloss=car.Fem.Def|RelAnt=Yes
 14	dà	dà	SCONJ	_	_	13	mod@relcl	_	Gloss=CompRel|Relz=Word
 15	zâː	zâː	AUX	_	Tense=Fut	14	comp	_	Gloss=Fut|wordform=zaːtà
-16	-tà	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	15	subj/m	_	Gloss=3Fem|SpacesBefore=No
+16	tà	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	15	subj	_	Gloss=3Fem|SpacesBefore=No|wordform=-tà
 17	kai	kai	VERB	_	_	15	comp:aux	_	ClauseType=Rel|Gloss=reach/carry_to|RelRole=subj
 18	-sù	-su	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	17	comp:obj@T	_	Gloss=-3Plur.Acc|SpacesBefore=No
 19	asìbitì	asìbitì	NOUN	_	Gender=Masc	17	comp:obj@G	_	Gloss=hospital.Masc|wordform=asibiti
@@ -480,7 +480,7 @@
 # text_en = Nigeria counts about fifteen per cent of the women who die out of all the women of the world.
 # text_ortho = Nàːjeːr̃iyàː dai tanàː dà kàmar̃ kashìː goːmà shâː bìyar̃ dàgà cikin ɗàriː na yawàn iyàːyeː maːtaː waɗàndà sukèː mutuwàː dàgà cikin iyàːyeː maːtaː na duːniyàː;
 # text = Nàːjeːr̃iyàː dai ta- nàː dà kàmar̃ kashìː goːmà shâː bìyar̃ dàgà cikin ɗàriː n-n yawà-n iyàːyeː maːtaː waɗàndà su- kèː mutuwàː dàgà cikin iyàːyeː maːtaː na duːniyàː;
-1	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	4	subj	_	Gloss=Nigeria
+1	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	4	dislocated@subj	_	Gloss=Nigeria
 2	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
 3	ta	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	4	subj	_	Gloss=3Fem
 4	nàː	nàː	AUX	_	ExtPos=PART	0	root	_	Gloss=be.Pred|wordform=tanàː
@@ -647,7 +647,7 @@
 12	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	11	comp	_	Gloss=Nigeria
 13	dà	dà	SCONJ	_	_	7	mod@relcl	_	Gloss=CompRel|Relz=Word
 14	zâː	zâː	AUX	_	Tense=Fut	13	comp	_	Gloss=Fut|wordform=zaː'à
-15	-'à	a	PRON	_	Person=4|PronType=ProSubj	14	subj/m	_	Gloss=4|SpacesBefore=No
+15	'à	a	PRON	_	Person=4|PronType=ProSubj	14	subj	_	Gloss=4|SpacesBefore=No|wordform=-'à
 16	kafà	kaf-	VERB	_	_	14	comp:aux	_	ClauseType=Rel|Gloss=set_up|RelRole=mod
 17	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	18	det	_	Gloss=some.Masc.Spec
 18	kwàmìtî	kwàmìtî	NOUN	_	Gender=Masc	16	comp:obj	_	Gloss=committee.Masc
@@ -676,7 +676,7 @@
 41	dòːkaː	dòːkaː	NOUN	_	Gender=Fem	39	comp:obj	_	Gloss=law.Fem|RelAnt=Yes
 42	dà	dà	SCONJ	_	_	41	mod@relcl	_	Gloss=CompRel|Relz=Word
 43	zâː	zâː	AUX	_	Tense=Fut	42	comp	_	Gloss=Fut|wordform=zaːtà
-44	-tà	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	43	subj/m	_	Gloss=3Fem|SpacesBefore=No
+44	tà	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	43	subj	_	Gloss=3Fem|SpacesBefore=No|wordform=-tà
 45	hanà	han-	VERB	_	_	43	comp:aux	_	ClauseType=Rel|Gloss=prevent|RelRole=subj
 46	yi	yi	VERB	_	_	45	comp:obj	_	Gloss=do
 47	wà	mà	ADP	_	Case=Dat	46	comp:obl	_	Gloss=Dat

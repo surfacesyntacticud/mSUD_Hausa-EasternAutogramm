@@ -324,7 +324,7 @@
 29	,	,	PUNCT	_	_	30	punct	_	Gloss=PUNCT
 30	indà	indà	ADV	_	ExtPos=SCONJ|PronType=Rel	22	mod:appos@relcl	_	Gloss=where.Rel|Relz=Word
 31	zâː	zâː	AUX	_	Tense=Fut	30	comp:obj	_	Gloss=Fut|wordform=sù
-32	-sù	su	PRON	_	Number=Plur|Person=3|PronType=ProSubj	31	subj/m	_	Gloss=3Plur|SpacesBefore=No
+32	sù	su	PRON	_	Number=Plur|Person=3|PronType=ProSubj	31	subj	_	Gloss=3Plur|SpacesBefore=No|wordform=-sù
 33	iyà	iy-	VERB	_	_	31	comp:aux	_	ClauseType=Rel|Gloss=be_able_to|RelRole=mod
 34	raːmà	raːm-	VERB	_	_	33	comp:obj	_	Gloss=return
 35	irì	irìː	NOUN	_	Gender=Masc	34	comp:obj	_	Gloss=type_of.Masc|RelAnt=Yes|wordform=irìn
@@ -587,7 +587,7 @@
 19	à	à	ADP	_	_	16	mod	_	Gloss=at
 20	Afìr̃kà	Afìr̃kà	PROPN	_	_	19	comp	_	Gloss=Africa
 21	zâː	zâː	AUX	_	Tense=Fut	0	root	_	Gloss=Fut|wordform=zaː'à
-22	-'à	a	PRON	_	Person=4|PronType=ProSubj	21	subj/m	_	Gloss=4|SpacesBefore=No
+22	'à	a	PRON	_	Person=4|PronType=ProSubj	21	subj	_	Gloss=4|SpacesBefore=No|wordform=-'à
 23	iskèː	isk-	VERB	_	_	21	comp:aux	_	Gloss=find
 24	-su	-su	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	23	comp:obj/m	_	Gloss=-3Plur.Acc|SpacesBefore=No|wordform=su
 25	à	à	ADP	_	_	23	comp:obl	_	Gloss=at
