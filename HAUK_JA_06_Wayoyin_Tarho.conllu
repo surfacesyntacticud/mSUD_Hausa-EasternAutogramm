@@ -107,7 +107,7 @@
 12	ga	ganiː	VERB	_	_	11	comp:aux	_	Gloss=see
 13	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	12	comp:obj	_	Gloss=there_is.Neg
 14	shi	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	13	subj	_	Gloss=3Masc.Acc
-15	dà	dà	ADP	_	_	13	comp:loc	_	Gloss=with
+15	dà	dà	ADP	_	_	13	comp:pred	_	Gloss=with
 16	kyâu	kyâu	ADV	_	_	15	comp	_	Gloss=beauty.Masc
 17	sòːsai	sòːsai	ADV	_	_	16	mod	_	Gloss=really
 18	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
@@ -400,7 +400,7 @@
 7	tàr̃hôː	tàr̃hôː	NOUN	_	Gender=Masc	6	comp	_	Gloss=telephone.Masc
 8	ta	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	9	subj	_	Gloss=3Fem
 9	kè	kè	AUX	_	Copula=Yes|Mood=Rel	2	comp:cleft	_	ClauseType=Int|Gloss=bePred.Rel2|wordform=takè
-10	à	à	ADP	_	_	9	comp:loc	_	Gloss=at
+10	à	à	ADP	_	_	9	comp:pred	_	Gloss=at
 11	ƙasàːshe	ƙasaː	NOUN	_	Number=Plur	10	comp	_	Gloss=country.Plur|wordform=ƙasàːshen
 12	-n	na	PART	_	Case=Gen|PartType=Case	11	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 13	Afìr̃kà	Afìr̃kà	PROPN	_	_	12	comp	_	Gloss=Africa

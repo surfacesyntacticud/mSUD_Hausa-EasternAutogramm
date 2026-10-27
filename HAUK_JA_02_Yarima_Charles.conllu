@@ -180,7 +180,7 @@
 # text_ortho = Gidân nàː gab dà bàːkin tèːku kuma har̃ yànzu yanàː dà ban shàꞌawàː da haskàkâːwaː duk dà gyàːre-gyàːren zaːmàniː dà akà yi masà loːkàcîn dà Nàːjeːr̃iyàː takèː cìke dà ar̃zìkin mân feːtùr̃.
 1	gidân	gidaː	NOUN	_	Definite=Def|Gender=Masc	2	subj	_	Gloss=house.Masc.Def
 2	nàː	nàː	AUX	_	Copula=Yes	0	root	_	Gloss=be.Loc/Pred
-3	gab	gab	IDEO	_	ExtPos=ADP	2	comp:loc	_	Gloss=close|Idiom=Yes
+3	gab	gab	IDEO	_	ExtPos=ADP	2	comp:pred	_	Gloss=close|Idiom=Yes
 4	dà	dà	ADP	_	_	3	comp:obl	_	Gloss=with|InIdiom=Yes
 5	bàːki	bàːkiː	NOUN	_	Gender=Masc	3	comp	_	Compound=Yes|Gloss=shore.Masc|wordform=bàːkin
 6	-n	na	PART	_	Case=Gen|PartType=Case	5	udep/m	_	Gloss=Gen.Fem|SpacesBefore=No
@@ -582,7 +582,7 @@
 14	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=CompRel|Relz=Word
 15	a	a	PRON	_	Person=4|PronType=Prs	16	subj	_	Gloss=4
 16	kè	kè	AUX	_	Copula=Yes|Mood=Rel	14	comp	_	ClauseType=Rel|Gloss=bePred.Rel2|RelRole=obl|Relz=Affix
-17	dà	dà	ADP	_	_	16	comp:loc	_	Gloss=with
+17	dà	dà	ADP	_	_	16	comp:pred	_	Gloss=with
 18	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	comp	_	Gloss=3Plur.Nom|RelPos=Yes
 19	à	à	ADP	_	_	16	mod	_	Gloss=at
 20	Afìr̃kà	Afìr̃kà	PROPN	_	_	19	comp	_	Gloss=Africa

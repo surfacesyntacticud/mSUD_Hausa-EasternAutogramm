@@ -632,7 +632,7 @@
 29	kuma	kuma	PART	_	PartType=Top	28	discourse@top	_	Gloss=also
 30	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	20	conj:coord	_	Gloss=there_is.Neg
 31	shi	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	30	subj	_	Gloss=3Masc.Acc
-32	dà	dà	ADP	_	_	30	comp:loc	_	Gloss=with|wordform=ɗà
+32	dà	dà	ADP	_	_	30	comp:pred	_	Gloss=with|wordform=ɗà
 33	daːɗiː	daːɗiː	NOUN	_	Gender=Masc	32	comp	_	Gloss=pleasure.Masc
 34	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
@@ -817,7 +817,7 @@
 5	dà	dà	SCONJ	_	_	4	mod@relcl	_	Gloss=CompRel|Relz=Word
 6	a	a	PRON	_	Person=4|PronType=Prs	7	subj/m	_	Gloss=4
 7	kè	kè	AUX	_	Copula=Yes|Mood=Rel	5	comp	_	ClauseType=Rel|Gloss=bePred.Rel2|RelRole=subj|wordform=a
-8	ciki	cikin	ADP	_	_	7	comp:loc	_	Gloss=inside|RelRole=obj
+8	ciki	cikin	ADP	_	_	7	comp:pred	_	Gloss=inside|RelRole=obj
 9	à	à	ADP	_	_	7	mod	_	Gloss=at
 10	kûr̃kukù	kûr̃kukùː	NOUN	_	Gender=Masc	9	comp	_	Gloss=prison.Masc|wordform=kûr̃kukùn
 11	-n	na	PART	_	Case=Gen|PartType=Case	10	mod/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No

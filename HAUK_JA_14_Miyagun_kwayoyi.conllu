@@ -395,7 +395,7 @@
 45	wàddà	wandà	PRON	_	Gender=Fem|PronType=Rel	40	mod@relcl	_	Gloss=Pron.Fem.Rel|Relz=Word|wordform=wadda
 46	ta	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	47	subj	_	Gloss=3Fem
 47	kè	kè	AUX	_	Copula=Yes|Mood=Rel	45	comp:obj	_	ClauseType=Rel|Gloss=bePred.Rel2|RelRole=subj|wordform=takè
-48	à	à	ADP	_	_	47	comp:loc	_	Gloss=at
+48	à	à	ADP	_	_	47	comp:pred	_	Gloss=at
 49	nànnàɗe	nannaɗ-	VERB	_	ExtPos=ADV|Number=Plur|VerbForm=Part	48	comp	_	Gloss=tie.Plur.Part
 50	cikin	cikin	ADP	_	_	49	mod	_	Gloss=inside
 51	r̃oːbàː	r̃oːbàː	NOUN	_	Gender=Masc	50	comp	_	Gloss=condom.Masc

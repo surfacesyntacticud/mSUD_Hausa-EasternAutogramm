@@ -327,7 +327,7 @@
 43	dà	dà	SCONJ	_	_	42	mod@relcl	_	Gloss=CompRel|Relz=Word
 44	a	a	PRON	_	Person=4|PronType=Prs	45	subj	_	Gloss=4
 45	kè	kè	AUX	_	Copula=Yes|Mood=Rel	43	comp	_	ClauseType=Rel|Gloss=bePred.Rel2|RelRole=pred
-46	dà	dà	ADP	_	_	45	comp:loc	_	Gloss=with
+46	dà	dà	ADP	_	_	45	comp:pred	_	Gloss=with
 47	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	46	comp	_	Gloss=3Masc.Nom|RelPos=Yes
 48	à	à	ADP	_	_	45	mod	_	Gloss=at
 49	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	48	comp	_	Gloss=country.Fem.Def

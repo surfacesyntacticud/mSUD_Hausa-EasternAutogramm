@@ -198,7 +198,7 @@
 14	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
 15	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	16	det	_	Gloss=some.Fem.Spec
 16	koːtù	koːtù	NOUN	_	Gender=Fem	14	subj	_	Gloss=court.Fem|RelAnt=Yes
-17	à	à	ADP	_	_	14	comp:loc	_	Gloss=at
+17	à	à	ADP	_	_	14	comp:pred	_	Gloss=at
 18	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	17	comp	_	Gloss=Nigeria
 19	dà	dà	SCONJ	_	_	16	mod@relcl	_	Gloss=CompRel|Relz=Word
 20	zâː	zâː	AUX	_	Tense=Fut	19	comp	_	Gloss=Fut|wordform=zaːtà
@@ -685,7 +685,7 @@
 14	dà	dà	SCONJ	_	_	13	mod@relcl	_	Gloss=CompRel|Relz=Word
 15	ya	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	16	subj	_	Gloss=3Masc
 16	kè	kè	AUX	_	Copula=Yes|Mood=Rel	14	comp	_	ClauseType=Rel|Gloss=bePred.Rel2|RelRole=mod|Relz=Affix|wordform=yakè
-17	cikin	cikin	ADP	_	_	16	comp:loc	_	Gloss=inside
+17	cikin	cikin	ADP	_	_	16	comp:pred	_	Gloss=inside
 18	shirì	shiry-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	17	comp	_	Compound=Yes|Gloss=prepare.Vnoun.Masc.|wordform=shirìn
 19	-n	na	PART	_	Case=Gen|PartType=Case	18	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 20	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	21	det	_	Gloss=some.Masc.Spec

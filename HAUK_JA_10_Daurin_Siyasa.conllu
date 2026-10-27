@@ -429,8 +429,8 @@
 19	bìyar̃	bìyar̃	NUM	_	_	17	conj:coord	_	Gloss=five
 20	dà	dà	SCONJ	_	_	14	mod@relcl	_	Gloss=CompRel|Relz=Word
 21	a	a	PRON	_	Person=4|PronType=ProSubj	22	subj/m	_	Gloss=4
-22	kè	kè	AUX	_	Copula=Yes|Mood=Rel	20	comp	_	ClauseType=Rel|Gloss=bePred.Rel2|wordform=a
-23	tsàre	tsar-	VERB	_	ExtPos=ADV|VerbForm=Part	22	comp:loc	_	Gloss=imprison.Part|RelRole=obl
+22	kè	kè	AUX	_	Aspect=Prog|Mood=Rel	20	comp	_	ClauseType=Rel|Gloss=Prog.Rel|wordform=a
+23	tsàre	tsar-	VERB	_	ExtPos=ADV|VerbForm=Part	22	comp:aux	_	Gloss=imprison.Part|RelRole=obl
 24	dà	dà	ADP	_	_	23	comp:obl	_	Gloss=with
 25	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	24	comp	_	Gloss=3Plur.Nom|RelPos=Yes
 26	à	à	ADP	_	_	23	mod	_	Gloss=at
