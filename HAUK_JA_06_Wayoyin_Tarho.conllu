@@ -399,8 +399,8 @@
 6	-r̃	na	PART	_	Case=Gen|PartType=Case	5	udep/m	_	Gloss=Gen.Fem|SpacesBefore=No
 7	tàr̃hôː	tàr̃hôː	NOUN	_	Gender=Masc	6	comp	_	Gloss=telephone.Masc
 8	ta	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	9	subj	_	Gloss=3Fem
-9	kè	nàː	AUX	_	Copula=Yes|Mood=Rel	2	comp:cleft	_	ClauseType=Int|Gloss=bePred.Rel2|wordform=takè
-10	à	à	ADP	_	_	9	comp:pred	_	Gloss=at
+9	kè	kè	AUX	_	Copula=Yes|Mood=Rel	2	comp:cleft	_	ClauseType=Int|Gloss=bePred.Rel2|wordform=takè
+10	à	à	ADP	_	_	9	comp:loc	_	Gloss=at
 11	ƙasàːshe	ƙasaː	NOUN	_	Number=Plur	10	comp	_	Gloss=country.Plur|wordform=ƙasàːshen
 12	-n	na	PART	_	Case=Gen|PartType=Case	11	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 13	Afìr̃kà	Afìr̃kà	PROPN	_	_	12	comp	_	Gloss=Africa
