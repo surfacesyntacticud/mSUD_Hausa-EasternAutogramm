@@ -170,9 +170,9 @@
 37	.	.	PUNCT	_	_	24	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_6
-# text_en = The Federation of Workers' unions is the one leading the campain for a multiparty political system in the country, and it took advantage of this year's labour day to call for the end the political regime of the single party in Niger Republic.
-# text_ortho = Ita kùwa Hàɗaɗɗiyar̃ Ƙungìyar̃ 'Yan Ƙoːdagôn tanàː dàgà kân gàban kàmfên ɗîn neːman à kafà tafarkìn sìyaːsàː mài jàm'ìyyuː dà daːmaː à ƙasâr̃, kuma taː yi àmfàniː dà daːmar̃ raːnar̃ bìkin 'yan ƙoːdagoː ta shèːkaràr̃ nân wajen yîn kiràn à kaːwoː ƙàrshen mulkìn jàm'iyyàr̃ sìyaːsàː ƙwàːyaː ɗaya tal à Jàmhuːr̃iyàr̃ Nìːjâr̃.
 # text = ita kùwa Hàɗaɗɗiyar̃ Ƙungìya-r̃ 'Ya-n Ƙoːdagôn ta- nàː dàgà kân gàba-n kàmfên ɗîn neːma-n à= kafà tafarkì-n sìyaːsàː mài jàm'ìyyuː dà daːmaː à ƙasâr̃, kuma taː= yi àmfàniː dà daːma-r̃ raːna-r̃ bìki-n 'ya-n ƙoːdagoː ta shèːkaràr̃ nân wajen yî-n kirà-n à= kaːwoː ƙàrshe-n mulkì-n jàm'iyyàr-n sìyaːsàː ƙwàːyaː ɗaya tal à Jàmhuːr̃iyà-r̃ Nìːjâr̃.
+# text_en = The Federation of Workers' unions is among the leaders of the campain for a multiparty political system in the country, and it took advantage of this year's labour day to call for the end the political regime of the single party in Niger Republic.
+# text_ortho = Ita kùwa Hàɗaɗɗiyar̃ Ƙungìyar̃ 'Yan Ƙoːdagôn tanàː dàgà kân gàban kàmfên ɗîn neːman à kafà tafarkìn sìyaːsàː mài jàm'ìyyuː dà daːmaː à ƙasâr̃, kuma taː yi àmfàniː dà daːmar̃ raːnar̃ bìkin 'yan ƙoːdagoː ta shèːkaràr̃ nân wajen yîn kiràn à kaːwoː ƙàrshen mulkìn jàm'iyyàr̃ sìyaːsàː ƙwàːyaː ɗaya tal à Jàmhuːr̃iyàr̃ Nìːjâr̃.
 1	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	10	subj	_	Gloss=3Fem.Nom
 2	kùwa	kùwa	PART	_	PartType=Top	1	discourse@top	_	Gloss=in_fact|wordform=kuwa
 3	Hàɗaɗɗiyar̃	hàɗaɗɗiyeː	ADJ	_	Gender=Fem	4	mod	_	Gloss=united.Fem|wordform=Hadaddiyar
@@ -183,13 +183,13 @@
 8	Ƙoːdagôn	ƙoːdagoː	NOUN	_	Definite=Def|Gender=Masc	7	comp	_	Gloss=labour.Masc.Def
 9	ta	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	10	subj	_	Gloss=3Fem
 10	nàː	nàː	AUX	_	Copula=Yes	0	root	_	Gloss=be.Pred
-11	dàgà	dàgà	ADP	_	ExtPos=ADP	10	mod	_	Gloss=from
+11	dàgà	dàgà	ADP	_	ExtPos=ADP	10	comp:pred	_	Gloss=from
 12	kân	kân	ADP	_	_	11	comp	_	Gloss=top_of
 13	gàba	gàbaː	NOUN	_	_	12	mod	_	Gloss=fro|wordform=gàban
 14	-n	na	PART	_	Case=Gen|PartType=Case	13	mod/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 15	kàmfên	kàmfên	NOUN	_	Gender=Masc	14	comp	_	Gloss=campaign.Masc
 16	ɗîn	ɗîn	DET	_	Definite=Def	15	mod	_	Gloss=Def
-17	neːma	neːm-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	10	comp:pred	_	Compound=Yes|Gloss=look_for.Vnoun.Masc.|wordform=neːman
+17	neːma	neːm-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	15	mod	_	Compound=Yes|Gloss=look_for.Vnoun.Masc.|wordform=neːman
 18	-n	na	PART	_	Case=Gen|PartType=Case	17	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 19	a-	a	PRON	_	Person=4|PronType=ProSubj	20	subj/m	_	Gloss=4|SpacesAfter=No|wordform=à
 20	_̀	_̀	AUX	_	Mood=Sub	18	comp	_	Gloss=Sub|wordform=_̀=

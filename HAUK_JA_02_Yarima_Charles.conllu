@@ -176,13 +176,13 @@
 
 # sent_id = 02_Yarima_Charles_5
 # text_en = The house is right by the sea, and up till now it is interesting and nice-looking despite the modern improvements that were doen when Nigeria was full of petrol money.
-# text = gidân nàː gab dà bàːki -n tèːku kuma har̃ yànzu ya nàː dà ba -n shàꞌawàː dà haskàkâːwaː duk dà gyàːre-gyàːre -n zaːmàniː dà a-kà yi masà loːkàcîn dà Nàːjeːr̃iyàː ta-kèː cìke dà ar̃zìki -n mâ -n feːtùr̃ .
+# text = gidân nàː gab dà bàːki -n tèːku kuma har̃ yànzu ya nàː dà ba -n shàꞌawàː dà haskàkâːwaː duk dà gyàːre-gyàːre -n zaːmàniː dà a- kà yi masà loːkàcîn dà Nàːjeːr̃iyàː ta- kèː cìke dà ar̃zìki -n mâ -n feːtùr̃ .
 # text_ortho = Gidân nàː gab dà bàːkin tèːku kuma har̃ yànzu yanàː dà ban shàꞌawàː da haskàkâːwaː duk dà gyàːre-gyàːren zaːmàniː dà akà yi masà loːkàcîn dà Nàːjeːr̃iyàː takèː cìke dà ar̃zìkin mân feːtùr̃.
 1	gidân	gidaː	NOUN	_	Definite=Def|Gender=Masc	2	subj	_	Gloss=house.Masc.Def
-2	nàː	nàː	AUX	_	Copula=Yes	0	root	_	Gloss=be.Pred
-3	gab	gab	IDEO	_	_	2	comp:pred	_	Gloss=close
+2	nàː	nàː	AUX	_	Copula=Yes	0	root	_	Gloss=be.Loc/Pred
+3	gab	gab	IDEO	_	ExtPos=ADP	2	comp:loc	_	Gloss=close|Idiom=Yes
 4	dà	dà	ADP	_	_	3	comp:obl	_	Gloss=with|InIdiom=Yes
-5	bàːki	bàːkiː	NOUN	_	Gender=Masc	4	comp	_	Compound=Yes|Gloss=shore.Masc|wordform=bàːkin
+5	bàːki	bàːkiː	NOUN	_	Gender=Masc	3	comp	_	Compound=Yes|Gloss=shore.Masc|wordform=bàːkin
 6	-n	na	PART	_	Case=Gen|PartType=Case	5	udep/m	_	Gloss=Gen.Fem|SpacesBefore=No
 7	tèːku	tèːku	NOUN	_	Gender=Fem	6	comp	_	Gloss=sea.Fem
 8	kuma	kuma	CCONJ	_	_	12	cc	_	Gloss=also

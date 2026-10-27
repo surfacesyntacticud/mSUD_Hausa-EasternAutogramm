@@ -346,7 +346,7 @@
 # sent_id = 14_Miyagun_kwayoyi_9
 # text_en = After the arrest of the four people who, as was explained, are top chiefs of this gang, the agency caught the one accused of carrying the drugs, and who was said to have swallowed the cocaine tied up in condoms - i.e. what you use to prevent pregnancy.
 # text_ortho = Baːya dà tsarè mutàːneː huɗûn dà akà bayyànaː mânyaː nèː sòːsai à cikin wannàn ƙungìyaː, Hùkuːmàr̃ taː kuma tsarè wandà akèː zàrgiː dà ɗaukàr̃ ƙwaːyoːyîn, wàndà kuma akà cêː ya haɗìyeː hoːdàr̃ kòːkên ɗîn, wàddà takèː à nànnàɗe cikin r̃oːbàː - wàːtòː àbîn nan dà akèː àmfàːniː dà shiː don hanà haifùwaː.
-# text = baːya dà tsarè mutàːneː huɗûn dà a-kà= bayyànaː mânyaː nèː sòːsai à cikin wannàn ƙungìyaː, Hùkuːmàr̃ t-aː= kuma tsarè wandà a-kèː zàrgiː dà ɗaukà-r̃ ƙwaːyoːyîn, wàndà kuma a-kà= cêː ya= haɗìyeː hoːdà-r̃ kòːkên ɗîn, wàddà ta-kè à nànnàɗe cikin r̃oːbàː -wàːtòː àbîn nan dà a-kèː àmfàːniː dà shiː don hanà haifùwaː.
+# text = baːya dà tsarè mutàːneː huɗûn dà a- kà bayyànaː mânyaː nèː sòːsai à cikin wannàn ƙungìyaː , Hùkuːmàr̃ t- aː kuma tsarè wandà a- kèː zàrgiː dà ɗaukà -r̃ ƙwaːyoːyîn , wàndà kuma a- kà cêː ya= haɗìyeː hoːdà -r̃ kòːkên ɗîn , wàddà ta kè à nànnàɗe cikin r̃oːbàː - wàːtòː àbîn nan dà a- kèː àmfàːniː dà shiː don hanà haifùwaː .
 1	baːya	baːya	ADV	_	ExtPos=SCONJ	20	mod	_	Gloss=back|Idiom=Yes
 2	dà	dà	ADP	_	_	1	unk	_	Gloss=with|InIdiom=Yes
 3	tsarè	tsar-	VERB	_	_	1	comp:obj	_	Gloss=imprison
@@ -371,8 +371,8 @@
 22	tsarè	tsar-	VERB	_	_	20	comp:aux	_	Gloss=imprison
 23	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	22	comp:obj	_	Gloss=Pron.Masc.Rel|RelAnt=Yes|Relz=Word
 24	a-	a	PRON	_	Person=4|PronType=Prs	25	subj/m	_	Gloss=4|SpacesAfter=No
-25	kèː	nàː	AUX	_	Copula=Yes|Mood=Rel	23	mod@relcl	_	ClauseType=Rel|Gloss=bePred.Rel|Relz=Affix|wordform=akèː
-26	zàrgiː	zarg-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	25	comp:pred	_	Gloss=accuse.Vnoun.Masc|RelRole=obj
+25	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	23	mod@relcl	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=akèː
+26	zàrgiː	zàrgiː	NOUN	_	Gender=Masc	25	comp:aux	_	Gloss=accusation.Masc|RelRole=obj
 27	dà	dà	ADP	_	_	26	comp:obl	_	Gloss=with
 28	ɗaukà	ɗauk-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	27	comp	_	Gloss=take.Vnoun.Fem|wordform=ɗaukàr̃
 29	-r̃	na	PART	_	Case=Gen|PartType=Case	28	udep/m	_	Gloss=Gen.Fem|SpacesBefore=No
