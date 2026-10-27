@@ -382,7 +382,7 @@
 32	màigida	màigida	NOUN	_	Gender=Masc	33	subj	_	Gloss=husband.Masc
 33	baː	baːbù	PART	_	PartType=Pred|Polarity=Neg	11	conj:coord	_	Gloss=there_is.Neg
 34	-yàː	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	33	subj/m	_	Gloss=3Masc|SpaceBefore=No
-35	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	33	comp:pred	_	Gloss=PreRef|PreRef=Yes
+35	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	33	comp:loc	_	Gloss=PreRef|PreRef=Yes
 36	,	,	PUNCT	_	_	44	punct	_	Gloss=PUNCT
 37	koː	koː	CCONJ	_	_	44	cc	_	Gloss=or
 38	kuma	kuma	PART	_	PartType=Top	37	discourse@top	_	Gloss=also

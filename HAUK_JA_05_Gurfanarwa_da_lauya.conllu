@@ -198,7 +198,7 @@
 14	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
 15	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	16	det	_	Gloss=some.Fem.Spec
 16	koːtù	koːtù	NOUN	_	Gender=Fem	14	subj	_	Gloss=court.Fem|RelAnt=Yes
-17	à	à	ADP	_	_	14	comp:pred	_	Gloss=at
+17	à	à	ADP	_	_	14	comp:loc	_	Gloss=at
 18	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	17	comp	_	Gloss=Nigeria
 19	dà	dà	SCONJ	_	_	16	mod@relcl	_	Gloss=CompRel|Relz=Word
 20	zâː	zâː	AUX	_	Tense=Fut	19	comp	_	Gloss=Fut|wordform=zaː-

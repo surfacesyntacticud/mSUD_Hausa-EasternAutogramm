@@ -398,9 +398,9 @@
 3	maː	maː	PART	_	PartType=Top	2	discourse@top	_	Gloss=even
 4	ɗîn	ɗin	DET	_	Definite=Def	2	det	_	Gloss=Def
 5	samsam	samsan	IDEO	_	_	6	mod	_	Gloss=absolutely
-6	baː	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=Neg.Prog
+6	baː	bâː	AUX	_	Aspect=Prog|PartType=Pred|Polarity=Neg	0	root	_	Gloss=Neg.Prog
 7	-sàː	su	PRON	_	Number=Plur|Person=3|PronType=Prs	6	subj/m	_	Gloss=-3Plur|SpaceBefore=No|wordform=baːsàː
-8	sô	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:pred	_	Compound=Yes|Gloss=want.Vnoun.Masc.|wordform=sôn
+8	sô	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:aux	_	Compound=Yes|Gloss=want.Vnoun.Masc.|wordform=sôn
 9	-n	na	PART	_	Case=Gen|PartType=Case	8	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 10	a-	a	PRON	_	Person=4|PronType=ProSubj	11	subj/m	_	Gloss=4|SpaceAfter=No|wordform=à
 11	_̀	_̀	AUX	_	Mood=Sub	9	comp	_	Gloss=Sub|wordform=_̀=

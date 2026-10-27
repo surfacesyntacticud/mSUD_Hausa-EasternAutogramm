@@ -575,9 +575,9 @@
 13	gwamnatì	gwamnatì	NOUN	_	Gender=Fem	16	subj	_	Gloss=government.Fem|wordform=gwamnatìnsù
 14	-n	na	PART	_	Case=Gen|PartType=Case	13	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 15	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	14	comp	_	Gloss=3Plur.Gen|SpaceBefore=No
-16	baː	baːbù	PART	_	PartType=Pred|Polarity=Neg	12	comp	_	Gloss=Neg.Prog
+16	baː	bâː	AUX	_	Aspect=Prog|PartType=Pred|Polarity=Neg	12	comp	_	Gloss=Neg.Prog
 17	-tàː	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	16	subj/m	_	Gloss=-3Fem|SpaceBefore=No|wordform=baːtàː
-18	ƙaddamar̃	ƙaddam-	VERB	_	Voice=Cau	16	comp:pred	_	Gloss=implement.Cau
+18	ƙaddamar̃	ƙaddam-	VERB	_	Voice=Cau	16	comp:aux	_	Gloss=implement.Cau
 19	dà	dà	ADP	_	_	18	comp:obl	_	Gloss=with
 20	sàuye-sàuyên	sauyìː	NOUN	_	Definite=Def|Number=Plur	19	comp	_	Gloss=change.Plur.Def
 21	dà	dà	ADP	_	_	16	mod	_	Gloss=with

@@ -236,7 +236,7 @@
 9	AIDS	AIDS	PROPN	_	_	8	comp	_	Gloss=AIDS
 10	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
 11	ta	ta	PRON	_	Case=Acc|Gender=Fem|Person=3|PronType=Prs	10	subj	_	Gloss=3Fem.Acc
-12	dà	dà	ADP	_	_	10	comp:pred	_	Gloss=with
+12	dà	dà	ADP	_	_	10	comp:loc	_	Gloss=with
 13	maːgàniː	maːgàniː	NOUN	_	Gender=Masc	12	comp	_	Gloss=medicine.Masc
 14	,	,	PUNCT	_	_	28	punct	_	Gloss=PUNCT
 15	kuma	kuma	CCONJ	_	_	28	cc	_	Gloss=also
