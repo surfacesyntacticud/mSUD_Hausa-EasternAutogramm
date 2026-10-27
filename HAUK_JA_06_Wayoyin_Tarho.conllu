@@ -56,7 +56,7 @@
 2	loːkàciː	loːkàciː	NOUN	_	Gender=Masc	5	mod	_	Gloss=time.Masc
 3	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	5	subj	_	Gloss=thing.Masc.Def
 4	ya	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	5	subj	_	Gloss=3Masc
-5	nàː	nàː	AUX	_	Copula=Yes	0	root	_	Gloss=be.Pred|wordform=yanàː
+5	nàː	nàː	AUX	_	ExtPos=PART	0	root	_	Gloss=be.Pred|wordform=yanàː
 6	dà	dà	ADP	_	_	5	comp:pred	_	Gloss=with
 7	ba	baː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp	_	Compound=Yes|Gloss=give|wordform=ban
 8	-n	na	PART	_	Case=Gen|PartType=Case	7	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
@@ -399,7 +399,7 @@
 6	-r̃	na	PART	_	Case=Gen|PartType=Case	5	udep/m	_	Gloss=Gen.Fem|SpacesBefore=No
 7	tàr̃hôː	tàr̃hôː	NOUN	_	Gender=Masc	6	comp	_	Gloss=telephone.Masc
 8	ta	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	9	subj	_	Gloss=3Fem
-9	kè	kè	AUX	_	Copula=Yes|Mood=Rel	2	comp:cleft	_	ClauseType=Int|Gloss=bePred.Rel2|wordform=takè
+9	kè	kè	AUX	_	ExtPos=PART|Mood=Rel	2	comp:cleft	_	ClauseType=Int|Gloss=bePred.Rel2|wordform=takè
 10	à	à	ADP	_	_	9	comp:pred	_	Gloss=at
 11	ƙasàːshe	ƙasaː	NOUN	_	Number=Plur	10	comp	_	Gloss=country.Plur|wordform=ƙasàːshen
 12	-n	na	PART	_	Case=Gen|PartType=Case	11	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
@@ -415,7 +415,7 @@
 3	dà	dà	CCONJ	_	_	4	cc	_	Gloss=and
 4	Mazàmbîk	Mazàmbîk	PROPN	_	_	2	conj:coord	_	Gloss=Mazàmbîk
 5	su	su	PRON	_	Number=Plur|Person=3|PronType=Prs	6	subj	_	Gloss=3Plur
-6	nàː	nàː	AUX	_	Copula=Yes	0	root	_	Gloss=be.Pred
+6	nàː	nàː	AUX	_	ExtPos=PART	0	root	_	Gloss=be.Pred
 7	hannu	hannuː	NOUN	_	Gender=Masc	6	comp:pred	_	Compound=Yes|Gloss=hand.Masc|wordform=hannun
 8	-n	na	PART	_	Case=Gen|PartType=Case	7	udep/m	_	Gloss=Gen.Fem|SpacesBefore=No
 9	rìːgaː	rìːgaː	NOUN	_	Gender=Fem	8	comp	_	Gloss=boubou.Fem

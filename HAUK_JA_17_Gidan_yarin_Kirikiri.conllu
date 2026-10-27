@@ -45,14 +45,14 @@
 32	,	,	PUNCT	_	_	33	punct	_	Gloss=PUNCT
 33	wandà	wandà	PRON	_	ExtPos=SCONJ|Gender=Masc|PronType=Rel	23	mod:appos@relcl	_	Gloss=Pron.Masc.Rel|Relz=Word
 34	kuma	kuma	PART	_	PartType=Top	33	discourse@top	_	Gloss=also
-35	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	33	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
+35	kèː	kèː	AUX	_	Aspect=Prog|ExtPos=PART|Mood=Rel	33	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
 36	can	can	ADV	_	Deixis=Remt|PronType=Dem	35	comp:pred	_	Gloss=Remt
 37	bir̃ni	bir̃niː	NOUN	_	Gender=Masc	36	conj:appos	_	Gloss=city.Masc|wordform=bir̃nin
 38	-n	na	PART	_	Case=Gen|PartType=Case	37	mod/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 39	Ìkko	Ìkko	PROPN	_	_	38	comp	_	Gloss=Lagos|wordform=Ikko
 40	,	,	PUNCT	_	_	42	punct	_	Gloss=PUNCT
 41	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	42	subj/m	_	Gloss=3Masc|SpacesAfter=No
-42	nàː	nàː	AUX	_	Copula=Yes	22	comp:obj	_	Gloss=be|wordform=ya-
+42	nàː	nàː	AUX	_	ExtPos=PART	22	comp:obj	_	Gloss=be|wordform=ya-
 43	cìke	cik-	VERB	_	_	42	comp:aux	_	Gloss=fill.Stat
 44	màːƙil	màːƙil	IDEO	_	_	43	mod	_	Gloss=full
 45	dà	dà	ADP	_	_	43	comp:obl	_	Gloss=with|wordform=da
@@ -97,7 +97,7 @@
 14	à	à	ADP	_	_	4	comp:obj	_	Gloss=at
 15	tàɓàrɓàre	taɓarɓar-	VERB	_	_	14	comp	_	Gloss=get_out_of_control.Stat
 16	su-	su	PRON	_	Number=Plur|Person=3|PronType=Prs	17	subj/m	_	Gloss=3Plur|SpacesAfter=No
-17	kè	nàː	AUX	_	Copula=Yes	14	comp:cleft	_	ClauseType=Cleft|Gloss=bePred.Rel2|Relative=Variante|wordform=su-
+17	kè	nàː	AUX	_	ExtPos=PART|Mood=Rel	14	comp:cleft	_	ClauseType=Cleft|Gloss=Prog.Rel|wordform=su-
 18	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
 19	kuma	kuma	CCONJ	_	_	21	cc	_	Gloss=also
 20	kusan	kusan	ADV	_	_	21	mod	_	Gloss=almost
@@ -146,7 +146,7 @@
 6	-n	na	PART	_	Case=Gen|PartType=Case	5	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 7	mutàːnên	mùtûm	NOUN	_	Definite=Def|Number=Plur	6	comp	_	Gloss=people.Plur.Def|RelAnt=Yes
 8	dà	dà	SCONJ	_	_	7	mod@relcl	_	Gloss=CompRel|Relz=Word
-9	kèː	kèː	AUX	_	Copula=Yes|Mood=Rel	8	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
+9	kèː	kèː	AUX	_	ExtPos=PART|Mood=Rel	8	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
 10	cikin	cikin	ADP	_	_	9	comp:pred	_	Gloss=inside
 11	gidan-fur̃sùnàː	gidan-fur̃sùnàː	NOUN	_	Gender=Masc	10	comp	_	Compound=Yes|Gloss=prison.Masc|wordform=gidan-fur̃sùnàn
 12	-n	na	PART	_	Case=Gen|PartType=Case	11	mod@appos/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
@@ -399,7 +399,7 @@
 37	cikin	cikin	ADP	_	_	36	comp	_	Gloss=inside
 38	tsàràrrûn	tsàrarreː	NOUN	_	Definite=Def|Number=Plur	37	comp	_	Gloss=prisoner.Plur.Def|RelAnt=Yes
 39	dà	dà	SCONJ	_	_	38	mod@relcl	_	Gloss=CompRel|Relz=Word
-40	kèː	kèː	AUX	_	Copula=Yes|Mood=Rel	39	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
+40	kèː	kèː	AUX	_	ExtPos=PART|Mood=Rel	39	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
 41	dà	dà	ADP	_	_	40	comp:pred	_	Gloss=with
 42	gaːliːhù	gaːliːhù	NOUN	_	Gender=Masc	41	comp	_	Gloss=privilege.Masc
 43	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
@@ -487,7 +487,7 @@
 18	à	à	ADP	_	_	8	mod	_	Gloss=at
 19	kûr̃kukùn	kûr̃kukùː	NOUN	_	Definite=Def|Gender=Masc	18	comp	_	Gloss=prison.Masc.Def
 20	ya	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	21	subj	_	Gloss=3Masc
-21	nàː	nàː	AUX	_	Copula=Yes	7	comp:obj	_	Gloss=be.Pred|wordform=yanàː
+21	nàː	nàː	AUX	_	ExtPos=PART	7	comp:obj	_	Gloss=be.Pred|wordform=yanàː
 22	dà	dà	ADP	_	_	21	comp:pred	_	Gloss=with
 23	haɗàr̃iː	haɗàr̃iː	NOUN	_	Gender=Masc	22	comp	_	Gloss=danger.Masc
 24	;	;	PUNCT	_	_	45	punct	_	Gloss=PUNCT
@@ -816,7 +816,7 @@
 4	haːlîn	haːlîː	NOUN	_	Definite=Def|Gender=Masc	13	subj	_	Gloss=situation.Masc.Def|RelAnt=Yes
 5	dà	dà	SCONJ	_	_	4	mod@relcl	_	Gloss=CompRel|Relz=Word
 6	a	a	PRON	_	Person=4|PronType=Prs	7	subj/m	_	Gloss=4
-7	kè	kè	AUX	_	Copula=Yes|Mood=Rel	5	comp	_	ClauseType=Rel|Gloss=bePred.Rel2|RelRole=subj|wordform=a
+7	kè	kè	AUX	_	ExtPos=PART|Mood=Rel	5	comp	_	ClauseType=Rel|Gloss=bePred.Rel2|RelRole=subj|wordform=a
 8	ciki	cikin	ADP	_	_	7	comp:pred	_	Gloss=inside|RelRole=obj
 9	à	à	ADP	_	_	7	mod	_	Gloss=at
 10	kûr̃kukù	kûr̃kukùː	NOUN	_	Gender=Masc	9	comp	_	Gloss=prison.Masc|wordform=kûr̃kukùn

@@ -76,7 +76,7 @@
 1	yâːraː	yaːròː	NOUN	_	Number=Plur	37	dislocated@subj	_	Gloss=child.Plur|RelAnt=Yes
 2	ƙanaːnàː	ƙàramiː	ADJ	_	Number=Plur	1	mod	_	Gloss=small.Plur
 3	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=CompRel|Relz=Word
-4	kèː	kèː	AUX	_	Copula=Yes|Mood=Rel	3	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
+4	kèː	kèː	AUX	_	ExtPos=PART|Mood=Rel	3	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
 5	kân	kân	ADP	_	_	4	comp:pred	_	Gloss=on
 6	gadoːjiː	gadàː	NOUN	_	Number=Plur	5	comp	_	Gloss=bridge.Plur
 7	na	na	PART	_	Case=Gen|Number=Plur|PartType=Case	6	mod	_	Gloss=Gen
@@ -153,7 +153,7 @@
 15	-n	na	PART	_	Case=Gen|PartType=Case	14	mod/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 16	gwamnatì	gwamnatì	NOUN	_	Gender=Fem	15	comp	_	Gloss=government.Fem
 17	dà	dà	SCONJ	_	_	14	mod@relcl	_	Gloss=CompRel|Relz=Word
-18	kèː	kèː	AUX	_	Copula=Yes|Mood=Rel	17	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
+18	kèː	kèː	AUX	_	ExtPos=PART|Mood=Rel	17	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
 19	Ìkko	Ìkko	PROPN	_	_	18	comp:pred	_	Gloss=Lagos
 20	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
 21	wandà	wandà	PRON	_	ExtPos=SCONJ|Gender=Masc|PronType=Rel	17	conj:coord	_	Gloss=Pron.Masc.Rel|Relz=Word
@@ -179,7 +179,7 @@
 # text = gidân nàː gab dà bàːki -n tèːku kuma har̃ yànzu ya nàː dà ba -n shàꞌawàː dà haskàkâːwaː duk dà gyàːre-gyàːre -n zaːmàniː dà a- kà yi masà loːkàcîn dà Nàːjeːr̃iyàː ta- kèː cìke dà ar̃zìki -n mâ -n feːtùr̃ .
 # text_ortho = Gidân nàː gab dà bàːkin tèːku kuma har̃ yànzu yanàː dà ban shàꞌawàː da haskàkâːwaː duk dà gyàːre-gyàːren zaːmàniː dà akà yi masà loːkàcîn dà Nàːjeːr̃iyàː takèː cìke dà ar̃zìkin mân feːtùr̃.
 1	gidân	gidaː	NOUN	_	Definite=Def|Gender=Masc	2	subj	_	Gloss=house.Masc.Def
-2	nàː	nàː	AUX	_	Copula=Yes	0	root	_	Gloss=be.Loc/Pred
+2	nàː	nàː	AUX	_	ExtPos=PART	0	root	_	Gloss=be.Loc/Pred
 3	gab	gab	IDEO	_	ExtPos=ADP	2	comp:pred	_	Gloss=close|Idiom=Yes
 4	dà	dà	ADP	_	_	3	comp:obl	_	Gloss=with|InIdiom=Yes
 5	bàːki	bàːkiː	NOUN	_	Gender=Masc	3	comp	_	Compound=Yes|Gloss=shore.Masc|wordform=bàːkin
@@ -189,7 +189,7 @@
 9	har̃	har̃	ADP	_	_	12	mod	_	Gloss=up_to
 10	yànzu	yànzu	ADV	_	_	9	comp	_	Gloss=now
 11	ya	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	12	subj/m	_	Gloss=3Masc
-12	nàː	nàː	AUX	_	Copula=Yes	2	conj:coord	_	Gloss=be.Pred|wordform=ya
+12	nàː	nàː	AUX	_	ExtPos=PART	2	conj:coord	_	Gloss=be.Pred|wordform=ya
 13	dà	dà	ADP	_	_	12	comp:pred	_	Gloss=with
 14	ba	baː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	13	comp	_	Compound=Yes|Gloss=give|wordform=ban
 15	-n	na	PART	_	Case=Gen|PartType=Case	14	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
@@ -236,7 +236,7 @@
 10	-n	na	PART	_	Case=Gen|PartType=Case	9	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 11	ràːyuwaː	ràːyuwaː	NOUN	_	Gender=Fem	10	comp	_	Gloss=life.Fem
 12	dà	dà	SCONJ	_	_	5	mod@relcl	_	Gloss=CompRel|Relz=Word
-13	kèː	kèː	AUX	_	Copula=Yes|Mood=Rel	12	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
+13	kèː	kèː	AUX	_	ExtPos=PART|Mood=Rel	12	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
 14	cikin	cikin	ADP	_	_	13	comp:pred	_	Gloss=inside
 15	gidân	gidaː	NOUN	_	Definite=Def|Gender=Masc	14	comp	_	Gloss=house.Masc.Def
 16	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	5	comp:cleft	_	ClauseType=Cleft|Gloss=Prog.Rel
@@ -581,7 +581,7 @@
 13	birân	birìː	NOUN	_	Definite=Def|Number=Plur	12	comp	_	Gloss=monkey.Plur.Def
 14	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=CompRel|Relz=Word
 15	a	a	PRON	_	Person=4|PronType=Prs	16	subj	_	Gloss=4
-16	kè	kè	AUX	_	Copula=Yes|Mood=Rel	14	comp	_	ClauseType=Rel|Gloss=bePred.Rel2|RelRole=obl|Relz=Affix
+16	kè	kè	AUX	_	ExtPos=PART|Mood=Rel	14	comp	_	ClauseType=Rel|Gloss=bePred.Rel2|RelRole=obl|Relz=Affix
 17	dà	dà	ADP	_	_	16	comp:pred	_	Gloss=with
 18	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	comp	_	Gloss=3Plur.Nom|RelPos=Yes
 19	à	à	ADP	_	_	16	mod	_	Gloss=at

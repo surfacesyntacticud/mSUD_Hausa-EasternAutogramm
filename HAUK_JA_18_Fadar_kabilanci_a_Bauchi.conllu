@@ -101,7 +101,7 @@
 2	koː	koː	SCONJ	_	ExtPos=SCONJ	15	mod	_	Gloss=even_if|Idiom=Yes
 3	dà	dà	SCONJ	_	_	2	comp	_	Gloss=COMP|InIdiom=Yes
 4	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	5	subj/m	_	Gloss=3Masc|InIdiom=Yes|SpacesAfter=No
-5	kè	nàː	AUX	_	Copula=Yes	3	comp	_	Gloss=bePred.Rel2|InIdiom=Yes|Relative=Variante|wordform=ya-
+5	kè	nàː	AUX	_	ExtPos=PART|Mood=Rel	3	comp	_	Gloss=Prog.Rel|InIdiom=Yes|wordform=ya-
 6	'yan-sàndan-kashè-tàr̃zòːmaː	ɗan-sàndan-kashè-tàr̃zòːmaː	NOUN	_	Number=Plur	8	subj	_	Compound=Yes|Gloss=riot_police.Plur
 7	su-	su	PRON	_	Number=Plur|Person=3|PronType=ProSubj	8	subj/m	_	Gloss=3Plur|SpacesAfter=No
 8	n	aː	AUX	_	Aspect=Perf|Number=Plur	2	comp	_	Gloss=Perf.Plur|wordform=sun
@@ -280,7 +280,7 @@
 14	gàrîn	gàriː	NOUN	_	Definite=Def|Gender=Masc	9	conj:appos	_	Gloss=city.Masc.Def|RelAnt=Yes
 15	dà	dà	SCONJ	_	ExtPos=SCONJ	14	mod@relcl	_	Gloss=CompRel|Idiom=Yes|Relz=Word
 16	ya	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	17	subj	_	Gloss=3Masc|InIdiom=Yes
-17	kè	nàː	AUX	_	Copula=Yes	15	comp	_	ClauseType=Rel|Gloss=bePred.Rel2|InIdiom=Yes|Relative=Variante|RelRole=pred
+17	kè	nàː	AUX	_	ExtPos=PART|Mood=Rel	15	comp	_	ClauseType=Rel|Gloss=Prog.Rel|InIdiom=Yes|RelRole=pred
 18	duk	dukà	ADV	_	ExtPos=SCONJ|PronType=Tot	30	mod	_	Gloss=all|Idiom=Yes
 19	dà	dà	ADP	_	_	18	unk	_	Gloss=with|InIdiom=Yes
 20	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	19	unk	_	Gloss=say.Vnoun.Fem|InIdiom=Yes
@@ -403,7 +403,7 @@
 2	-n	na	PART	_	Case=Gen|Number=Plur|PartType=Case	1	mod/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 3	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	2	comp	_	Gloss=Nigeria
 4	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=CompRel|Relz=Word
-5	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	4	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
+5	kèː	kèː	AUX	_	Aspect=Prog|ExtPos=PART|Mood=Rel	4	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
 6	Baucîn	Baucîn	PROPN	_	Definite=Def	5	comp:pred	_	Gloss=Bauchi.Def
 7	su-	su	PRON	_	Number=Plur|Person=3|PronType=ProSubj	8	subj/m	_	Gloss=3Plur|SpacesAfter=No
 8	n	aː	AUX	_	Aspect=Perf|Number=Plur	0	root	_	Gloss=Perf.Plur|wordform=sun

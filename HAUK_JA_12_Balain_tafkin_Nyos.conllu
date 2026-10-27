@@ -174,7 +174,7 @@
 2	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	3	det	_	Gloss=some.Masc.Spec
 3	ƙauyèː	ƙauyèː	NOUN	_	Gender=Masc	1	comp	_	Gloss=village.Masc|RelAnt=Yes
 4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=CompRel|Relz=Word
-5	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	4	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
+5	kèː	kèː	AUX	_	Aspect=Prog|ExtPos=PART|Mood=Rel	4	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
 6	kusa	kusa	ADV	_	_	5	comp:pred	_	Gloss=close
 7	dà	dà	ADP	_	_	6	mod	_	Gloss=with
 8	tafkìn	tafkìː	NOUN	_	Definite=Def|Gender=Masc	7	comp	_	Gloss=river.Masc.Def
@@ -265,7 +265,7 @@
 4	aː	aː	AUX	_	Aspect=Perf|Number=Sing	0	root	_	Gloss=Perf.Sing|wordform=yaː
 5	sâː	sâː	VERB	_	_	4	comp:aux	_	Gloss=cause
 6	a	a	PRON	_	Person=4|PronType=Prs	7	subj	_	Gloss=4
-7	nàː	nàː	AUX	_	Copula=Yes	5	comp:obj	_	Gloss=be.Pred
+7	nàː	nàː	AUX	_	ExtPos=PART	5	comp:obj	_	Gloss=be.Pred
 8	dà	dà	ADP	_	_	7	comp:pred	_	Gloss=with
 9	'yar̃	ɗan	ADJ	_	Gender=Fem	10	mod	_	Gloss=small.Fem|wordform=yar
 10	shakkàː	shakkàː	NOUN	_	Gender=Fem	8	comp	_	Gloss=doubt.Fem
@@ -428,7 +428,7 @@
 14	-n	na	PART	_	Case=Gen|PartType=Case	13	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 15	ruwân	ruwaː	NOUN	_	Definite=Def|Gender=Masc	14	comp	_	Gloss=water.Masc.Def|RelAnt=Yes
 16	dà	dà	SCONJ	_	_	15	mod@relcl	_	Gloss=CompRel|Relz=Word
-17	kèː	kèː	AUX	_	Copula=Yes|Mood=Rel	16	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
+17	kèː	kèː	AUX	_	ExtPos=PART|Mood=Rel	16	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
 18	dà	dà	ADP	_	_	17	comp:pred	_	Gloss=with
 19	carbon	carbon	X	_	Foreign=Yes	18	comp	_	Gloss=carbon|Lang=en
 20	dioxide	dioxide	X	_	Foreign=Yes	19	flat@foreign	_	Gloss=dioxide|Lang=en
@@ -649,7 +649,7 @@
 22	indà	indà	ADV	_	PronType=Rel	21	comp	_	Gloss=where.Rel|RelAnt=Yes|Relz=Word
 23	tafkìn	tafkìː	NOUN	_	Definite=Def|Gender=Masc	25	subj	_	Gloss=lake.Masc.Def|wordform=tar̃kin
 24	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	25	subj/m	_	Gloss=3Masc|SpacesAfter=No
-25	kè	nàː	AUX	_	Copula=Yes|Mood=Rel	22	mod@relcl	_	ClauseType=Rel|Gloss=bePred.Rel2|RelRole=pred|Relz=Affix|wordform=ya-
+25	kè	nàː	AUX	_	ExtPos=PART|Mood=Rel	22	mod@relcl	_	ClauseType=Rel|Gloss=bePred.Rel2|RelRole=pred|Relz=Affix|wordform=ya-
 26	.	.	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 
 # sent_id = 12_Bala'in_tafkin_Nyos_17

@@ -21,7 +21,7 @@
 5	Gboko	Gboko	PROPN	_	_	3	comp	_	Gloss=Gboko
 6	"	"	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 7	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=CompRel|Relz=Word
-8	kèː	kèː	AUX	_	Copula=Yes|Mood=Rel	7	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
+8	kèː	kèː	AUX	_	ExtPos=PART|Mood=Rel	7	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
 9	jihà	jihàː	ADP	_	Gender=Fem	8	comp:pred	_	Gloss=state.Fem|wordform=jihàr̃
 10	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	9	mod/m	_	Gloss=Gen.Fem|SpacesBefore=No
 11	Binuwài	Binuwài	PROPN	_	_	10	comp	_	Gloss=Benue
@@ -292,7 +292,7 @@
 34	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	33	comp	_	Gloss=3Plur.Gen|SpacesBefore=No
 35	-		PUNCT	_	_	37	punct	_	Gloss=PUNCT|SpacesAfter=No|SpacesBefore=No
 36	ya	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	37	subj/m	_	Gloss=3Masc
-37	nàː	nàː	AUX	_	Copula=Yes	14	comp	_	Gloss=be.Pred|wordform=ya
+37	nàː	nàː	AUX	_	ExtPos=PART	14	comp	_	Gloss=be.Pred|wordform=ya
 38	ɗaya	ɗaya	NUM	_	_	37	comp:pred	_	Gloss=one
 39	dàgà	dàgà	ADP	_	_	38	mod	_	Gloss=from
 40	cikin	cikin	ADP	_	_	39	comp	_	Gloss=inside

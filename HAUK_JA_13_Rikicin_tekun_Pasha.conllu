@@ -210,7 +210,7 @@
 27	-n	na	PART	_	Case=Gen|PartType=Case	26	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 28	ƙàwànceː	ƙàwànceː	NOUN	_	Gender=Masc	27	comp	_	Gloss=coalition.Masc
 29	su-	su	PRON	_	Number=Plur|Person=3|PronType=ProSubj	30	subj/m	_	Gloss=3Plur|SpacesAfter=No
-30	kèː	kèː	AUX	_	Copula=Yes|Mood=Rel	25	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=su-
+30	kèː	kèː	AUX	_	ExtPos=PART|Mood=Rel	25	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=su-
 31	Ø	yi	VERB	_	_	30	comp:aux	_	Gloss=do|RelRole=pred
 32	wà	mà	ADP	_	Case=Dat	31	comp:obl	_	Gloss=Dat
 33	Ìr̃aːƙì	Ìr̃aːƙì	PROPN	_	_	32	comp	_	Gloss=Irak
@@ -326,7 +326,7 @@
 42	'yancìn	'yancìː	NOUN	_	Definite=Def|Gender=Masc	41	comp	_	Gloss=freedom.Masc.Def|RelAnt=Yes
 43	dà	dà	SCONJ	_	_	42	mod@relcl	_	Gloss=CompRel|Relz=Word
 44	a	a	PRON	_	Person=4|PronType=Prs	45	subj	_	Gloss=4
-45	kè	kè	AUX	_	Copula=Yes|Mood=Rel	43	comp	_	ClauseType=Rel|Gloss=bePred.Rel2|RelRole=pred
+45	kè	kè	AUX	_	ExtPos=PART|Mood=Rel	43	comp	_	ClauseType=Rel|Gloss=bePred.Rel2|RelRole=pred
 46	dà	dà	ADP	_	_	45	comp:pred	_	Gloss=with
 47	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	46	comp	_	Gloss=3Masc.Nom|RelPos=Yes
 48	à	à	ADP	_	_	45	mod	_	Gloss=at

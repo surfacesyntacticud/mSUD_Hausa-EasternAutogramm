@@ -190,7 +190,7 @@
 22	-n	na	PART	_	Case=Gen|PartType=Case	21	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 23	cêːwaː	cêːwaː	SCONJ	_	_	22	comp	_	Gloss=COMP
 24	ta	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	25	subj	_	Gloss=3Fem
-25	nàː	nàː	AUX	_	Copula=Yes	23	comp	_	Gloss=be.Pred|wordform=tanàː
+25	nàː	nàː	AUX	_	ExtPos=PART	23	comp	_	Gloss=be.Pred|wordform=tanàː
 26	dà	dà	ADP	_	_	25	comp:pred	_	Gloss=with|wordform=da
 27	ƙwàƙƙwaːran	ƙwàƙƙwaːraː	ADJ	_	Gender=Masc	28	mod	_	Gloss=strong.Masc
 28	tuːshèː	tuːshèː	NOUN	_	Gender=Masc	26	comp	_	Gloss=foundation.Masc
@@ -281,7 +281,7 @@
 23	-n	na	PART	_	Case=Gen|PartType=Case	22	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 24	cêːwaː	cêːwaː	SCONJ	_	_	23	comp	_	Gloss=COMP
 25	ya	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	26	subj/m	_	Gloss=3Masc
-26	nàː	nàː	AUX	_	Copula=Yes	24	comp	_	Gloss=be.Pred|RelRole=subj|wordform=ya
+26	nàː	nàː	AUX	_	ExtPos=PART	24	comp	_	Gloss=be.Pred|RelRole=subj|wordform=ya
 27	Amìr̃kà	Amìr̃kà	PROPN	_	_	26	comp:pred	_	Gloss=America
 28	yànzu	yànzu	ADV	_	_	26	mod	_	Gloss=now|wordform=yanzu
 29	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
@@ -394,7 +394,7 @@
 44	,	,	PUNCT	_	_	45	punct	_	Gloss=PUNCT
 45	wàddà	wandà	PRON	_	Gender=Fem|PronType=Rel	40	mod@relcl	_	Gloss=Pron.Fem.Rel|Relz=Word|wordform=wadda
 46	ta	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	47	subj	_	Gloss=3Fem
-47	kè	kè	AUX	_	Copula=Yes|Mood=Rel	45	comp:obj	_	ClauseType=Rel|Gloss=bePred.Rel2|RelRole=subj|wordform=takè
+47	kè	kè	AUX	_	ExtPos=PART|Mood=Rel	45	comp:obj	_	ClauseType=Rel|Gloss=bePred.Rel2|RelRole=subj|wordform=takè
 48	à	à	ADP	_	_	47	comp:pred	_	Gloss=at
 49	nànnàɗe	nannaɗ-	VERB	_	ExtPos=ADV|Number=Plur|VerbForm=Part	48	comp	_	Gloss=tie.Plur.Part
 50	cikin	cikin	ADP	_	_	49	mod	_	Gloss=inside
@@ -636,7 +636,7 @@
 17	koː	koː	SCONJ	_	ExtPos=SCONJ	8	mod	_	Gloss=even_if|Idiom=Yes
 18	dà	dà	SCONJ	_	_	17	comp	_	Gloss=COMP|InIdiom=Yes
 19	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	20	subj/m	_	Gloss=3Masc|InIdiom=Yes|SpacesAfter=No
-20	kè	nàː	AUX	_	Copula=Yes	18	comp	_	Gloss=bePred.Rel2|InIdiom=Yes|Relative=Variante|wordform=ya-
+20	kè	nàː	AUX	_	ExtPos=PART|Mood=Rel	18	comp	_	Gloss=Prog.Rel|InIdiom=Yes|wordform=ya-
 21	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	22	subj/m	_	Gloss=3Fem|SpacesAfter=No
 22	nàː	nàː	AUX	_	Aspect=Prog	17	comp	_	Gloss=Prog|wordform=ta-
 23	saːmù	saːmùː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	22	comp:aux	_	Gloss=get.Vnoun.Masc|wordform=saːmùn
@@ -678,7 +678,7 @@
 14	-n	na	PART	_	Case=Gen|PartType=Case	13	mod/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 15	yànzu	yànzu	ADV	_	_	14	comp	_	Gloss=now
 16	ya	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	17	subj	_	Gloss=3Masc
-17	nàː	nàː	AUX	_	Copula=Yes	0	root	_	Gloss=be.Pred|wordform=yanàː
+17	nàː	nàː	AUX	_	ExtPos=PART	0	root	_	Gloss=be.Pred|wordform=yanàː
 18	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	17	comp:pred	_	Gloss=PreRef|PreRef=Yes
 19	tsùndum	tsùndum	IDEO	_	_	20	mod	_	Gloss=deep
 20	à	à	ADP	_	_	18	mod:appos	_	Gloss=at
@@ -824,7 +824,7 @@
 9	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	12	mod	_	Gloss=there_is.Neg
 10	shakkàː	shakkàː	NOUN	_	Gender=Fem	9	subj	_	Gloss=doubt.Fem
 11	ya	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	12	subj	_	Gloss=3Masc
-12	nàː	nàː	AUX	_	Copula=Yes	8	comp:obj	_	Gloss=be.Pred|wordform=yanàː
+12	nàː	nàː	AUX	_	ExtPos=PART	8	comp:obj	_	Gloss=be.Pred|wordform=yanàː
 13	dà	dà	ADP	_	_	12	comp:pred	_	Gloss=with
 14	dàngàntakàr̃	dàngàntakàː	NOUN	_	Definite=Def|Gender=Fem	13	comp	_	Gloss=relationship.Fem.Def
 15	ƙut	ƙut	IDEO	_	_	14	mod	_	Gloss=intimate

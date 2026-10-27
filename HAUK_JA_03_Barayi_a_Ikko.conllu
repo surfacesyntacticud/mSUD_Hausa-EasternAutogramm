@@ -122,7 +122,7 @@
 12	sai	sai	ADV	_	_	19	mod	_	Gloss=then
 13	mutàːnên	mùtûm	NOUN	_	Definite=Def|Number=Plur	19	subj	_	Gloss=people.Plur.Def|RelAnt=Yes
 14	dà	dà	SCONJ	_	_	13	mod@relcl	_	Gloss=CompRel|Relz=Word
-15	kèː	kèː	AUX	_	Copula=Yes|Mood=Rel	14	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
+15	kèː	kèː	AUX	_	ExtPos=PART|Mood=Rel	14	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
 16	gàban	gàban	ADP	_	_	15	comp:pred	_	Gloss=in_font_of
 17	bankìn	bankiː	NOUN	_	Definite=Def|Gender=Masc	16	mod	_	Gloss=bank.Masc.Def
 18	su-	su	PRON	_	Number=Plur|Person=3|PronType=ProSubj	19	subj/m	_	Gloss=3Plur|SpacesAfter=No
@@ -360,7 +360,7 @@
 26	koː	koː	SCONJ	_	ExtPos=SCONJ	5	mod	_	Gloss=even_if|Idiom=Yes
 27	dà	dà	SCONJ	_	_	26	comp	_	Gloss=COMP|InIdiom=Yes
 28	ya	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	29	subj	_	Gloss=3Masc|InIdiom=Yes
-29	kè	nàː	AUX	_	Copula=Yes	27	comp	_	Gloss=bePred.Rel2|InIdiom=Yes|Relative=Variante
+29	kè	nàː	AUX	_	ExtPos=PART|Mood=Rel	27	comp	_	Gloss=Prog.Rel|InIdiom=Yes
 30	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	31	det	_	Gloss=ProxS.Masc
 31	adàdiː	adàdiː	NOUN	_	Gender=Masc	32	subj	_	Gloss=total.Masc
 32	bà	bà	AUX	_	Aspect=Perf|Polarity=Neg	26	comp	_	Gloss=Neg.Perf|wordform=bài
@@ -437,7 +437,7 @@
 44	Anini	Anini	PROPN	_	_	43	flat@name	_	Gloss=Anini
 45	"	"	PUNCT	_	_	43	punct	_	Gloss=PUNCT|wordform=’
 46	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	38	mod@relcl	_	Gloss=Pron.Masc.Rel|Relz=Word
-47	kèː	kèː	AUX	_	Copula=Yes|Mood=Rel	46	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
+47	kèː	kèː	AUX	_	ExtPos=PART|Mood=Rel	46	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
 48	dà	dà	ADP	_	_	47	comp:pred	_	Gloss=with
 49	yâraː	yaːròː	NOUN	_	Number=Plur	48	comp	_	Gloss=boy.Plur
 50	ɓàràːyiː	ɓàraːwòː	NOUN	_	Number=Plur	49	mod	_	Gloss=thief.Plur

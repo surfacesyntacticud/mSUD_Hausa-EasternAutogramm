@@ -74,7 +74,7 @@
 19	koː	koː	SCONJ	_	ExtPos=SCONJ	8	mod	_	Gloss=even_if|Idiom=Yes
 20	dà	dà	SCONJ	_	_	19	comp	_	Gloss=COMP|InIdiom=Yes
 21	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	22	subj/m	_	Gloss=3Masc|InIdiom=Yes|SpacesAfter=No
-22	kè	nàː	AUX	_	Copula=Yes	20	comp	_	Gloss=bePred.Rel2|InIdiom=Yes|Relative=Variante|wordform=ya-
+22	kè	nàː	AUX	_	ExtPos=PART|Mood=Rel	20	comp	_	Gloss=Prog.Rel|InIdiom=Yes|wordform=ya-
 23	kuma	kuma	PART	_	PartType=Top	19	discourse@top	_	Gloss=also
 24	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	25	subj/m	_	Gloss=3Masc|SpacesAfter=No
 25	aː	aː	AUX	_	Aspect=Perf|Number=Sing	19	comp	_	Gloss=Perf.Sing|wordform=yaː
@@ -630,7 +630,7 @@
 14	Surulere	Surulere	PROPN	_	_	12	comp	_	Gloss=Surulere
 15	"	"	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 16	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=CompRel|Relz=Word
-17	kèː	kèː	AUX	_	Copula=Yes|Mood=Rel	16	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
+17	kèː	kèː	AUX	_	ExtPos=PART|Mood=Rel	16	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
 18	baːyan	baːyan	ADP	_	_	17	comp:pred	_	Gloss=after
 19	bir̃ni	bir̃niː	NOUN	_	Gender=Masc	18	comp	_	Gloss=city.Masc|wordform=bir̃nin
 20	-n	na	PART	_	Case=Gen|PartType=Case	19	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
@@ -738,7 +738,7 @@
 36	-n	na	PART	_	Case=Gen|PartType=Case	35	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 37	Fela	Fela	PROPN	_	_	36	comp	_	Gloss=Fela
 38	dà	dà	SCONJ	_	_	35	mod@relcl	_	Gloss=CompRel|Relz=Word
-39	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	38	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
+39	kèː	kèː	AUX	_	Aspect=Prog|ExtPos=PART|Mood=Rel	38	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
 40	Ìkko	Ìkko	PROPN	_	_	39	comp:pred	_	Gloss=Lagos|wordform=Ikko
 41	.	.	PUNCT	_	_	15	punct	_	Gloss=PUNCT
 

@@ -114,7 +114,7 @@
 25	wà	mà	ADP	_	Case=Dat	24	comp:obl	_	Gloss=Dat|RelRole=obj
 26	àlluːr̃àr̃	àlluːr̃àː	NOUN	_	Definite=Def|Gender=Fem	24	comp:pred	_	Gloss=injection.Fem.Def
 27	ya	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	28	subj	_	Gloss=3Masc
-28	nàː	nàː	AUX	_	Copula=Yes	17	comp	_	Gloss=be.Pred|wordform=yanàː
+28	nàː	nàː	AUX	_	ExtPos=PART	17	comp	_	Gloss=be.Pred|wordform=yanàː
 29	dà	dà	ADP	_	_	28	comp:pred	_	Gloss=with
 30	ƙwaːyoːyi	ƙwàːyaː	NOUN	_	Number=Plur	29	comp	_	Gloss=virus.Plur|wordform=ƙwaːyoːyin
 31	-n	na	PART	_	Case=Gen|PartType=Case	30	mod/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
@@ -170,7 +170,7 @@
 21	namijì	namijì	NOUN	_	Gender=Masc	19	conj:coord	_	Gloss=man.Masc
 22	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 23	ta	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	24	subj	_	Gloss=3Fem
-24	nàː	nàː	AUX	_	Copula=Yes	0	root	_	Gloss=be.Pred|wordform=tanàː
+24	nàː	nàː	AUX	_	ExtPos=PART	0	root	_	Gloss=be.Pred|wordform=tanàː
 25	dà	dà	ADP	_	_	24	comp:pred	_	Gloss=with
 26	haɗàriː	haɗàriː	NOUN	_	Gender=Masc	25	comp	_	Gloss=danger.Masc
 27	.	.	PUNCT	_	_	24	punct	_	Gloss=PUNCT
@@ -364,7 +364,7 @@
 2	ꞌyàːꞌyàː	ꞌyàːꞌyàː	ADV	_	PronType=Int	0	root	_	Gloss=how
 3	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	5	subj	_	Gloss=thing.Masc.Def
 4	ya	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	5	subj	_	Gloss=3Masc
-5	kè	nàː	AUX	_	Copula=Yes	2	comp:cleft	_	ClauseType=Int|Gloss=bePred.Rel2|Relative=Variante
+5	kè	nàː	AUX	_	ExtPos=PART|Mood=Rel	2	comp:cleft	_	ClauseType=Int|Gloss=Prog.Rel
 6	à	à	ADP	_	_	5	mod	_	Gloss=at
 7	ƙasa	ƙasaː	NOUN	_	Gender=Fem	6	comp	_	Gloss=country.Fem|wordform=ƙasar̃
 8	-r̃	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	7	mod/m	_	Gloss=Gen.Fem|SpacesBefore=No
@@ -542,7 +542,7 @@
 42	koː	koː	SCONJ	_	ExtPos=SCONJ	29	mod	_	Gloss=even_if|Idiom=Yes
 43	dà	dà	SCONJ	_	_	42	comp	_	Gloss=COMP|InIdiom=Yes
 44	ya	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	45	subj	_	Gloss=3Masc|InIdiom=Yes
-45	kè	nàː	AUX	_	Copula=Yes	43	comp	_	Gloss=bePred.Rel2|InIdiom=Yes|Relative=Variante
+45	kè	nàː	AUX	_	ExtPos=PART|Mood=Rel	43	comp	_	Gloss=Prog.Rel|InIdiom=Yes
 46	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	47	subj/m	_	Gloss=3Masc|SpacesAfter=No
 47	aː	aː	AUX	_	Aspect=Perf|Number=Sing	42	comp	_	Gloss=Perf.Sing|wordform=yaː
 48	cêː	cêː	VERB	_	_	47	comp:aux	_	Gloss=say
