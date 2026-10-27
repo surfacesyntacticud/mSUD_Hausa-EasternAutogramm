@@ -447,7 +447,7 @@
 13	dàɓeː	dàɓeː	NOUN	_	Gender=Masc	12	comp	_	Gloss=floor.Masc
 14	sabòːdà	sabòːdà	SCONJ	_	_	7	mod	_	Gloss=because
 15	baː	bâː	AUX	_	Aspect=Prog|PartType=Pred|Polarity=Neg	14	comp	_	Gloss=Neg.Prog|wordform=baː'àː
-16	-àː	a	PRON	_	Person=4|PronType=ProSubj	15	subj/m	_	Gloss=-4|SpacesBefore=No
+16	àː	a	PRON	_	Person=4|PronType=ProSubj	15	subj	_	Gloss=-4|SpacesBefore=No|wordform=-àː
 17	baː	baː	VERB	_	_	15	comp:aux	_	Gloss=give
 18	-sù	-su	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	17	comp:obj@R/m	_	Gloss=-3Plur.Acc|SpacesBefore=No|wordform=sù
 19	bar̃gunàː	bar̃gò̩	NOUN	_	Number=Plur	17	comp:obj@T	_	Gloss=blanket.Plur
@@ -455,7 +455,7 @@
 21	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	23	dislocated@subj	_	Gloss=3Plur.Nom
 22	kuma	kuma	PART	_	PartType=Top	21	discourse@top	_	Gloss=also
 23	baː	bâː	AUX	_	Aspect=Prog|PartType=Pred|Polarity=Neg	15	conj:coord	_	Gloss=Neg.Prog|wordform=baːsàː
-24	-sàː	su	PRON	_	Number=Plur|Person=3|PronType=ProSubj	23	subj/m	_	Gloss=-3Plur|SpacesBefore=No
+24	sàː	su	PRON	_	Number=Plur|Person=3|PronType=ProSubj	23	subj	_	Gloss=-3Plur|SpacesBefore=No|wordform=-sàː
 25	iyà	iy-	VERB	_	_	23	comp:aux	_	Gloss=be_able_to
 26	sàyeː	say-	VERB	_	_	25	comp:obj	_	Gloss=buy
 27	dà	dà	ADP	_	_	26	mod	_	Gloss=with

@@ -399,7 +399,7 @@
 4	ɗîn	ɗin	DET	_	Definite=Def	2	det	_	Gloss=Def
 5	samsam	samsan	IDEO	_	_	6	mod	_	Gloss=absolutely
 6	baː	bâː	AUX	_	Aspect=Prog|PartType=Pred|Polarity=Neg	0	root	_	Gloss=Neg.Prog|wordform=baːsàː
-7	-sàː	su	PRON	_	Number=Plur|Person=3|PronType=Prs	6	subj/m	_	Gloss=-3Plur|SpacesBefore=No
+7	sàː	su	PRON	_	Number=Plur|Person=3|PronType=Prs	6	subj	_	Gloss=-3Plur|SpacesBefore=No|wordform=-sàː
 8	sô	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:aux	_	Compound=Yes|Gloss=want.Vnoun.Masc.|wordform=sôn
 9	-n	na	PART	_	Case=Gen|PartType=Case	8	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 10	a-	a	PRON	_	Person=4|PronType=ProSubj	11	subj/m	_	Gloss=4|SpacesAfter=No

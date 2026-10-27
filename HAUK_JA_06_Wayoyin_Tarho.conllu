@@ -113,7 +113,7 @@
 18	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
 19	har̃	har̃	SCONJ	_	_	13	mod	_	Gloss=so_much_so_that
 20	baː	bâː	AUX	_	Aspect=Prog|PartType=Pred|Polarity=Neg	19	comp	_	Gloss=Neg.Prog|wordform=kàː
-21	-kàː	ka	PRON	_	Gender=Masc|Person=2|PronType=ProSubj	20	subj/m	_	Gloss=-2Masc|SpacesBefore=No
+21	kàː	ka	PRON	_	Gender=Masc|Person=2|PronType=ProSubj	20	subj	_	Gloss=-2Masc|SpacesBefore=No|wordform=-kàː
 22	iyà	iy-	VERB	_	_	20	comp:aux	_	Gloss=be_able_to
 23	jî	ji	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	22	comp:obj	_	Gloss=hear.Vnoun.Masc|wordform=jîn
 24	-n	na	PART	_	Case=Gen|PartType=Case	23	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
@@ -493,7 +493,7 @@
 17	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
 18	kuma	kuma	CCONJ	_	_	19	cc	_	Gloss=also
 19	baː	bâː	AUX	_	Aspect=Prog|PartType=Pred|Polarity=Neg	14	conj:coord	_	Gloss=Neg.Prog|wordform=baː'àː
-20	-àː	a	PRON	_	Person=4|PronType=ProSubj	19	subj/m	_	Gloss=-4|SpacesBefore=No
+20	àː	a	PRON	_	Person=4|PronType=ProSubj	19	subj	_	Gloss=-4|SpacesBefore=No|wordform=-àː
 21	jî	ji	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	19	comp:aux	_	Gloss=hear.Vnoun.Masc|wordform=jîn
 22	-n	na	PART	_	Case=Gen|PartType=Case	21	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 23	màganàr̃	màganàː	NOUN	_	Definite=Def|Gender=Fem	22	comp	_	Gloss=speech.Fem.Def

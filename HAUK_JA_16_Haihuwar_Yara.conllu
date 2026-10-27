@@ -344,9 +344,9 @@
 59	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
 # sent_id = 16_Aihuwar_Yara_9
-# text_en = Up till now, some women die because of lack of car to take them to the hospital when the labour pains start, or because at that time, their husband is not there, or even if he is there, he did not give the permission to take the woman to the hospital.
-# text_ortho = Har̃ ìlaː yâu wasu maːtân sunàː mutuwàː neː sabòːdà rashìn moːtàr̃ dà zaːtà kai sù asìbitì loːkàcîn dà naːƙudàː ta kaːmàː su, koː kuma à loːkàcîn màigida baːyàː nan, koː kuma koː dàː yanàː nan bài baː dà izìniː à kai màːtâr̃ asìbitì ba.
 # text = har̃ ìlaː yâu wasu maːtân su-nàː mutuwàː neː sabòːdà rashì-n moːtàr̃ dà zaː-tà= kai -sù asìbitì loːkàcîn dà naːƙudàː ta= kaːmàː -su, koː kuma à loːkàcîn màigida baː-yàː nan, koː kuma koː dàː ya-nàː nan bà-ì=baː dà izìniː a-_̀= kai màːtâr̃ asìbitì ba.
+# text_en = Up till now, some women die because of lack of car to take them to the hospital when the labour pains start, or because at that time, their husband is not there, or even if he is there, he did not give the permission to take the woman to the hospital.
+# text_ortho = Har̃ ìlaː yâu wasu maːtân sunàː mutuwàː neː sabòːdà rashìn moːtàr̃ dà zaːtà kai sù asìbitì loːkàcîn dà naːƙudàː ta kaːmàː su, koː kuma à loːkàcîn màigida baː yàː nan, koː kuma koː dàː yanàː nan bài baː dà izìniː à kai màːtâr̃ asìbitì ba.
 1	har̃	har̃	ADP	_	ExtPos=ADV	7	mod	_	Gloss=up_to|Idiom=Yes
 2	ìlaː	ìlaː	X	_	Foreign=Yes	1	unk	_	Gloss=X|InIdiom=Yes|Lang=ar
 3	yâu	yâu	ADV	_	_	2	unk	_	Gloss=today|InIdiom=Yes

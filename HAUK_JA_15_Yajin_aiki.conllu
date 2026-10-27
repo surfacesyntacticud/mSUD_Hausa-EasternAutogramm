@@ -576,7 +576,7 @@
 14	-n	na	PART	_	Case=Gen|PartType=Case	13	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 15	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	14	comp	_	Gloss=3Plur.Gen|SpacesBefore=No
 16	baː	bâː	AUX	_	Aspect=Prog|PartType=Pred|Polarity=Neg	12	comp	_	Gloss=Neg.Prog|wordform=baːtàː
-17	-tàː	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	16	subj/m	_	Gloss=-3Fem|SpacesBefore=No
+17	tàː	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	16	subj	_	Gloss=-3Fem|SpacesBefore=No|wordform=-tàː
 18	ƙaddamar̃	ƙaddam-	VERB	_	Voice=Cau	16	comp:aux	_	Gloss=implement.Cau
 19	dà	dà	ADP	_	_	18	comp:obl	_	Gloss=with
 20	sàuye-sàuyên	sauyìː	NOUN	_	Definite=Def|Number=Plur	19	comp	_	Gloss=change.Plur.Def
@@ -841,7 +841,7 @@
 # sent_id = 15_Yajin_aiki_21
 # text_en = They were complaining that their government has given the preference to foreign workers, i.e. workers from Nigeria, Togo and Benin Republic.
 # text_ortho = Suː kùwa sun yi kuːkan cêːwaː gwamnatìn taːsù tanàː bâi wà ma'àikàtaː 'yan ƙasàːshen wàje fiːfiːkòː, wàːtòː ma'àikàtaː dàgà Nàːjeːr̃iyàː dà To :gò dà Jàmhuːr̃iyàr̃ Bìːni.
-# text = suː kùwa sun yi kuːkan cêːwaː gwamnatìn taːsù tanàː bâi wà ma'àikàtaː 'yan ƙasàːshen wàje fiːfiːkòː, wàːtòː ma'àikàtaː dàgà Nàːjeːr̃iyàː dà Toːgò dà Jàmhuːr̃iyàr̃ Bìːni.
+# text = suː kùwa su- n yi kuːka -n cêːwaː gwamnatìn taːsù ta- nàː bâi wà ma'àikàtaː 'ya -n ƙasàːshe -n wàje fiːfiːkòː , wàːtòː ma'àikàtaː dàgà Nàːjeːr̃iyàː dà Toːgò dà Jàmhuːr̃iyà -r̃ Bìːni .
 1	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	dislocated@subj	_	Gloss=3Plur.Nom
 2	kùwa	kùwa	PART	_	PartType=Top	1	discourse@top	_	Gloss=in_fact
 3	su-	su	PRON	_	Number=Plur|Person=3|PronType=ProSubj	4	subj/m	_	Gloss=3Plur|SpacesAfter=No
@@ -854,7 +854,7 @@
 10	taːsù	taːsù	PRON	_	Case=Gen|Gender=Fem|PronType=Prs	9	mod@poss	_	CaseAf=Gen|Gloss=Gen.Fem-3PlurGen|MSeg=taː-sù|NumberAf=Plur|PersonAf=3|wordform=taː
 11	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	12	subj/m	_	Gloss=3Fem|SpacesAfter=No
 12	nàː	nàː	AUX	_	Aspect=Prog	8	comp	_	Gloss=Prog|wordform=ta-
-13	bâi	bâː	VERB	_	_	12	comp:aux	_	Gloss=give
+13	bâi	baːy-	VERB	_	_	12	comp:aux	_	Gloss=give.Cau
 14	wà	mà	ADP	_	Case=Dat	13	comp:obl	_	Gloss=Dat
 15	ma'àikàtaː	ma'àikàciː	NOUN	_	Number=Plur	14	comp	_	Gloss=worker.Plur
 16	'ya	ɗaː	NOUN	_	Number=Plur	15	mod	_	Compound=Yes|Gloss=child.Plur|wordform='yan

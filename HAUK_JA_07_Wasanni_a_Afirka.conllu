@@ -171,7 +171,7 @@
 4	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	1	mod	_	Gloss=Gen.Fem
 5	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	4	comp	_	Gloss=Nigeria
 6	baː	bâː	AUX	_	Aspect=Prog|PartType=Pred|Polarity=Neg	0	root	_	Gloss=Neg.Prog|wordform=tàː
-7	-tàː	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	6	subj/m	_	Gloss=-3Fem|SpacesBefore=No
+7	tàː	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	6	subj	_	Gloss=-3Fem|SpacesBefore=No|wordform=-tàː
 8	sôː	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:aux	_	Gloss=want.Vnoun.Masc
 9	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	10	subj/m	_	Gloss=3Fem|SpacesAfter=No
 10	_̀	_̀	AUX	_	Mood=Sub	8	comp:obj	_	Gloss=Sub|wordform=tà
