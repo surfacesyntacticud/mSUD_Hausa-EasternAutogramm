@@ -349,7 +349,7 @@
 31	asìbitì	asìbitì	NOUN	_	Gender=Masc	28	comp	_	Gloss=hospital.Masc
 32	su	su	PRON	_	Number=Plur|Person=3|PronType=Prs	33	subj	_	Gloss=3Plur
 33	nàː	nàː	AUX	_	Aspect=Prog|Number=Plur	18	comp	_	Gloss=be.Pred/Loc|wordform=sunàː
-34	ɗàuke	ɗauk-	VERB	_	ExtPos=ADV|VerbForm=Part	33	comp:pred	_	Gloss=take.Part
+34	ɗàuke	ɗauk-	VERB	_	ExtPos=ADV|VerbForm=Part	33	comp:aux	_	Gloss=take.Part
 35	dà	dà	ADP	_	_	34	comp:obl	_	Gloss=with
 36	ƙwaːyoːyi	ƙwàːyaː	NOUN	_	Number=Plur	35	comp	_	Compound=Yes|Gloss=virus.Plur|wordform=ƙwaːyoːyin
 37	-n	na	PART	_	Case=Gen|PartType=Case	36	udep/m	_	Gloss=Gen.Fem|SpacesBefore=No
@@ -392,7 +392,7 @@
 15	mutàːnên	mùtûm	NOUN	_	Definite=Def|Number=Plur	14	comp	_	Gloss=people.Plur.Def|RelAnt=Yes
 16	dà	dà	SCONJ	_	_	15	mod@relcl	_	Gloss=CompRel|Relz=Word
 17	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	16	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
-18	ɗàuke	ɗauk-	VERB	_	ExtPos=ADV|VerbForm=Part	17	comp:pred	_	Gloss=take.Part
+18	ɗàuke	ɗauk-	VERB	_	ExtPos=ADV|VerbForm=Part	17	comp:aux	_	Gloss=take.Part
 19	dà	dà	CCONJ	_	_	18	comp:obl	_	Gloss=and
 20	ƙwaːyoːyi	ƙwàːyaː	NOUN	_	Number=Plur	19	comp:obj	_	Compound=Yes|Gloss=virus.Plur|wordform=ƙwaːyoːyin
 21	-n	na	PART	_	Case=Gen|PartType=Case	20	udep/m	_	Gloss=Gen.Fem|SpacesBefore=No

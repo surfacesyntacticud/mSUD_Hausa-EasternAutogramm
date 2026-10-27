@@ -492,7 +492,7 @@
 15	-n	na	PART	_	Case=Gen|PartType=Case	14	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 16	wàɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	15	comp	_	Gloss=Pron.Plur.Rel|RelAnt=Yes|Relz=Word|wordform=wadandal
 17	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	16	mod@relcl	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj
-18	ɗàuke	ɗauk-	VERB	_	ExtPos=ADV|VerbForm=Part	17	comp:pred	_	Gloss=take.Part
+18	ɗàuke	ɗauk-	VERB	_	ExtPos=ADV|VerbForm=Part	17	comp:aux	_	Gloss=take.Part
 19	dà	dà	CCONJ	_	_	18	comp:obl	_	Gloss=and|wordform=da
 20	ƙwaːyoːyîn	ƙwàːyaː	NOUN	_	Definite=Def|Number=Plur	19	comp:obj	_	Gloss=drug.Plur.Def
 21	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT

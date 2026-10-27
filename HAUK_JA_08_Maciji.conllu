@@ -359,7 +359,7 @@
 7	mutàːnên	mùtûm	NOUN	_	Definite=Def|Number=Plur	6	comp	_	Gloss=people.Plur.Def|RelAnt=Yes
 8	dà	dà	SCONJ	_	_	7	mod@relcl	_	Gloss=CompRel|Relz=Word
 9	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	8	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|Relz=Affix
-10	zàune	zaun-	VERB	_	ExtPos=ADV|VerbForm=Part	9	comp:pred	_	Gloss=stay.Part
+10	zàune	zaun-	VERB	_	ExtPos=ADV|VerbForm=Part	9	comp:aux	_	Gloss=stay.Part
 11	à	à	ADP	_	_	10	comp:obl	_	Gloss=at
 12	yankìn	yankìː	NOUN	_	Definite=Def|Gender=Masc	11	comp	_	Gloss=area.Masc.Def
 13	dà	dà	SCONJ	_	_	5	comp:obl	_	Gloss=COMP

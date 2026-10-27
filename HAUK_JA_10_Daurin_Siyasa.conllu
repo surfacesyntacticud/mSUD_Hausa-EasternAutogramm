@@ -407,7 +407,7 @@
 # sent_id = 10_Daurin_Siyasa_11
 # text_en = Him, the man who was imprisoned, said he knows one hundred an fifty five people that have been jailed just in Lagos.
 # text_ortho = Shiː mùtumìn dà akà ɗaurèː yaː cêː yanàː sàːne dà mutàːneː ɗàriː dà tàlàːtin dà bìyar̃ dà akè tsàre dà suː à bir̃nin Ìkko kawai;
-# text = shiː mùtumìn dà a-kà= ɗaurèː y-aː= cêː ya-nàː sàːne dà mutàːneː ɗàriː dà tàlàːtin dà bìyar̃ dà a kè tsàre dà suː à bir̃ni-n Ìkko kawai;
+# text = shiː mùtumìn dà a- kà ɗaurèː y- aː cêː ya- nàː sàːne dà mutàːneː ɗàriː dà tàlàːtin dà bìyar̃ dà a kè tsàre dà suː à bir̃ni -n Ìkko kawai ;
 1	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	8	dislocated@subj	_	Gloss=3Masc.Nom
 2	mùtumìn	mùtûm	NOUN	_	Definite=Def|Gender=Masc	1	conj:appos	_	Gloss=person.Masc.Def|RelAnt=Yes
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=CompRel|Relz=Word|wordform=da
@@ -418,8 +418,8 @@
 8	aː	aː	AUX	_	Aspect=Perf|Number=Sing	0	root	_	Gloss=Perf.Sing|wordform=yaː
 9	cêː	cêː	VERB	_	_	8	comp:aux	_	Gloss=say
 10	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	11	subj/m	_	Gloss=3Masc|SpacesAfter=No
-11	nàː	nàː	AUX	_	Copula=Yes	9	comp:obj	_	Gloss=be|wordform=ya-
-12	sàːne	sanìː	VERB	_	ExtPos=ADV|VerbForm=Part	11	comp:pred	_	Gloss=know.Stat
+11	nàː	nàː	AUX	_	Aspect=Prog	9	comp:obj	_	Gloss=Prog|wordform=ya-
+12	sàːne	sanìː	VERB	_	ExtPos=ADV|VerbForm=Part	11	comp:aux	_	Gloss=know.Stat
 13	dà	dà	ADP	_	_	12	comp:obl	_	Gloss=with
 14	mutàːneː	mùtûm	NOUN	_	Number=Plur	13	comp	_	Gloss=people.Plur|RelAnt=Yes
 15	ɗàriː	ɗàriː	NUM	_	_	14	mod:num	_	Gloss=hundred

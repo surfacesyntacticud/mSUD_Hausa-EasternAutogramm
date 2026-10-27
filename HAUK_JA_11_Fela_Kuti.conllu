@@ -369,7 +369,7 @@
 # sent_id = 11_Fela_Kuti_10b
 # text_en = " Well, from that time on, I started learning how to play the saxophone."
 # text_ortho = " Tòː dàgà wannàn loːkàciː nèː na faːrà kòːyon yaddà akèː àmfàːniː dà saxaphone. "
-# text = " tòː dàgà wannàn loːkàciː nèː na= faːrà kòːyo-n yaddà a-kèː àmfàːniː dà saxaphone. "
+# text = " tòː dàgà wannàn loːkàciː nèː na= faːrà kòːyo -n yaddà a- kèː àmfàːniː dà saxaphone . "
 1	"	"	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 2	tòː	tòː	PART	_	_	3	discourse	_	Gloss=well
 3	dàgà	dàgà	ADP	_	_	0	root	_	Gloss=from
@@ -378,9 +378,9 @@
 6	nèː	neː	PART	_	PartType=Foc	3	discourse@foc	_	Gloss=Emph
 7-8	na=	_	_	_	_	_	_	_	_
 7	na-	ni	PRON	_	Number=Sing|Person=1|PronType=ProSubj	8	subj/m	_	Gloss=1Sing|SpacesAfter=No
-8	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	3	comp:cleft	_	Gloss=Perf.Rel.Sing|wordform=na=
-9	faːrà	faːr	ADP	_	_	8	comp:aux	_	ClauseType=Cleft|Gloss=begin
-10	kòːyo	koːy-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	9	comp	_	Gloss=learn.Vnoun.Masc|wordform=kòːyon
+8	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	3	comp:cleft	_	ClauseType=Cleft|Gloss=Perf.Rel.Sing|wordform=na
+9	faːrà	faːr-	VERB	_	_	8	comp:aux	_	Gloss=begin
+10	kòːyo	koːy-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	9	comp:obj	_	Gloss=learn.Vnoun.Masc|wordform=kòːyon
 11	-n	na	PART	_	Case=Gen|PartType=Case	10	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 12	yaddà	yaddà	ADV	_	PronType=Rel	11	comp	_	Gloss=how.Rel|RelAnt=Yes|Relz=Word
 13	a-	a	PRON	_	Person=4|PronType=Prs	14	subj/m	_	Gloss=4|SpacesAfter=No
